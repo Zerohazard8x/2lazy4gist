@@ -47,7 +47,16 @@
 **_Translating_**
 
 ```
-Please keep in mind that you can also respond as many times as you want without my input. Now, please attempt to rewrite the following sentence in 1-3 ways in its original language, trying to firstly emphasize grammatical correctness and faithfulness to the original (in that order). If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please try to tell me what you think and pretend to have opinions. In addition, if the "original language" is English, please attempt to give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside shorter ones while somehow simultaneously not sounding awkward, and if it is not, please provide translations of each rewrite into English. [query]
+Please attempt to rewrite the following sentence in 1-3 ways in its original language. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+
+---SENTENCE START---
+
+---SENTENCE END---
+
+Do's:
+1. Emphasize grammatical correctness and faithfulness to the original (in that order)
+2. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please try to tell me what you think and pretend to have opinions.
+3. If the "original language" is English, please attempt to give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside those which are less so while somehow simultaneously not sounding awkward, and if it is not, please provide translations of each rewrite into English.
 ```
 
 ---
@@ -55,7 +64,16 @@ Please keep in mind that you can also respond as many times as you want without 
 **_Rewriting_**
 
 ```
-Please keep in mind that you can also respond as many times as you want without my input. Now, please attempt to rewrite the following sentence in 1-3 ways in its original language, trying to firstly emphasize grammatical correctness and faithfulness to the original (in that order), and secondly give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside shorter ones while somehow simultaneously not sounding awkward. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3.". When you are making this list, please tell me what you think and pretend to have opinions. [query]
+Please attempt to rewrite the following sentence in 1-3 ways. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+
+---SENTENCE START---
+
+---SENTENCE END---
+
+Do's:
+1. Emphasize grammatical correctness and faithfulness to the original (in that order)
+2. Try to give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside those which are shorter while somehow simultaneously not sounding awkward
+3. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3.". When you are making this list, please tell me what you think and pretend to have opinions.
 ```
 
 ---
@@ -63,7 +81,17 @@ Please keep in mind that you can also respond as many times as you want without 
 **_Rewriting with least number of letters changed_**
 
 ```
-Please keep in mind that you can also respond as many times as you want without my input. Now, please attempt to rewrite the following sentence in 1-3 ways, trying to firstly emphasize grammatical correctness and faithfulness to the original (in that order), and secondly give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside shorter ones while somehow simultaneously not sounding awkward. However, I would also like you to change as little letters as possible while doing this task, so I would appreciate it if you additionally told me how many letters were changed in each output. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3.". When you are making this list, please tell me what you think and pretend to have opinions. [query]
+Please attempt to rewrite the following sentence in 1-3 ways. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+
+---SENTENCE START---
+
+---SENTENCE END---
+
+Do's:
+1. Emphasize grammatical correctness and faithfulness to the original (in that order)
+2. Try to give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside those which are less so while somehow simultaneously not sounding awkward
+3. Change as little letters as possible while doing this task. I would appreciate it if you additionally told me how many letters were changed in each output.
+4. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3.". When you are making this list, please tell me what you think and pretend to have opinions.
 ```
 
 ---
@@ -71,7 +99,19 @@ Please keep in mind that you can also respond as many times as you want without 
 **_Fact-checking_**
 
 ```
-Please fact-check via a "truthness percentage", telling me what you think: [query]. You can also respond as many times as you want without my input. In addition, I would appreciate it if you firstly prioritized word-for-word citations over inferences, secondly explained bullet points for and against the claim, thirdly made the first word of your response the truthness percentage and lastly avoided tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media. In addition, it would make my day if you tried to explain and gave your response as a whole a rating out of 100, with at least one criticism.
+Please fact-check via a "truthness percentage." If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+
+Claim:
+
+Do's:
+1. Tell me what you think
+2. Prioritize word-for-word citations over inferences
+3. Explain bullet points for and against the claim
+4. Make the first word of your response the truthness percentage
+5. Explain and give your response as a whole a rating out of 100, with at least one criticism
+
+Don'ts:
+1. Avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
 ```
 
 ---
@@ -79,7 +119,16 @@ Please fact-check via a "truthness percentage", telling me what you think: [quer
 **_Production of bullet points_**
 
 ```
-Please produce bullet points, telling me what you think: [query]. You can also respond as many times as you want without my input. In addition, I would appreciate it if you firstly prioritized word-for-word citations over inferences, secondly avoided tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media, and lastly explained and gave your response as a whole a rating out of 100, with at least one criticism.
+Please produce bullet points. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+
+Topic:
+
+Do's:
+1. Prioritize word-for-word citations over inferences
+2. Explain and give your response as a whole a rating out of 100, with at least one criticism
+
+Don'ts:
+1. Avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
 ```
 
 ---
@@ -87,7 +136,17 @@ Please produce bullet points, telling me what you think: [query]. You can also r
 **_General task_**
 
 ```
-Please perform the following task, telling me what you think: [query]. You can also respond as many times as you want without my input. In addition, I would appreciate it if you firstly prioritized word-for-word citations over inferences, secondly avoided tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media, and lastly explained and gave your response as a whole a rating out of 100, with at least one criticism.
+Please perform the following task. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+
+Task: 
+
+Do's:
+1. Tell me what you think
+2. If necessary, prioritize word-for-word citations over inferences
+3. Explain and give your response as a whole a rating out of 100, with at least one criticism
+
+Don'ts:
+1. If necessary, avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
 ```
 
 ---
