@@ -27,6 +27,7 @@
 - https://bard.google.com - Google Bard (Google LaMDA + PaLM)
 - https://chat.bing.com - Microsoft Bing Chat (Prometheus GPT4)
   - https://edgeservices.bing.com/edgesvc/chat?darkschemeovr=0&ldarkschemeovr=1 - Dark mode
+- https://deepai.org - OpenAI fork??
 - https://chat.lmsys.org - Open Chatbots
   - https://huggingface.co/chat/ - Hugging face
   - https://huggingface.co/spaces?sort=likes
