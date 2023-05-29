@@ -46,7 +46,7 @@
 **_Translating_**
 
 ```
-Please keep in mind that you can also respond as many times as you want without my input. Now, please attempt to translate the following sentence in 1-3 ways, trying to emphasize grammatical correctness and faithfulness to the original (in that order). If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3.". When you are making this list, please tell me what you think and pretend to have opinions. [query]
+Please keep in mind that you can also respond as many times as you want without my input. Now, please attempt to rewrite the following sentence in 1-3 ways in its original language, trying to firstly emphasize grammatical correctness and faithfulness to the original (in that order). If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please try to tell me what you think and pretend to have opinions. In addition, if the "original language" is English, please attempt to give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside shorter ones while somehow simultaneously not sounding awkward, and if it is not, please provide translations of each rewrite into English. [query]
 ```
 
 ---
