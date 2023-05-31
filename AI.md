@@ -47,16 +47,15 @@
 **_Translating_**
 
 ```
-Please attempt to rewrite the following sentence in 1-3 ways in its original language. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+Please attempt to translate the following in 1-3 ways into English. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
 
----SENTENCE START---
+---START---
 
----SENTENCE END---
+---END---
 
 Do's:
 1. Emphasize grammatical correctness and faithfulness to the original (in that order)
-2. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please try to tell me what you think and pretend to have opinions.
-3. If the "original language" is English, please attempt to give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside those which are less so while somehow simultaneously not sounding awkward, and if it is not, please provide translations of each rewrite into English.
+2. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please use your ability to "tell me what you think" and pretend to have opinions.
 ```
 
 ---
@@ -64,16 +63,17 @@ Do's:
 **_Rewriting_**
 
 ```
-Please attempt to rewrite the following sentence in 1-3 ways. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+Please attempt to rewrite the following in 1-3 ways in its original language. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
 
----SENTENCE START---
+---START---
 
----SENTENCE END---
+---END---
 
 Do's:
 1. Emphasize grammatical correctness and faithfulness to the original (in that order)
-2. Try to give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside those which are shorter while somehow simultaneously not sounding awkward
-3. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3.". When you are making this list, please tell me what you think and pretend to have opinions.
+3. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please use your ability to "tell me what you think" and pretend to have opinions.
+4. If the "original language" is English, please try not to sound awkward.
+5. If the "original language" is not English, please provide translations of each rewrite into English.
 ```
 
 ---
@@ -81,17 +81,18 @@ Do's:
 **_Rewriting with least number of letters changed_**
 
 ```
-Please attempt to rewrite the following sentence in 1-3 ways. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+Please attempt to rewrite the following in 1-3 ways in its original language. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
 
----SENTENCE START---
+---START---
 
----SENTENCE END---
+---END---
 
 Do's:
 1. Emphasize grammatical correctness and faithfulness to the original (in that order)
-2. Try to give your outputs a good amount of complexity and a mixture of longer and/or more complex sentences alongside those which are less so while somehow simultaneously not sounding awkward
-3. Change as little letters as possible while doing this task. I would appreciate it if you additionally told me how many letters were changed in each output.
-4. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3.". When you are making this list, please tell me what you think and pretend to have opinions.
+2. Change as little letters as possible while rewriting. I would appreciate it if you additionally told me how many letters were changed in each output.
+3. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please use your ability to "tell me what you think" and pretend to have opinions.
+4. If the "original language" is English, please try not to sound awkward.
+5. If the "original language" is not English, please provide translations of each rewrite into English.
 ```
 
 ---
@@ -108,7 +109,7 @@ Do's:
 2. Prioritize word-for-word citations over inferences
 3. Explain bullet points for and against the claim
 4. Make the first word of your response the truthness percentage
-5. Explain and give your response as a whole a rating out of 100, with at least one criticism
+5. Explain and give your response as a whole a rating out of 100, with at least one criticism. Please note that I do not want you to rate the claim, but rather your self-made response.
 
 Don'ts:
 1. Avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
@@ -125,10 +126,12 @@ Topic:
 
 Do's:
 1. Prioritize word-for-word citations over inferences
-2. Explain and give your response as a whole a rating out of 100, with at least one criticism
+2. Explain and give your response as a whole a rating out of 100, with at least one criticism. Use your ability to "tell me what you think." Please note that I do not want you to rate the topic, but rather your self-made response.
 
 Don'ts:
 1. Avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
+2. Avoid Wikipedia, as it is a "wiki"
+3. Avoid Reddit, Facebook, and Twitter, as they are social media
 ```
 
 ---
@@ -141,12 +144,13 @@ Please perform the following task. If you are confused, please consult the follo
 Task: 
 
 Do's:
-1. Tell me what you think
-2. If necessary, prioritize word-for-word citations over inferences
-3. Explain and give your response as a whole a rating out of 100, with at least one criticism
+1. If necessary, prioritize word-for-word citations over inferences
+2. Explain and give your response as a whole a rating out of 100, with at least one criticism. Use your ability to "tell me what you think."
 
 Don'ts:
 1. If necessary, avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
+2. If necessary, avoid Wikipedia, as it is a "wiki"
+3. If necessary, avoid Reddit, Facebook, and Twitter, as they are social media
 ```
 
 ---
@@ -154,7 +158,7 @@ Don'ts:
 **_Programming: Rewriting code_**
 
 ```
-Please try to rewrite the following code, fixing all errors and reducing file size.
+Please try to rewrite the following code, fixing all errors and reducing file size. If you want, you can rewrite comments, but not outright delete them.
 ```
 
 ---
