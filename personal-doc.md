@@ -13,6 +13,7 @@ https://changetower.com - Check for changes<br>
 https://clipchamp.com/ - Online video editor<br>
 https://convertio.co/ - Conversions<br>
 https://digitaltallycounter.com - Tally counter<br>
+https://fontgauntlet.com/ - Explore .ttf/.otf
 https://guitar-tuner.org - Guitar tuner<br>
 https://imgbb.com - Image to URL<br>
 https://itilog.com/en/where-am-i - GPS coordinates<br>
