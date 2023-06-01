@@ -5,6 +5,7 @@ Google "[barcode number w/o letters]" - Lookup barcode no.'s
 
 ---
 
+https://arachnoid.com/latex/ - LaTeX editor <br>
 https://archive.org/web - Bypass paywalls<br>
 https://3daimtrainer.com - FPS Aim trainer<br>
 https://app.standardnotes.com/ - Online notes<br>
