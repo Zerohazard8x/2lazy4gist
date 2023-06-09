@@ -168,3 +168,22 @@ Please try to rewrite the following code, fixing all errors and reducing file si
 ```
 Please try to find errors in the following code, and then create a numbered list containing the solutions to said errors. When you show the solutions in the numbered list, please try to use code blocks as visual aids.
 ```
+
+---
+
+**_Programming: Code to algorithm_**
+
+```
+I would like you to convert code into an algorithm. Below is an example of what I would like you to output. I will provide the code shortly.
+
+--- SAMPLE OUTPUT START ---
+1. Define function norm with arguments “num1” and list “nums”
+    a. If num1 is not an integer or a float, raise a ValueError
+    b. If any x in nums is not an integer or a float, raise a ValueError
+    c. If a ValueError was raised in a. and b., return “An input is not a valid number”
+    d. Import “sqrt” from library “math”
+    e. Initialize “incVar” as the square of num1
+    f. For all x in nums: Increment incVar with the square of each x
+    g. Return the square root of incVar, rounded to two decimal places
+--- SAMPLE OUTPUT END ---
+```
