@@ -1,7 +1,9 @@
 # **_Websites - Legal_**
 
 **_Web utils_** <br>
-Google "[barcode number w/o letters]" - Lookup barcode no.'s
+Google/Bing/DuckDuckGo "[barcode number w/o letters]" - Lookup barcode no.'s <br>
+
+https://www.bing.com/search?q=Bing+AI&mkt=en-US&setlang=en-us&adlt=off - Bing URL that turns off SafeSearch + sets region and language
 
 ---
 
