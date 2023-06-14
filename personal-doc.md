@@ -35,6 +35,11 @@ https://webwhiteboard.com/ - Web whiteboard
 
 ---
 
+https://www.derivative-calculator.net<br>
+https://www.integral-calculator.com
+
+---
+
 https://keybr.com/<br>
 https://monkeytype.com/
 
@@ -46,13 +51,6 @@ https://cps-check.com/polling-rate-check - Mouse polling rate test
 
 https://nhs.uk/live-well/healthy-weight/bmi-calculator/ - BMI calculator with age 
 - https://people.maths.ox.ac.uk/trefethen/bmi_calc.html - "New" bmi calculator
-
----
-
-https://upscalerjs.com/demo - In-browser upscaler
-- https://replicate.com/jingyunliang/swinir
-- https://replicate.com/sczhou/codeformer - Face restoration
-- https://replicate.com/xinntao/realesrgan
 
 ---
 
