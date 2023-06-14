@@ -16,6 +16,10 @@
 
 **_Upscalers_**
 
+- https://upscalerjs.com/demo - In-browser upscaler
+- https://replicate.com/jingyunliang/swinir
+- https://replicate.com/sczhou/codeformer - Face restoration
+- https://replicate.com/xinntao/realesrgan
 - https://huggingface.co/spaces/Xintao/GFPGAN - GFPGAN (face)
 
 ---
@@ -44,10 +48,10 @@
 
 # All work with ChatGPT and derivatives + Bard
 
-**_Translating_**
+**_Translating - NOTE: As your second prompt, tell the LLM to apply the strategy_**
 
 ```
-Please attempt to translate the following in 1-3 ways into English. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+Please devise a strategy to translate the following in 1-3 ways, into English, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
 
@@ -63,7 +67,7 @@ Do's:
 **_Rewriting_**
 
 ```
-Please attempt to rewrite the following in 1-3 ways in its original language. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+Please devise a strategy to rewrite the following in 1-3 ways, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
 
@@ -81,7 +85,7 @@ Do's:
 **_Rewriting with least number of letters changed_**
 
 ```
-Please attempt to rewrite the following in 1-3 ways in its original language. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+Please devise a strategy to rewrite the following in 1-3 ways, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
 
@@ -100,7 +104,7 @@ Do's:
 **_Fact-checking_**
 
 ```
-Please fact-check via a "truthness percentage." If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+Please devise a strategy to fact-check the following claim, in accordance with the guidelines below said claim, and via a "truthness percentage." You can also respond as many times as you want without my input.
 
 Claim:
 
@@ -109,7 +113,6 @@ Do's:
 2. Prioritize word-for-word citations over inferences
 3. Explain bullet points for and against the claim
 4. Make the first word of your response the truthness percentage
-5. Explain and give your response as a whole a rating out of 100, with at least one criticism. Please note that I do not want you to rate the claim, but rather your self-made response.
 
 Don'ts:
 1. Avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
@@ -120,7 +123,7 @@ Don'ts:
 **_Production of bullet points_**
 
 ```
-Please produce bullet points. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+Please devise a strategy to produce bullet points about the following topic, in accordance with the guidelines below said topic. You can also respond as many times as you want without my input.
 
 Topic:
 
@@ -139,13 +142,12 @@ Don'ts:
 **_General task_**
 
 ```
-Please perform the following task. If you are confused, please consult the following guidelines. You can also respond as many times as you want without my input.
+Please devise a strategy to perform the following task, in accordance with the guidelines below said task. You can also respond as many times as you want without my input.
 
 Task: 
 
 Do's:
 1. If necessary, prioritize word-for-word citations over inferences
-2. Explain and give your response as a whole a rating out of 100, with at least one criticism. Use your ability to "tell me what you think."
 
 Don'ts:
 1. If necessary, avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
@@ -158,7 +160,19 @@ Don'ts:
 **_Programming: Rewriting code_**
 
 ```
-Please try to rewrite the following code, fixing all errors and reducing file size. If you want, you can rewrite comments, but not outright delete them.
+Please devise a strategy to rewrite the following code, in accordance with the guidelines below said code. You can also respond as many times as you want without my input.
+
+---CODE START---
+
+---CODE END---
+
+Do's
+1. Try to fix all errors
+2. Reduce file size
+
+Don'ts
+1. Don't sacrifice performance
+2. Don't delete comments, rewrite them instead
 ```
 
 ---
@@ -166,7 +180,14 @@ Please try to rewrite the following code, fixing all errors and reducing file si
 **_Programming: Finding of errors_**
 
 ```
-Please try to find errors in the following code, and then create a numbered list containing the solutions to said errors. When you show the solutions in the numbered list, please try to use code blocks as visual aids.
+Please devise a strategy to find errors in the following code and create a numbered list containing the solutions to said errors, in accordance with the guidelines below said code. You can also respond as many times as you want without my input.
+
+---CODE START---
+
+---CODE END---
+
+Do's
+1. Use code blocks as a visual aid
 ```
 
 ---
@@ -174,7 +195,7 @@ Please try to find errors in the following code, and then create a numbered list
 **_Programming: Code to algorithm_**
 
 ```
-I would like you to convert code into an algorithm. Below is an example of what I would like you to output. I will provide the code shortly.
+I would like you to devise an strategy to convert code into an algorithm. Below is an example of what I would like you to output. I will provide the code shortly.
 
 --- SAMPLE OUTPUT START ---
 1. Define function norm with arguments “num1” and list “nums”
