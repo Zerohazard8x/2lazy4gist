@@ -357,7 +357,6 @@ https://allanime.to/<br>
 https://anime.cat/<br>
 https://animeheaven.ru<br>
 https://animepahe.ru/<br>
-https://animerush.tv<br>
 https://animesuge.to/<br>
 https://gogoanime.llc<br>
 https://marin.moe/<br>
