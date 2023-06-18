@@ -377,7 +377,6 @@ https://zoro.to/
 **_Movies_**<br>
 https://lookmovie.ag<br>
 https://movieffm.net/ - Chinese<br>
-https://soap2day.ac<br>
 https://ww1.123moviesfree.site/
 
 ---
