@@ -16,7 +16,7 @@ https://changetower.com - Check for changes<br>
 https://clipchamp.com/ - Online video editor<br>
 https://convertio.co/ - Conversions<br>
 https://digitaltallycounter.com - Tally counter<br>
-https://fontgauntlet.com/ - Explore .ttf/.otf
+https://fontgauntlet.com/ - Explore .ttf/.otf<br>
 https://guitar-tuner.org - Guitar tuner<br>
 https://imgbb.com - Image to URL<br>
 https://itilog.com/en/where-am-i - GPS coordinates<br>
@@ -27,7 +27,7 @@ https://parcelsapp.com/ - Parcel tracking<br>
 https://qrcodescan.in/ - QR scanner<br>
 https://simpletouchsoftware.com/timers/tabatapro/ - Tabata timer<br>
 https://sites.google.com/site/tyroneunblockedgame/ - Online games collection <br>
-https://szynalski.com/tone-generator/ - tone generator<br>
+https://szynalski.com/tone-generator/ - tone generator/frequency player<br>
 https://textplus.com/ - VoIP<br>
 https://vclock.com - alarm clock<br>
 https://vocalremover.org - Vocal remover<br>
