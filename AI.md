@@ -113,7 +113,7 @@ Do's:
 1. Tell me what you think
 2. Prioritize word-for-word citations over inferences
 3. Explain bullet points for and against the claim
-4. Make the first word of your response the truthness percentage
+4. Make the first word of your response the accuracy percentage
 
 Don'ts:
 1. Avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
@@ -130,7 +130,6 @@ Topic:
 
 Do's:
 1. Prioritize word-for-word citations over inferences
-2. Explain and give your response as a whole a rating out of 100, with at least one criticism. Use your ability to "tell me what you think." Please note that I do not want you to rate the topic, but rather your self-made response.
 
 Don'ts:
 1. Avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
