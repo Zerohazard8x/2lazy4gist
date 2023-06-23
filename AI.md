@@ -105,7 +105,7 @@ Do's:
 **_Fact-checking_**
 
 ```
-Please devise a strategy to fact-check the following claim, in accordance with the guidelines below said claim, and via a "truthness percentage." You can also respond as many times as you want without my input.
+Please devise a strategy to fact-check the following claim, via an "accuracy percentage", and in accordance with the following guidelines. You can also respond as many times as you want without my input.
 
 Claim:
 
