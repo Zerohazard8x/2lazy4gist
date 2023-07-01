@@ -243,7 +243,7 @@ https://nzbgeek.info
 
 # **_Live - Legal_**
 
-**_YT Popout Chat_**
+**_YT Popout Chat_**<br>
 `https://youtube.com/live_chat?is_popout=1&v=GCVJIVeoAeM`<br>
 
 -   `https://youtube.com/watch?v=GCVJIVeoAeM`
@@ -304,8 +304,10 @@ https://youtube.com/embed/live_stream?channel=UCJ5v_MCY6GNUBTO8-D3XoAg - WWE Tal
 ---
 
 -   https://youtube.com/embed/live_stream?channel=UCA1d3HFGFUmkKr2JIUA5Vlw - VALORANT Esports Official
-    -   https://youtube.com/embed/live_stream?channel=UCuCpF1j12nLgvwajUAVMzUg - VALORANT Esports PH Official
-    -   https://youtube.com/embed/live_stream?channel=UCzVgCrOcBAWYEHTtVOMPAtw - VALORANT JP Official
+    -   https://youtube.com/embed/live_stream?channel=UCA8fUfoBLWyUpAZTbXB0uoA - VALORANT Esports Pacific
+    -   https://youtube.com/embed/live_stream?channel=UCp6n8d8Y8r3MwKNw_MMaouQ - VALORANT Esports EMEA
+    -   https://youtube.com/embed/live_stream?channel=UCuCpF1j12nLgvwajUAVMzUg - VALORANT Esports PH
+    -   https://youtube.com/embed/live_stream?channel=UCzVgCrOcBAWYEHTtVOMPAtw - VALORANT JP
 
 ---
 
