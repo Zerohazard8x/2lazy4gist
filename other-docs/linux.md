@@ -82,34 +82,30 @@ default port -> 8022 (termux only), normally 22
 ---
 
 Extract .pkg - `xar -xvf [file] -C [output directory]`
-</br>Extract .tar.gz - `tar –xvf [file] -C [output directory]`
-</br>Extract .lz4 - `lz4 -d [input] [output]`
+<br>Extract .tar.gz - `tar –xvf [file] -C [output directory]`
+<br>Extract .lz4 - `lz4 -d [input] [output]`
 
 **_Protip: if you dont know the maximum mx value just put -mx100_**
-</br>`7z a -mm=LZMA -mmt=on -mx9 ../grades.7z *`
-</br>`7z a -mm=Lizard -mmt=on ../grades.7z *`
-
+<br>`7z a -mm=LZMA -mmt=on -mx9 ../grades.7z *`
+<br>`7z a -mm=Lizard -mmt=on ../grades.7z *`
 -   Fast compress (More than 3-4x faster??)
 -   Lizard == optimized LZ4 (https://github.com/inikep/lizard)
 
-`7z a -mm=Deflate -mmt=on ../archive.zip *`
-
+<br>`7z a -mm=Deflate -mmt=on ../archive.zip *`
 -   Fastest compress (universal zip)
 
-`7z a -mmt=on ../archive.tar *`
-
+<br>`7z a -mmt=on ../archive.tar *`
 -   No compress (multiple files -> 1 file)
 
-`7z h -scrcsha256 [input]` - Compute file hash
-
-`find . -type d -empty` (`-delete` empty folders)
+<br>`7z h -scrcsha256 [input]` - Compute file hash
+<br>`find . -type d -empty` (`-delete` empty folders)
 
 ---
 
 `sudo mount [e.g. /dev/sdb1] [target directory e.g. /mnt/media]`
-</br>`sudo mount -o rw,exec,dev,remount [target directory]`
-</br>`sudo mount -o ro,remount [target directory]`
-</br>`sudo umount [target to unmount]`
+<br>`sudo mount -o rw,exec,dev,remount [target directory]`
+<br>`sudo mount -o ro,remount [target directory]`
+<br>`sudo umount [target to unmount]`
 
 ---
 
@@ -120,7 +116,7 @@ Extract .pkg - `xar -xvf [file] -C [output directory]`
 2. `sudo ddrescue -b 2048 -d -r 3 -v [source] [target e.g. iso] output.log`
 3. `sudo ddrescue -b 2048 -d -R -r 3 -v [source] [target e.g. iso] output.log`
 
-**_Remember:_** 1M blocksize x 9 count = 9MB cloned
+**_Important:_** 1M blocksize x 9 count = 9MB cloned
 
 -   https://www.calculatorsoup.com/calculators/math/factors.php
 
@@ -178,11 +174,11 @@ lspci | grep -i network
 ifconfig
 ```
 
-Force unmount - `fuser -km /dev/sd*`
-`cp -rvT` [cp files without host folder]
-`apt install fdisk parted gparted pv gcc-libs`
+Force unmount - `fuser -km /dev/sd*`<br>
+`cp -rvT` [cp files without host folder]<br>
+`apt install fdisk parted gparted pv gcc-libs`<br>
 
 # Windows
 
-`imagex.exe /apply d:\install.wim 1 c:\`
-`mklink /J [new folder on a separate drive] [orig folder]`
+`imagex.exe /apply d:\install.wim 1 c:\`<br>
+`mklink /J [new folder on a separate drive] [orig folder]`<br>
