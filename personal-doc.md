@@ -256,8 +256,8 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 -   `https://youtube.com/embed/live_stream?channel=UCA1d3HFGFUmkKr2JIUA5Vlw`
 -   `https://www.youtube.com/embed/GCVJIVeoAeM?list=PL5J-buULhg1deKOomO69DYfS7EGiy6OVj`
 
--   Use https://commentpicker.com/youtube-channel-id.php to find channel id
-    -   https://youtube.com/embed/live_stream?channel=[channel id]
+-   https://ytlarge.com/youtube/channel-id-finder - Find channel id
+    -   `https://youtube.com/embed/live_stream?channel=[channel id]`
 
 ---
 
@@ -271,8 +271,8 @@ https://player.twitch.tv/?channel=valorant&parent=twitch.tv&allowfullscreen=true
 
 -   `https://player.twitch.tv/?video=v40464143&parent=twitch.tv&allowfullscreen=true&time=0h0m0s`
 
-https://twitch.tv/directory/all?sort=VIEWER_COUNT - Realtime Top Twitch Streams<br>
-https://youtube.com/results?search_query=&sp=CAMSAkAB - Realtime Top Youtube Streams
+https://twitch.tv/directory/all?sort=VIEWER_COUNT - Top Twitch Streams<br>
+https://youtube.com/results?search_query=&sp=CAMSAkAB - Top Youtube Streams
 
 ---
 
@@ -281,6 +281,7 @@ https://youtube.com/embed/live_stream?channel=UCUZzyuAlhHNP3oiuMjn7RfQ - Kitchen
 -   https://youtube.com/embed/live_stream?channel=UCE2606prvXQc_noEqKxVJXA - ABS CBN News (PH)
     -   https://youtube.com/embed/live_stream?channel=UCstEtN0pgOmCf02EdXsGChw - ABS CBN Kapamilya Online Live
 -   https://youtube.com/embed/live_stream?channel=UCj6spMO3ybZPobE0T5perHA - CNN Philippines (not 24/7)
+-   https://youtube.com/embed/live_stream?channel=UCiFx0kZFjR29u0uJxTSq5MQ - TV5 (PH, not 24/7)
 
 ---
 
