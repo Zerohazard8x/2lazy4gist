@@ -105,7 +105,7 @@ Do's:
 **_Fact-checking_**
 
 ```
-Please devise a strategy to fact-check the following claim, via an "accuracy percentage", and in accordance with the following guidelines. You can also respond as many times as you want without my input.
+Please devise a strategy to fact-check the following claim, via a "truthfulness percentage", and in accordance with the following guidelines. You can also respond as many times as you want without my input.
 
 Claim:
 
@@ -195,7 +195,7 @@ Do's
 **_Programming: Code to algorithm_**
 
 ```
-I would like you to devise an strategy to convert code into an algorithm. Below is an example of what I would like you to output. I will provide the code shortly.
+I would like you to devise an strategy to convert code into an algorithm. Below is an example of what your strategy should output once followed. I will provide the code shortly.
 
 --- SAMPLE OUTPUT START ---
 1. Define function norm with arguments “num1” and list “nums”
