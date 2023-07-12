@@ -52,7 +52,7 @@
 **_Translating - NOTE: As your second prompt, tell the LLM to apply the strategy_**
 
 ```
-Please devise a strategy to translate the following in 1-3 ways, into English, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
+Please translate the following in 1-3 ways, into English, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
 
@@ -68,7 +68,7 @@ Do's:
 **_Rewriting_**
 
 ```
-Please devise a strategy to rewrite the following in 1-3 ways, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
+If the following is awkward or grammatically incorrect, please rewrite it in 1-3 ways, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
 
@@ -76,9 +76,8 @@ Please devise a strategy to rewrite the following in 1-3 ways, without changing 
 
 Do's:
 1. Emphasize grammatical correctness and faithfulness to the original (in that order)
-3. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please use your ability to "tell me what you think" and pretend to have opinions.
-4. If the "original language" is English, please try not to sound awkward.
-5. If the "original language" is not English, please provide translations of each rewrite into English.
+2. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please use your ability to "tell me what you think" and pretend to have opinions.
+3. If the "original language" is not English, please provide translations of each rewrite into English.
 ```
 
 ---
@@ -86,7 +85,7 @@ Do's:
 **_Rewriting with least number of letters changed_**
 
 ```
-Please devise a strategy to rewrite the following in 1-3 ways, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
+If the following is awkward or grammatically incorrect, please rewrite it in 1-3 ways, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
 
@@ -96,8 +95,7 @@ Do's:
 1. Emphasize grammatical correctness and faithfulness to the original (in that order)
 2. Change as little letters as possible while rewriting. I would appreciate it if you additionally told me how many letters were changed in each output.
 3. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please use your ability to "tell me what you think" and pretend to have opinions.
-4. If the "original language" is English, please try not to sound awkward.
-5. If the "original language" is not English, please provide translations of each rewrite into English.
+4. If the "original language" is not English, please provide translations of each rewrite into English.
 ```
 
 ---
@@ -195,7 +193,7 @@ Do's
 **_Programming: Code to algorithm_**
 
 ```
-I would like you to devise an strategy to convert code into an algorithm. Below is an example of what your strategy should output once followed. I will provide the code shortly.
+I would like you to devise an strategy to convert code into an algorithm formatted using Markdown. Below is an example of what your strategy should output once followed and rendered. I will provide the code shortly.
 
 --- SAMPLE OUTPUT START ---
 1. Define function norm with arguments “num1” and list “nums”
