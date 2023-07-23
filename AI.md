@@ -75,8 +75,7 @@ If the following is awkward or grammatically incorrect, please rewrite it, witho
 ---END---
 
 Do's:
-1. Emphasize grammatical correctness and faithfulness to the original (in that order)
-2. If you think the "original language" is not English, please provide translations of each rewrite into English.
+1. If you think the "original language" is not English, please provide translations of each rewrite into English.
 ```
 
 ---
@@ -84,15 +83,15 @@ Do's:
 **_Rewriting with least number of letters changed_**
 
 ```
-If the following is awkward or grammatically incorrect, please rewrite it, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
+Please rewrite the following, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
 
 ---END---
 
 Do's:
-1. Emphasize grammatical correctness and faithfulness to the original (in that order)
-2. Change as little letters as possible while rewriting. I would appreciate it if you additionally told me how many letters were changed in each output.
+1. Change as little letters as possible while rewriting. I would appreciate it if you additionally told me how many letters were changed in each output.
+2. Try not to be awkward or grammatically incorrect
 3. If you think the "original language" is not English, please provide translations of each rewrite into English.
 ```
 
