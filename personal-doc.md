@@ -311,7 +311,7 @@ https://youtube.com/embed/live_stream?channel=UCJ5v_MCY6GNUBTO8-D3XoAg - WWE Tal
 -   https://youtube.com/embed/live_stream?channel=UCA1d3HFGFUmkKr2JIUA5Vlw - VALORANT Esports Official
     -   https://youtube.com/embed/live_stream?channel=UCA8fUfoBLWyUpAZTbXB0uoA or https://twitch.tv/valorant_pacific - VALORANT Esports Pacific
     -   https://youtube.com/embed/live_stream?channel=UCp6n8d8Y8r3MwKNw_MMaouQ - VALORANT Esports EMEA
-    -   https://youtube.com/embed/live_stream?channel=UCuCpF1j12nLgvwajUAVMzUg or https://twitch.tv/valorant_ph - VALORANT Esports PH
+    -   https://youtube.com/embed/live_stream?channel=UCieig5EsTFI3PIJpyfk2qSg or https://twitch.tv/valorant_ph - VALORANT Esports PH
     -   https://youtube.com/embed/live_stream?channel=UCc1VJX_5Z2RdGi58XU4IfbA or https://twitch.tv/valorantesports_cn - VALORANT Esports CN
     -   https://youtube.com/embed/live_stream?channel=UCzVgCrOcBAWYEHTtVOMPAtw - VALORANT JP
 
