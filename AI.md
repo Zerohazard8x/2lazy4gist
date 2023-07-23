@@ -68,7 +68,7 @@ Do's:
 **_Rewriting_**
 
 ```
-If the following is awkward or grammatically incorrect, please rewrite it in 1-3 ways, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
+If the following is awkward or grammatically incorrect, please rewrite it, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
 
@@ -76,8 +76,7 @@ If the following is awkward or grammatically incorrect, please rewrite it in 1-3
 
 Do's:
 1. Emphasize grammatical correctness and faithfulness to the original (in that order)
-2. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please use your ability to "tell me what you think" and pretend to have opinions.
-3. If the "original language" is not English, please provide translations of each rewrite into English.
+2. If you think the "original language" is not English, please provide translations of each rewrite into English.
 ```
 
 ---
@@ -85,7 +84,7 @@ Do's:
 **_Rewriting with least number of letters changed_**
 
 ```
-If the following is awkward or grammatically incorrect, please rewrite it in 1-3 ways, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
+If the following is awkward or grammatically incorrect, please rewrite it, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
 
@@ -94,8 +93,7 @@ If the following is awkward or grammatically incorrect, please rewrite it in 1-3
 Do's:
 1. Emphasize grammatical correctness and faithfulness to the original (in that order)
 2. Change as little letters as possible while rewriting. I would appreciate it if you additionally told me how many letters were changed in each output.
-3. If there are multiple outputs, I would like you to try to format them into an ordered list going "1. 2. 3." When you are making this list, please use your ability to "tell me what you think" and pretend to have opinions.
-4. If the "original language" is not English, please provide translations of each rewrite into English.
+3. If you think the "original language" is not English, please provide translations of each rewrite into English.
 ```
 
 ---
@@ -115,14 +113,16 @@ Do's:
 
 Don'ts:
 1. Avoid tabloid news sources and sources that can be edited by anyone, such as "wiki"s and social media
+2. Avoid Wikipedia, as it is a "wiki"
+3. Avoid Reddit, Facebook, and Twitter, as they are social media
 ```
 
 ---
 
-**_Production of bullet points_**
+**_Researching_**
 
 ```
-Please devise a strategy to produce bullet points about the following topic, in accordance with the guidelines below said topic. You can also respond as many times as you want without my input.
+Please devise a strategy to research about the following topic, in accordance with the guidelines below said topic. You can also respond as many times as you want without my input.
 
 Topic:
 
