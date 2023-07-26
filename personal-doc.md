@@ -21,6 +21,7 @@ https://imgbb.com - Image to URL<br>
 https://itilog.com/en/where-am-i - GPS coordinates<br>
 https://liaison.reuters.com/tools/sports-team-codes - Sports team codes<br>
 https://musicca.com/metronome - Metronome<br>
+https://www.naturalreaders.com/online/ - Online Text-to-speech<br>
 https://otter.ai/ - Free transcriptions<br>
 https://parcelsapp.com/ - Parcel tracking<br>
 https://qrcodescan.in/ - QR scanner<br>
