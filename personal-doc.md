@@ -179,6 +179,7 @@ https://majorgeeks.com/ - Majorgeeks
 -   https://sourceforge.net/projects/andyyan-gsi/ - LineageOS Treble GSI
     -   https://github.com/ponces/treble_build_pe/releases - Pixel experience
     -   https://opengapps.org/ - Gapps package (i recommend "nano")
+-   https://liteapks.com - Lite apks
 -   https://yout.com/ - Universal downloader for YT, reddit, twitter
     -   https://savefrom.net - also universal
     -   https://spotify-downloader.com/ - Spotify
