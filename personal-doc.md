@@ -166,9 +166,9 @@ https://majorgeeks.com/ - Majorgeeks
 
 -   https://ipsw.me/ - Download Apple .ipsw files
     -   https://3u.com/ - Flash .ipsw files
-    -   https://github.com/samloader/samloader/ - Download Samsung firmware packages
+    -   https://github.com/martinetd/samloader - Download Samsung firmware packages
     -   https://uupdump.net - Build Windows ISOs from Windows Update files
-    -   https://xiaomirom.com/en/ - Download Xiaomi firmware packages
+    -   https://xiaomifirmwareupdater.com - Download Xiaomi firmware packages
 -   https://microsoft.com/en-us/software-download/windows11 - Download Windows11 ISOs
     -   https://developer.microsoft.com/en-us/windows/downloads/virtual-machines - Windows virtual machine hard drive files
     -   https://microsoft.com/en-us/software-download/windows10 - Download Windows10 ISOs
@@ -219,8 +219,8 @@ https://watchwrestling24.net - Wrestling VODs
     -   https://bytesized-hosting.com/
 
 ---
-
-https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt - Put these in your client for faster speeds<br>
+https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt - Put these in your client for faster speeds<br>
+    - https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
 https://subscene.com - Get subtitles for your downloads<br>
 https://thewiki.moe/ - Anime torrenting guide
 
@@ -231,12 +231,14 @@ https://rutracker.net/forum/index.php
 
 ---
 
--   https://rarbg.to
-    -   https://rarbgmirrored.org
+-   https://therarbg.com
 -   https://thepiratebay.org
     -   https://forum.suprbay.org/status
 -   https://torrentgalaxy.to
     -   https://torrentgalaxy.org
+ 
+-   https://solidtorrents.to
+-   https://bitsearch.to
 
 # **_Usenetting - Questionable_**
 
