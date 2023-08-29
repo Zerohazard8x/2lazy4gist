@@ -18,7 +18,8 @@
 
 - https://upscalerjs.com/demo - In-browser upscaler
 - https://replicate.com/jingyunliang/swinir
-- https://replicate.com/sczhou/codeformer - Face restoration
+- https://huggingface.co/spaces/sczhou/CodeFormer - Face restoration
+  - https://replicate.com/sczhou/codeformer
 - https://replicate.com/xinntao/realesrgan
 - https://huggingface.co/spaces/Xintao/GFPGAN - GFPGAN (face)
 
