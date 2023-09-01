@@ -83,7 +83,8 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
 -   https://temp-mail.org/ - NEW Best tempmail service
     -   https://temp-mail.io/
     -   https://tempail.com/
--   https://trip.com/ - Book hotels, etc
+-   https://booking.com - Book hotels, etc
+    -   https://trip.com/
     -   Flights: Use results to book directly
 -   https://wetransfer.com/ - File-sharing
     -   https://encl.io/
