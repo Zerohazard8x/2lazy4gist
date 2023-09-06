@@ -160,6 +160,8 @@ https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053 - MakeMKV Beta Key
 
 # **_Trusted / Official DLs - Legal_**
 
+**_Savefrom.net is paywalled in some countries - I do not recommend it anymore_**
+
 https://download.cnet.com/ - Cnet Download.com<br>
 https://fosshub.com/ - Fosshub (free open source software hub)<br>
 https://guru3d.com/ - Guru3d<br>
@@ -184,7 +186,7 @@ https://majorgeeks.com/ - Majorgeeks
     -   https://opengapps.org/ - Gapps package (i recommend "nano")
 -   https://liteapks.com - Lite apks
 -   https://yout.com/ - Universal downloader for YT, reddit, twitter
-    -   https://savefrom.net - also universal
+    -   https://fdown.net/ - facebook
     -   https://spotify-downloader.com/ - Spotify
     -   https://twsaver.com/ - twitter
     -   https://twitsave.com/ - twitter
