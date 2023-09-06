@@ -99,15 +99,15 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
 ---
 
 -   https://d3ward.github.io/toolz/adblock.html - Adblock test
-    -   https://browserbench.org/Speedometer2.0/ - "real-world" according to Google Chrome devs
+    -   https://browserbench.org - benchmarks
         -   https://mozilla.github.io/krakenbenchmark.mozilla.org/index.html - Mozilla
-        -   https://browserbench.org/ARES-6/ - Apple
         -   https://v8.github.io/web-tooling-benchmark/ - Google
         -   https://web.basemark.com/
     -   https://canyoublockit.com/
     -   https://coveryourtracks.eff.org/ - Tracking protection test
     -   https://detectadblock.com/ - Adblock detection test
 -   https://librespeed.org/ - Network speed test
+    -   https://fast.com - Netflix servers
     -   https://speedsmart.net/
     -   https://speed.measurementlab.net/ (backend used by Google)
     -   https://nperf.com/
