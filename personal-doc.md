@@ -12,6 +12,7 @@ https://archive.org/web - Bypass paywalls<br>
 https://3daimtrainer.com - FPS Aim trainer<br>
 https://app.standardnotes.com/ - Online notes<br>
 https://audiomass.co - Audio editor, browser based<br>
+https://bypass.city - Bypass intrusive link shorteners<br>
 https://changetower.com - Check for changes<br>
 https://clipchamp.com/ - Online video editor<br>
 https://digitaltallycounter.com - Tally counter<br>
@@ -77,6 +78,7 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
     -   https://slipfox.xyz
     -   https://tiekoetter.com/services
     -   https://kavin.rocks/services
+    -   https://whateveritworks.org
 
 ---
 
@@ -349,12 +351,9 @@ https://baked.live - Live Wrestling
 
 # **_Live - Questionable - Kodi_**
 
--   https://diggzrepo.ddns.net - Install kodi "build" from Chef helper, change theme back to default, enjoy
-    -   Asgard - Swiftstreams (https://iwf1.com/kodi/plugin.video.asgard)
-    -   Ghost (https://iwf1.com/kodi/plugin.video.ghost)
-    -   Mad titan sports (https://iwf1.com/kodi/plugin.video.madtitansports)
-    -   https://iwf1.com/kodi/plugin.video.thecrew - The crew plugin (should be in thecrew repo)
-        -   https://iwf1.com/kodi/repository.thecrew - The crew repo (somehow contains ghost)
+-   https://www.firesticktricks.com/asgard-kodi-addon.html
+-   https://www.kodi-guide.com/the-crew-kodi-addon
+-   https://www.kodi-guide.com/mad-titan-sports-kodi-addon
 
 https://linksnappy.com<br>
 https://real-debrid.com
