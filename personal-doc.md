@@ -246,6 +246,7 @@ https://rutracker.net/forum/index.php
 -   https://bitsearch.to
 
 -   https://scnlog.me
+    -   https://twitter.com/scnlogftw
 
 # **_Usenetting - Questionable_**
 
