@@ -245,6 +245,8 @@ https://rutracker.net/forum/index.php
 -   https://solidtorrents.to
 -   https://bitsearch.to
 
+-   https://scnlog.me
+
 # **_Usenetting - Questionable_**
 
 https://newsdemon.com<br>
