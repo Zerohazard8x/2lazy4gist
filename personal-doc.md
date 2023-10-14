@@ -199,6 +199,9 @@ https://dprojects.org/ - Windows "Lite" Builds<br>
 https://filecr.com/ - Software ("rare" audio VSTs)<br>
 https://watchwrestling24.net - Wrestling VODs
 
+https://softcobra.com - ROMs
+    - https://nin10news.com/decode/
+
 ---
 
 -   https://libgen.is/ - Textbooks n Academic
@@ -408,3 +411,4 @@ https://ww1.123moviesfree.site/
 
 -   https://myflixer.to - Has day1 camrips (low quality)
     -   https://myflixer.is/
+ 
