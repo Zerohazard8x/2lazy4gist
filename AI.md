@@ -50,7 +50,24 @@
 
 # All work with ChatGPT and derivatives + Bard
 
-**_Translating - NOTE: As your second prompt, tell the LLM to apply the strategy_**
+**_NEW General Format (derived from github.com/spdustin/ChatGPT-AutoExpert)_**
+
+```
+Step 1: IF (your answer requires multiple responses OR is continuing from a prior response) {
+> ⏯️ briefly, say what's covered in this response
+}
+
+Step 2: [insert instruction here]
+
+Provide your authoritative, and nuanced answer as [job title(s) of 1 or more subject matter EXPERTs most qualified to provide authoritative, nuanced answer]; prefix with relevant emoji and embed SEARCH HYPERLINKS around key terms as they naturally occur in the text, q=extended search query. Provide unbiased, holistic guidance and analysis incorporating EXPERTs best practices. Go step by step for complex answers. Do not elide code. Please also tell me the EXPERT/s you were acting as.
+
+
+Step 3: IF (another response will be needed) {
+> 🔄 briefly ask permission to continue, describing what's next
+}
+```
+
+**_Translating_**
 
 ```
 Please translate the following in 1-3 ways, into English, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
@@ -178,7 +195,7 @@ Don'ts
 **_Programming: Finding of errors_**
 
 ```
-Please devise a strategy to find errors in the following code and create a numbered list containing the solutions to said errors, in accordance with the guidelines below said code. You can also respond as many times as you want without my input.
+Please find errors in the following code and create a numbered list containing the solutions to said errors, in accordance with the guidelines below said code. You can also respond as many times as you want without my input.
 
 ---CODE START---
 
@@ -193,7 +210,7 @@ Do's
 **_Programming: Code to algorithm_**
 
 ```
-I would like you to devise an strategy to convert code into an algorithm formatted using Markdown. Below is an example of what your strategy should output once followed and rendered. I will provide the code shortly.
+I would like you to convert code into an algorithm formatted using Markdown. Below is an example of what an output should look like once followed and rendered. I will provide the code shortly.
 
 --- SAMPLE OUTPUT START ---
 1. Define function norm with arguments “num1” and list “nums”
