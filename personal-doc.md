@@ -199,8 +199,9 @@ https://dprojects.org/ - Windows "Lite" Builds<br>
 https://filecr.com/ - Software ("rare" audio VSTs)<br>
 https://watchwrestling24.net - Wrestling VODs
 
-https://softcobra.com - ROMs
-    - https://nin10news.com/decode/
+
+-   https://softcobra.com - ROMs
+    -   https://nin10news.com/decode/
 
 ---
 
