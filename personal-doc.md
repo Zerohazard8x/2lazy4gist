@@ -267,6 +267,8 @@ https://nzbgeek.info
 `https://youtube.com/live_chat?is_popout=1&v=GCVJIVeoAeM`<br>
 
 -   `https://youtube.com/watch?v=GCVJIVeoAeM`
+-   https://youtube.com/playlist?list=RDGCVJIVeoAeM&playnext=1&start_radio=1
+    -  `https://youtube.com/playlist?list=RD[video id]&playnext=1&start_radio=1` - mix (results may vary)
 
 ```
 https://youtube.com/embed/GCVJIVeoAeM ->
@@ -278,6 +280,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 
 -   https://ytlarge.com/youtube/channel-id-finder - Find channel id
     -   `https://youtube.com/embed/live_stream?channel=[channel id]`
+    -   `https://www.youtube.com/watch?v=[video id from channel]&list=RDCM[channel id]&start_radio=1` - mix
 
 ---
 
