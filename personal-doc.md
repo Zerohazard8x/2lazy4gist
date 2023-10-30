@@ -122,7 +122,8 @@ https://youtube.com/c/MuseAsia - Assorted MuseAsia Anime Full Episodes (e.g. Tok
 https://youtube.com/c/Pok%C3%A9monAsiaENG - Pokemon Anime Full Episodes n More<br>
 https://youtube.com/playlist?list=PLQOJdrIdqhW3hB8EuTofununVfX0pBDPa - WWE Full Matches <br>
 https://youtube.com/playlist?list=PLWmD0FKyW_ozrMGGtHaW2bJtZk4euj__p - [Cut] Simpsons playlist <br>
-https://youtube.com/playlist?list=PLylTItjXRUVdHImLFyb2DfOagPFYNbqW1 - Forensic Files
+https://youtube.com/playlist?list=PLylTItjXRUVdHImLFyb2DfOagPFYNbqW1 - Forensic Files<br>
+https://youtube.com/watch?v=bmAprGzLqqg&list=RDCMUCJlbG6XY4str77gMuP3gtdg&start_radio=1 - Sonic Boom mix <br>
 
 ---
 
@@ -229,9 +230,9 @@ https://watchwrestling24.net - Wrestling VODs
 
 ---
 https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt - Put these in your client for faster speeds<br>
-    - https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
+    - https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt<br>
 https://subscene.com - Get subtitles for your downloads<br>
-https://thewiki.moe/ - Anime torrenting guide
+https://thewiki.moe/ - Anime torrenting guide<br>
 
 ---
 
@@ -267,8 +268,7 @@ https://nzbgeek.info
 `https://youtube.com/live_chat?is_popout=1&v=GCVJIVeoAeM`<br>
 
 -   `https://youtube.com/watch?v=GCVJIVeoAeM`
--   https://youtube.com/playlist?list=RDGCVJIVeoAeM&playnext=1&start_radio=1
-    -  `https://youtube.com/playlist?list=RD[video id]&playnext=1&start_radio=1` - mix (results may vary)
+-   `https://youtube.com/playlist?list=RD[video id]&playnext=1&start_radio=1` - mix (results may vary)
 
 ```
 https://youtube.com/embed/GCVJIVeoAeM ->
@@ -320,10 +320,13 @@ https://youtube.com/embed/live_stream?channel=UCJ5v_MCY6GNUBTO8-D3XoAg - WWE Tal
 
 ---
 
--   https://youtube.com/embed/live_stream?channel=UCKy1dAqELo0zrOtPkf0eTMw - Gaming Events pseudo 24/7 (IGN)
+-   https://youtube.com/embed/live_stream?channel= - Gaming Events pseudo 24/7 (IGN)
+    -   https://www.youtube.com/watch?v=wEY-pTqdGys&list=RDCMUCKy1dAqELo0zrOtPkf0eTMw&start_radio=1 - IGN Mix
     -   https://youtube.com/embed/live_stream?channel=UCqDS7KWjAPKv-7ZSlro9OiQ - Summer Game Fest / Game Awards
 -   https://youtube.com/embed/live_stream?channel=UCmKtn_HvpfbTu3QV4lhJIMw - Tech Events pseudo 24/7 (CNet)
+    -   https://www.youtube.com/watch?v=2SjrX1mRy_c&list=RDCMUCmKtn_HvpfbTu3QV4lhJIMw&start_radio=1 - CNet Mix
     -   https://youtube.com/embed/live_stream?channel=UCE_M8A5yxnLfW0KghEeajjw - Apple
+        -   https://www.youtube.com/watch?v=86D7AGm5sHk&list=RDCMUCE_M8A5yxnLfW0KghEeajjw&start_radio=1 - Apple Mix
 
 ---
 
