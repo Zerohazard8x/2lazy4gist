@@ -320,13 +320,13 @@ https://youtube.com/embed/live_stream?channel=UCJ5v_MCY6GNUBTO8-D3XoAg - WWE Tal
 
 ---
 
--   https://youtube.com/embed/live_stream?channel= - Gaming Events pseudo 24/7 (IGN)
-    -   https://www.youtube.com/watch?v=wEY-pTqdGys&list=RDCMUCKy1dAqELo0zrOtPkf0eTMw&start_radio=1 - IGN Mix
+-   https://youtube.com/embed/live_stream?channel=UCKy1dAqELo0zrOtPkf0eTMw - Gaming Events pseudo 24/7 (IGN)
+    -   https://youtube.com/watch?v=wEY-pTqdGys&list=RDCMUCKy1dAqELo0zrOtPkf0eTMw&start_radio=1 - IGN Mix
     -   https://youtube.com/embed/live_stream?channel=UCqDS7KWjAPKv-7ZSlro9OiQ - Summer Game Fest / Game Awards
 -   https://youtube.com/embed/live_stream?channel=UCmKtn_HvpfbTu3QV4lhJIMw - Tech Events pseudo 24/7 (CNet)
-    -   https://www.youtube.com/watch?v=2SjrX1mRy_c&list=RDCMUCmKtn_HvpfbTu3QV4lhJIMw&start_radio=1 - CNet Mix
+    -   https://youtube.com/watch?v=2SjrX1mRy_c&list=RDCMUCmKtn_HvpfbTu3QV4lhJIMw&start_radio=1 - CNet Mix
     -   https://youtube.com/embed/live_stream?channel=UCE_M8A5yxnLfW0KghEeajjw - Apple
-        -   https://www.youtube.com/watch?v=86D7AGm5sHk&list=RDCMUCE_M8A5yxnLfW0KghEeajjw&start_radio=1 - Apple Mix
+        -   https://youtube.com/watch?v=86D7AGm5sHk&list=RDCMUCE_M8A5yxnLfW0KghEeajjw&start_radio=1 - Apple Mix
 
 ---
 
