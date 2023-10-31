@@ -118,7 +118,7 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
 
 https://southparkstudios.com/seasons/south-park - South Park Full Episodes<br>
 https://youtube.com/c/AnimeonTMSOfficialChannel - Assorted TMS Anime Full Episodes (e.g Sonic X)<br>
-https://youtube.com/c/MuseAsia - Assorted MuseAsia Anime Full Episodes (e.g. Tokyo Revengers)<br>
+https://youtube.com/c/MuseAsia - Assorted MuseAsia Anime Full Episodes (e.g. Tokyo Revengers, JoJo, Spy x Family)<br>
 https://youtube.com/c/Pok%C3%A9monAsiaENG - Pokemon Anime Full Episodes n More<br>
 https://youtube.com/playlist?list=PLQOJdrIdqhW3hB8EuTofununVfX0pBDPa - WWE Full Matches <br>
 https://youtube.com/playlist?list=PLWmD0FKyW_ozrMGGtHaW2bJtZk4euj__p - [Cut] Simpsons playlist <br>
