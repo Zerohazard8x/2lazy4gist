@@ -124,6 +124,7 @@ https://youtube.com/playlist?list=PLQOJdrIdqhW3hB8EuTofununVfX0pBDPa - WWE Full 
 https://youtube.com/playlist?list=PLWmD0FKyW_ozrMGGtHaW2bJtZk4euj__p - [Cut] Simpsons playlist <br>
 https://youtube.com/playlist?list=PLylTItjXRUVdHImLFyb2DfOagPFYNbqW1 - Forensic Files<br>
 https://youtube.com/watch?v=bmAprGzLqqg&list=RDCMUCJlbG6XY4str77gMuP3gtdg&start_radio=1 - Sonic Boom mix <br>
+https://www.youtube.com/@WildBrainSuperheroes - DiC 90s cartoons e.g. Mario Super Show, Adventures of Sonic <br>
 
 ---
 
