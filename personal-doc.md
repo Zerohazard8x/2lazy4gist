@@ -15,6 +15,7 @@ https://audiomass.co - Audio editor, browser based<br>
 https://bypass.city - Bypass intrusive link shorteners<br>
 https://changetower.com - Check for changes<br>
 https://clipchamp.com/ - Online video editor<br>
+https://cyberchef.org - Encode, decode, etc<br>
 https://digitaltallycounter.com - Tally counter<br>
 https://fontgauntlet.com/ - Explore .ttf/.otf<br>
 https://guitar-tuner.org - Guitar tuner<br>
