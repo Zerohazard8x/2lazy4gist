@@ -42,8 +42,9 @@ https://www.integral-calculator.com
 
 ---
 
+**_adobe.com/acrobat converters - Apparently you need an Adobe account to convert more than 1 PDF / IP - I do not recommend it anymore_**
+
 https://convertio.co/ - Conversions<br>
-https://www.adobe.com/acrobat/online.html - Adobe Official Converters
 
 ---
 
@@ -136,8 +137,11 @@ https://developer.dolby.com/tools-media/sample-media/video-streams/dolby-vision-
 **_Dev_**
 
 -   https://chat.openai.com - ChatGPT (actually a good coding tool!!)
-    -   https://chat.bing.com - Microsoft Bing (GPT-4 + Internet)
+    -   https://bing.com/chat - Microsoft Bing (GPT-4 + Internet)
+    -   https://poe.com - Claude & more
+    -   https://chat.lmsysmorg - Open chatbots + GPT-4[-Turbo]
 -   https://paiza.io/ - Online web dev
+    -   https://replit.com/   
 -   https://vscode.dev
     -   https://github.dev
 
@@ -162,8 +166,6 @@ https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053 - MakeMKV Beta Key
     -   TIP: Launch spacedesk app, turn quality all the way down. Then use parsec to cast the spacedesk virtual monitor
 
 # **_Trusted / Official DLs - Legal_**
-
-**_Savefrom.net is paywalled in some countries - I do not recommend it anymore_**
 
 https://download.cnet.com/ - Cnet Download.com<br>
 https://fosshub.com/ - Fosshub (free open source software hub)<br>
@@ -231,8 +233,8 @@ https://watchwrestling24.net - Wrestling VODs
     -   https://bytesized-hosting.com/
 
 ---
-https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt - Put these in your client for faster speeds<br>
-    - https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt<br>
+-   https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt - Put these in your client for faster speeds<br>
+    -   https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt<br>
 https://subscene.com - Get subtitles for your downloads<br>
 https://thewiki.moe/ - Anime torrenting guide<br>
 
