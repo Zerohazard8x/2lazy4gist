@@ -8,7 +8,7 @@ https://www.bing.com/search?q=Bing+AI&mkt=en-US&setlang=en-us - Bing URL that se
 ---
 
 https://arachnoid.com/latex/ - LaTeX editor <br>
-https://archive.org/web - Bypass paywalls<br>
+https://www.cachedview.nl/ - Bypass paywalls<br>
 https://3daimtrainer.com - FPS Aim trainer<br>
 https://app.standardnotes.com/ - Online notes<br>
 https://audiomass.co - Audio editor, browser based<br>
