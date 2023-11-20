@@ -291,10 +291,8 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 **_Twitch Popout Chat_**<br>
 `https://twitch.tv/popout/valorant/chat?popout=`<br>
 
-```
-https://player.twitch.tv/?channel=valorant&parent=twitch.tv ->
-https://player.twitch.tv/?channel=valorant&parent=twitch.tv&allowfullscreen=true&time=0h0m0s
-```
+`https://player.twitch.tv/?channel=valorant&parent=twitch.tv`<br>
+-   `https://player.twitch.tv/?channel=valorant&parent=twitch.tv&allowfullscreen=true&time=0h0m0s` <br>
 
 -   `https://player.twitch.tv/?video=v40464143&parent=twitch.tv&allowfullscreen=true&time=0h0m0s`
 
