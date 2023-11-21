@@ -33,7 +33,8 @@ https://szynalski.com/tone-generator/ - tone generator/frequency player<br>
 https://textplus.com/ - VoIP<br>
 https://vclock.com - alarm clock<br>
 https://vocalremover.org - Vocal remover<br>
-https://webwhiteboard.com/ - Web whiteboard
+https://webwhiteboard.com/ - Web whiteboard<br>
+https://www.photoroom.com - Background removal
 
 ---
 
