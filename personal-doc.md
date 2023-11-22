@@ -24,7 +24,7 @@ https://itilog.com/en/where-am-i - GPS coordinates<br>
 https://liaison.reuters.com/tools/sports-team-codes - Sports team tricodes<br>
 https://musicca.com/metronome - Metronome<br>
 https://naturalreaders.com/online/ - Online Text-to-speech<br>
-https://onlineocr.net/ - OCR<br>
+https://newocr.com - OCR<br>
 https://otter.ai/ - Free transcriptions<br>
 https://parcelsapp.com/ - Parcel tracking<br>
 https://photoroom.com - Background removal<br>
