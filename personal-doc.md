@@ -21,11 +21,13 @@ https://fontgauntlet.com/ - Explore .ttf/.otf<br>
 https://guitar-tuner.org - Guitar tuner<br>
 https://imgbb.com - Image to URL<br>
 https://itilog.com/en/where-am-i - GPS coordinates<br>
-https://liaison.reuters.com/tools/sports-team-codes - Sports team codes<br>
+https://liaison.reuters.com/tools/sports-team-codes - Sports team tricodes<br>
 https://musicca.com/metronome - Metronome<br>
-https://www.naturalreaders.com/online/ - Online Text-to-speech<br>
+https://naturalreaders.com/online/ - Online Text-to-speech<br>
+https://onlineocr.net/ - OCR<br>
 https://otter.ai/ - Free transcriptions<br>
 https://parcelsapp.com/ - Parcel tracking<br>
+https://photoroom.com - Background removal<br>
 https://qrcodescan.in/ - QR scanner<br>
 https://simpletouchsoftware.com/timers/tabatapro/ - Tabata timer<br>
 https://sites.google.com/site/tyroneunblockedgame/ - Online games collection <br>
@@ -33,8 +35,7 @@ https://szynalski.com/tone-generator/ - tone generator/frequency player<br>
 https://textplus.com/ - VoIP<br>
 https://vclock.com - alarm clock<br>
 https://vocalremover.org - Vocal remover<br>
-https://webwhiteboard.com/ - Web whiteboard<br>
-https://www.photoroom.com - Background removal
+https://webwhiteboard.com/ - Web whiteboard
 
 ---
 
