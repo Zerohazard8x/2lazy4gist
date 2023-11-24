@@ -318,6 +318,12 @@ https://youtube.com/embed/live_stream?channel=UCSPEjw8F2nQDtmUKPFNF7_A - NHK Wor
 https://youtube.com/embed/live_stream?channel=UCeY0bbntWzzVIaj2z3QigXg - NBC News (USA)<br>
 https://youtube.com/embed/live_stream?channel=UCoMdktPbSTixAyNGwb-UYkQ - Sky News (UK)
 
+---
+
+https://youtube.com/embed/live_stream?channel=UCTU_wC79Dgi9rh4e9-baTqA - Sky Sports
+
+---
+
 https://player.twitch.tv/?channel=genshinimpactofficial&parent=twitch.tv - Genshin Impact Official<br>
 https://youtube.com/embed/live_stream?channel=UCFN4JkGP_bVhAdBsoV9xftA - AEW Dark / Elevation (not 24/7)<br>
 https://youtube.com/embed/live_stream?channel=UCJ5v_MCY6GNUBTO8-D3XoAg - WWE Talk Shows (not 24/7)
