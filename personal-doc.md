@@ -28,6 +28,7 @@ https://newocr.com - OCR<br>
 https://otter.ai/ - Free transcriptions<br>
 https://parcelsapp.com/ - Parcel tracking<br>
 https://photoroom.com - Background removal<br>
+https://promptr.co/ - Teleprompter<br>
 https://qrcodescan.in/ - QR scanner<br>
 https://simpletouchsoftware.com/timers/tabatapro/ - Tabata timer<br>
 https://sites.google.com/site/tyroneunblockedgame/ - Online games collection <br>
