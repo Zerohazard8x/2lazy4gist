@@ -128,7 +128,7 @@ https://youtube.com/c/Pok%C3%A9monAsiaENG - Pokemon Anime Full Episodes n More<b
 https://youtube.com/playlist?list=PLQOJdrIdqhW3hB8EuTofununVfX0pBDPa - WWE Full Matches <br>
 https://youtube.com/playlist?list=PLWmD0FKyW_ozrMGGtHaW2bJtZk4euj__p - [Cut] Simpsons playlist <br>
 https://youtube.com/playlist?list=PLylTItjXRUVdHImLFyb2DfOagPFYNbqW1 - Forensic Files<br>
-https://youtube.com/watch?v=bmAprGzLqqg&list=RDCMUCJlbG6XY4str77gMuP3gtdg&start_radio=1 - Sonic Boom mix <br>
+https://youtube.com/watch?v=bmAprGzLqqg&list=RDCMUCJlbG6XY4str77gMuP3gtdg - Sonic Boom mix <br>
 https://www.youtube.com/@WildBrainSuperheroes - DiC 90s cartoons e.g. Mario Super Show, Adventures of Sonic <br>
 
 ---
@@ -287,7 +287,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 
 -   https://ytlarge.com/youtube/channel-id-finder - Find channel id
     -   `https://youtube.com/embed/live_stream?channel=[channel id]`
-    -   `https://www.youtube.com/watch?v=[video id from channel]&list=RDCM[channel id]&start_radio=1` - mix
+    -   `https://www.youtube.com/watch?v=[video id from channel]&list=RDCM[channel id]` - mix
 
 ---
 
