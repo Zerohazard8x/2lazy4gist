@@ -22,15 +22,16 @@
   - https://replicate.com/sczhou/codeformer
 - https://replicate.com/xinntao/realesrgan
 - https://huggingface.co/spaces/Xintao/GFPGAN - GFPGAN (face)
+- https://capcut.com/tools/ai-image-upscaler
 
 ---
 
 **_LLMs_**
 
-- https://ai.com - free ChatGPT (OpenAI GPT3.5 turbo) + paid OpenAI GPT4
+- https://chatgpt.com - free ChatGPT (OpenAI GPT3.5 turbo) + paid OpenAI GPT4
   - https://poe.com - ChatGPT alternative frontend + Claude + GPT4
 - https://bard.google.com - Google Bard (Google LaMDA + PaLM)
-- https://chat.bing.com - Microsoft Bing Chat (Prometheus GPT4)
+- https://bing.com/chat - Microsoft Bing Chat (Prometheus GPT4)
   - https://edgeservices.bing.com/edgesvc/chat?darkschemeovr=0&ldarkschemeovr=1 - Dark mode
   - https://bing.vcanbb.top - Proxy (UI is chinese but can be talked to in English)
 - https://deepai.org - OpenAI fork??
@@ -38,7 +39,6 @@
   - https://huggingface.co/chat/ - Hugging face
   - https://huggingface.co/spaces?sort=likes
     - https://huggingface.co/spaces/ysharma/ChatGPT4
-    - https://huggingface.co/spaces/abhijitguha/chatbot_gpt3
   - https://open-assistant.io - Open assistant
 - https://chat.forefront.ai - GPT4
 - https://ora.sh - GPT4
