@@ -193,11 +193,13 @@ https://majorgeeks.com/ - Majorgeeks
     -   https://github.com/ponces/treble_build_pe/releases - Pixel experience
     -   https://opengapps.org/ - Gapps package (i recommend "nano")
 -   https://liteapks.com - Lite apks
--   https://yout.com/ - Universal downloader for YT, reddit, twitter
+-   https://en.savefrom.net - Universal downloader for YT, reddit, twitter
+    -   https://yout.com
     -   https://fdown.net/ - facebook
     -   https://spotify-downloader.com/ - Spotify
     -   https://twsaver.com/ - twitter
     -   https://twitsave.com/ - twitter
+    -   https://clipconverter.cc - youtube
 
 ---
 
