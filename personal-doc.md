@@ -293,6 +293,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 -   https://ytlarge.com/youtube/channel-id-finder - Find channel id
     -   `https://youtube.com/embed/live_stream?channel=[channel id]`
     -   `https://www.youtube.com/watch?v=[video id from channel]&list=RDCM[channel id]` - mix
+-   https://jabrek.net/dislike-en/ - View youtube dislikes
 
 ---
 
@@ -403,22 +404,18 @@ https://youtube.com/playlist?list=PL39_ud5aKSvnYDhKdB7wTDUZRiE8RaJat - How It's 
 
 **_Anime & non-live-action_**<br>
 https://allanime.to/<br>
-https://anime.cat/<br>
 https://animeheaven.ru<br>
 https://animepahe.ru/<br>
+    -   https://animepahe.org/
+    -   https://animepahe.com/
 https://animesuge.to/<br>
-https://gogoanime.llc<br>
-https://marin.moe/<br>
-https://zoro.to/
+https://anitaku.to/
 
 ---
 
--   https://9anime.to
+-   https://aniwave.to/
 
-    -   https://9anime.gs
-    -   https://9anime.id
-    -   https://9anime.me
-    -   https://9anime.pl
+---
 
 -   https://kimcartoon.li/
     -   https://reddit.com/r/KissAnime/wiki/kisscommunitylinks
@@ -428,10 +425,9 @@ https://zoro.to/
 **_Movies_**<br>
 https://lookmovie.ag<br>
 https://movieffm.net/ - Chinese<br>
-https://ww1.123moviesfree.site/
+https://ww4.0123movie.name/
 
 ---
 
--   https://myflixer.to - Has day1 camrips (low quality)
-    -   https://myflixer.is/
+-   https://myflixer.is/ - Has day1 camrips (low quality)
  
