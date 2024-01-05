@@ -28,23 +28,23 @@
 
 **_LLMs_**
 
-- https://chatgpt.com - free ChatGPT (OpenAI GPT3.5 turbo) + paid OpenAI GPT4
+- https://chatgpt.com - OpenAI GPT3.5 turbo + paid OpenAI GPT4
   - https://poe.com - ChatGPT alternative frontend + Claude + GPT4
-- https://bard.google.com - Google Bard (Google LaMDA + PaLM)
-- https://bing.com/chat - Microsoft Bing Chat (Prometheus GPT4)
+- https://bard.google.com - Google PaLM + Gemini
+- https://bing.com/chat - Prometheus GPT4[-Turbo]
   - https://edgeservices.bing.com/edgesvc/chat?darkschemeovr=0&ldarkschemeovr=1 - Dark mode
   - https://bing.vcanbb.top - Proxy (UI is chinese but can be talked to in English)
 - https://deepai.org - OpenAI fork??
 - https://chat.lmsys.org - Open Chatbots
-  - https://huggingface.co/chat/ - Hugging face
-  - https://huggingface.co/spaces?sort=likes
-    - https://huggingface.co/spaces/ysharma/ChatGPT4
-  - https://open-assistant.io - Open assistant
+  - https://huggingface.co/chat/
+    - https://huggingface.co/spaces?sort=likes
+  - https://open-assistant.io
 - https://chat.forefront.ai - GPT4
 - https://ora.sh - GPT4
-- https://phind.com/ - Phind (use "Expert", apparently GPT4)
-- https://wnr.ai/templates/ask-me-to-do-anything - Wnr.ai (GPT4??)
-- https://you.com/chat - You.com Chat
+- https://pi.ai
+- https://phind.com/ - GPT4 limited use
+- https://wnr.ai/templates/ask-me-to-do-anything-with-gpt-4
+- https://you.com/chat - GPT4 limited use
 
 ---
 
