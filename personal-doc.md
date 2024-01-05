@@ -77,6 +77,7 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
 
 -   https://riverside.rocks/services - Web frontends for various social media
     -   https://clipzag.com - youtube (not privacy respecting??)
+    -   https://nitter.poast.org - twitter
     -   https://funami.tech
     -   https://privacydev.net/services.html
     -   https://pussthecat.org
@@ -113,8 +114,9 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
     -   https://detectadblock.com/ - Adblock detection test
 -   https://librespeed.org/ - Network speed test
     -   https://fast.com - Netflix servers
-    -   https://speedsmart.net/
+    -   https://speed.cloudflare.com/ - Cloudflare servers
     -   https://speed.measurementlab.net/ (backend used by Google)
+    -   https://speedsmart.net/
     -   https://nperf.com/
     -   https://openspeedtest.com/
     -   https://wifiman.com/
@@ -142,7 +144,7 @@ https://developer.dolby.com/tools-media/sample-media/video-streams/dolby-vision-
 -   https://chat.openai.com - ChatGPT (actually a good coding tool!!)
     -   https://bing.com/chat - Microsoft Bing (GPT-4 + Internet)
     -   https://poe.com - Claude & more
-    -   https://chat.lmsysmorg - Open chatbots + GPT-4[-Turbo]
+    -   https://chat.lmsys.org - Open chatbots + GPT-4[-Turbo]
 -   https://paiza.io/ - Online web dev
     -   https://replit.com/   
 -   https://vscode.dev
