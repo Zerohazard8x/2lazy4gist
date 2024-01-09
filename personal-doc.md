@@ -257,7 +257,6 @@ https://rutracker.net/forum/index.php
 -   https://thepiratebay.org
     -   https://forum.suprbay.org/status
 -   https://torrentgalaxy.to
-    -   https://torrentgalaxy.org
  
 -   https://solidtorrents.to
 -   https://bitsearch.to
@@ -379,7 +378,7 @@ https://youtube.com/embed/live_stream?channel=UCJhjE7wbdYAae1G25m0tHAA - Cafe Mu
 # **_Live - Questionable_**
 
 https://aqstream.com/ - Asian TV n K-Pop<br>
-https://baked.live - Live Wrestling
+https://baked.live - Live Wrestling and/or sports (make account first)
 
 # **_Live - Questionable - Kodi_**
 
