@@ -39,7 +39,7 @@ https://webwhiteboard.com/ - Web whiteboard
 
 ---
 
-https://www.cachedview.nl/ - Bypass paywalls
+-   https://www.cachedview.nl/ - Bypass paywalls
     -   https://archive.ph
         -   https://archive.is
 
