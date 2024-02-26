@@ -200,7 +200,8 @@ https://majorgeeks.com/ - Majorgeeks
     -   https://github.com/ponces/treble_build_pe/releases - Pixel experience
     -   https://opengapps.org/ - Gapps package (i recommend "nano")
 -   https://liteapks.com - Lite apks
--   https://9xbuddy.com/, https://9xbuddy.in/, https://9xbuddy.xyz/, https://9xyoutube.com/ - Universal downloader for YT, reddit, twitter
+-   https://9xbud.com/, https://9xbuddy.com/, https://9xbuddy.in/, https://9xbuddy.xyz/, https://9xyoutube.com/ - Universal downloader for YT, reddit, twitter
+    -   https://cobalt.tools
     -   https://en.savefrom.net  
     -   https://yout.com
     -   https://fdown.net/ - facebook
