@@ -31,7 +31,7 @@
 - https://chatgpt.com - OpenAI GPT3.5 turbo + paid OpenAI GPT4
   - https://poe.com - ChatGPT alternative frontend + Claude + GPT4
 - https://bard.google.com - Google PaLM + Gemini
-- https://bing.com/chat - Prometheus GPT4[-Turbo]
+- https://bing.com/chat - GPT4[-Turbo]
   - https://edgeservices.bing.com/edgesvc/chat?darkschemeovr=0&ldarkschemeovr=1 - Dark mode
   - https://bing.vcanbb.top - Proxy (UI is chinese but can be talked to in English)
 - https://deepai.org - OpenAI fork??
@@ -39,6 +39,7 @@
   - https://huggingface.co/chat/
     - https://huggingface.co/spaces?sort=likes
   - https://open-assistant.io
+  - https://groq.com
 - https://chat.forefront.ai - GPT4
 - https://ora.sh - GPT4
 - https://pi.ai
