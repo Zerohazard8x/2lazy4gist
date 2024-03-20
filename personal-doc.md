@@ -164,6 +164,8 @@ https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053 - MakeMKV Beta Key
 
 -   https://deepl.com/ - AI translator
     -   https://papago.naver.com/ - Alternative AI translator (supports Korean unlike DeepL)
+    -   https://quillbot.com/translate
+    -   https://reverso.net
 
 ---
 
