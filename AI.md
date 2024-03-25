@@ -37,12 +37,13 @@
   - https://edgeservices.bing.com/edgesvc/chat?darkschemeovr=0&ldarkschemeovr=1 - Dark mode
   - https://bing.com/chat
   - https://bing.vcanbb.top - Proxy (UI is chinese but can be talked to in English)
-- https://deepai.org - OpenAI fork??
 - https://chat.lmsys.org - Open Chatbots
   - https://huggingface.co/chat/
     - https://huggingface.co/spaces?sort=likes
   - https://open-assistant.io
   - https://groq.com
+  - https://chat.mistral.ai/
+  - https://labs.perplexity.ai
 - https://chat.forefront.ai - GPT4
 - https://ora.sh - GPT4
 - https://pi.ai
