@@ -30,9 +30,12 @@
 
 - https://chatgpt.com - OpenAI GPT3.5 turbo + paid OpenAI GPT4
   - https://poe.com - ChatGPT alternative frontend + Claude + GPT4
-- https://bard.google.com - Google PaLM + Gemini
-- https://bing.com/chat - GPT4[-Turbo]
+  - https://perplexity.ai
+  - https://you.com/chat - GPT4 limited use
+- https://gemini.google.com - Google Gemini
+- https://copilot.microsoft.com - GPT4[-Turbo]
   - https://edgeservices.bing.com/edgesvc/chat?darkschemeovr=0&ldarkschemeovr=1 - Dark mode
+  - https://bing.com/chat
   - https://bing.vcanbb.top - Proxy (UI is chinese but can be talked to in English)
 - https://deepai.org - OpenAI fork??
 - https://chat.lmsys.org - Open Chatbots
@@ -45,7 +48,6 @@
 - https://pi.ai
 - https://phind.com/ - GPT4 limited use
 - https://wnr.ai/templates/ask-me-to-do-anything-with-gpt-4
-- https://you.com/chat - GPT4 limited use
 
 ---
 
