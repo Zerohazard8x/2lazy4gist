@@ -7,11 +7,10 @@ https://www.bing.com/search?q=Bing+AI&mkt=en-US&setlang=en-us - Bing URL that se
 
 ---
 
-https://arachnoid.com/latex/ - LaTeX editor <br>
 https://3daimtrainer.com - FPS Aim trainer<br>
 https://app.standardnotes.com/ - Online notes<br>
 https://audiomass.co - Audio editor, browser based<br>
-https://bypass.city - Bypass intrusive link shorteners<br>
+https://bypass.city - Bypass link shorteners<br>
 https://changetower.com - Check for changes<br>
 https://clipchamp.com/ - Online video editor<br>
 https://cyberchef.org - Encode, decode, etc<br>
@@ -19,11 +18,10 @@ https://digitaltallycounter.com - Tally counter<br>
 https://fontgauntlet.com/ - Explore .ttf/.otf<br>
 https://guitar-tuner.org - Guitar tuner<br>
 https://imgbb.com - Image to URL<br>
-https://itilog.com/en/where-am-i - GPS coordinates<br>
+https://iwharris.github.io/wifi-qr-web - WiFi QR generator<br>
 https://liaison.reuters.com/tools/sports-team-codes - Sports team tricodes<br>
 https://musicca.com/metronome - Metronome<br>
 https://naturalreaders.com/online/ - Online Text-to-speech<br>
-https://newocr.com - OCR<br>
 https://otter.ai/ - Free transcriptions<br>
 https://parcelsapp.com/ - Parcel tracking<br>
 https://photoroom.com - Background removal<br>
@@ -39,14 +37,19 @@ https://webwhiteboard.com/ - Web whiteboard
 
 ---
 
--   https://www.cachedview.nl/ - Bypass paywalls
+-   https://cachedview.nl/ - Bypass paywalls
     -   https://archive.ph
         -   https://archive.is
+-   https://itilog.com/en/where-am-i - GPS coordinates
+    -   https://topographic-map.com
+-   https://newocr.com - OCR
+    -   https://tesseract.projectnaptha.com/
 
 ---
 
-https://www.derivative-calculator.net<br>
-https://www.integral-calculator.com
+https://arachnoid.com/latex/ - LaTeX editor <br>
+https://derivative-calculator.net<br>
+https://integral-calculator.com
 
 ---
 
