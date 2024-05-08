@@ -190,17 +190,19 @@ https://majorgeeks.com/ - Majorgeeks
 ---
 
 -   https://ipsw.me/ - Download Apple .ipsw files
+    -   https://appledb.dev - Flash .ipsw files
     -   https://3u.com/ - Flash .ipsw files
     -   https://github.com/martinetd/samloader - Download Samsung firmware packages
     -   https://uupdump.net - Build Windows ISOs from Windows Update files
     -   https://xiaomifirmwareupdater.com - Download Xiaomi firmware packages
--   https://microsoft.com/en-us/software-download/windows11 - Download Windows11 ISOs
+-   https://massgrave.dev/genuine-installation-media - Download Microsoft ISOs
+    -   https://github.com/gravesoft/msdl
     -   https://developer.microsoft.com/en-us/windows/downloads/virtual-machines - Windows virtual machine hard drive files
-    -   https://microsoft.com/en-us/software-download/windows10 - Download Windows10 ISOs
     -   https://microsoft.com/en-us/software-download/windowsinsiderpreviewiso - Download Windows Insider ISOs
         -   https://archive.org/details/@taru_panther
     -   https://store.rg-adguard.net/ - Download Windows store .appx files
-    -   https://github.com/Endermanch/XPKeygen - Windows XP keygen
+    -   https://github.com/massgravel/Microsoft-Activation-Scripts - Windows activation
+        -   https://github.com/Endermanch/XPKeygen - Windows XP
 -   https://sourceforge.net/projects/andyyan-gsi/ - LineageOS Treble GSI
     -   https://github.com/ponces/treble_build_pe/releases - Pixel experience
     -   https://opengapps.org/ - Gapps package (i recommend "nano")
@@ -320,59 +322,58 @@ https://youtube.com/results?search_query=&sp=CAMSAkAB - Top Youtube Streams
 
 ---
 
-https://youtube.com/embed/live_stream?channel=UCUZzyuAlhHNP3oiuMjn7RfQ - Kitchen Nightmares 24/7 (Official)
+https://youtube.com/@KitchenNightmares/live - Kitchen Nightmares pseudo 24/7
 
--   https://youtube.com/embed/live_stream?channel=UCE2606prvXQc_noEqKxVJXA - ABS CBN News (PH)
-    -   https://youtube.com/embed/live_stream?channel=UCstEtN0pgOmCf02EdXsGChw - ABS CBN Kapamilya Online Live
--   https://youtube.com/embed/live_stream?channel=UCj6spMO3ybZPobE0T5perHA - CNN Philippines (not 24/7)
--   https://youtube.com/embed/live_stream?channel=UCiFx0kZFjR29u0uJxTSq5MQ - TV5 (PH, not 24/7)
-
----
-
-https://youtube.com/embed/live_stream?channel=UC83jt4dlz1Gjl58fzQrrKZg - CNA<br>
-https://youtube.com/embed/live_stream?channel=UCQfwfsi5VrQ8yKZ-UWmAEFg - France24<br>
-https://youtube.com/embed/live_stream?channel=UCSPEjw8F2nQDtmUKPFNF7_A - NHK World pseudo 24/7<br>
-https://youtube.com/embed/live_stream?channel=UCeY0bbntWzzVIaj2z3QigXg - NBC News (USA)<br>
-https://youtube.com/embed/live_stream?channel=UCoMdktPbSTixAyNGwb-UYkQ - Sky News (UK)
+-   https://youtube.com/@abscbnnews/live - ABS CBN News (PH)
+    -   https://youtube.com/@abscbnentertainment/live - ABS CBN Kapamilya Online Live
+-   https://youtube.com/@TV5Philippines/live - TV5 (PH, not 24/7)
 
 ---
 
-https://youtube.com/embed/live_stream?channel=UCTU_wC79Dgi9rh4e9-baTqA - Sky Sports
+https://youtube.com/@channelnewsasia/live - CNA<br>
+https://youtube.com/@France24_en/live - France24<br>
+https://youtube.com/@NHKWORLDJAPAN/live - NHK World pseudo 24/7<br>
+https://youtube.com/@NBCNews/live - NBC News (USA)<br>
+https://youtube.com/@SkyNews/live - Sky News (UK)
+
+---
+
+https://youtube.com/@skysports/live - Sky Sports
 
 ---
 
 https://player.twitch.tv/?channel=genshinimpactofficial&parent=twitch.tv - Genshin Impact Official<br>
-https://youtube.com/embed/live_stream?channel=UCFN4JkGP_bVhAdBsoV9xftA - AEW Dark / Elevation (not 24/7)<br>
-https://youtube.com/embed/live_stream?channel=UCJ5v_MCY6GNUBTO8-D3XoAg - WWE Talk Shows (not 24/7)
+https://youtube.com/@AEW/live - AEW Dark / Elevation (not 24/7)<br>
+https://youtube.com/@WWE/live - WWE Talk Shows (not 24/7)
 
 ---
 
--   https://youtube.com/embed/live_stream?channel=UCKy1dAqELo0zrOtPkf0eTMw - Gaming Events pseudo 24/7 (IGN)
+-   https://youtube.com/@IGN/live - Gaming Events pseudo 24/7 (IGN)
     -   https://youtube.com/watch?v=wEY-pTqdGys&list=RDCMUCKy1dAqELo0zrOtPkf0eTMw&start_radio=1 - IGN Mix
-    -   https://youtube.com/embed/live_stream?channel=UCqDS7KWjAPKv-7ZSlro9OiQ - Summer Game Fest / Game Awards
--   https://youtube.com/embed/live_stream?channel=UCmKtn_HvpfbTu3QV4lhJIMw - Tech Events pseudo 24/7 (CNet)
+    -   https://youtube.com/@thegameawards/live - Summer Game Fest / Game Awards
+-   https://youtube.com/@CNETHighlights/live - Tech Events pseudo 24/7 (CNet)
     -   https://youtube.com/watch?v=2SjrX1mRy_c&list=RDCMUCmKtn_HvpfbTu3QV4lhJIMw&start_radio=1 - CNet Mix
-    -   https://youtube.com/embed/live_stream?channel=UCE_M8A5yxnLfW0KghEeajjw - Apple
+    -   https://youtube.com/@Apple/live - Apple
         -   https://youtube.com/watch?v=86D7AGm5sHk&list=RDCMUCE_M8A5yxnLfW0KghEeajjw&start_radio=1 - Apple Mix
 
 ---
 
--   https://youtube.com/embed/live_stream?channel=UCA1d3HFGFUmkKr2JIUA5Vlw - VALORANT Esports Official
-    -   https://youtube.com/embed/live_stream?channel=UCA8fUfoBLWyUpAZTbXB0uoA or https://twitch.tv/valorant_pacific - VALORANT Esports Pacific
-    -   https://youtube.com/embed/live_stream?channel=UCp6n8d8Y8r3MwKNw_MMaouQ - VALORANT Esports EMEA
-    -   https://youtube.com/embed/live_stream?channel=UCieig5EsTFI3PIJpyfk2qSg or https://twitch.tv/valorant_ph - VALORANT Esports PH
-    -   https://youtube.com/embed/live_stream?channel=UCc1VJX_5Z2RdGi58XU4IfbA or https://twitch.tv/valorantesports_cn - VALORANT Esports CN
-    -   https://youtube.com/embed/live_stream?channel=UCzVgCrOcBAWYEHTtVOMPAtw - VALORANT JP
+-   https://youtube.com/channel/UCA1d3HFGFUmkKr2JIUA5Vlw - VALORANT Esports Official
+    -   https://twitch.tv/valorant_pacific - VALORANT Esports Pacific
+    -   https://youtube.com/channel/UCp6n8d8Y8r3MwKNw_MMaouQ - VALORANT Esports EMEA
+    -   https://twitch.tv/valorant_ph - VALORANT Esports PH
+    -   https://twitch.tv/valorantesports_cn - VALORANT Esports CN
+    -   https://youtube.com/channel/UCzVgCrOcBAWYEHTtVOMPAtw - VALORANT JP
 
 ---
 
--   https://youtube.com/embed/live_stream?channel=UCVe-b2qi-e7m01POXTCliKg - Popular JPN esports organizer
-    -   https://youtube.com/embed/live_stream?channel=UCV3h-YCXiKiMmVupdknm73Q
+-   https://youtube.com/@CMZGG/live - Popular JPN esports organizer
+    -   https://youtube.com/@CrazyRaccoonOfficial/live
 
 ---
 
--   https://youtube.com/embed/live_stream?channel=UCAFb4p0Xn19QIbz2V6I3pKg - F1 Chat
-    -   https://youtube.com/embed/live_stream?channel=UCxyxUe_jRskL8xH7n580Ecw
+-   https://youtube.com/@RacingStatistics/live - F1 Chat
+    -   https://youtube.com/@CameronF1./live
 
 ---
 
@@ -381,10 +382,9 @@ https://youtube.com/embed/live_stream?channel=UCJhjE7wbdYAae1G25m0tHAA - Cafe Mu
 
 ---
 
--   https://youtube.com/embed/live_stream?channel=UCSJ4gkVC6NrvII8umztf0Ow - LoFi Music 24/7
-    -   https://youtube.com/embed/live_stream?channel=UCS69p8SVFB0To2mdcU_LABQ
-    -   https://player.twitch.tv/?channel=retroweatherchannel&parent=twitch.tv (vaporwave, but still chill)
-        -   https://youtube.com/embed/live_stream?channel=UCf69z7VtcSTygbNKdFn4ELg
+-   https://www.youtube.com/@LofiGirl/live - LoFi Music 24/7
+    -   https://player.twitch.tv/?channel=retroweatherchannel&parent=twitch.tv (vaporwave)
+        -   https://www.youtube.com/@Krelez/live
 
 # **_Live - Questionable_**
 
@@ -413,13 +413,10 @@ https://youtube.com/playlist?list=PL39_ud5aKSvnYDhKdB7wTDUZRiE8RaJat - How It's 
 ---
 
 **_Anime & non-live-action_**<br>
-https://allanime.to/<br>
-https://animeheaven.ru<br>
+https://allmanga.to/<br>
 https://animepahe.ru/<br>
-    -   https://animepahe.org/
-    -   https://animepahe.com/
 https://animesuge.to/<br>
-https://anitaku.to/
+https://anitaku.so/
 
 ---
 
