@@ -302,8 +302,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 -   `https://youtube.com/embed/live_stream?channel=UCA1d3HFGFUmkKr2JIUA5Vlw`
 -   `https://www.youtube.com/embed/GCVJIVeoAeM?list=PL5J-buULhg1deKOomO69DYfS7EGiy6OVj`
 
--   https://ytlarge.com/youtube/channel-id-finder - Find channel id
-    -   `https://youtube.com/embed/live_stream?channel=[channel id]`
+-   https://mattw.io/youtube-metadata/ - Find channel id
     -   `https://www.youtube.com/watch?v=[video id from channel]&list=RDCM[channel id]` - mix
 -   https://jabrek.net/dislike-en/ - View youtube dislikes
 
@@ -377,8 +376,8 @@ https://youtube.com/@WWE/live - WWE Talk Shows (not 24/7)
 
 ---
 
-https://youtube.com/embed/live_stream?channel=UCDf6reK_hHcz0d7KWBhmPhA - Dance / EDM / House 24/7<br>
-https://youtube.com/embed/live_stream?channel=UCJhjE7wbdYAae1G25m0tHAA - Cafe Music 24/7
+https://youtube.com/@artofminimaltechno/live - Dance / EDM / House 24/7<br>
+https://youtube.com/@cafemusicbgmchannel/live - Cafe Music 24/7
 
 ---
 
@@ -416,11 +415,8 @@ https://youtube.com/playlist?list=PL39_ud5aKSvnYDhKdB7wTDUZRiE8RaJat - How It's 
 https://allmanga.to/<br>
 https://animepahe.ru/<br>
 https://animesuge.to/<br>
+https://aniwave.to/<br>
 https://anitaku.so/
-
----
-
--   https://aniwave.to/
 
 ---
 
