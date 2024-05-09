@@ -149,10 +149,6 @@ https://developer.dolby.com/tools-media/sample-media/video-streams/dolby-vision-
 
 **_Dev_**
 
--   https://chat.openai.com - ChatGPT (actually a good coding tool!!)
-    -   https://bing.com/chat - Microsoft Bing (GPT-4 + Internet)
-    -   https://poe.com - Claude & more
-    -   https://chat.lmsys.org - Open chatbots + GPT-4[-Turbo]
 -   https://paiza.io/ - Online web dev
     -   https://replit.com/   
 -   https://vscode.dev
@@ -160,7 +156,6 @@ https://developer.dolby.com/tools-media/sample-media/video-streams/dolby-vision-
 
 # **_Software - Legal_**
 
-https://archive.org/details/Adobe-CS2 - Adobe CS2 (Activation servers offline, Adobe isnt even bothering taking DLs down)<br>
 https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053 - MakeMKV Beta Key
 
 ---
@@ -199,15 +194,13 @@ https://majorgeeks.com/ - Majorgeeks
     -   https://github.com/gravesoft/msdl
     -   https://developer.microsoft.com/en-us/windows/downloads/virtual-machines - Windows virtual machine hard drive files
     -   https://microsoft.com/en-us/software-download/windowsinsiderpreviewiso - Download Windows Insider ISOs
-        -   https://archive.org/details/@taru_panther
     -   https://store.rg-adguard.net/ - Download Windows store .appx files
     -   https://github.com/massgravel/Microsoft-Activation-Scripts - Windows activation
         -   https://github.com/Endermanch/XPKeygen - Windows XP
 -   https://sourceforge.net/projects/andyyan-gsi/ - LineageOS Treble GSI
-    -   https://github.com/ponces/treble_build_pe/releases - Pixel experience
     -   https://opengapps.org/ - Gapps package (i recommend "nano")
 -   https://liteapks.com - Lite apks
--   https://9xbud.com/, https://9xbuddy.com/, https://9xbuddy.in/, https://9xbuddy.xyz/, https://9xyoutube.com/ - Universal downloader for YT, reddit, twitter
+-   https://9xbud.com/, https://9xbuddy.com/, https://9xbuddy.in/, https://9xbuddy.online - Universal downloader for YT, reddit, twitter
     -   https://cobalt.tools
     -   https://en.savefrom.net  
     -   https://yout.com
