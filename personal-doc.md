@@ -203,7 +203,6 @@ https://majorgeeks.com/ - Majorgeeks
 -   https://9xbud.com/, https://9xbuddy.com/, https://9xbuddy.in/, https://9xbuddy.online - Universal downloader for YT, reddit, twitter
     -   https://cobalt.tools
     -   https://en.savefrom.net  
-    -   https://yout.com
     -   https://fdown.net/ - facebook
     -   https://spotify-downloader.com/ - Spotify
     -   https://twsaver.com/ - twitter
@@ -230,8 +229,7 @@ https://watchwrestling24.net - Wrestling VODs
 
 ---
 
--   https://free-mp3-download.net/ - FLAC Direct download
-    -   https://discogc.com
+-   https://discogc.com - FLAC Direct download
     -   https://flacfile.blogspot.com
     -   https://hikarinoakari.com
     -   https://jpopsingles.eu
