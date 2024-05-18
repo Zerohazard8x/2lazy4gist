@@ -83,16 +83,15 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
 
 ---
 
--   https://riverside.rocks/services - Web frontends for various social media
+-   https://tiekoetter.com/services - Web frontends for various social media
     -   https://clipzag.com - youtube (not privacy respecting??)
     -   https://nitter.poast.org - twitter
     -   https://funami.tech
-    -   https://privacydev.net/services.html
     -   https://pussthecat.org
-    -   https://slipfox.xyz
     -   https://tiekoetter.com/services
     -   https://kavin.rocks/services
-    -   https://whateveritworks.org
+    -   https://privacyredirect.com/
+    -   https://privacydev.net/services.html
 
 ---
 
