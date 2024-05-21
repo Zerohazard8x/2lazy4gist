@@ -28,6 +28,7 @@ https://photoroom.com - Background removal<br>
 https://promptr.co/ - Teleprompter<br>
 https://qrcodescan.in/ - QR scanner<br>
 https://simpletouchsoftware.com/timers/tabatapro/ - Tabata timer<br>
+https://simplevideoplayer.com/ - Play local media in browser <br>
 https://sites.google.com/site/tyroneunblockedgame/ - Online games collection <br>
 https://szynalski.com/tone-generator/ - tone generator/frequency player<br>
 https://textplus.com/ - VoIP<br>
