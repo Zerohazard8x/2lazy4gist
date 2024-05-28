@@ -93,6 +93,7 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
     -   https://kavin.rocks/services
     -   https://privacyredirect.com/
     -   https://privacydev.net/services.html
+    -   https://launch.whatever.social/
 
 ---
 
@@ -133,13 +134,16 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
 
 https://southparkstudios.com/seasons/south-park - South Park Full Episodes<br>
 https://youtube.com/c/AnimeonTMSOfficialChannel - Assorted TMS Anime Full Episodes (e.g Sonic X)<br>
-https://youtube.com/c/MuseAsia - Assorted MuseAsia Anime Full Episodes (e.g. Tokyo Revengers, JoJo, Spy x Family)<br>
+https://youtube.com/c/MuseAsia - Assorted MuseAsia Anime Full Episodes (e.g. JoJo, Spy x Family)<br>
 https://youtube.com/c/Pok%C3%A9monAsiaENG - Pokemon Anime Full Episodes n More<br>
+- https://www.youtube.com/watch?v=wq8d8R8gin4&list=RDCMUCR1r4GPUBvdI0EJBpxKYPQQ - mix <br>
 https://youtube.com/playlist?list=PLQOJdrIdqhW3hB8EuTofununVfX0pBDPa - WWE Full Matches <br>
 https://youtube.com/playlist?list=PLWmD0FKyW_ozrMGGtHaW2bJtZk4euj__p - [Cut] Simpsons playlist <br>
 https://youtube.com/playlist?list=PLylTItjXRUVdHImLFyb2DfOagPFYNbqW1 - Forensic Files<br>
-https://youtube.com/watch?v=bmAprGzLqqg&list=RDCMUCJlbG6XY4str77gMuP3gtdg - Sonic Boom mix <br>
+https://youtube.com/@Sonic.Boom_Official - Sonic Boom<br>
+- https://youtube.com/watch?v=bmAprGzLqqg&list=RDCMUCJlbG6XY4str77gMuP3gtdg - mix <br>
 https://www.youtube.com/@WildBrainSuperheroes - DiC 90s cartoons e.g. Mario Super Show, Adventures of Sonic <br>
+- https://www.youtube.com/watch?v=WmLzql3PpKo&list=RDCMUCUVnfQaEmCIhFZC5d_JniyQ - mix <br>
 
 ---
 
@@ -266,7 +270,7 @@ https://rutracker.net/forum/index.php
 -   https://bitsearch.to
 
 -   https://scnlog.me
-    -   https://twitter.com/scnlogftw
+    -   https://x.com/scnlogftw
 
 # **_Usenetting - Questionable_**
 
