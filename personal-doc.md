@@ -287,7 +287,7 @@ https://nzbgeek.info
 `https://youtube.com/live_chat?is_popout=1&v=GCVJIVeoAeM`<br>
 
 -   `https://youtube.com/watch?v=GCVJIVeoAeM`
--   `https://youtube.com/playlist?list=RD[video id]&playnext=1&start_radio=1` - mix (results may vary)
+-   `https://youtube.com/watch?v=[video id]&list=RD[video id]&start_radio=1` - mix (results may vary)
 
 ```
 https://youtube.com/embed/GCVJIVeoAeM ->
