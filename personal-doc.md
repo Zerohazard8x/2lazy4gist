@@ -94,6 +94,7 @@ https://polsy.org.uk/stuff/ytrestrict.cgi - Youtube restrictions checker
     -   https://privacyredirect.com/
     -   https://privacydev.net/services.html
     -   https://launch.whatever.social/
+    -   https://catsarch.com
 
 ---
 
