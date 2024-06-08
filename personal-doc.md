@@ -349,8 +349,10 @@ https://youtube.com/@WWE/live - WWE Talk Shows (not 24/7)
 -   https://youtube.com/@IGN/live - Gaming Events pseudo 24/7 (IGN)
     -   https://youtube.com/watch?v=wEY-pTqdGys&list=RDCMUCKy1dAqELo0zrOtPkf0eTMw&start_radio=1 - IGN Mix
     -   https://youtube.com/@thegameawards/live - Summer Game Fest / Game Awards
--   https://youtube.com/@CNETHighlights/live - Tech Events pseudo 24/7 (CNet)
-    -   https://youtube.com/watch?v=2SjrX1mRy_c&list=RDCMUCmKtn_HvpfbTu3QV4lhJIMw&start_radio=1 - CNet Mix
+-   https://youtube.com/@CNET/live - Tech Events pseudo 24/7 (CNet)
+    -   https://www.youtube.com/watch?v=fCqtlDl78WU&list=RDCMUCOmcA3f_RrH6b9NmcNa4tdg&start_radio=1 - CNet Mix
+    -   https://youtube.com/@CNETHighlights/live
+        -   https://youtube.com/watch?v=2SjrX1mRy_c&list=RDCMUCmKtn_HvpfbTu3QV4lhJIMw&start_radio=1 - Mix
     -   https://youtube.com/@Apple/live - Apple
         -   https://youtube.com/watch?v=86D7AGm5sHk&list=RDCMUCE_M8A5yxnLfW0KghEeajjw&start_radio=1 - Apple Mix
 
