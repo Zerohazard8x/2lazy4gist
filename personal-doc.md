@@ -1,4 +1,4 @@
-# **_Websites> - Legal_**
+# **_Websites - Legal_**
 
 **_Web utils_**  
 Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s  
@@ -163,7 +163,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 - <https://vscode.dev>
   - <https://github.dev>
 
-## **_Software> - Legal_**
+## **_Software - Legal_**
 
 <https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053> - MakeMKV Beta Key
 
@@ -184,7 +184,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 - <https://spacedesk.net> - Connect android and ios devices as pc displays
   - TIP: Launch spacedesk app, turn quality all the way down. Then use parsec to cast the spacedesk virtual monitor
 
-## **_Trusted / Official DLs> - Legal_**
+## **_Trusted / Official DLs - Legal_**
 
 <https://download.cnet.com/> - Cnet Download.com  
 <https://fosshub.com/> - Fosshub (free open source software hub)  
@@ -245,7 +245,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 ---
 
-## **_Torrenting> - Questionable_**
+## **_Torrenting - Questionable_**
 
 **_Kickass Torrents is Dead. Do not trust anything labeled KAT_**
 
@@ -277,7 +277,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 - <https://scnlog.me>
   - <https://x.com/scnlogftw>
 
-## **_Usenetting> - Questionable_**
+## **_Usenetting - Questionable_**
 
 <https://newsdemon.com>  
 <https://tweaknews.eu>
@@ -286,7 +286,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 <https://nzbgeek.info>
 
-## **_Live> - Legal_**
+## **_Live - Legal_**
 
 **_YT Popout Chat_**  
 `https://youtube.com/live_chat?is_popout=1&v=GCVJIVeoAeM`  
@@ -401,7 +401,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 <https://linksnappy.com>  
 <https://real-debrid.com>
 
-## **_VOD> - Questionable_**
+## **_VOD - Questionable_**
 
 <https://drive.google.com/drive/u/0/folders/14-nFq_FcoX0IK_A_GRJy9Uwz3NipcEzG> - Top Gear GDrive  
 
