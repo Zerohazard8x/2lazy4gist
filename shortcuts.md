@@ -1,4 +1,19 @@
-# News
+# shortcuts
+
+- [YT Music](https://music.youtube.com)
+- [Apple Music](https://music.apple.com)
+- [Spotify](https://open.spotify.com)
+
+---
+
+- [MSN Weather](https://www.msn.com/en-us/weather/maps/radar)
+- [Tomorrow Weather](https://weather.tomorrow.io)
+- [Meteum](https://meteum.ai/weather/search)
+- [Google Weather](https://www.google.com/search?q=weather&udm=0&safe=off)
+
+---
+
+## news
 
 - [Bing News - Wrestling](https://www.bing.com/news/search?q=site%3Aringsidenews.com%20OR%20site%3Awrestlinginc.com%20OR%20site%3Afightful.com)
 - [Bing News - Tech](https://www.bing.com/news/search?q=msft%20OR%20aapl%20OR%20goog%20OR%20anthropic%20OR%20openai%20OR%20perplexity%20OR%20ios%20OR%20windows%20OR%20starlink)
