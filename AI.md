@@ -1,62 +1,62 @@
 # AI Links
 
-- https://huggingface.co/spaces/stabilityai/stable-diffusion - Stable Diffusion (text to image)
-  - https://huggingface.co/spaces/camenduru/webui
-- https://beta.elevenlabs.io/ - Text to speech
+- <https://huggingface.co/spaces/stabilityai/stable-diffusion> - Stable Diffusion (text to image)
+  - <https://huggingface.co/spaces/camenduru/webui>
+- <https://beta.elevenlabs.io/> - Text to speech
 
 ---
 
 **_Novelties_**
 
-- https://huggingface.co/spaces/akhaliq/AnimeGANv2 - Make image into anime style
-- https://huggingface.co/spaces/akhaliq/ArcaneGAN - Make image into Arcane (Netflix series by Riot Games) style
-- https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation - Text to anything other than speech
+- <https://huggingface.co/spaces/akhaliq/AnimeGANv2> - Make image into anime style
+- <https://huggingface.co/spaces/akhaliq/ArcaneGAN> - Make image into Arcane (Netflix series by Riot Games) style
+- <https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation> - Text to anything other than speech
 
 ---
 
 **_Upscalers_**
 
-- https://upscalerjs.com/demo - In-browser upscaler
-- https://replicate.com/jingyunliang/swinir
-- https://huggingface.co/spaces/sczhou/CodeFormer - Face restoration
-  - https://replicate.com/sczhou/codeformer
-- https://replicate.com/xinntao/realesrgan
-- https://huggingface.co/spaces/Xintao/GFPGAN - GFPGAN (face)
-- https://capcut.com/tools/ai-image-upscaler
+- <https://upscalerjs.com/demo> - In-browser upscaler
+- <https://replicate.com/jingyunliang/swinir>
+- <https://huggingface.co/spaces/sczhou/CodeFormer> - Face restoration
+  - <https://replicate.com/sczhou/codeformer>
+- <https://replicate.com/xinntao/realesrgan>
+- <https://huggingface.co/spaces/Xintao/GFPGAN> - GFPGAN (face)
+- <https://capcut.com/tools/ai-image-upscaler>
 
 ---
 
 **_LLMs_**
 
-- https://chatgpt.com - OpenAI GPT3.5 turbo + paid OpenAI GPT4
-  - https://poe.com - ChatGPT alternative frontend + Claude + GPT4
-  - https://perplexity.ai
-  - https://you.com/chat - GPT4 limited use
-- https://gemini.google.com - Google Gemini
-- https://copilot.microsoft.com - GPT4[-Turbo]
-  - https://edgeservices.bing.com/edgesvc/chat?darkschemeovr=0&ldarkschemeovr=1 - Dark mode
-  - https://bing.com/chat
-  - https://bing.vcanbb.top - Proxy (UI is chinese but can be talked to in English)
-- https://chat.lmsys.org - Open Chatbots
-  - https://huggingface.co/chat/
-    - https://huggingface.co/spaces?sort=likes
-  - https://open-assistant.io
-  - https://groq.com
-  - https://chat.mistral.ai/
-  - https://labs.perplexity.ai
-- https://chat.forefront.ai - GPT4
-- https://ora.sh - GPT4
-- https://pi.ai
-- https://phind.com/ - GPT4 limited use
-- https://wnr.ai/templates/ask-me-to-do-anything-with-gpt-4
+- <https://chatgpt.com> - OpenAI
+  - <https://poe.com> - ChatGPT alternative frontend + Claude + GPT4
+  - <https://perplexity.ai>
+  - <https://you.com/chat>
+- <https://gemini.google.com> - Google Gemini
+- <https://copilot.microsoft.com> - Microsoft
+  - <https://edgeservices.bing.com/edgesvc/chat?darkschemeovr=0&ldarkschemeovr=1> - Dark mode
+  - <https://bing.com/chat>
+  - <https://bing.vcanbb.top> - Proxy (UI is chinese but can be talked to in English)
+- <https://chat.lmsys.org> - Open Chatbots
+  - <https://huggingface.co/chat/>
+    - <https://huggingface.co/spaces?sort=likes>
+  - <https://open-assistant.io>
+  - <https://groq.com>
+  - <https://chat.mistral.ai/>
+  - <https://labs.perplexity.ai>
+- <https://chat.forefront.ai>
+- <https://ora.sh>
+- <https://pi.ai>
+- <https://phind.com/>
+- <https://wnr.ai/templates/ask-me-to-do-anything-with-gpt-4>
 
 ---
 
-# All work with ChatGPT and derivatives + Bard
+## All work with ChatGPT and derivatives + Google
 
 **_NEW General Format (derived from github.com/spdustin/ChatGPT-AutoExpert)_**
 
-```
+```plaintext
 Step 1: IF (your answer requires multiple responses OR is continuing from a prior response) {
 > ⏯️ briefly, say what's covered in this response
 }
@@ -73,7 +73,7 @@ Step 3: IF (another response will be needed) {
 
 **_Translating_**
 
-```
+```plaintext
 Please translate the following in 1-3 ways, into English, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
@@ -89,7 +89,7 @@ Do's:
 
 **_Rewriting_**
 
-```
+```plaintext
 If the following is awkward or grammatically incorrect, please rewrite it, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
@@ -104,7 +104,7 @@ Do's:
 
 **_Rewriting with least number of letters changed_**
 
-```
+```plaintext
 Please rewrite the following, without changing its language, and in accordance with the guidelines below it. You can also respond as many times as you want without my input.
 
 ---START---
@@ -121,7 +121,7 @@ Do's:
 
 **_Fact-checking_**
 
-```
+```plaintext
 Please devise a strategy to fact-check the following claim, via a "truthfulness percentage", and in accordance with the following guidelines. You can also respond as many times as you want without my input.
 
 Claim:
@@ -142,7 +142,7 @@ Don'ts:
 
 **_Researching_**
 
-```
+```plaintext
 Please devise a strategy to research about the following topic, in accordance with the guidelines below said topic. You can also respond as many times as you want without my input.
 
 Topic:
@@ -160,7 +160,7 @@ Don'ts:
 
 **_General task_**
 
-```
+```plaintext
 Please devise a strategy to perform the following task, in accordance with the guidelines below said task. You can also respond as many times as you want without my input.
 
 Task: 
@@ -178,7 +178,7 @@ Don'ts:
 
 **_Programming: Rewriting code_**
 
-```
+```plaintext
 Please devise a strategy to rewrite the following code, in accordance with the guidelines below said code. You can also respond as many times as you want without my input.
 
 ---CODE START---
@@ -198,7 +198,7 @@ Don'ts
 
 **_Programming: Finding of errors_**
 
-```
+```plaintext
 Please find errors in the following code and create a numbered list containing the solutions to said errors, in accordance with the guidelines below said code. You can also respond as many times as you want without my input.
 
 ---CODE START---
@@ -213,7 +213,7 @@ Do's
 
 **_Programming: Code to algorithm_**
 
-```
+```plaintext
 I would like you to convert code into an algorithm formatted using Markdown. Below is an example of what an output should look like once followed and rendered. I will provide the code shortly.
 
 --- SAMPLE OUTPUT START ---
