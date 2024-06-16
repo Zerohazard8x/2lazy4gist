@@ -25,7 +25,7 @@
 
 ---
 
-- [Google News - Wrestling](https://news.google.com/search?q=site%253Aringsidenews.com%20OR%20site%253Awrestlinginc.com%20OR%20site%253Afightful.com%20when%253A1d)
+- [Google News - Wrestling](https://news.google.com/search?q=site%3Aringsidenews.com%20OR%20site%3Awrestlinginc.com%20OR%20site%3Afightful.com%20when%3A1d)
 - [Google News - Tech](https://news.google.com/search?q=msft%20OR%20aapl%20OR%20goog%20OR%20anthropic%20OR%20openai%20OR%20perplexity%20OR%20ios%20OR%20windows%20OR%20starlink%20when%3A1d)
 - [Google News - Local](https://news.google.com/search?q=site%3Anewsinfo.inquirer.net%20OR%20site%3Ainteraksyon.philstar.com%20OR%20site%3Anews.abs-cbn.com%2Fnews%20OR%20site%3Aphilstar.com%2Fnation%20when%3A1d)
 - [Google News - Games](https://news.google.com/search?q=genshin%20OR%20valorant%20OR%20(league%20%22of%20legends%22)%20OR%20wuthering%20when%3A1d)
