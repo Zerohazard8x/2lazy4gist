@@ -59,7 +59,7 @@
 - [Ecosia - Games](https://www.ecosia.org/search?q=genshin%20OR%20valorant%20OR%20(league%20%22of%20legends%22)%20OR%20wuthering%20OR%20ntes%20OR%20ttwo%20OR%20ea&freshness=day)
 
 ---
-- [Yandex - Wrestling](https://yandex.com/search/?text=url%253Aringsidenews.com%252F*+%7C+url%253Awrestlinginc.com%252F*+%7C+url%253Afightful.com%252F*&within=77)
+- [Yandex - Wrestling](https://yandex.com/search/?text=url%3Aringsidenews.com%2F*+%7C+url%3Awrestlinginc.com%2F*+%7C+url%3Afightful.com%2F*&within=77)
 - [Yandex - Tech](https://yandex.com/search/?text=msft%20OR%20aapl%20OR%20goog%20OR%20anthropic%20OR%20openai%20OR%20perplexity%20OR%20ios%20OR%20windows%20OR%20starlink&within=77)
 - [Yandex - Local](https://yandex.com/search/?text=url%3Anewsinfo.inquirer.net%2F*+%7C+url%3Ainteraksyon.philstar.com%2F*+%7C+url%3Anews.abs-cbn.com%2Fnews*+%7C+url%3Aphilstar.com%2Fnation*&within=77)
 - [Yandex - Games](https://yandex.com/search/?text=genshin%20OR%20valorant%20OR%20(league%20%22of%20legends%22)%20OR%20wuthering%20OR%20ntes%20OR%20ttwo%20OR%20ea&within=77)
