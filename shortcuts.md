@@ -45,6 +45,15 @@
 
 ---
 
+- [You.com - Wrestling](https://you.com/search?q=site%3Aringsidenews.com%20OR%20site%3Awrestlinginc.com%20OR%20site%3Afightful.com)
+- [You.com - Tech](https://you.com/search?q=msft%20OR%20aapl%20OR%20goog%20OR%20anthropic%20OR%20openai%20OR%20perplexity%20OR%20ios%20OR%20windows%20OR%20starlink)
+- [You.com - Local](https://you.com/search?q=site%3Anewsinfo.inquirer.net%20OR%20site%3Ainteraksyon.philstar.com%20OR%20site%3Anews.abs-cbn.com%2Fnews%20OR%20site%3Aphilstar.com%2Fnation)
+- [You.com - Games](https://you.com/search?q=genshin+OR+valorant+OR+%28league+"of+legends"%29+OR+wuthering+OR+%28smash+bros%29+OR+ntes+OR+ttwo+OR+ea)
+- [You.com - Foreign Gaming](https://you.com/search?q=(%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F+OR+%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6+OR+(%E3%83%AA%E3%83%BC%E3%82%B0%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%89)+OR+%E3%83%B4%E3%82%A1%E3%83%AD%E3%83%A9%E3%83%B3%E3%83%88+OR+(%EB%A6%AC%EA%B7%B8+%EC%98%A4%EB%B8%8C+%EB%A0%88%EC%A0%84%EB%93%9C)+OR+(%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8)+OR+valorant+OR+(league+of+legends)+OR+vct+OR+lck+OR+lpl+OR+lec+OR+lcs)+site:weibo.com+OR+site:weibo.cn+OR+site:hupu.com+OR+site:shirataba.net+OR+site:5ch.net+OR+site:nate.com+OR+site:naver.com)
+- <!-- Format: - [You.com - ](https://you.com/search?q=[query]) -->
+
+---
+
 - [Google News - Wrestling](https://news.google.com/search?q=site%3Aringsidenews.com%20OR%20site%3Awrestlinginc.com%20OR%20site%3Afightful.com%20when%3A1d)
 - [Google News - Tech](https://news.google.com/search?q=msft%20OR%20aapl%20OR%20goog%20OR%20anthropic%20OR%20openai%20OR%20perplexity%20OR%20ios%20OR%20windows%20OR%20starlink%20when%3A1d)
 - [Google News - Local](https://news.google.com/search?q=site%3Anewsinfo.inquirer.net%20OR%20site%3Ainteraksyon.philstar.com%20OR%20site%3Anews.abs-cbn.com%2Fnews%20OR%20site%3Aphilstar.com%2Fnation%20when%3A1d)
