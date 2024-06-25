@@ -84,9 +84,9 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 ---
 
-- <https://tiekoetter.com/services> - Web frontends for various social media
+- <https://freedit.eu> - Web frontends for various social media
   - <https://clipzag.com> - youtube (not privacy respecting??)
-  - <https://nitter.poast.org> - twitter
+  - <https://nitter.poast.org>,<https://xcancel.com> - twitter
   - <https://funami.tech>
   - <https://pussthecat.org>
   - <https://tiekoetter.com/services>
