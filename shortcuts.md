@@ -81,12 +81,12 @@
 
 ---
 
-- [Yandex - Wrestling](https://yandex.com/search/?text=%22ringsidenews%20com%22%20OR%20%22wrestlinginc%20com%22%20OR%20%22fightful%20com%22%20OR%20site%3Aringsidenews.com%20OR%20site%3Awrestlinginc.com%20OR%20site%3Afightful.com&within=77)
-- [Yandex - Tech](https://yandex.com/search/?text=msft+OR+aapl+OR+goog+OR+%28ai+%28generate+OR+generative+OR+model%29%29+OR+perplexity+OR+ios+OR+windows+OR+starlink&within=77)
-- [Yandex - Local](https://yandex.com/search/?text=%22newsinfo%20inquirer%20net%22%20OR%20%22news%20abs%20cbn%20com%20news%22%20OR%20%22philstar%20com%20nation%22%20OR%20%22gmanetwork%20com%20news%20topstories%20metro%22%20OR%20%22gmanetwork%20com%20news%20topstories%20nation%22%20OR%20%22gmanetwork%20com%20news%20balitambayan%22%20OR%20site%3Anewsinfo.inquirer.net%20OR%20site%3Anews.abs-cbn.com%2Fnews%20OR%20site%3Aphilstar.com%2Fnation%20OR%20site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro%20OR%20site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation%20OR%20site%3Agmanetwork.com%2Fnews%2Fbalitambayan&within=77)
-- [Yandex - Games](https://yandex.com/search/?text=genshin+OR+valorant+OR+%28league+"of+legends"%29+OR+wuthering+OR+%28smash+bros%29+OR+ntes+OR+ttwo+OR+ea&within=77)
-- [Yandex - Global](https://yandex.com/search/?text=%22channelnewsasia%20com%20world%22%20OR%20%22france24%20com%20en%20live%20news%22%20OR%20%20%22scmp%20com%20news%20world%22%20OR%20%22reuters%20com%20world%22%20OR%20site%3Achannelnewsasia.com%2Fworld%20OR%20site%3Afrance24.com%2Fen%2Flive-news%20OR%20site%3Ascmp.com%2Fnews%2Fworld%20OR%20site%3Areuters.com%2Fworld&within=77)
-<!-- Format: - [Yandex - *queryTitle*](https://yandex.com/search/?text=[query]&within=77) -->
+- [Yandex - Wrestling](https://yandex.com/search/?text=%22ringsidenews%20com%22%20OR%20%22wrestlinginc%20com%22%20OR%20%22fightful%20com%22%20OR%20site%3Aringsidenews.com%20OR%20site%3Awrestlinginc.com%20OR%20site%3Afightful.com&within=77&noreask=1)
+- [Yandex - Tech](https://yandex.com/search/?text=msft+OR+aapl+OR+goog+OR+%28ai+%28generate+OR+generative+OR+model%29%29+OR+perplexity+OR+ios+OR+windows+OR+starlink&within=77&noreask=1)
+- [Yandex - Local](https://yandex.com/search/?text=%22newsinfo%20inquirer%20net%22%20OR%20%22news%20abs%20cbn%20com%20news%22%20OR%20%22philstar%20com%20nation%22%20OR%20%22gmanetwork%20com%20news%20topstories%20metro%22%20OR%20%22gmanetwork%20com%20news%20topstories%20nation%22%20OR%20%22gmanetwork%20com%20news%20balitambayan%22%20OR%20site%3Anewsinfo.inquirer.net%20OR%20site%3Anews.abs-cbn.com%2Fnews%20OR%20site%3Aphilstar.com%2Fnation%20OR%20site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro%20OR%20site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation%20OR%20site%3Agmanetwork.com%2Fnews%2Fbalitambayan&within=77&noreask=1)
+- [Yandex - Games](https://yandex.com/search/?text=genshin+OR+valorant+OR+%28league+"of+legends"%29+OR+wuthering+OR+%28smash+bros%29+OR+ntes+OR+ttwo+OR+ea&within=77&noreask=1)
+- [Yandex - Global](https://yandex.com/search/?text=%22channelnewsasia%20com%20world%22%20OR%20%22france24%20com%20en%20live%20news%22%20OR%20%20%22scmp%20com%20news%20world%22%20OR%20%22reuters%20com%20world%22%20OR%20site%3Achannelnewsasia.com%2Fworld%20OR%20site%3Afrance24.com%2Fen%2Flive-news%20OR%20site%3Ascmp.com%2Fnews%2Fworld%20OR%20site%3Areuters.com%2Fworld&within=77&noreask=1)
+<!-- Format: - [Yandex - *queryTitle*](https://yandex.com/search/?text=[query]&within=77&noreask=1) -->
 
 ---
 
