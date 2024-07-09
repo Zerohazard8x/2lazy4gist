@@ -19,7 +19,7 @@
 ## news
 
 - [Wrestling - Bing News](https://www.bing.com/news/search?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&qft=interval%3d"7")
-- [Tech - Bing News](https://www.bing.com/news/search?q=msft+%7C+aapl+%7C+goog+%7C+%28ai+generate%29+%7C+%28ai+generative%29+%7C+%28ai+model%29+%7C+perplexity+%7C+ios+%7C+%28windows+11%29+%7C+%28windows+10%29+%7C+%28windows+update%29+%7C+starlink&qft=interval%3d"7")
+- [Tech - Bing News](https://www.bing.com/news/search?q=msft+OR+aapl+OR+goog+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&qft=interval%3d"7")
 - [Local - Bing News](https://www.bing.com/news/search?q=%28newsinfo+inquirer+net%29+%7C+%28sports+inquirer+net%29+%7C+site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net&qft=interval%3d"7")
 - [Games - Bing News](https://www.bing.com/news/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&qft=interval%3d"7")
 - [Global - Bing News](https://www.bing.com/news/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&qft=interval%3d"7")
@@ -29,7 +29,7 @@
 ---
 
 - [Wrestling - Bing Search](https://www.bing.com/search?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
-- [Tech - Bing Search](https://www.bing.com/search?q=msft+%7C+aapl+%7C+goog+%7C+%28ai+generate%29+%7C+%28ai+generative%29+%7C+%28ai+model%29+%7C+perplexity+%7C+ios+%7C+%28windows+11%29+%7C+%28windows+10%29+%7C+%28windows+update%29+%7C+starlink&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
+- [Tech - Bing Search](https://www.bing.com/search?q=msft+OR+aapl+OR+goog+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Local - Bing Search](https://www.bing.com/search?q=%28newsinfo+inquirer+net%29+%7C+%28sports+inquirer+net%29+%7C+site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Games - Bing Search](https://www.bing.com/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Global - Bing Search](https://www.bing.com/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
@@ -39,7 +39,7 @@
 ---
 
 - [Wrestling - DuckDuckGo](https://duckduckgo.com/?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&df=d&assist=true)
-- [Tech - DuckDuckGo](https://duckduckgo.com/?q=msft+%7C+aapl+%7C+goog+%7C+%28ai+generate%29+%7C+%28ai+generative%29+%7C+%28ai+model%29+%7C+perplexity+%7C+ios+%7C+%28windows+11%29+%7C+%28windows+10%29+%7C+%28windows+update%29+%7C+starlink&df=d)
+- [Tech - DuckDuckGo](https://duckduckgo.com/?q=msft+OR+aapl+OR+goog+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&df=d)
 - [Local - DuckDuckGo](https://duckduckgo.com/?q=%28newsinfo+inquirer+net%29+%7C+%28sports+inquirer+net%29+%7C+site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net&df=d&assist=true)
 - [Games - DuckDuckGo](https://duckduckgo.com/?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&df=d&assist=true)
 - [Global - DuckDuckGo](https://duckduckgo.com/?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&df=d&assist=true)
@@ -49,7 +49,7 @@
 ---
 
 - [Wrestling - You.com](https://you.com/search?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com)
-- [Tech - You.com](https://you.com/search?q=msft+%7C+aapl+%7C+goog+%7C+%28ai+generate%29+%7C+%28ai+generative%29+%7C+%28ai+model%29+%7C+perplexity+%7C+ios+%7C+%28windows+11%29+%7C+%28windows+10%29+%7C+%28windows+update%29+%7C+starlink)
+- [Tech - You.com](https://you.com/search?q=msft+OR+aapl+OR+goog+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink)
 - [Local - You.com](https://you.com/search?q=%28newsinfo+inquirer+net%29+%7C+%28sports+inquirer+net%29+%7C+site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net)
 - [Games - You.com](https://you.com/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes)
 - [Global - You.com](https://you.com/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com)
@@ -59,7 +59,7 @@
 ---
 
 - [Wrestling - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com)
-- [Tech - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=msft+%7C+aapl+%7C+goog+%7C+%28ai+generate%29+%7C+%28ai+generative%29+%7C+%28ai+model%29+%7C+perplexity+%7C+ios+%7C+%28windows+11%29+%7C+%28windows+10%29+%7C+%28windows+update%29+%7C+starlink)
+- [Tech - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=msft+OR+aapl+OR+goog+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink)
 - [Local - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=%28newsinfo+inquirer+net%29+%7C+%28sports+inquirer+net%29+%7C+site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net)
 - [Games - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes)
 - [Global - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com)
@@ -69,7 +69,7 @@
 ---
 
 - [Wrestling - Google Search](https://www.google.com/search?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&tbs=qdr:d&safe=off&filter=0)
-- [Tech - Google Search](https://www.google.com/search?q=msft+%7C+aapl+%7C+goog+%7C+%28ai+generate%29+%7C+%28ai+generative%29+%7C+%28ai+model%29+%7C+perplexity+%7C+ios+%7C+%28windows+11%29+%7C+%28windows+10%29+%7C+%28windows+update%29+%7C+starlink&tbs=qdr:d&safe=off&filter=0)
+- [Tech - Google Search](https://www.google.com/search?q=msft+OR+aapl+OR+goog+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&tbs=qdr:d&safe=off&filter=0)
 - [Local - Google Search](https://www.google.com/search?q=%28newsinfo+inquirer+net%29+%7C+%28sports+inquirer+net%29+%7C+site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net&tbs=qdr:d&safe=off&filter=0)
 - [Games - Google Search](https://www.google.com/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&tbs=qdr:d&safe=off&filter=0)
 - [Global - Google Search](https://www.google.com/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&tbs=qdr:d&safe=off&filter=0)
@@ -79,7 +79,7 @@
 ---
 
 - [Wrestling - Ecosia](https://www.ecosia.org/search?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&freshness=day)
-- [Tech - Ecosia](https://www.ecosia.org/search?q=msft+%7C+aapl+%7C+goog+%7C+%28ai+generate%29+%7C+%28ai+generative%29+%7C+%28ai+model%29+%7C+perplexity+%7C+ios+%7C+%28windows+11%29+%7C+%28windows+10%29+%7C+%28windows+update%29+%7C+starlink&freshness=day)
+- [Tech - Ecosia](https://www.ecosia.org/search?q=msft+OR+aapl+OR+goog+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&freshness=day)
 - [Local - Ecosia](https://www.ecosia.org/search?q=%28newsinfo+inquirer+net%29+%7C+%28sports+inquirer+net%29+%7C+site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net&freshness=day)
 - [Games - Ecosia](https://www.ecosia.org/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&freshness=day)
 - [Global - Ecosia](https://www.ecosia.org/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&freshness=day)
@@ -89,7 +89,7 @@
 ---
 
 - [Wrestling - Yandex](https://yandex.com/search/?text=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&within=77&noreask=1)
-- [Tech - Yandex](https://yandex.com/search/?text=msft+%7C+aapl+%7C+goog+%7C+%28ai+generate%29+%7C+%28ai+generative%29+%7C+%28ai+model%29+%7C+perplexity+%7C+ios+%7C+%28windows+11%29+%7C+%28windows+10%29+%7C+%28windows+update%29+%7C+starlink&within=77&noreask=1)
+- [Tech - Yandex](https://yandex.com/search/?text=msft+OR+aapl+OR+goog+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&within=77&noreask=1)
 - [Local - Yandex](https://yandex.com/search/?text=%28newsinfo+inquirer+net%29+%7C+%28sports+inquirer+net%29+%7C+site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net&within=77&noreask=1)
 - [Games - Yandex](https://yandex.com/search/?text=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&within=77&noreask=1)
 - [Global - Yandex](https://yandex.com/search/?text=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&within=77&noreask=1)
