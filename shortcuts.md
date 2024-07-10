@@ -46,7 +46,7 @@
 - [Games - DuckDuckGo](https://duckduckgo.com/?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&df=d&assist=true)
 - [Global - DuckDuckGo](https://duckduckgo.com/?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&df=d&assist=true)
 - [Financial - DuckDuckGo](https://duckduckgo.com/?q=(benzinga+com+general+gaming)+%7c+site%3abenzinga.com%2fgeneral%2fgaming+%7c+((msft+%7c+aapl+%7c+goog+%7c+ntes+%7c+ttwo+%7c+ea)+(site%3abenzinga.com+%7c+site%3ainvesting.com+%7c+site%3afinance.yahoo.com))&df=d&assist=true)
- - [*queryTitle* - DuckDuckGo](https://duckduckgo.com/?df=d&assist=true&q=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
+- [Fun - DuckDuckGo](https://duckduckgo.com/?df=d&assist=true&q=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
 <!-- Format: - [*queryTitle* - DuckDuckGo](https://duckduckgo.com/?df=d&assist=true&q=[query]) -->
 
 ---
