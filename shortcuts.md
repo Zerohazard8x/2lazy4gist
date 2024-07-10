@@ -23,7 +23,7 @@
 - [Local - Bing News](https://www.bing.com/news/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Aautoindustriya.com&qft=interval%3d"7")
 - [Games - Bing News](https://www.bing.com/news/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&qft=interval%3d"7")
 - [Global - Bing News](https://www.bing.com/news/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&qft=interval%3d"7")
-- [Financial - Bing News](https://www.bing.com/news/search?q=(benzinga+com+general+gaming)+%7c+site%3abenzinga.com%2fgeneral%2fgaming+%7c+((msft+%7c+aapl+%7c+goog+%7c+ntes+%7c+ttwo+%7c+intl+%7c+amd+%7c+tsm)+(site%3abenzinga.com+%7c+site%3ainvesting.com+%7c+site%3afinance.yahoo.com))&qft=interval%3d"7")
+- [Financial - Bing News](https://www.bing.com/news/search?q=%28msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm%29+%28site%3Abenzinga.com+%7C+site%3Ainvesting.com+%7C+site%3Afinance.yahoo.com%29&qft=interval%3d"7")
 - [Fun - Bing News](https://www.bing.com/news/search?qft=interval%3d"7"&q=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
 <!-- Format: - [*queryTitle* - Bing News](https://www.bing.com/news/search?qft=interval%3d"7"&q=[query]) -->
 
@@ -34,7 +34,7 @@
 - [Local - Bing Search](https://www.bing.com/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Aautoindustriya.com&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Games - Bing Search](https://www.bing.com/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Global - Bing Search](https://www.bing.com/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
-- [Financial - Bing Search](https://www.bing.com/search?q=(benzinga+com+general+gaming)+%7c+site%3abenzinga.com%2fgeneral%2fgaming+%7c+((msft+%7c+aapl+%7c+goog+%7c+ntes+%7c+ttwo+%7c+intl+%7c+amd+%7c+tsm)+(site%3abenzinga.com+%7c+site%3ainvesting.com+%7c+site%3afinance.yahoo.com))&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
+- [Financial - Bing Search](https://www.bing.com/search?q=%28msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm%29+%28site%3Abenzinga.com+%7C+site%3Ainvesting.com+%7C+site%3Afinance.yahoo.com%29&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Fun - Bing Search](https://www.bing.com/search?filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us&q=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
 <!-- Format: - [*queryTitle* - Bing Search](https://www.bing.com/search?filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us&q=[query]) -->
 
@@ -45,7 +45,7 @@
 - [Local - DuckDuckGo](https://duckduckgo.com/?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Aautoindustriya.com&df=d&assist=true)
 - [Games - DuckDuckGo](https://duckduckgo.com/?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&df=d&assist=true)
 - [Global - DuckDuckGo](https://duckduckgo.com/?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&df=d&assist=true)
-- [Financial - DuckDuckGo](https://duckduckgo.com/?q=(benzinga+com+general+gaming)+%7c+site%3abenzinga.com%2fgeneral%2fgaming+%7c+((msft+%7c+aapl+%7c+goog+%7c+ntes+%7c+ttwo+%7c+intl+%7c+amd+%7c+tsm)+(site%3abenzinga.com+%7c+site%3ainvesting.com+%7c+site%3afinance.yahoo.com))&df=d&assist=true)
+- [Financial - DuckDuckGo](https://duckduckgo.com/?q=%28msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm%29+%28site%3Abenzinga.com+%7C+site%3Ainvesting.com+%7C+site%3Afinance.yahoo.com%29&df=d&assist=true)
 - [Fun - DuckDuckGo](https://duckduckgo.com/?df=d&assist=true&q=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
 <!-- Format: - [*queryTitle* - DuckDuckGo](https://duckduckgo.com/?df=d&assist=true&q=[query]) -->
 
@@ -56,7 +56,7 @@
 - [Local - You.com](https://you.com/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Aautoindustriya.com)
 - [Games - You.com](https://you.com/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes)
 - [Global - You.com](https://you.com/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com)
-- [Financial - You.com](https://you.com/search?q=(benzinga+com+general+gaming)+%7c+site%3abenzinga.com%2fgeneral%2fgaming+%7c+((msft+%7c+aapl+%7c+goog+%7c+ntes+%7c+ttwo+%7c+intl+%7c+amd+%7c+tsm)+(site%3abenzinga.com+%7c+site%3ainvesting.com+%7c+site%3afinance.yahoo.com)))
+- [Financial - You.com](https://you.com/search?q=%28msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm%29+%28site%3Abenzinga.com+%7C+site%3Ainvesting.com+%7C+site%3Afinance.yahoo.com%29)
 - [Fun - You.com](https://you.com/search?q=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
 <!-- Format: - [*queryTitle* - You.com](https://you.com/search?q=[query]) -->
 
@@ -67,7 +67,7 @@
 - [Local - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Aautoindustriya.com)
 - [Games - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes)
 - [Global - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com)
-- [Financial - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=(benzinga+com+general+gaming)+%7c+site%3abenzinga.com%2fgeneral%2fgaming+%7c+((msft+%7c+aapl+%7c+goog+%7c+ntes+%7c+ttwo+%7c+intl+%7c+amd+%7c+tsm)+(site%3abenzinga.com+%7c+site%3ainvesting.com+%7c+site%3afinance.yahoo.com)))
+- [Financial - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=%28msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm%29+%28site%3Abenzinga.com+%7C+site%3Ainvesting.com+%7C+site%3Afinance.yahoo.com%29)
 - [Fun - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
 <!-- Format: - [*queryTitle* - Google Search News](https://www.google.com/search?safe=off&tbm=nws&tbs=qdr:d&q=[query]) -->
 
@@ -78,7 +78,7 @@
 - [Local - Google Search](https://www.google.com/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Aautoindustriya.com&tbs=qdr:d&safe=off&filter=0)
 - [Games - Google Search](https://www.google.com/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&tbs=qdr:d&safe=off&filter=0)
 - [Global - Google Search](https://www.google.com/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&tbs=qdr:d&safe=off&filter=0)
-- [Financial - Google Search](https://www.google.com/search?q=(benzinga+com+general+gaming)+%7c+site%3abenzinga.com%2fgeneral%2fgaming+%7c+((msft+%7c+aapl+%7c+goog+%7c+ntes+%7c+ttwo+%7c+intl+%7c+amd+%7c+tsm)+(site%3abenzinga.com+%7c+site%3ainvesting.com+%7c+site%3afinance.yahoo.com))&tbs=qdr:d&safe=off&filter=0)
+- [Financial - Google Search](https://www.google.com/search?q=%28msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm%29+%28site%3Abenzinga.com+%7C+site%3Ainvesting.com+%7C+site%3Afinance.yahoo.com%29&tbs=qdr:d&safe=off&filter=0)
 - [Fun - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&q=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
 <!-- Format: - [*queryTitle* - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&q=[query]) -->
 
@@ -89,7 +89,7 @@
 - [Local - Ecosia](https://www.ecosia.org/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Aautoindustriya.com&freshness=day)
 - [Games - Ecosia](https://www.ecosia.org/search?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&freshness=day)
 - [Global - Ecosia](https://www.ecosia.org/search?q=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&freshness=day)
-- [Financial - Ecosia](https://www.ecosia.org/search?q=(benzinga+com+general+gaming)+%7c+site%3abenzinga.com%2fgeneral%2fgaming+%7c+((msft+%7c+aapl+%7c+goog+%7c+ntes+%7c+ttwo+%7c+intl+%7c+amd+%7c+tsm)+(site%3abenzinga.com+%7c+site%3ainvesting.com+%7c+site%3afinance.yahoo.com))&freshness=day)
+- [Financial - Ecosia](https://www.ecosia.org/search?q=%28msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm%29+%28site%3Abenzinga.com+%7C+site%3Ainvesting.com+%7C+site%3Afinance.yahoo.com%29&freshness=day)
 - [Fun - Ecosia](ttps://www.ecosia.org/search?freshness=day&q=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
 <!-- Format: - [*queryTitle* - Ecosia](ttps://www.ecosia.org/search?freshness=day&q=[query]) -->
 
@@ -100,7 +100,7 @@
 - [Local - Yandex](https://yandex.com/search/?text=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Aautoindustriya.com&within=77&noreask=1)
 - [Games - Yandex](https://yandex.com/search/?text=genshin+OR+valorant+OR+%22league+of+legends%22+OR+wuthering+OR+%22smash+bros%22+OR+ntes&within=77&noreask=1)
 - [Global - Yandex](https://yandex.com/search/?text=(channelnewsasia+com+world)+%7C+(france24+com+en+live+news)+%7C+(csmonitor+com+world)+%7C+(reuters+com+world)+%7C+site%3achannelnewsasia.com%2fworld+%7C+site%3afrance24.com%2fen%2flive-news+%7C+site%3acsmonitor.com&within=77&noreask=1)
-- [Financial - Yandex](https://yandex.com/search/?text=(benzinga+com+general+gaming)+%7c+site%3abenzinga.com%2fgeneral%2fgaming+%7c+((msft+%7c+aapl+%7c+goog+%7c+ntes+%7c+ttwo+%7c+intl+%7c+amd+%7c+tsm)+(site%3abenzinga.com+%7c+site%3ainvesting.com+%7c+site%3afinance.yahoo.com))&within=77&noreask=1)
+- [Financial - Yandex](https://yandex.com/search/?text=%28msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm%29+%28site%3Abenzinga.com+%7C+site%3Ainvesting.com+%7C+site%3Afinance.yahoo.com%29&within=77&noreask=1)
 - [Fun - Yandex](https://yandex.com/search/?within=77&noreask=1&text=site%3Acaranddriver.com%2Fnews+%7C+site%3Aroadandtrack.com%2Fnews+%7C+site%3Ajalopnik.com+%7C+site%3Atopgear.com.ph%2Fnews+%7C+site%3Asoranews24.com)
 <!-- Format: - [*queryTitle* - Yandex](https://yandex.com/search/?within=77&noreask=1&text=[query]) -->
 
