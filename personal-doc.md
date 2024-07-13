@@ -40,7 +40,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 - <https://cachedview.nl/> - Bypass paywalls
   - <https://archive.ph>
-     - <https://archive.is>
+    - <https://archive.is>
 - <https://itilog.com/en/where-am-i> - GPS coordinates
   - <https://topographic-map.com>
 - <https://newocr.com> - OCR
@@ -96,6 +96,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
   - <https://launch.whatever.social/>
   - <https://catsarch.com>
   - <https://bus-hit.me>
+  - <https://artemislena.eu/services/>
 
 ---
 
@@ -110,16 +111,16 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
   - <https://github.com/SpatiumPortae/portal>
   - <https://syncthing.net/>
   - <https://send.vis.ee/>
-     - <https://github.com/timvisee/send-instances>
+    - <https://github.com/timvisee/send-instances>
 - <https://zenmarket.jp/> - Import from Japan
 
 ---
 
 - <https://d3ward.github.io/toolz/adblock.html> - Adblock test
   - <https://browserbench.org> - benchmarks
-     - <https://mozilla.github.io/krakenbenchmark.mozilla.org/index.html> - Mozilla
-     - <https://v8.github.io/web-tooling-benchmark/> - Google
-     - <https://web.basemark.com/>
+    - <https://mozilla.github.io/krakenbenchmark.mozilla.org/index.html> - Mozilla
+    - <https://v8.github.io/web-tooling-benchmark/> - Google
+    - <https://web.basemark.com/>
   - <https://canyoublockit.com/>
   - <https://coveryourtracks.eff.org/> - Tracking protection test
   - <https://detectadblock.com/> - Adblock detection test
@@ -205,7 +206,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
   - <https://microsoft.com/en-us/software-download/windowsinsiderpreviewiso> - Download Windows Insider ISOs
   - <https://store.rg-adguard.net/> - Download Windows store .appx files
   - <https://github.com/massgravel/Microsoft-Activation-Scripts> - Windows activation
-     - <https://github.com/Endermanch/XPKeygen> - Windows XP
+    - <https://github.com/Endermanch/XPKeygen> - Windows XP
 - <https://sourceforge.net/projects/andyyan-gsi/> - LineageOS Treble GSI
   - <https://opengapps.org/> - Gapps package (i recommend "nano")
 - <https://liteapks.com> - Lite apks
@@ -312,8 +313,8 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 `https://twitch.tv/popout/valorant/chat?popout=`  
 
 `https://player.twitch.tv/?channel=valorant&parent=twitch.tv`  
-- `https://player.twitch.tv/?channel=valorant&parent=twitch.tv&allowfullscreen=true&time=0h0m0s`  
 
+- `https://player.twitch.tv/?channel=valorant&parent=twitch.tv&allowfullscreen=true&time=0h0m0s`  
 - `https://player.twitch.tv/?video=v40464143&parent=twitch.tv&allowfullscreen=true&time=0h0m0s`
 
 <https://twitch.tv/directory/all?sort=VIEWER_COUNT> - Top Twitch Streams  
@@ -353,9 +354,9 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 - <https://youtube.com/@CNET/live> - Tech Events pseudo 24/7 (CNet)
   - <https://www.youtube.com/watch?v=fCqtlDl78WU&list=RDCMUCOmcA3f_RrH6b9NmcNa4tdg&start_radio=1> - CNet Mix
   - <https://youtube.com/@CNETHighlights/live>
-     - <https://youtube.com/watch?v=2SjrX1mRy_c&list=RDCMUCmKtn_HvpfbTu3QV4lhJIMw&start_radio=1> - Mix
+    - <https://youtube.com/watch?v=2SjrX1mRy_c&list=RDCMUCmKtn_HvpfbTu3QV4lhJIMw&start_radio=1> - Mix
   - <https://youtube.com/@Apple/live> - Apple
-     - <https://youtube.com/watch?v=86D7AGm5sHk&list=RDCMUCE_M8A5yxnLfW0KghEeajjw&start_radio=1> - Apple Mix
+    - <https://youtube.com/watch?v=86D7AGm5sHk&list=RDCMUCE_M8A5yxnLfW0KghEeajjw&start_radio=1> - Apple Mix
 
 ---
 
@@ -385,7 +386,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 
 - <https://www.youtube.com/@LofiGirl/live> - LoFi Music 24/7
   - <https://player.twitch.tv/?channel=retroweatherchannel&parent=twitch.tv> (vaporwave)
-     - <https://www.youtube.com/@Krelez/live>
+    - <https://www.youtube.com/@Krelez/live>
 
 ## **_Live> - Questionable_**
 
@@ -417,7 +418,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 <https://animepahe.ru/>  
 <https://animesuge.to/>  
 <https://aniwave.to/>  
-<https://anitaku.so/>
+<https://anitaku.pe/>
 
 ---
 
@@ -429,7 +430,6 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 **_Movies_**  
 <https://lookmovie.ag>  
 <https://movieffm.net/> - Chinese  
-<https://ww4.0123movie.name/>
 
 ---
 
