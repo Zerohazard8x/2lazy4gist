@@ -41,7 +41,7 @@
 ---
 
 - [Wrestling - DuckDuckGo](https://duckduckgo.com/?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&df=d&assist=true)
-- [Tech - DuckDuckGo](https://duckduckgo.com/?q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&df=d)
+- [Tech - DuckDuckGo](https://duckduckgo.com/?q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&df=d&assist=true)
 - [Local - DuckDuckGo](https://duckduckgo.com/?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&df=d&assist=true)
 - [Personal - DuckDuckGo](https://duckduckgo.com/?q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+%22wuthering+waves%22+OR+%22smash+bros%22+OR+%28%22game+pass%22+pc%29+OR+windscribe&df=d&assist=true)
 - [Global - DuckDuckGo](https://duckduckgo.com/?q=site%3Anewsnationnow.com%2Fworld+%7C+site%3Awsj.com%2Fworld+%7C+site%3Afrance24.com%2Fen%2Flive-news+%7C+site%3Acsmonitor.com%2Fworld+%7C+site%3Areuters.com%2Fworld&df=d&assist=true)
