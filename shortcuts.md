@@ -62,14 +62,14 @@
 
 ---
 
-- [Wrestling - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com)
-- [Tech - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink)
-- [Local - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net)
-- [Games - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+%22wuthering+waves%22+OR+%22smash+bros%22+OR+ntes)
-- [Global - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&q=site%3Anewsnationnow.com%2Fworld+%7C+site%3Awsj.com%2Fworld+%7C+site%3Afrance24.com%2Fen%2Flive-news+%7C+site%3Acsmonitor.com%2Fworld+%7C+site%3Areuters.com%2Fworld)
-- [Financial - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&q=(msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm)+(site%3Abenzinga.com+%7C+site%3Ainvesting.com%2Fnews+%7C+site%3Afinance.yahoo.com%2Fnews))
-- [Fun - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&q=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:billboard.com/pro)
-<!-- Format: - [*queryTitle* - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&q=[query]) -->
+- [Wrestling - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com)
+- [Tech - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink)
+- [Local - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net)
+- [Games - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=genshin+OR+valorant+OR+%22league+of+legends%22+OR+%22wuthering+waves%22+OR+%22smash+bros%22+OR+ntes)
+- [Global - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=site%3Anewsnationnow.com%2Fworld+%7C+site%3Awsj.com%2Fworld+%7C+site%3Afrance24.com%2Fen%2Flive-news+%7C+site%3Acsmonitor.com%2Fworld+%7C+site%3Areuters.com%2Fworld)
+- [Financial - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=(msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm)+(site%3Abenzinga.com+%7C+site%3Ainvesting.com%2Fnews+%7C+site%3Afinance.yahoo.com%2Fnews))
+- [Fun - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:billboard.com/pro)
+<!-- Format: - [*queryTitle* - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=[query]) -->
 
 ---
 
