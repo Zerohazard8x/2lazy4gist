@@ -90,8 +90,8 @@
 - [Personal - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+%22smash+bros%22+OR+%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22+OR+overwatch+OR+splitgate)
 - [Global - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=site%3Anewsnationnow.com%2Fworld+%7C+site%3Awsj.com%2Fworld+%7C+site%3Afrance24.com%2Fen%2Flive-news+%7C+site%3Acsmonitor.com%2Fworld+%7C+site%3Areuters.com%2Fworld)
 - [Financial - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=%28msft+%7C+aapl+%7C+goog+%7C+ntes+%7C+ttwo+%7C+intl+%7C+amd+%7C+tsm%29+%28site%3Abenzinga.com+%7C+site%3Ainvesting.com%2Fnews+%7C+site%3Afinance.yahoo.com%2Fnews+%7C+site%3Atradingview.com%2Fnews%29)
-- [Fun - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:billboard.com/pro)
-<!-- Format: - [*queryTitle* - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3[query]) -->
+- [Fun - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:billboard.com/pro)
+<!-- Format: - [*queryTitle* - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=[query]) -->
 
 <!-- --- -->
 
