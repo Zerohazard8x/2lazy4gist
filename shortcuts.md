@@ -19,7 +19,7 @@
 ## news
 
 - [Wrestling - Bing News](https://www.bing.com/news/search?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&qft=interval%3d"7")
-- [Tech - Bing News](https://www.bing.com/news/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%2B(windows+11)+OR+%2B(windows+10)+OR+%2B(windows+update)+OR+starlink&qft=interval%3d"7")
+- [Tech - Bing News](https://www.bing.com/news/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&qft=interval%3d"7")
 - [Local - Bing News](https://www.bing.com/news/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&qft=interval%3d"7")
 - [Games - Bing News](https://www.bing.com/news/search?qft=interval%3d"7"&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
 - [Service news - Bing News](https://www.bing.com/news/search?qft=interval%3d"7"&q=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22)
@@ -31,7 +31,7 @@
 ---
 
 - [Wrestling - Bing Search](https://www.bing.com/search?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
-- [Tech - Bing Search](https://www.bing.com/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%2B(windows+11)+OR+%2B(windows+10)+OR+%2B(windows+update)+OR+starlink&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
+- [Tech - Bing Search](https://www.bing.com/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Local - Bing Search](https://www.bing.com/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Games - Bing Search](https://www.bing.com/search?filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
 - [Service news - Bing Search](https://www.bing.com/search?filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us&q=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22)
@@ -43,7 +43,7 @@
 ---
 
 - [Wrestling - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com)
-- [Tech - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=msft+OR+aapl+OR+goog+OR+intc+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%2B(windows+11)+OR+%2B(windows+10)+OR+%2B(windows+update)+OR+starlink)
+- [Tech - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink)
 - [Local - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net)
 - [Games - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
 - [Service news - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22)
@@ -55,7 +55,7 @@
 ---
 
 - [Wrestling - Google Search](https://www.google.com/search?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&start=20&tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en)
-- [Tech - Google Search](https://www.google.com/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%2B(windows+11)+OR+%2B(windows+10)+OR+%2B(windows+update)+OR+starlink&start=20&tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en)
+- [Tech - Google Search](https://www.google.com/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&start=20&tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en)
 - [Local - Google Search](https://www.google.com/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&start=20&tbs=qdr:d&safe=off&filter=0&nfpr=1)
 - [Games - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
 - [Service news - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en&q=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22)
@@ -67,7 +67,7 @@
 ---
 
 - [Wrestling - Ecosia](https://www.ecosia.org/search?q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&freshness=day)
-- [Tech - Ecosia](https://www.ecosia.org/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%2B(windows+11)+OR+%2B(windows+10)+OR+%2B(windows+update)+OR+starlink&freshness=day)
+- [Tech - Ecosia](https://www.ecosia.org/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&freshness=day)
 - [Local - Ecosia](https://www.ecosia.org/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&freshness=day)
 - [Games - Ecosia](https://www.ecosia.org/search?freshness=day&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
 - [Service news - Ecosia](https://www.ecosia.org/search?freshness=day&q=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22)
@@ -79,7 +79,7 @@
 ---
 
 - [Wrestling - Yandex](https://yandex.com/search/?text=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com&within=77&noreask=1)
-- [Tech - Yandex](https://yandex.com/search/?text=msft+OR+aapl+OR+goog+OR+intc+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%2B(windows+11)+OR+%2B(windows+10)+OR+%2B(windows+update)+OR+starlink&within=77&noreask=1)
+- [Tech - Yandex](https://yandex.com/search/?text=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink&within=77&noreask=1)
 - [Local - Yandex](https://yandex.com/search/?text=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&within=77&noreask=1)
 - [Games - Yandex](https://yandex.com/search/?within=77&noreask=1&text=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
 - [Service news - Yandex](https://yandex.com/search/?within=77&noreask=1&text=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22)
@@ -91,7 +91,7 @@
 ---
 
 - [Wrestling - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=%28ringsidenews+com%29+%7C+%28wrestlinginc+com%29+%7C+%28fightful+com%29+%7C+site%3Aringsidenews.com+%7C+site%3Awrestlinginc.com+%7C+site%3Afightful.com)
-- [Tech - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=msft+OR+aapl+OR+goog+OR+intc+OR+(ai+generate)+OR+(ai+generative)+OR+(ai+model)+OR+perplexity+OR+ios+OR+%2B(windows+11)+OR+%2B(windows+10)+OR+%2B(windows+update)+OR+starlink)
+- [Tech - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=msft+OR+aapl+OR+goog+OR+intc+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22+OR+%22windows+update%22+OR+starlink)
 - [Local - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fmetro+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories%2Fnation+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net)
 - [Games - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
 - [Service news - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22)
