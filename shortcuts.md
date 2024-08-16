@@ -18,7 +18,7 @@
 
 ## news
 
-- [Opinionated - Bing News](https://www.bing.com/news/search?q=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&qft=interval%3d"7")
+- [Opinionated - Bing News](https://www.bing.com/news/search?q=site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&qft=interval%3d"7")
 - [Tech - Bing News](https://www.bing.com/news/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+%28ai+upscale%29+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29&qft=interval%3d"7")
 - [Local - Bing News](https://www.bing.com/news/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&qft=interval%3d"7")
 - [Games - Bing News](https://www.bing.com/news/search?qft=interval%3d"7"&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
@@ -31,7 +31,7 @@
 
 ---
 
-- [Opinionated - Bing Search](https://www.bing.com/search?q=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
+- [Opinionated - Bing Search](https://www.bing.com/search?q=site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Tech - Bing Search](https://www.bing.com/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+%28ai+upscale%29+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Local - Bing Search](https://www.bing.com/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Games - Bing Search](https://www.bing.com/search?filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
@@ -44,7 +44,7 @@
 
 ---
 
-- [Opinionated - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review)
+- [Opinionated - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review)
 - [Tech - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+%28ai+upscale%29+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29)
 - [Local - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net)
 - [Games - Google Search News](https://www.google.com/search?lr=lang_en&safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
@@ -57,7 +57,7 @@
 
 ---
 
-- [Opinionated - Google Search](https://www.google.com/search?q=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&start=20&tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en)
+- [Opinionated - Google Search](https://www.google.com/search?q=site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&start=20&tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en)
 - [Tech - Google Search](https://www.google.com/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+%28ai+upscale%29+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29&start=20&tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en)
 - [Local - Google Search](https://www.google.com/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&start=20&tbs=qdr:d&safe=off&filter=0&nfpr=1)
 - [Games - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
@@ -70,7 +70,7 @@
 
 ---
 
-- [Opinionated - Ecosia](https://www.ecosia.org/search?q=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&freshness=day)
+- [Opinionated - Ecosia](https://www.ecosia.org/search?q=site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&freshness=day)
 - [Tech - Ecosia](https://www.ecosia.org/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+%28ai+upscale%29+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29&freshness=day)
 - [Local - Ecosia](https://www.ecosia.org/search?q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&freshness=day)
 - [Games - Ecosia](https://www.ecosia.org/search?freshness=day&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
@@ -83,7 +83,7 @@
 
 ---
 
-- [Opinionated - Yandex](https://yandex.com/search/?text=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&within=77&noreask=1)
+- [Opinionated - Yandex](https://yandex.com/search/?text=site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review&within=77&noreask=1)
 - [Tech - Yandex](https://yandex.com/search/?text=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+%28ai+upscale%29+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29&within=77&noreask=1)
 - [Local - Yandex](https://yandex.com/search/?text=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net&within=77&noreask=1)
 - [Games - Yandex](https://yandex.com/search/?within=77&noreask=1&text=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
@@ -96,7 +96,7 @@
 
 ---
 
-- [Opinionated - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=site:caranddriver.com/news+%7C+site:roadandtrack.com/news+%7C+site:jalopnik.com+%7C+site:topgear.com.ph/news+%7C+site:soranews24.com+%7C+site:hollywoodreporter.com/business/business-news+%7C+site:variety.com/2024/digital/news+%7C+site:variety.com/2024/biz/news+%7C+site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review)
+- [Opinionated - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=site:gamespot.com/reviews+%7C+site:editorial.rottentomatoes.com+%7C+site:videogameschronicle.com/review)
 - [Tech - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28ai+generate%29+OR+%28ai+generative%29+OR+%28ai+model%29+OR+%28ai+upscale%29+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29)
 - [Local - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=site%3Anewsinfo.inquirer.net+%7C+site%3Anews.abs-cbn.com%2Fnews+%7C+site%3Aphilstar.com%2Fnation+%7C+site%3Agmanetwork.com%2Fnews%2Ftopstories+%7C+site%3Asports.inquirer.net+%7C+site%3Apop.inquirer.net)
 - [Games - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&pageno=3&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
