@@ -70,16 +70,29 @@
 
 ---
 
-- [Opinionated - Ecosia](https://www.ecosia.org/search?q=%22gamespot+com+reviews%22+OR+%22editorial+rottentomatoes+com+article%22+OR+%22videogameschronicle+com+review%22+OR+%22washingtonpost+com+video-games+reviews%22+OR+%22gameinformer+com+review%22+OR+%22wired+com+review%22+OR+%22rtings+com%22+OR+%22techradar+com+reviews%22&freshness=day)
-- [Tech - Ecosia](https://www.ecosia.org/search?q=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29&freshness=day)
-- [Local - Ecosia](https://www.ecosia.org/search?q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22&freshness=day)
-- [Games - Ecosia](https://www.ecosia.org/search?freshness=day&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
-- [Service news - Ecosia](https://www.ecosia.org/search?freshness=day&q=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22+OR+firefox+OR+mozilla+OR+starlink+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22)
-- [Global - Ecosia](https://www.ecosia.org/search?q=%22newsnationnow+com+world%22+OR+%22wsj+com+world%22+OR+%22france24+com+en+live-news%22+OR+%22csmonitor+com+world%22+OR+%22reuters+com+world%22&freshness=day)
-- [Financial - Ecosia](https://www.ecosia.org/search?q=%28msft+OR+aapl+OR+goog+OR+qcom+OR+ttwo+OR+intl+OR+amd+OR+arm%29+%28site%3Abenzinga.com+OR+site%3Ainvesting.com%2Fnews+OR+site%3Afinance.yahoo.com%2Fnews+OR+site%3Atradingview.com%2Fnews%29&freshness=day)
-- [Fun - Ecosia](https://www.ecosia.org/search?freshness=day&q=%22caranddriver+com+news%22+OR+%22roadandtrack+com+news%22+OR+%22jalopnik+com%22+OR+%22topgear+com+ph+news%22+OR+%22soranews24+com%22+OR+%22hollywoodreporter+com+business%22+OR+%22variety+com+2024+digital%22+OR+%22variety+com+2024+biz%22)
-- [Political - Ecosia](https://www.ecosia.org/search?freshness=day&q=%28election+OR+politics+OR+nominee+OR+candidate+OR+poll+OR+debate+OR+protest%29+%28%22newsnationnow+com%22+OR+%22wsj+com%22+OR+%22france24+com+en%22+OR+%22csmonitor+com%22+OR+%22reuters+com%22+OR+%22abs-cbn+com%22+OR+%22gmanetwork+com%22+OR+%22inquirer+net%22+OR+%22benzinga+com%22+OR+%22investing+com%22+OR+%22finance+yahoo+com%22%29)
-<!-- Format: - [*queryTitle* - Ecosia](https://www.ecosia.org/search?freshness=day&q=[query]) -->
+- [Opinionated - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=%22gamespot+com+reviews%22+OR+%22editorial+rottentomatoes+com+article%22+OR+%22videogameschronicle+com+review%22+OR+%22washingtonpost+com+video-games+reviews%22+OR+%22gameinformer+com+review%22+OR+%22wired+com+review%22+OR+%22rtings+com%22+OR+%22techradar+com+reviews%22)
+- [Tech - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29)
+- [Local - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
+- [Games - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
+- [Service news - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22+OR+firefox+OR+mozilla+OR+starlink+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22)
+- [Global - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=%22newsnationnow+com+world%22+OR+%22wsj+com+world%22+OR+%22france24+com+en+live-news%22+OR+%22csmonitor+com+world%22+OR+%22reuters+com+world%22)
+- [Financial - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=%28msft+OR+aapl+OR+goog+OR+qcom+OR+ttwo+OR+intl+OR+amd+OR+arm%29+%28site%3Abenzinga.com+OR+site%3Ainvesting.com%2Fnews+OR+site%3Afinance.yahoo.com%2Fnews+OR+site%3Atradingview.com%2Fnews%29)
+- [Fun - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=%22caranddriver+com+news%22+OR+%22roadandtrack+com+news%22+OR+%22jalopnik+com%22+OR+%22topgear+com+ph+news%22+OR+%22soranews24+com%22+OR+%22hollywoodreporter+com+business%22+OR+%22variety+com+2024+digital%22+OR+%22variety+com+2024+biz%22)
+- [Political - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=%28election+OR+politics+OR+nominee+OR+candidate+OR+poll+OR+debate+OR+protest%29+%28%22newsnationnow+com%22+OR+%22wsj+com%22+OR+%22france24+com+en%22+OR+%22csmonitor+com%22+OR+%22reuters+com%22+OR+%22abs-cbn+com%22+OR+%22gmanetwork+com%22+OR+%22inquirer+net%22+OR+%22benzinga+com%22+OR+%22investing+com%22+OR+%22finance+yahoo+com%22%29)
+<!-- Format: - [*queryTitle* - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=[query]) -->
+
+---
+
+- [Opinionated - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=%22gamespot+com+reviews%22+OR+%22editorial+rottentomatoes+com+article%22+OR+%22videogameschronicle+com+review%22+OR+%22washingtonpost+com+video-games+reviews%22+OR+%22gameinformer+com+review%22+OR+%22wired+com+review%22+OR+%22rtings+com%22+OR+%22techradar+com+reviews%22)
+- [Tech - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=msft+OR+aapl+OR+goog+OR+intc+OR+qcom+OR+%28reveal+stream%29+OR+%28reveal+livestream%29+OR+%28announcement+stream%29+OR+%28announcement+livestream%29)
+- [Local - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
+- [Games - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=genshin+OR+valorant+OR+%22wuthering+waves%22+OR+overwatch+OR+splitgate+OR+%28sonic+hedgehog%29+OR+%22sonic+team%22)
+- [Service news - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=%22pc+game+pass%22+OR+%22game+pass+pc%22+OR+%22pc+gamepass%22+OR+%22gamepass+pc%22+OR+windscribe+OR+%22youtube+music%22+OR+%22youtube+premium%22+OR+%22apple+music%22+OR+firefox+OR+mozilla+OR+starlink+OR+perplexity+OR+ios+OR+%22windows+11%22+OR+%22windows+10%22)
+- [Global - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=%22newsnationnow+com+world%22+OR+%22wsj+com+world%22+OR+%22france24+com+en+live-news%22+OR+%22csmonitor+com+world%22+OR+%22reuters+com+world%22)
+- [Financial - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=%28msft+OR+aapl+OR+goog+OR+qcom+OR+ttwo+OR+intl+OR+amd+OR+arm%29+%28site%3Abenzinga.com+OR+site%3Ainvesting.com%2Fnews+OR+site%3Afinance.yahoo.com%2Fnews+OR+site%3Atradingview.com%2Fnews%29)
+- [Fun - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=%22caranddriver+com+news%22+OR+%22roadandtrack+com+news%22+OR+%22jalopnik+com%22+OR+%22topgear+com+ph+news%22+OR+%22soranews24+com%22+OR+%22hollywoodreporter+com+business%22+OR+%22variety+com+2024+digital%22+OR+%22variety+com+2024+biz%22)
+- [Political - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=%28election+OR+politics+OR+nominee+OR+candidate+OR+poll+OR+debate+OR+protest%29+%28%22newsnationnow+com%22+OR+%22wsj+com%22+OR+%22france24+com+en%22+OR+%22csmonitor+com%22+OR+%22reuters+com%22+OR+%22abs-cbn+com%22+OR+%22gmanetwork+com%22+OR+%22inquirer+net%22+OR+%22benzinga+com%22+OR+%22investing+com%22+OR+%22finance+yahoo+com%22%29)
+<!-- Format: - [*queryTitle* - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=[query]) -->
 
 ---
 
@@ -114,6 +127,7 @@
 <!-- [*queryTitle* - Baidu](https://www.baidu.com/s?gpc=stf%3D1720245017%2C1720331417%7Cstftype%3D1&wd=[query]) -->
 <!-- Format: - [*queryTitle* - You.com](https://you.com/search?q=[query]) -->
 <!-- Format: - [*queryTitle* - DuckDuckGo](https://duckduckgo.com/?df=d&assist=true&q=[query]) -->
+<!-- Format: - [*queryTitle* - Ecosia](https://www.ecosia.org/search?freshness=day&q=[query]) -->
 
 <!-- --- -->
 
