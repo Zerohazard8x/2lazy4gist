@@ -6,7 +6,7 @@
 
 ---
 
-- [MSN Weather](https://www.msn.com/en-us/weather/maps/radar)
+- [MSN Weather](https://msn.com/weather)
 - [Tomorrow Weather](https://weather.tomorrow.io)
 - [Meteum](https://meteum.ai/weather/search)
 - [Google Weather](https://www.google.com/search?q=weather&udm=0&safe=off)
