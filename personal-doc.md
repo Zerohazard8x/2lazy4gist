@@ -136,19 +136,14 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 ---
 
 - <https://southparkstudios.com/seasons/south-park> - South Park Full Episodes
-- <https://www.youtube.com/@AnimeonTMSOfficialChannel> - Assorted TMS Anime Full Episodes (e.g Sonic X)
-  - <https://www.youtube.com/watch?v=9CGih4gMRlk&list=RDCMUCzGf0DdUJVrsbcWL3e_tK1Q> - mix  
+- <https://www.youtube.com/@AnimeonTMSOfficialChannel> - Assorted TMS Anime Full Episodes (e.g Sonic X)  
 - <https://youtube.com/c/MuseAsia> - Assorted MuseAsia Anime Full Episodes (e.g. JoJo, Spy x Family)
 - <https://youtube.com/c/Pok%C3%A9monAsiaENG> - Pokemon Anime Full Episodes n More
-  - <https://www.youtube.com/watch?v=wq8d8R8gin4&list=RDCMUCR1r4GPUBvdI0EJBpxKYPQQ> - mix
 - <https://youtube.com/playlist?list=PLQOJdrIdqhW3hB8EuTofununVfX0pBDPa> - WWE Full Matches
-  - <https://www.youtube.com/watch?v=ilSyLJ72pMY&list=RDCMUCJ5v_MCY6GNUBTO8-D3XoAg> - mix
 - <https://youtube.com/playlist?list=PLWmD0FKyW_ozrMGGtHaW2bJtZk4euj__p> - [Cut] Simpsons playlist
 - <https://youtube.com/playlist?list=PLylTItjXRUVdHImLFyb2DfOagPFYNbqW1> - Forensic Files
 - <https://youtube.com/@Sonic.Boom_Official> - Sonic Boom
-  - <https://youtube.com/watch?v=bmAprGzLqqg&list=RDCMUCJlbG6XY4str77gMuP3gtdg> - mix
 - <https://www.youtube.com/@WildBrainSuperheroes> - DiC 90s cartoons e.g. Mario Super Show, Adventures of Sonic
-  - <https://www.youtube.com/watch?v=WmLzql3PpKo&list=RDCMUCUVnfQaEmCIhFZC5d_JniyQ> - mix
 - <https://youtube.com/playlist?list=PL39_ud5aKSvnYDhKdB7wTDUZRiE8RaJat>
 
 ---
@@ -292,9 +287,6 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 **_YT Popout Chat_**  
 `https://youtube.com/live_chat?is_popout=1&v=GCVJIVeoAeM`  
 
-- `https://youtube.com/watch?v=GCVJIVeoAeM`
-- `https://youtube.com/watch?v=[video id]&list=RD[video id]&start_radio=1`> - mix (results may vary)
-
 ```plaintext
 https://youtube.com/embed/GCVJIVeoAeM ->
 https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&enablejsapi=1&fs=1
@@ -304,7 +296,6 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 - `https://www.youtube.com/embed/GCVJIVeoAeM?list=PL5J-buULhg1deKOomO69DYfS7EGiy6OVj`
 
 - <https://mattw.io/youtube-metadata/> - Find channel id
-  - `https://www.youtube.com/watch?v=[video id from channel]&list=RDCM[channel id]`> - mix
 - <https://jabrek.net/dislike-en/> - View youtube dislikes
 
 ---
@@ -312,10 +303,10 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 **_Twitch Popout Chat_**  
 `https://twitch.tv/popout/valorant/chat?popout=`  
 
-`https://player.twitch.tv/?channel=valorant&parent=twitch.tv`  
+`https://player.twitch.tv/?channel=valorant&parent=no`  
 
-- `https://player.twitch.tv/?channel=valorant&parent=twitch.tv&allowfullscreen=true&time=0h0m0s`  
-- `https://player.twitch.tv/?video=v40464143&parent=twitch.tv&allowfullscreen=true&time=0h0m0s`
+- `https://player.twitch.tv/?channel=valorant&parent=no&allowfullscreen=true&time=0h0m0s`  
+- `https://player.twitch.tv/?video=v40464143&parent=no&allowfullscreen=true&time=0h0m0s`
 
 <https://twitch.tv/directory/all?sort=VIEWER_COUNT> - Top Twitch Streams  
 <https://youtube.com/results?search_query=&sp=CAMSAkAB> - Top Youtube Streams
@@ -342,21 +333,17 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 
 ---
 
-<https://player.twitch.tv/?channel=genshinimpactofficial&parent=twitch.tv> - Genshin Impact Official  
+<https://player.twitch.tv/?channel=genshinimpactofficial&parent=no> - Genshin Impact Official  
 <https://youtube.com/@AEW/live> - AEW Dark / Elevation (not 24/7)  
 <https://youtube.com/@WWE/live> - WWE Talk Shows (not 24/7)
 
 ---
 
 - <https://youtube.com/@IGN/live> - Gaming Events pseudo 24/7 (IGN)
-  - <https://youtube.com/watch?v=wEY-pTqdGys&list=RDCMUCKy1dAqELo0zrOtPkf0eTMw&start_radio=1> - IGN Mix
   - <https://youtube.com/@thegameawards/live> - Summer Game Fest / Game Awards
 - <https://youtube.com/@CNET/live> - Tech Events pseudo 24/7 (CNet)
-  - <https://www.youtube.com/watch?v=fCqtlDl78WU&list=RDCMUCOmcA3f_RrH6b9NmcNa4tdg&start_radio=1> - CNet Mix
   - <https://youtube.com/@CNETHighlights/live>
-    - <https://youtube.com/watch?v=2SjrX1mRy_c&list=RDCMUCmKtn_HvpfbTu3QV4lhJIMw&start_radio=1> - Mix
   - <https://youtube.com/@Apple/live> - Apple
-    - <https://youtube.com/watch?v=86D7AGm5sHk&list=RDCMUCE_M8A5yxnLfW0KghEeajjw&start_radio=1> - Apple Mix
 
 ---
 
@@ -385,7 +372,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 ---
 
 - <https://www.youtube.com/@LofiGirl/live> - LoFi Music 24/7
-  - <https://player.twitch.tv/?channel=retroweatherchannel&parent=twitch.tv> (vaporwave)
+  - <https://player.twitch.tv/?channel=retroweatherchannel&parent=no> (vaporwave)
     - <https://www.youtube.com/@Krelez/live>
 
 ## **_Live> - Questionable_**
