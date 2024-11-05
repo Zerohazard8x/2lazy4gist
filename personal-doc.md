@@ -305,8 +305,8 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 
 `https://player.twitch.tv/?channel=valorant&parent=no`  
 
-- `https://player.twitch.tv/?channel=valorant&parent=no&allowfullscreen=true&time=0h0m0s`  
-- `https://player.twitch.tv/?video=v40464143&parent=no&allowfullscreen=true&time=0h0m0s`
+- `https://player.twitch.tv/?channel=valorant&parent=no&enableExtensions=true&muted=false&player=popout&quality=auto&volume=1&time=0h0m0s`  
+- `https://player.twitch.tv/?video=v40464143&parent=noenableExtensions=true&muted=false&player=popout&quality=auto&volume=1&time=0h0m0s`
 
 <https://twitch.tv/directory/all?sort=VIEWER_COUNT> - Top Twitch Streams  
 <https://youtube.com/results?search_query=&sp=CAMSAkAB> - Top Youtube Streams
