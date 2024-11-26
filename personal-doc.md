@@ -224,6 +224,11 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 - <https://softcobra.com> - ROMs
   - <https://nin10news.com/decode/>
+  - <https://dlpsgame.com>
+  - <https://nsw2u.com>
+  - <https://nxbrew.net>
+  - <https://romsfun.com>
+  - <https://ziperto.com>
 
 ---
 
