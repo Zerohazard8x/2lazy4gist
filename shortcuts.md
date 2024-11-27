@@ -18,8 +18,8 @@
 
 ## news
 
-- [Opinionated - Bing News](https://www.bing.com/news/search?q=(best+game)+OR+(best+show)+OR+(best+movie)+OR+(improve+game)+OR+(improve+show)+OR+(improve+movie)+OR+(game+of+year)+OR+(show+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+show)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move)&qft=interval%3d"7")
-- [Tech - Bing News](https://www.bing.com/news/search?q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+show)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+show)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move)&qft=interval%3d"7")
+- [Opinionated - Bing News](https://www.bing.com/news/search?q=(best+game)+OR+(best+tv)+OR+(best+movie)+OR+(enjoy+game)+OR+(enjoy+tv)+OR+(enjoy+movie)+OR+(game+of+year)+OR+(tv+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+tv)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move)&qft=interval%3d"7")
+- [Tech - Bing News](https://www.bing.com/news/search?q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+tv)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move)&qft=interval%3d"7")
 - [Local - Bing News](https://www.bing.com/news/search?q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22&qft=interval%3d"7")
 - [Games - Bing News](https://www.bing.com/news/search?qft=interval%3d"7"&q=genshin+OR+valorant+OR+%28wuthering+waves%29+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%22sonic+sega%22+OR+%22super+mario%22+OR+%22mario+bros%22+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%22cod+game%22+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
 - [Service news - Bing News](https://www.bing.com/news/search?qft=interval%3d"7"&q=(pc+game+pass)+OR+surfshark+OR+%22youtube+music%22+OR+firefox+OR+mozilla+OR+chromium+OR+%22apple+music%22+OR+(chat+gpt)+OR+ios+OR+%22windows+11%22)
@@ -31,8 +31,8 @@
 
 ---
 
-- [Opinionated - Bing Search](https://www.bing.com/search?q=(best+game)+OR+(best+show)+OR+(best+movie)+OR+(improve+game)+OR+(improve+show)+OR+(improve+movie)+OR+(game+of+year)+OR+(show+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+show)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move)&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
-- [Tech - Bing Search](https://www.bing.com/search?q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+show)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+show)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move)&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
+- [Opinionated - Bing Search](https://www.bing.com/search?q=(best+game)+OR+(best+tv)+OR+(best+movie)+OR+(enjoy+game)+OR+(enjoy+tv)+OR+(enjoy+movie)+OR+(game+of+year)+OR+(tv+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+tv)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move)&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
+- [Tech - Bing Search](https://www.bing.com/search?q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+tv)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move)&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Local - Bing Search](https://www.bing.com/search?q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Games - Bing Search](https://www.bing.com/search?filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us&q=genshin+OR+valorant+OR+%28wuthering+waves%29+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%22sonic+sega%22+OR+%22super+mario%22+OR+%22mario+bros%22+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%22cod+game%22+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
 - [Service news - Bing Search](https://www.bing.com/search?filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us&q=(pc+game+pass)+OR+surfshark+OR+%22youtube+music%22+OR+firefox+OR+mozilla+OR+chromium+OR+%22apple+music%22+OR+(chat+gpt)+OR+ios+OR+%22windows+11%22)
@@ -44,8 +44,8 @@
 
 ---
 
-- [Opinionated - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=(best+game)+OR+(best+show)+OR+(best+movie)+OR+(improve+game)+OR+(improve+show)+OR+(improve+movie)+OR+(game+of+year)+OR+(show+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+show)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
-- [Tech - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&lr=lang_en&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+show)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+show)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
+- [Opinionated - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=(best+game)+OR+(best+tv)+OR+(best+movie)+OR+(enjoy+game)+OR+(enjoy+tv)+OR+(enjoy+movie)+OR+(game+of+year)+OR+(tv+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+tv)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
+- [Tech - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&lr=lang_en&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+tv)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
 - [Local - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&lr=lang_en&q=genshin+OR+valorant+OR+%28wuthering+waves%29+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%22sonic+sega%22+OR+%22super+mario%22+OR+%22mario+bros%22+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%22cod+game%22+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
 - [Service news - Google Search News](https://www.google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&lr=lang_en&q=(pc+game+pass)+OR+surfshark+OR+%22youtube+music%22+OR+firefox+OR+mozilla+OR+chromium+OR+%22apple+music%22+OR+(chat+gpt)+OR+ios+OR+%22windows+11%22)
@@ -57,8 +57,8 @@
 
 ---
 
-- [Opinionated - Google News](https://news.google.com/search?q=when:1d+(best+game)+OR+(best+show)+OR+(best+movie)+OR+(improve+game)+OR+(improve+show)+OR+(improve+movie)+OR+(game+of+year)+OR+(show+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+show)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
-- [Tech - Google News](https://news.google.com/search?q=when:1d+msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+show)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+show)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
+- [Opinionated - Google News](https://news.google.com/search?q=when:1d+(best+game)+OR+(best+tv)+OR+(best+movie)+OR+(enjoy+game)+OR+(enjoy+tv)+OR+(enjoy+movie)+OR+(game+of+year)+OR+(tv+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+tv)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
+- [Tech - Google News](https://news.google.com/search?q=when:1d+msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+tv)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
 - [Local - Google News](https://news.google.com/search?q=when:1d+%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Google News](https://news.google.com/search?q=when:1d+genshin+OR+valorant+OR+%28wuthering+waves%29+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%22sonic+sega%22+OR+%22super+mario%22+OR+%22mario+bros%22+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%22cod+game%22+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
 - [Service news - Google News](https://news.google.com/search?q=when:1d+(pc+game+pass)+OR+surfshark+OR+%22youtube+music%22+OR+firefox+OR+mozilla+OR+chromium+OR+%22apple+music%22+OR+(chat+gpt)+OR+ios+OR+%22windows+11%22)
@@ -70,8 +70,8 @@
 
 ---
 
-- [Opinionated - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&q=(best+game)+OR+(best+show)+OR+(best+movie)+OR+(improve+game)+OR+(improve+show)+OR+(improve+movie)+OR+(game+of+year)+OR+(show+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+show)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
-- [Tech - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+show)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+show)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
+- [Opinionated - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&q=(best+game)+OR+(best+tv)+OR+(best+movie)+OR+(enjoy+game)+OR+(enjoy+tv)+OR+(enjoy+movie)+OR+(game+of+year)+OR+(tv+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+tv)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
+- [Tech - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+tv)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
 - [Local - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&lr=lang_en&q=genshin+OR+valorant+OR+%28wuthering+waves%29+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%22sonic+sega%22+OR+%22super+mario%22+OR+%22mario+bros%22+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%22cod+game%22+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
 - [Service news - Google Search](https://www.google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&q=(pc+game+pass)+OR+surfshark+OR+%22youtube+music%22+OR+firefox+OR+mozilla+OR+chromium+OR+%22apple+music%22+OR+(chat+gpt)+OR+ios+OR+%22windows+11%22)
@@ -83,8 +83,8 @@
 
 ---
 
-- [Opinionated - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=(best+game)+OR+(best+show)+OR+(best+movie)+OR+(improve+game)+OR+(improve+show)+OR+(improve+movie)+OR+(game+of+year)+OR+(show+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+show)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
-- [Tech - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+show)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+show)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
+- [Opinionated - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=(best+game)+OR+(best+tv)+OR+(best+movie)+OR+(enjoy+game)+OR+(enjoy+tv)+OR+(enjoy+movie)+OR+(game+of+year)+OR+(tv+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+tv)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
+- [Tech - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+tv)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
 - [Local - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=genshin+OR+valorant+OR+%28wuthering+waves%29+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%22sonic+sega%22+OR+%22super+mario%22+OR+%22mario+bros%22+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%22cod+game%22+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
 - [Service news - Reddit Search](https://www.reddit.com/search/?sort=top&t=day&q=(pc+game+pass)+OR+surfshark+OR+%22youtube+music%22+OR+firefox+OR+mozilla+OR+chromium+OR+%22apple+music%22+OR+(chat+gpt)+OR+ios+OR+%22windows+11%22)
@@ -96,8 +96,8 @@
 
 ---
 
-- [Opinionated - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=(best+game)+OR+(best+show)+OR+(best+movie)+OR+(improve+game)+OR+(improve+show)+OR+(improve+movie)+OR+(game+of+year)+OR+(show+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+show)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
-- [Tech - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+show)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+show)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
+- [Opinionated - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=(best+game)+OR+(best+tv)+OR+(best+movie)+OR+(enjoy+game)+OR+(enjoy+tv)+OR+(enjoy+movie)+OR+(game+of+year)+OR+(tv+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+tv)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
+- [Tech - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+tv)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
 - [Local - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=genshin+OR+valorant+OR+%28wuthering+waves%29+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%22sonic+sega%22+OR+%22super+mario%22+OR+%22mario+bros%22+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%22cod+game%22+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
 - [Service news - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=(pc+game+pass)+OR+surfshark+OR+%22youtube+music%22+OR+firefox+OR+mozilla+OR+chromium+OR+%22apple+music%22+OR+(chat+gpt)+OR+ios+OR+%22windows+11%22)
@@ -109,8 +109,8 @@
 
 ---
 
-- [Opinionated - Yandex](https://yandex.com/search/?text=(best+game)+OR+(best+show)+OR+(best+movie)+OR+(improve+game)+OR+(improve+show)+OR+(improve+movie)+OR+(game+of+year)+OR+(show+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+show)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move)&within=77&noreask=1)
-- [Tech - Yandex](https://yandex.com/search/?text=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+show)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+show)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move)&within=77&noreask=1)
+- [Opinionated - Yandex](https://yandex.com/search/?text=(best+game)+OR+(best+tv)+OR+(best+movie)+OR+(enjoy+game)+OR+(enjoy+tv)+OR+(enjoy+movie)+OR+(game+of+year)+OR+(tv+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+tv)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move)&within=77&noreask=1)
+- [Tech - Yandex](https://yandex.com/search/?text=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+tv)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move)&within=77&noreask=1)
 - [Local - Yandex](https://yandex.com/search/?text=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22&within=77&noreask=1)
 - [Games - Yandex](https://yandex.com/search/?within=77&noreask=1&text=genshin+OR+valorant+OR+%28wuthering+waves%29+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%22sonic+sega%22+OR+%22super+mario%22+OR+%22mario+bros%22+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%22cod+game%22+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
 - [Service news - Yandex](https://yandex.com/search/?within=77&noreask=1&text=(pc+game+pass)+OR+surfshark+OR+%22youtube+music%22+OR+firefox+OR+mozilla+OR+chromium+OR+%22apple+music%22+OR+(chat+gpt)+OR+ios+OR+%22windows+11%22)
@@ -122,8 +122,8 @@
 
 ---
 
-- [Opinionated - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=(best+game)+OR+(best+show)+OR+(best+movie)+OR+(improve+game)+OR+(improve+show)+OR+(improve+movie)+OR+(game+of+year)+OR+(show+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+show)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
-- [Tech - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+show)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+show)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
+- [Opinionated - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=(best+game)+OR+(best+tv)+OR+(best+movie)+OR+(enjoy+game)+OR+(enjoy+tv)+OR+(enjoy+movie)+OR+(game+of+year)+OR+(tv+of+year)+OR+(movie+of+year)+OR+(disappoint+game)+OR+(disappoint+tv)+OR+(disappoint+movie)+OR+(disappoint+decision)+OR+(disappoint+move)+OR+(best+decision)+OR+(best+move))
+- [Tech - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=msft+OR+aapl+OR+goog+OR+qcom+OR+amzn+OR+intl+OR+(reveal+tv)+OR+(reveal+tv)+OR+(reveal+game)+OR+(announce+tv)+OR+(announce+game)+OR+(announce+decision)+OR+(announce+move))
 - [Local - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=genshin+OR+valorant+OR+%28wuthering+waves%29+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%22sonic+sega%22+OR+%22super+mario%22+OR+%22mario+bros%22+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%22cod+game%22+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
 - [Service news - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=(pc+game+pass)+OR+surfshark+OR+%22youtube+music%22+OR+firefox+OR+mozilla+OR+chromium+OR+%22apple+music%22+OR+(chat+gpt)+OR+ios+OR+%22windows+11%22)
