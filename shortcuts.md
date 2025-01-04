@@ -18,7 +18,7 @@
 
 ## news
 
-- [Opinionated - Bing News](https://bing.com/news/search?q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album))&qft=interval%3d"7")
+- [Opinionated - Bing News](https://bing.com/news/search?q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album))&qft=interval%3d"7")
 - [Tech - Bing News](https://bing.com/news/search?q=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29&qft=interval%3d"7")
 - [Local - Bing News](https://bing.com/news/search?q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22&qft=interval%3d"7")
 - [Games - Bing News](https://bing.com/news/search?qft=interval%3d"7"&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
@@ -31,7 +31,7 @@
 
 ---
 
-- [Opinionated - Bing Search](https://bing.com/search?q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album))&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
+- [Opinionated - Bing Search](https://bing.com/search?q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album))&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Tech - Bing Search](https://bing.com/search?q=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Local - Bing Search](https://bing.com/search?q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22&filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us)
 - [Games - Bing Search](https://bing.com/search?filters=ex1%3a%22ez1%22&mkt=en-US&setlang=en-us&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
@@ -44,7 +44,7 @@
 
 ---
 
-- [Opinionated - Bing Videos](https://bing.com/videos/search?&qft=+filterui:videoage-lt1440&FORM=VRFLTR&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
+- [Opinionated - Bing Videos](https://bing.com/videos/search?&qft=+filterui:videoage-lt1440&FORM=VRFLTR&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
 - [Tech - Bing Videos](https://bing.com/videos/search?&qft=+filterui:videoage-lt1440&FORM=VRFLTR&q=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29)
 - [Local - Bing Videos](https://bing.com/videos/search?&qft=+filterui:videoage-lt1440&FORM=VRFLTR&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Bing Videos](https://bing.com/videos/search?&qft=+filterui:videoage-lt1440&FORM=VRFLTR&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
@@ -57,7 +57,7 @@
 
 ---
 
-- [Opinionated - Google Search News](https://google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
+- [Opinionated - Google Search News](https://google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
 - [Tech - Google Search News](https://google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&lr=lang_en&q=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29)
 - [Local - Google Search News](https://google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Google Search News](https://google.com/search?safe=off&tbs=qdr:d&tbm=nws&nfpr=1&lr=lang_en&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
@@ -70,7 +70,7 @@
 
 ---
 
-- [Opinionated - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&udm=14&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
+- [Opinionated - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&udm=14&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
 - [Tech - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&udm=14&lr=lang_en&q=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29)
 - [Local - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&udm=14&lr=lang_en&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&udm=14&lr=lang_en&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
@@ -83,7 +83,7 @@
 
 ---
 
-- [Opinionated - Google Search Videos](https://google.com/search?safe=off&udm=7&lr=lang_en&tbs=qdr%3Ad%2Clr%3Alang_1en&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
+- [Opinionated - Google Search Videos](https://google.com/search?safe=off&udm=7&lr=lang_en&tbs=qdr%3Ad%2Clr%3Alang_1en&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
 - [Tech - Google Search Videos](https://google.com/search?safe=off&udm=7&lr=lang_en&tbs=qdr%3Ad%2Clr%3Alang_1en&q=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29)
 - [Local - Google Search Videos](https://google.com/search?safe=off&udm=7&tbs=qdr:d&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Google Search Videos](https://google.com/search?safe=off&udm=7&lr=lang_en&tbs=qdr%3Ad%2Clr%3Alang_1en&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
@@ -96,7 +96,7 @@
 
 ---
 
-- [Opinionated - Reddit Search](https://reddit.com/search/?sort=top&t=day&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
+- [Opinionated - Reddit Search](https://reddit.com/search/?sort=top&t=day&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
 - [Tech - Reddit Search](https://reddit.com/search/?sort=top&t=day&q=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29)
 - [Local - Reddit Search](https://reddit.com/search/?sort=top&t=day&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Reddit Search](https://reddit.com/search/?sort=top&t=day&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
@@ -109,7 +109,7 @@
 
 ---
 
-- [Opinionated - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
+- [Opinionated - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
 - [Tech - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29)
 - [Local - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - Redlib](https://redlib.freedit.eu/search?sort=top&t=day&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
@@ -122,7 +122,7 @@
 
 ---
 
-- [Opinionated - Yandex](https://yandex.com/search/?text=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album))&within=77&noreask=1)
+- [Opinionated - Yandex](https://yandex.com/search/?text=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album))&within=77&noreask=1)
 - [Tech - Yandex](https://yandex.com/search/?text=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29&within=77&noreask=1)
 - [Local - Yandex](https://yandex.com/search/?text=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22&within=77&noreask=1)
 - [Games - Yandex](https://yandex.com/search/?within=77&noreask=1&text=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
@@ -135,7 +135,7 @@
 
 ---
 
-- [Opinionated - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
+- [Opinionated - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
 - [Tech - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=msft+OR+aapl+OR+goog+OR+nflx+OR+amzn+OR+intl+OR+%28reveal+tv%29+OR+%28reveal+game%29+OR+%28announce+%28game+OR+tv+OR+decision+OR+strategy%29%29+OR+%28price+%28change+OR+increase+OR+decrease%29%29)
 - [Local - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=%22newsinfo+inquirer+net%22+OR+%22news+abs-cbn+com+news%22+OR+%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22)
 - [Games - SearX](https://searx.tiekoetter.com/search?language=en-US&time_range=day&safesearch=0&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
