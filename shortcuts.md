@@ -66,7 +66,6 @@
 - [Financial - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993)
 - [Fun - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993)
 - [Political - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/12634018877518289307)
-<!-- Format: - [*queryTitle* - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&lr=lang_en&q=[query]) -->
 
 ---
 
