@@ -57,15 +57,15 @@
 
 ---
 
-- [Opinionated - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&q=(good+game)+OR+(good+tv)+OR+(good+movie)+OR+(good+album)+OR+(good+(decision+OR+strategy))+OR+(bad+(game+OR+tv+OR+movie+OR+album+OR+decision+OR+strategy))+OR+((game+OR+tv+OR+movie+OR+album)+year)+OR+(enjoy+(game+OR+tv+OR+movie+OR+album)))
-- [Tech - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&lr=lang_en&q=msft+OR+aapl+OR+goog+OR+amzn+OR+intl+OR+(announce+tv)+OR+(announce+game)+OR+(announce+(decision+OR+strategy))+OR+(reveal+(game+OR+tv+OR+decision+OR+strategy))+OR+(price+(change+OR+up+OR+down))+OR+((amazon+OR+netflix)+live))
-- [Local - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&lr=lang_en&q=%22philstar+com+nation%22+OR+%22gmanetwork+com+news+topstories%22+OR+%22sports+inquirer+net%22+OR+%22pop+inquirer+net%22+OR+site%3Anewsinfo.inquirer.net+OR+site%3Anews.abs-cbn.com%2Fnews)
-- [Games - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&lr=lang_en&q=genshin+OR+valorant+OR+wuthering+OR+overwatch+OR+%28sonic+hedgehog%29+OR+%28sonic+team%29+OR+%22super+mario%22+OR+%28mario+nintendo%29+OR+%28mario+luigi%29+OR+%22call+of+duty%22+OR+%28cod+game%29+OR+%22counter+strike%22+OR+counterstrike+OR+%22cs+2%22+OR+cs2)
-- [Service news - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&q=%28pc+game+pass%29+OR+surfshark+OR+%22youtube+music%22+OR+spotify+OR+%22apple+music%22+OR+%28%28major+OR+minor+OR+faster+OR+performance+OR+feature%29+change%29+OR+%28%28major+OR+minor+OR+faster+OR+performance+OR+feature%29+update%29)
-- [Global - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&lr=lang_en&q=%22newsnationnow+com+world%22+OR+%22wsj+com+world%22+OR+%22france24+com+en+live-news%22+OR+%22csmonitor+com+world%22+OR+%22reuters+com+world%22)
-- [Financial - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&q=(msft+OR+aapl+OR+goog+OR+amzn+OR+intl+OR+amd+OR+nflx+OR+political+OR+poll+OR+debate+OR+protest+OR+argue+OR+agree+OR+disagree)+("benzinga+com"+OR+"investing+com+news"+OR+"finance+yahoo+com+news"+OR+"tradingview+com+news"))
-- [Fun - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&q=%22jalopnik+com%22+OR+%22topgear+com+ph+news%22+OR+%22soranews24+com%22+OR+%22hollywoodreporter+com+business%22+OR+%22variety+com+2025+digital%22+OR+%22variety+com+2025+biz%22+OR+site%3Acaranddriver.com%2Fnews+OR+site%3Aroadandtrack.com%2Fnews)
-- [Political - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&q=%28political+OR+poll+OR+debate+OR+protest+OR+argue+OR+agree+OR+disagree%29+%28%22newsnationnow+com%22+OR+%22wsj+com%22+OR+%22france24+com%22+OR+%22csmonitor+com%22+OR+%22reuters+com%22+OR+%22gmanetwork+com%22+OR+%22inquirer+net%22%29)
+- [Opinionated - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899)
+- [Tech - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024)
+- [Local - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859)
+- [Games - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186)
+- [Service news - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608)
+- [Global - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259)
+- [Financial - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993)
+- [Fun - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993)
+- [Political - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/12634018877518289307)
 <!-- Format: - [*queryTitle* - Google Search](https://google.com/search?tbs=qdr:d&safe=off&filter=0&nfpr=1&peek_pws=0&udm=14&lr=lang_en&q=[query]) -->
 
 ---
