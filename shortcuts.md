@@ -64,7 +64,7 @@
 - [Service news - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608)
 - [Global - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259)
 - [Financial - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993)
-- [Fun - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993)
+- [Fun - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889)
 - [Political - Google Search](https://www.google.com/alerts/feeds/18328284995867372572/12634018877518289307)
 
 ---
