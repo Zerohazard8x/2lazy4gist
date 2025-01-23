@@ -7,163 +7,163 @@
         <outline text="all" title="all" />
         <outline text="searches" title="searches">
             <outline
-                text="Bing: (pc game pass) OR surfshark OR &quot;youtube music&quot; OR spotify OR &quot;apple music&quot; OR ((major OR minor OR faster OR performance OR feature) change) OR ((major OR minor OR faster OR performance OR featur"
-                title="Bing: (pc game pass) OR surfshark OR &quot;youtube music&quot; OR spotify OR &quot;apple music&quot; OR ((major OR minor OR faster OR performance OR feature) change) OR ((major OR minor OR faster OR performance OR featur"
+                text="Bing: Service news"
+                title="Bing: Service news"
                 type="rss"
                 xmlUrl="https://shr.pn/eryQ4" />
             <outline
-                text="Bing: genshin OR valorant OR wuthering OR overwatch OR (sonic hedgehog) OR (sonic team) OR &quot;super mario&quot; OR (mario nintendo) OR (mario luigi) OR &quot;call of duty&quot; OR (cod game) OR &quot;counter strike&quot; OR cou"
-                title="Bing: genshin OR valorant OR wuthering OR overwatch OR (sonic hedgehog) OR (sonic team) OR &quot;super mario&quot; OR (mario nintendo) OR (mario luigi) OR &quot;call of duty&quot; OR (cod game) OR &quot;counter strike&quot; OR cou"
+                text="Bing: Games"
+                title="Bing: Games"
                 type="rss"
                 xmlUrl="https://shr.pn/m5brA" />
             <outline
-                text="genshin OR valorant OR wuthering OR overwatch OR (sonic hedgehog) OR (sonic team) OR &quot;super mario&quot; OR (mario nintendo) OR (mario luigi) OR &quot;call of duty&quot; OR (cod game) OR &quot;counter strike&quot; OR counterst"
-                title="genshin OR valorant OR wuthering OR overwatch OR (sonic hedgehog) OR (sonic team) OR &quot;super mario&quot; OR (mario nintendo) OR (mario luigi) OR &quot;call of duty&quot; OR (cod game) OR &quot;counter strike&quot; OR counterst"
+                text="Games"
+                title="Games"
                 type="rss"
                 xmlUrl="https://shr.pn/WGetk" />
             <outline
-                text="Bing: &quot;philstar com nation&quot; OR &quot;gmanetwork com news topstories&quot; OR &quot;sports inquirer net&quot; OR &quot;pop inquirer net&quot; OR site:newsinfo.inquirer.net OR site:news.abs-cbn.com/news"
-                title="Bing: &quot;philstar com nation&quot; OR &quot;gmanetwork com news topstories&quot; OR &quot;sports inquirer net&quot; OR &quot;pop inquirer net&quot; OR site:newsinfo.inquirer.net OR site:news.abs-cbn.com/news"
+                text="Bing: Local"
+                title="Bing: Local"
                 type="rss"
                 xmlUrl="https://shr.pn/wNAab" />
             <outline
-                text="Bing: msft OR aapl OR goog OR amzn OR intl OR (announce tv) OR (announce game) OR (announce (decision OR strategy)) OR (reveal (game OR tv OR decision OR strategy)) OR (price (change OR up OR down)) O"
-                title="Bing: msft OR aapl OR goog OR amzn OR intl OR (announce tv) OR (announce game) OR (announce (decision OR strategy)) OR (reveal (game OR tv OR decision OR strategy)) OR (price (change OR up OR down)) O"
+                text="Bing: New"
+                title="Bing: New"
                 type="rss"
                 xmlUrl="https://shr.pn/sAeqF" />
             <outline
-                text="msft OR aapl OR goog OR amzn OR intl OR (announce tv) OR (announce game) OR (announce (decision OR strategy)) OR (reveal (game OR tv OR decision OR strategy)) OR (price (change OR up OR down)) OR ((am"
-                title="msft OR aapl OR goog OR amzn OR intl OR (announce tv) OR (announce game) OR (announce (decision OR strategy)) OR (reveal (game OR tv OR decision OR strategy)) OR (price (change OR up OR down)) OR ((am"
+                text="New"
+                title="New"
                 type="rss"
                 xmlUrl="https://shr.pn/0ovzQ" />
             <outline
-                text="&quot;newsnationnow com world&quot; OR &quot;wsj com world&quot; OR &quot;france24 com en live-news&quot; OR &quot;csmonitor com world&quot; OR &quot;reuters com world&quot; - BingNews"
-                title="&quot;newsnationnow com world&quot; OR &quot;wsj com world&quot; OR &quot;france24 com en live-news&quot; OR &quot;csmonitor com world&quot; OR &quot;reuters com world&quot; - BingNews"
+                text="Global - BingNews"
+                title="Global - BingNews"
                 type="rss"
                 xmlUrl="https://shr.pn/3n185" />
             <outline
-                text="(pc game pass) OR surfshark OR &quot;youtube music&quot; OR spotify OR &quot;apple music&quot; OR ((major OR minor OR faster OR performance OR feature) change) OR ((major OR minor OR faster OR performance OR feature) upd"
-                title="(pc game pass) OR surfshark OR &quot;youtube music&quot; OR spotify OR &quot;apple music&quot; OR ((major OR minor OR faster OR performance OR feature) change) OR ((major OR minor OR faster OR performance OR feature) upd"
+                text="Service news"
+                title="Service news"
                 type="rss"
                 xmlUrl="https://shr.pn/Ipzjc" />
             <outline
-                text="Bing: &quot;jalopnik com&quot; OR &quot;topgear com ph news&quot; OR &quot;soranews24 com&quot; OR &quot;hollywoodreporter com business&quot; OR &quot;variety com 2025 digital&quot; OR &quot;variety com 2025 biz&quot; OR site:caranddriver.com/news OR site:road"
-                title="Bing: &quot;jalopnik com&quot; OR &quot;topgear com ph news&quot; OR &quot;soranews24 com&quot; OR &quot;hollywoodreporter com business&quot; OR &quot;variety com 2025 digital&quot; OR &quot;variety com 2025 biz&quot; OR site:caranddriver.com/news OR site:road"
+                text="Bing: Fun"
+                title="Bing: Fun"
                 type="rss"
                 xmlUrl="https://shr.pn/OZTUd" />
             <outline
-                text="Bing: (msft OR aapl OR goog OR amzn OR intl OR amd OR nflx OR political OR poll OR debate OR protest OR argue OR agree OR disagree) (&quot;benzinga com&quot; OR &quot;investing com news&quot; OR &quot;finance yahoo com news&quot; "
-                title="Bing: (msft OR aapl OR goog OR amzn OR intl OR amd OR nflx OR political OR poll OR debate OR protest OR argue OR agree OR disagree) (&quot;benzinga com&quot; OR &quot;investing com news&quot; OR &quot;finance yahoo com news&quot; "
+                text="Bing: Financial"
+                title="Bing: Financial"
                 type="rss"
                 xmlUrl="https://shr.pn/7qEwK" />
             <outline
-                text="(msft OR aapl OR goog OR amzn OR intl OR amd OR nflx OR political OR poll OR debate OR protest OR argue OR agree OR disagree) (&quot;benzinga com&quot; OR &quot;investing com news&quot; OR &quot;finance yahoo com news&quot; OR &quot;tr"
-                title="(msft OR aapl OR goog OR amzn OR intl OR amd OR nflx OR political OR poll OR debate OR protest OR argue OR agree OR disagree) (&quot;benzinga com&quot; OR &quot;investing com news&quot; OR &quot;finance yahoo com news&quot; OR &quot;tr"
+                text="Financial"
+                title="Financial"
                 type="rss"
                 xmlUrl="https://shr.pn/AkTLe" />
             <outline
-                text="Bing: (good game) OR (good tv) OR (good movie) OR (good album) OR (good (decision OR strategy)) OR (bad (game OR tv OR movie OR album OR decision OR strategy)) OR ((game OR tv OR movie OR album) year)"
-                title="Bing: (good game) OR (good tv) OR (good movie) OR (good album) OR (good (decision OR strategy)) OR (bad (game OR tv OR movie OR album OR decision OR strategy)) OR ((game OR tv OR movie OR album) year)"
+                text="Bing: Opinionated"
+                title="Bing: Opinionated"
                 type="rss"
                 xmlUrl="https://shr.pn/6izfX" />
             <outline
-                text="Google Alert - (pc game pass) OR surfshark OR &quot;youtube music&quot; OR spotify OR &quot;apple music&quot; OR ((major OR minor OR faster OR performance OR feature) change) OR ((major OR minor OR faster OR performance "
-                title="Google Alert - (pc game pass) OR surfshark OR &quot;youtube music&quot; OR spotify OR &quot;apple music&quot; OR ((major OR minor OR faster OR performance OR feature) change) OR ((major OR minor OR faster OR performance "
+                text="Google Alert - Service news"
+                title="Google Alert - Service news"
                 type="rss"
                 xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
             <outline
-                text="Google Alert - msft OR aapl OR goog OR amzn OR intl OR (announce tv) OR (announce game) OR (announce (decision OR strategy)) OR (reveal (game OR tv OR decision OR strategy)) OR (price (change OR up OR"
-                title="Google Alert - msft OR aapl OR goog OR amzn OR intl OR (announce tv) OR (announce game) OR (announce (decision OR strategy)) OR (reveal (game OR tv OR decision OR strategy)) OR (price (change OR up OR"
+                text="Google Alert - New"
+                title="Google Alert - New"
                 type="rss"
                 xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
             <outline
-                text="Google Alert - &quot;jalopnik com&quot; OR &quot;topgear com ph news&quot; OR &quot;soranews24 com&quot; OR &quot;hollywoodreporter com business&quot; OR &quot;variety com 2025 digital&quot; OR &quot;variety com 2025 biz&quot; OR site:caranddriver.com/news OR "
-                title="Google Alert - &quot;jalopnik com&quot; OR &quot;topgear com ph news&quot; OR &quot;soranews24 com&quot; OR &quot;hollywoodreporter com business&quot; OR &quot;variety com 2025 digital&quot; OR &quot;variety com 2025 biz&quot; OR site:caranddriver.com/news OR "
+                text="Google Alert - Fun"
+                title="Google Alert - Fun"
                 type="rss"
                 xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
             <outline
-                text="&quot;jalopnik com&quot; OR &quot;topgear com ph news&quot; OR &quot;soranews24 com&quot; OR &quot;hollywoodreporter com business&quot; OR &quot;variety com 2025 digital&quot; OR &quot;variety com 2025 biz&quot; OR site:caranddriver.com/news OR site:roadandtra"
-                title="&quot;jalopnik com&quot; OR &quot;topgear com ph news&quot; OR &quot;soranews24 com&quot; OR &quot;hollywoodreporter com business&quot; OR &quot;variety com 2025 digital&quot; OR &quot;variety com 2025 biz&quot; OR site:caranddriver.com/news OR site:roadandtra"
+                text="Fun"
+                title="Fun"
                 type="rss"
                 xmlUrl="https://shr.pn/gpSIR" />
             <outline
-                text="Google Alert - (good game) OR (good tv) OR (good movie) OR (good album) OR (good (decision OR strategy)) OR (bad (game OR tv OR movie OR album OR decision OR strategy)) OR ((game OR tv OR movie OR alb"
-                title="Google Alert - (good game) OR (good tv) OR (good movie) OR (good album) OR (good (decision OR strategy)) OR (bad (game OR tv OR movie OR album OR decision OR strategy)) OR ((game OR tv OR movie OR alb"
+                text="Google Alert - Opinionated"
+                title="Google Alert - Opinionated"
                 type="rss"
                 xmlUrl="https://shr.pn/4QT0t" />
             <outline
-                text="Google Alert - (msft OR aapl OR goog OR amzn OR intl OR amd OR nflx OR political OR poll OR debate OR protest OR argue OR agree OR disagree) (&quot;benzinga com&quot; OR &quot;investing com news&quot; OR &quot;finance yahoo c"
-                title="Google Alert - (msft OR aapl OR goog OR amzn OR intl OR amd OR nflx OR political OR poll OR debate OR protest OR argue OR agree OR disagree) (&quot;benzinga com&quot; OR &quot;investing com news&quot; OR &quot;finance yahoo c"
+                text="Google Alert - Financial"
+                title="Google Alert - Financial"
                 type="rss"
                 xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
             <outline
-                text="Google Alert - &quot;newsnationnow com world&quot; OR &quot;wsj com world&quot; OR &quot;france24 com en live-news&quot; OR &quot;csmonitor com world&quot; OR &quot;reuters com world&quot;"
-                title="Google Alert - &quot;newsnationnow com world&quot; OR &quot;wsj com world&quot; OR &quot;france24 com en live-news&quot; OR &quot;csmonitor com world&quot; OR &quot;reuters com world&quot;"
+                text="Google Alert - Global"
+                title="Google Alert - Global"
                 type="rss"
                 xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
             <outline
-                text="&quot;philstar com nation&quot; OR &quot;gmanetwork com news topstories&quot; OR &quot;sports inquirer net&quot; OR &quot;pop inquirer net&quot; OR site:newsinfo.inquirer.net OR site:news.abs-cbn.com/news - BingNews"
-                title="&quot;philstar com nation&quot; OR &quot;gmanetwork com news topstories&quot; OR &quot;sports inquirer net&quot; OR &quot;pop inquirer net&quot; OR site:newsinfo.inquirer.net OR site:news.abs-cbn.com/news - BingNews"
+                text="Local - BingNews"
+                title="Local - BingNews"
                 type="rss"
                 xmlUrl="https://shr.pn/vEQJK" />
             <outline
-                text="(good game) OR (good tv) OR (good movie) OR (good album) OR (good (decision OR strategy)) OR (bad (game OR tv OR movie OR album OR decision OR strategy)) OR ((game OR tv OR movie OR album) year) OR (e"
-                title="(good game) OR (good tv) OR (good movie) OR (good album) OR (good (decision OR strategy)) OR (bad (game OR tv OR movie OR album OR decision OR strategy)) OR ((game OR tv OR movie OR album) year) OR (e"
+                text="Opinionated"
+                title="Opinionated"
                 type="rss"
                 xmlUrl="https://shr.pn/suQ5U" />
             <outline
-                text="Google Alert - &quot;philstar com nation&quot; OR &quot;gmanetwork com news topstories&quot; OR &quot;sports inquirer net&quot; OR &quot;pop inquirer net&quot; OR site:newsinfo.inquirer.net OR site:news.abs-cbn.com/news"
-                title="Google Alert - &quot;philstar com nation&quot; OR &quot;gmanetwork com news topstories&quot; OR &quot;sports inquirer net&quot; OR &quot;pop inquirer net&quot; OR site:newsinfo.inquirer.net OR site:news.abs-cbn.com/news"
+                text="Google Alert - Local"
+                title="Google Alert - Local"
                 type="rss"
                 xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
             <outline
-                text="Google Alert - genshin OR valorant OR wuthering OR overwatch OR (sonic hedgehog) OR (sonic team) OR &quot;super mario&quot; OR (mario nintendo) OR (mario luigi) OR &quot;call of duty&quot; OR (cod game) OR &quot;counter strik"
-                title="Google Alert - genshin OR valorant OR wuthering OR overwatch OR (sonic hedgehog) OR (sonic team) OR &quot;super mario&quot; OR (mario nintendo) OR (mario luigi) OR &quot;call of duty&quot; OR (cod game) OR &quot;counter strik"
+                text="Google Alert - Games"
+                title="Google Alert - Games"
                 type="rss"
                 xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
             <outline
-                text="reddit.com: search results - &quot;philstar com nation&quot; OR &quot;gmanetwork com news topstories&quot; OR &quot;sports inquirer net&quot; OR &quot;pop inquirer net&quot; OR site:newsinfo.inquirer.net OR site:news.abs-cbn.com/news"
-                title="reddit.com: search results - &quot;philstar com nation&quot; OR &quot;gmanetwork com news topstories&quot; OR &quot;sports inquirer net&quot; OR &quot;pop inquirer net&quot; OR site:newsinfo.inquirer.net OR site:news.abs-cbn.com/news"
+                text="reddit.com: search results - Local"
+                title="reddit.com: search results - Local"
                 type="rss"
                 xmlUrl="https://shr.pn/PgBoN" />
             <outline
-                text="Bing: &quot;newsnationnow com world&quot; OR &quot;wsj com world&quot; OR &quot;france24 com en live-news&quot; OR &quot;csmonitor com world&quot; OR &quot;reuters com world&quot;"
-                title="Bing: &quot;newsnationnow com world&quot; OR &quot;wsj com world&quot; OR &quot;france24 com en live-news&quot; OR &quot;csmonitor com world&quot; OR &quot;reuters com world&quot;"
+                text="Bing: Global"
+                title="Bing: Global"
                 type="rss"
                 xmlUrl="https://shr.pn/Klbke" />
             <outline
-                text="reddit.com: search results - (msft OR aapl OR goog OR amzn OR intl OR amd OR nflx OR political OR poll OR debate OR protest OR argue OR agree OR disagree) (&quot;benzinga com&quot; OR &quot;investing com news&quot; OR &quot;f"
-                title="reddit.com: search results - (msft OR aapl OR goog OR amzn OR intl OR amd OR nflx OR political OR poll OR debate OR protest OR argue OR agree OR disagree) (&quot;benzinga com&quot; OR &quot;investing com news&quot; OR &quot;f"
+                text="reddit.com: search results - Financial"
+                title="reddit.com: search results - Financial"
                 type="rss"
                 xmlUrl="https://shr.pn/RoqmX" />
             <outline
-                text="reddit.com: search results - &quot;newsnationnow com world&quot; OR &quot;wsj com world&quot; OR &quot;france24 com en live-news&quot; OR &quot;csmonitor com world&quot; OR &quot;reuters com world&quot;"
-                title="reddit.com: search results - &quot;newsnationnow com world&quot; OR &quot;wsj com world&quot; OR &quot;france24 com en live-news&quot; OR &quot;csmonitor com world&quot; OR &quot;reuters com world&quot;"
+                text="reddit.com: search results - Global"
+                title="reddit.com: search results - Global"
                 type="rss"
                 xmlUrl="https://shr.pn/dec8n" />
             <outline
-                text="reddit.com: search results - &quot;jalopnik com&quot; OR &quot;topgear com ph news&quot; OR &quot;soranews24 com&quot; OR &quot;hollywoodreporter com business&quot; OR &quot;variety com 2025 digital&quot; OR &quot;variety com 2025 biz&quot; OR site:caranddrive"
-                title="reddit.com: search results - &quot;jalopnik com&quot; OR &quot;topgear com ph news&quot; OR &quot;soranews24 com&quot; OR &quot;hollywoodreporter com business&quot; OR &quot;variety com 2025 digital&quot; OR &quot;variety com 2025 biz&quot; OR site:caranddrive"
+                text="reddit.com: search results - Fun"
+                title="reddit.com: search results - Fun"
                 type="rss"
                 xmlUrl="https://shr.pn/G64ul" />
             <outline
-                text="reddit.com: search results - genshin OR valorant OR wuthering OR overwatch OR (sonic hedgehog) OR (sonic team) OR &quot;super mario&quot; OR (mario nintendo) OR (mario luigi) OR &quot;call of duty&quot; OR (cod game) OR "
-                title="reddit.com: search results - genshin OR valorant OR wuthering OR overwatch OR (sonic hedgehog) OR (sonic team) OR &quot;super mario&quot; OR (mario nintendo) OR (mario luigi) OR &quot;call of duty&quot; OR (cod game) OR "
+                text="reddit.com: search results - Games"
+                title="reddit.com: search results - Games"
                 type="rss"
                 xmlUrl="https://shr.pn/zElRQ" />
             <outline
-                text="reddit.com: search results - (good game) OR (good tv) OR (good movie) OR (good album) OR (good (decision OR strategy)) OR (bad (game OR tv OR movie OR album OR decision OR strategy)) OR ((game OR tv O"
-                title="reddit.com: search results - (good game) OR (good tv) OR (good movie) OR (good album) OR (good (decision OR strategy)) OR (bad (game OR tv OR movie OR album OR decision OR strategy)) OR ((game OR tv O"
+                text="reddit.com: search results - Opinionated"
+                title="reddit.com: search results - Opinionated"
                 type="rss"
                 xmlUrl="https://shr.pn/vYX6p" />
             <outline
-                text="reddit.com: search results - msft OR aapl OR goog OR amzn OR intl OR (announce tv) OR (announce game) OR (announce (decision OR strategy)) OR (reveal (game OR tv OR decision OR strategy)) OR (price (c"
-                title="reddit.com: search results - msft OR aapl OR goog OR amzn OR intl OR (announce tv) OR (announce game) OR (announce (decision OR strategy)) OR (reveal (game OR tv OR decision OR strategy)) OR (price (c"
+                text="reddit.com: search results - New things"
+                title="reddit.com: search results - New things"
                 type="rss"
                 xmlUrl="https://shr.pn/cxv9i" />
             <outline
-                text="reddit.com: search results - (pc game pass) OR surfshark OR &quot;youtube music&quot; OR spotify OR &quot;apple music&quot; OR ((major OR minor OR faster OR performance OR feature) change) OR ((major OR minor OR faster O"
-                title="reddit.com: search results - (pc game pass) OR surfshark OR &quot;youtube music&quot; OR spotify OR &quot;apple music&quot; OR ((major OR minor OR faster OR performance OR feature) change) OR ((major OR minor OR faster O"
+                text="reddit.com: search results - Service news"
+                title="reddit.com: search results - Service news"
                 type="rss"
                 xmlUrl="https://shr.pn/mg2jf" />
         </outline>
