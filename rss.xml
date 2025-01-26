@@ -4,7 +4,6 @@
         <title>Fluent Reader Export</title>
     </head>
     <body>
-        <outline text="all" title="all" />
         <outline text="searches" title="searches">
             <outline
                 text="Bing: Service news"
@@ -232,6 +231,5 @@
                 type="rss"
                 xmlUrl="https://shr.pn/De8R2" />
         </outline>
-        <outline text="searx" title="searx" />
     </body>
 </opml>
