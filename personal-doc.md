@@ -375,7 +375,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 ---
 
 - <https://youtube.com/@RacingStatistics/streams> - F1 Chat
-  - <https://youtube.com/@CameronF1./streams>
+  - <https://youtube.com/@CameronF1/streams>
 
 ---
 
