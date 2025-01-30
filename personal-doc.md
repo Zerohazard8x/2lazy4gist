@@ -137,13 +137,17 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 - <https://southparkstudios.com/seasons/south-park> - South Park Full Episodes
 - <https://www.youtube.com/@AnimeonTMSOfficialChannel> - Assorted TMS Anime Full Episodes (e.g Sonic X)  
+  - <https://www.youtube.com/watch?v=-INdp_kaWAc&list=ULcxqQ59vzyTk>
 - <https://youtube.com/c/MuseAsia> - Assorted MuseAsia Anime Full Episodes (e.g. JoJo, Spy x Family)
 - <https://youtube.com/c/Pok%C3%A9monAsiaENG> - Pokemon Anime Full Episodes n More
 - <https://youtube.com/playlist?list=PLQOJdrIdqhW3hB8EuTofununVfX0pBDPa> - WWE Full Matches
+  - <https://www.youtube.com/watch?v=ilSyLJ72pMY&list=ULcxqQ59vzyTk>
 - <https://youtube.com/playlist?list=PLWmD0FKyW_ozrMGGtHaW2bJtZk4euj__p> - [Cut] Simpsons playlist
 - <https://youtube.com/playlist?list=PLylTItjXRUVdHImLFyb2DfOagPFYNbqW1> - Forensic Files
 - <https://youtube.com/@Sonic.Boom_Official> - Sonic Boom
+  - <https://youtube.com/watch?v=bmAprGzLqqg&list=ULcxqQ59vzyTk>
 - <https://www.youtube.com/@WildBrainSuperheroes> - DiC 90s cartoons e.g. Mario Super Show, Adventures of Sonic
+  - <https://www.youtube.com/watch?v=WmLzql3PpKo&list=ULcxqQ59vzyTk>
 - <https://youtube.com/playlist?list=PL39_ud5aKSvnYDhKdB7wTDUZRiE8RaJat>
 
 ---
@@ -318,37 +322,41 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 
 ---
 
-<https://youtube.com/@KitchenNightmares/live> - Kitchen Nightmares pseudo 24/7
+<https://youtube.com/@KitchenNightmares/streams> - Kitchen Nightmares pseudo 24/7
 
-- <https://youtube.com/@abscbnnews/live> - ABS CBN News (PH)
-  - <https://youtube.com/@abscbnentertainment/live> - ABS CBN Kapamilya Online Live
-- <https://youtube.com/@TV5Philippines/live> - TV5 (PH, not 24/7)
-
----
-
-<https://youtube.com/@channelnewsasia/live> - CNA  
-<https://youtube.com/@France24_en/live> - France24  
-<https://youtube.com/@NHKWORLDJAPAN/live> - NHK World pseudo 24/7  
-<https://youtube.com/@NBCNews/live> - NBC News (USA)  
-<https://youtube.com/@SkyNews/live> - Sky News (UK)
+- <https://youtube.com/@abscbnnews/streams> - ABS CBN News (PH)
+  - <https://youtube.com/@abscbnentertainment/streams> - ABS CBN Kapamilya Online Live
+- <https://youtube.com/@TV5Philippines/streams> - TV5 (PH, not 24/7)
 
 ---
 
-<https://youtube.com/@skysports/live> - Sky Sports
+<https://youtube.com/@channelnewsasia/streams> - CNA  
+<https://youtube.com/@France24_en/streams> - France24  
+<https://youtube.com/@NHKWORLDJAPAN/streams> - NHK World pseudo 24/7  
+<https://youtube.com/@NBCNews/streams> - NBC News (USA)  
+<https://youtube.com/@SkyNews/streams> - Sky News (UK)
+
+---
+
+<https://youtube.com/@skysports/streams> - Sky Sports
 
 ---
 
 <https://player.twitch.tv/?channel=genshinimpactofficial&parent=no> - Genshin Impact Official  
-<https://youtube.com/@AEW/live> - AEW Dark / Elevation (not 24/7)  
-<https://youtube.com/@WWE/live> - WWE Talk Shows (not 24/7)
+<https://youtube.com/@AEW/streams> - AEW Dark / Elevation (not 24/7)  
+<https://youtube.com/@WWE/streams> - WWE Talk Shows (not 24/7)
 
 ---
 
-- <https://youtube.com/@IGN/live> - Gaming Events pseudo 24/7 (IGN)
-  - <https://youtube.com/@thegameawards/live> - Summer Game Fest / Game Awards
-- <https://youtube.com/@CNET/live> - Tech Events pseudo 24/7 (CNet)
-  - <https://youtube.com/@CNETHighlights/live>
-  - <https://youtube.com/@Apple/live> - Apple
+- <https://youtube.com/@IGN/streams> - Gaming Events pseudo 24/7 (IGN)
+  - <https://youtube.com/watch?v=wEY-pTqdGys&list=ULcxqQ59vzyTk>
+  - <https://youtube.com/@thegameawards/streams> - Summer Game Fest / Game Awards
+- <https://youtube.com/@CNET/streams> - Tech Events pseudo 24/7 (CNet)
+  - <https://www.youtube.com/watch?v=fCqtlDl78WU&list=ULcxqQ59vzyTk>
+  - <https://youtube.com/@CNETHighlights/streams>
+    - <https://youtube.com/watch?v=2SjrX1mRy_c&list=ULcxqQ59vzyTk>
+  - <https://youtube.com/@Apple/streams> - Apple
+    - <https://youtube.com/watch?v=86D7AGm5sHk&list=ULcxqQ59vzyTk>
 
 ---
 
@@ -361,24 +369,24 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 
 ---
 
-- <https://youtube.com/@CMZGG/live> - Popular JPN esports organizer
-  - <https://youtube.com/@CrazyRaccoonOfficial/live>
+- <https://youtube.com/@CMZGG/streams> - Popular JPN esports organizer
+  - <https://youtube.com/@CrazyRaccoonOfficial/streams>
 
 ---
 
-- <https://youtube.com/@RacingStatistics/live> - F1 Chat
-  - <https://youtube.com/@CameronF1./live>
+- <https://youtube.com/@RacingStatistics/streams> - F1 Chat
+  - <https://youtube.com/@CameronF1./streams>
 
 ---
 
-<https://youtube.com/@artofminimaltechno/live> - Dance / EDM / House 24/7  
-<https://youtube.com/@cafemusicbgmchannel/live> - Cafe Music 24/7
+<https://youtube.com/@artofminimaltechno/streams> - Dance / EDM / House 24/7  
+<https://youtube.com/@cafemusicbgmchannel/streams> - Cafe Music 24/7
 
 ---
 
-- <https://www.youtube.com/@LofiGirl/live> - LoFi Music 24/7
+- <https://www.youtube.com/@LofiGirl/streams> - LoFi Music 24/7
   - <https://player.twitch.tv/?channel=retroweatherchannel&parent=no> (vaporwave)
-    - <https://www.youtube.com/@Krelez/live>
+    - <https://www.youtube.com/@Krelez/streams>
 
 ## **_Live> - Questionable_**
 
