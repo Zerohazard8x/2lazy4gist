@@ -15,8 +15,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpyLikj1x70S8UPxVqsPr6g" />
             <outline text="CROSSFIRE STARS" title="CROSSFIRE STARS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1qyRC_RczgsNs3UaDZ9hIA" />
-            <outline text="CouRage" title="CouRage" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrgTEmBuoObZiEXvZ6r3PQg" />
             <outline text="CY YU VODS" title="CY YU VODS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCCM6UkFxxJV-5jE-EYS1ag" />
             <outline text="Cosgrove" title="Cosgrove" type="rss"
@@ -841,6 +839,22 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCmBH46G0Y3Tdor4b1-PZ_w" />
             <outline text="LEETOTHEVI" title="LEETOTHEVI" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0FRSQh4P5S-5FwnL8hsQrQ" />
+            <outline text="コーエーテクモChannel" title="コーエーテクモChannel" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM0d5CqnNiJu4zsPTnwmjAQ" />
+            <outline text="Microsoft Copilot" title="Microsoft Copilot" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnba_sSOe_umiHCpYYvRCqQ" />
+            <outline text="Cross2Crown2" title="Cross2Crown2" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkJ6d2fXwm2SvVNpAX-kx8w" />
+            <outline text="Loochy" title="Loochy" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCghVgPYA_pB7MdbDVaiCTng" />
+            <outline text="BennyCentral" title="BennyCentral" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAOvCl3N0lpjcrvfaVe4zhw" />
+            <outline text="Wirtual" title="Wirtual" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCt-HTfaCUz8QIoknqyXKYiw" />
+            <outline text="Soloista Ph" title="Soloista Ph" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqqreHN9wUNdnVwybYP4W0w" />
+            <outline text="Gaming Fight Club" title="Gaming Fight Club" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7hBgc1dZM9naa-jyOh2jMw" />
         </outline>
     </body>
 </opml>

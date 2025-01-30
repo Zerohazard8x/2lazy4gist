@@ -4,6 +4,7 @@
         <title>Fluent Reader Export</title>
     </head>
     <body>
+        <outline text="all" title="all" />
         <outline text="searches" title="searches">
             <outline
                 text="Bing: Service news"
@@ -166,45 +167,10 @@
                 type="rss"
                 xmlUrl="https://shr.pn/mg2jf" />
             <outline
-                text="Political"
-                title="Political"
-                type="rss"
-                xmlUrl="https://shr.pn/e30Xk" />
-            <outline
-                text="Bing: Political"
-                title="Bing: Political"
-                type="rss"
-                xmlUrl="https://shr.pn/K4Yd5" />
-            <outline
-                text="Google Alert - Political"
-                title="Google Alert - Political"
-                type="rss"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12634018877518289307" />
-            <outline
-                text="reddit.com: search results - Political"
-                title="reddit.com: search results - Political"
-                type="rss"
-                xmlUrl="https://shr.pn/OIcpR" />
-            <outline
-                text="SearXNG search: Political"
-                title="SearXNG search: Political"
-                type="rss"
-                xmlUrl="https://shr.pn/x0o4s" />
-            <outline
-                text="SearXNG search: Financial"
-                title="SearXNG search: Financial"
-                type="rss"
-                xmlUrl="https://shr.pn/qhtVB" />
-            <outline
                 text="SearXNG search: Fun"
                 title="SearXNG search: Fun"
                 type="rss"
                 xmlUrl="https://shr.pn/dkjZg" />
-            <outline
-                text="SearXNG search: Games"
-                title="SearXNG search: Games"
-                type="rss"
-                xmlUrl="https://shr.pn/v46jH" />
             <outline
                 text="SearXNG search: Global"
                 title="SearXNG search: Global"
@@ -216,20 +182,30 @@
                 type="rss"
                 xmlUrl="https://shr.pn/IQfbB" />
             <outline
-                text="SearXNG search: New things"
-                title="SearXNG search: New things"
-                type="rss"
-                xmlUrl="https://shr.pn/lzBhO" />
-            <outline
                 text="SearXNG search: Opinionated"
                 title="SearXNG search: Opinionated"
                 type="rss"
                 xmlUrl="https://shr.pn/53ZfB" />
             <outline
+                text="SearXNG search: Financial"
+                title="SearXNG search: Financial"
+                type="rss"
+                xmlUrl="https://shr.pn/qhtVB" />
+            <outline
                 text="SearXNG search: Service news"
                 title="SearXNG search: Service news"
                 type="rss"
                 xmlUrl="https://shr.pn/De8R2" />
+            <outline
+                text="SearXNG search: Games"
+                title="SearXNG search: Games"
+                type="rss"
+                xmlUrl="https://shr.pn/v46jH" />
+            <outline
+                text="SearXNG search: New things"
+                title="SearXNG search: New things"
+                type="rss"
+                xmlUrl="https://shr.pn/lzBhO" />
         </outline>
     </body>
 </opml>
