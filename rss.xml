@@ -205,6 +205,8 @@
                 title="SearXNG search: New things"
                 type="rss"
                 xmlUrl="https://shr.pn/lzBhO" />
+        </outline>
+        <outline text="youtube" title="youtube">
             <outline text="Adobe" title="Adobe" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
             <outline text="Adobe Creative Cloud" title="Adobe Creative Cloud" type="rss"
