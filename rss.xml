@@ -4,208 +4,206 @@
         <title>Fluent Reader Export</title>
     </head>
     <body>
-        <outline text="searches" title="searches">
-            <outline
-                text="Bing: Service news"
-                title="Bing: Service news"
-                type="rss"
-                xmlUrl="https://shr.pn/eryQ4" />
-            <outline
-                text="Bing: Games"
-                title="Bing: Games"
-                type="rss"
-                xmlUrl="https://shr.pn/m5brA" />
-            <outline
-                text="Games"
-                title="Games"
-                type="rss"
-                xmlUrl="https://shr.pn/WGetk" />
-            <outline
-                text="Bing: Local"
-                title="Bing: Local"
-                type="rss"
-                xmlUrl="https://shr.pn/wNAab" />
-            <outline
-                text="Bing: New"
-                title="Bing: New"
-                type="rss"
-                xmlUrl="https://shr.pn/sAeqF" />
-            <outline
-                text="New"
-                title="New"
-                type="rss"
-                xmlUrl="https://shr.pn/0ovzQ" />
-            <outline
-                text="Global - BingNews"
-                title="Global - BingNews"
-                type="rss"
-                xmlUrl="https://shr.pn/3n185" />
-            <outline
-                text="Service news"
-                title="Service news"
-                type="rss"
-                xmlUrl="https://shr.pn/Ipzjc" />
-            <outline
-                text="Bing: Fun"
-                title="Bing: Fun"
-                type="rss"
-                xmlUrl="https://shr.pn/OZTUd" />
-            <outline
-                text="Bing: Financial"
-                title="Bing: Financial"
-                type="rss"
-                xmlUrl="https://shr.pn/7qEwK" />
-            <outline
-                text="Financial"
-                title="Financial"
-                type="rss"
-                xmlUrl="https://shr.pn/AkTLe" />
-            <outline
-                text="Bing: Opinionated"
-                title="Bing: Opinionated"
-                type="rss"
-                xmlUrl="https://shr.pn/6izfX" />
-            <outline
-                text="Google Alert - Service news"
-                title="Google Alert - Service news"
-                type="rss"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
-            <outline
-                text="Google Alert - New"
-                title="Google Alert - New"
-                type="rss"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
-            <outline
-                text="Google Alert - Fun"
-                title="Google Alert - Fun"
-                type="rss"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
-            <outline
-                text="Fun"
-                title="Fun"
-                type="rss"
-                xmlUrl="https://shr.pn/gpSIR" />
-            <outline
-                text="Google Alert - Opinionated"
-                title="Google Alert - Opinionated"
-                type="rss"
-                xmlUrl="https://shr.pn/4QT0t" />
-            <outline
-                text="Google Alert - Financial"
-                title="Google Alert - Financial"
-                type="rss"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
-            <outline
-                text="Google Alert - Global"
-                title="Google Alert - Global"
-                type="rss"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
-            <outline
-                text="Local - BingNews"
-                title="Local - BingNews"
-                type="rss"
-                xmlUrl="https://shr.pn/vEQJK" />
-            <outline
-                text="Opinionated"
-                title="Opinionated"
-                type="rss"
-                xmlUrl="https://shr.pn/suQ5U" />
-            <outline
-                text="Google Alert - Local"
-                title="Google Alert - Local"
-                type="rss"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
-            <outline
-                text="Google Alert - Games"
-                title="Google Alert - Games"
-                type="rss"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
-            <outline
-                text="reddit.com: search results - Local"
-                title="reddit.com: search results - Local"
-                type="rss"
-                xmlUrl="https://shr.pn/PgBoN" />
-            <outline
-                text="Bing: Global"
-                title="Bing: Global"
-                type="rss"
-                xmlUrl="https://shr.pn/Klbke" />
-            <outline
-                text="reddit.com: search results - Financial"
-                title="reddit.com: search results - Financial"
-                type="rss"
-                xmlUrl="https://shr.pn/RoqmX" />
-            <outline
-                text="reddit.com: search results - Global"
-                title="reddit.com: search results - Global"
-                type="rss"
-                xmlUrl="https://shr.pn/dec8n" />
-            <outline
-                text="reddit.com: search results - Fun"
-                title="reddit.com: search results - Fun"
-                type="rss"
-                xmlUrl="https://shr.pn/G64ul" />
-            <outline
-                text="reddit.com: search results - Games"
-                title="reddit.com: search results - Games"
-                type="rss"
-                xmlUrl="https://shr.pn/zElRQ" />
-            <outline
-                text="reddit.com: search results - Opinionated"
-                title="reddit.com: search results - Opinionated"
-                type="rss"
-                xmlUrl="https://shr.pn/vYX6p" />
-            <outline
-                text="reddit.com: search results - New things"
-                title="reddit.com: search results - New things"
-                type="rss"
-                xmlUrl="https://shr.pn/cxv9i" />
-            <outline
-                text="reddit.com: search results - Service news"
-                title="reddit.com: search results - Service news"
-                type="rss"
-                xmlUrl="https://shr.pn/mg2jf" />
-            <outline
-                text="SearXNG search: Fun"
-                title="SearXNG search: Fun"
-                type="rss"
-                xmlUrl="https://shr.pn/dkjZg" />
-            <outline
-                text="SearXNG search: Global"
-                title="SearXNG search: Global"
-                type="rss"
-                xmlUrl="https://shr.pn/uhaqK" />
-            <outline
-                text="SearXNG search: Local"
-                title="SearXNG search: Local"
-                type="rss"
-                xmlUrl="https://shr.pn/IQfbB" />
-            <outline
-                text="SearXNG search: Opinionated"
-                title="SearXNG search: Opinionated"
-                type="rss"
-                xmlUrl="https://shr.pn/53ZfB" />
-            <outline
-                text="SearXNG search: Financial"
-                title="SearXNG search: Financial"
-                type="rss"
-                xmlUrl="https://shr.pn/qhtVB" />
-            <outline
-                text="SearXNG search: Service news"
-                title="SearXNG search: Service news"
-                type="rss"
-                xmlUrl="https://shr.pn/De8R2" />
-            <outline
-                text="SearXNG search: Games"
-                title="SearXNG search: Games"
-                type="rss"
-                xmlUrl="https://shr.pn/v46jH" />
-            <outline
-                text="SearXNG search: New things"
-                title="SearXNG search: New things"
-                type="rss"
-                xmlUrl="https://shr.pn/lzBhO" />
-        </outline>
+        <outline
+            text="Bing: Service news"
+            title="Bing: Service news"
+            type="rss"
+            xmlUrl="https://shr.pn/eryQ4" />
+        <outline
+            text="Bing: Games"
+            title="Bing: Games"
+            type="rss"
+            xmlUrl="https://shr.pn/m5brA" />
+        <outline
+            text="Games"
+            title="Games"
+            type="rss"
+            xmlUrl="https://shr.pn/WGetk" />
+        <outline
+            text="Bing: Local"
+            title="Bing: Local"
+            type="rss"
+            xmlUrl="https://shr.pn/wNAab" />
+        <outline
+            text="Bing: New"
+            title="Bing: New"
+            type="rss"
+            xmlUrl="https://shr.pn/sAeqF" />
+        <outline
+            text="New"
+            title="New"
+            type="rss"
+            xmlUrl="https://shr.pn/0ovzQ" />
+        <outline
+            text="Global - BingNews"
+            title="Global - BingNews"
+            type="rss"
+            xmlUrl="https://shr.pn/3n185" />
+        <outline
+            text="Service news"
+            title="Service news"
+            type="rss"
+            xmlUrl="https://shr.pn/Ipzjc" />
+        <outline
+            text="Bing: Fun"
+            title="Bing: Fun"
+            type="rss"
+            xmlUrl="https://shr.pn/OZTUd" />
+        <outline
+            text="Bing: Financial"
+            title="Bing: Financial"
+            type="rss"
+            xmlUrl="https://shr.pn/7qEwK" />
+        <outline
+            text="Financial"
+            title="Financial"
+            type="rss"
+            xmlUrl="https://shr.pn/AkTLe" />
+        <outline
+            text="Bing: Opinionated"
+            title="Bing: Opinionated"
+            type="rss"
+            xmlUrl="https://shr.pn/6izfX" />
+        <outline
+            text="Google Alert - Service news"
+            title="Google Alert - Service news"
+            type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
+        <outline
+            text="Google Alert - New"
+            title="Google Alert - New"
+            type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
+        <outline
+            text="Google Alert - Fun"
+            title="Google Alert - Fun"
+            type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
+        <outline
+            text="Fun"
+            title="Fun"
+            type="rss"
+            xmlUrl="https://shr.pn/gpSIR" />
+        <outline
+            text="Google Alert - Opinionated"
+            title="Google Alert - Opinionated"
+            type="rss"
+            xmlUrl="https://shr.pn/4QT0t" />
+        <outline
+            text="Google Alert - Financial"
+            title="Google Alert - Financial"
+            type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
+        <outline
+            text="Google Alert - Global"
+            title="Google Alert - Global"
+            type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
+        <outline
+            text="Local - BingNews"
+            title="Local - BingNews"
+            type="rss"
+            xmlUrl="https://shr.pn/vEQJK" />
+        <outline
+            text="Opinionated"
+            title="Opinionated"
+            type="rss"
+            xmlUrl="https://shr.pn/suQ5U" />
+        <outline
+            text="Google Alert - Local"
+            title="Google Alert - Local"
+            type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
+        <outline
+            text="Google Alert - Games"
+            title="Google Alert - Games"
+            type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
+        <outline
+            text="reddit.com: search results - Local"
+            title="reddit.com: search results - Local"
+            type="rss"
+            xmlUrl="https://shr.pn/PgBoN" />
+        <outline
+            text="Bing: Global"
+            title="Bing: Global"
+            type="rss"
+            xmlUrl="https://shr.pn/Klbke" />
+        <outline
+            text="reddit.com: search results - Financial"
+            title="reddit.com: search results - Financial"
+            type="rss"
+            xmlUrl="https://shr.pn/RoqmX" />
+        <outline
+            text="reddit.com: search results - Global"
+            title="reddit.com: search results - Global"
+            type="rss"
+            xmlUrl="https://shr.pn/dec8n" />
+        <outline
+            text="reddit.com: search results - Fun"
+            title="reddit.com: search results - Fun"
+            type="rss"
+            xmlUrl="https://shr.pn/G64ul" />
+        <outline
+            text="reddit.com: search results - Games"
+            title="reddit.com: search results - Games"
+            type="rss"
+            xmlUrl="https://shr.pn/zElRQ" />
+        <outline
+            text="reddit.com: search results - Opinionated"
+            title="reddit.com: search results - Opinionated"
+            type="rss"
+            xmlUrl="https://shr.pn/vYX6p" />
+        <outline
+            text="reddit.com: search results - New things"
+            title="reddit.com: search results - New things"
+            type="rss"
+            xmlUrl="https://shr.pn/cxv9i" />
+        <outline
+            text="reddit.com: search results - Service news"
+            title="reddit.com: search results - Service news"
+            type="rss"
+            xmlUrl="https://shr.pn/mg2jf" />
+        <outline
+            text="SearXNG search: Fun"
+            title="SearXNG search: Fun"
+            type="rss"
+            xmlUrl="https://shr.pn/dkjZg" />
+        <outline
+            text="SearXNG search: Global"
+            title="SearXNG search: Global"
+            type="rss"
+            xmlUrl="https://shr.pn/uhaqK" />
+        <outline
+            text="SearXNG search: Local"
+            title="SearXNG search: Local"
+            type="rss"
+            xmlUrl="https://shr.pn/IQfbB" />
+        <outline
+            text="SearXNG search: Opinionated"
+            title="SearXNG search: Opinionated"
+            type="rss"
+            xmlUrl="https://shr.pn/53ZfB" />
+        <outline
+            text="SearXNG search: Financial"
+            title="SearXNG search: Financial"
+            type="rss"
+            xmlUrl="https://shr.pn/qhtVB" />
+        <outline
+            text="SearXNG search: Service news"
+            title="SearXNG search: Service news"
+            type="rss"
+            xmlUrl="https://shr.pn/De8R2" />
+        <outline
+            text="SearXNG search: Games"
+            title="SearXNG search: Games"
+            type="rss"
+            xmlUrl="https://shr.pn/v46jH" />
+        <outline
+            text="SearXNG search: New things"
+            title="SearXNG search: New things"
+            type="rss"
+            xmlUrl="https://shr.pn/lzBhO" />
         <outline text="youtube" title="youtube">
             <outline text="Adobe" title="Adobe" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
