@@ -610,6 +610,14 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqqreHN9wUNdnVwybYP4W0w" />
             <outline text="Gaming Fight Club" title="Gaming Fight Club" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7hBgc1dZM9naa-jyOh2jMw" />
+            <outline text="Drillstar" title="Drillstar" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6vgUgQABd3zQsr_aX24Kxw" />
+            <outline text="SkyBoi" title="SkyBoi" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5lrhqKFtbuUV97oC2Ql0oA" />
+            <outline text="Theo - t3.gg" title="Theo - t3.gg" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbRP3c757lWg9M-U7TyEkXA" />
+            <outline text="Racing Statistics" title="Racing Statistics" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAFb4p0Xn19QIbz2V6I3pKg" />
         </outline>
     </body>
 </opml>
