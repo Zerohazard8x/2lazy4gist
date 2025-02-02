@@ -447,5 +447,13 @@
             <outline text="YouTube Creator Liaison" title="YouTube Creator Liaison" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1ElwUxgOSHK7ENhTe9tiCA" />
         </outline>
+        <outline text="forums" title="forums">
+            <outline text="PS4 CFW and Hacks" title="PS4 CFW and Hacks" type="rss"
+                xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
+            <outline text="PS4 News" title="PS4 News" type="rss"
+                xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
+            <outline text="Nintendo Switch" title="Nintendo Switch" type="rss"
+                xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" />
+        </outline>
     </body>
 </opml>
