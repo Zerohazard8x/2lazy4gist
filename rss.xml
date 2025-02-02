@@ -4,251 +4,102 @@
         <title>Fluent Reader Export</title>
     </head>
     <body>
-        <outline
-            text="Feedle.world: Service news"
-            title="Feedle.world: Service news"
-            type="rss"
-            xmlUrl="https://shr.pn/eryQ4" />
-        <outline
-            text="Feedle.world: Games"
-            title="Feedle.world: Games"
-            type="rss"
-            xmlUrl="https://shr.pn/m5brA" />
-        <outline
-            text="Games"
-            title="Games"
-            type="rss"
-            xmlUrl="https://shr.pn/WGetk" />
-        <outline
-            text="Feedle.world: Local"
-            title="Feedle.world: Local"
-            type="rss"
-            xmlUrl="https://shr.pn/wNAab" />
-        <outline
-            text="Feedle.world: New"
-            title="Feedle.world: New"
-            type="rss"
-            xmlUrl="https://shr.pn/sAeqF" />
-        <outline
-            text="New"
-            title="New"
-            type="rss"
-            xmlUrl="https://shr.pn/0ovzQ" />
-        <outline
-            text="Global - BingNews"
-            title="Global - BingNews"
-            type="rss"
-            xmlUrl="https://shr.pn/3n185" />
-        <outline
-            text="Service news"
-            title="Service news"
-            type="rss"
-            xmlUrl="https://shr.pn/Ipzjc" />
-        <outline
-            text="Feedle.world: Fun"
-            title="Feedle.world: Fun"
-            type="rss"
-            xmlUrl="https://shr.pn/OZTUd" />
-        <outline
-            text="Feedle.world: Financial"
-            title="Feedle.world: Financial"
-            type="rss"
-            xmlUrl="https://shr.pn/7qEwK" />
-        <outline
-            text="Financial"
-            title="Financial"
-            type="rss"
-            xmlUrl="https://shr.pn/AkTLe" />
-        <outline
-            text="Feedle.world: Opinionated"
-            title="Feedle.world: Opinionated"
-            type="rss"
-            xmlUrl="https://shr.pn/6izfX" />
-        <outline
-            text="Google Alert - Service news"
-            title="Google Alert - Service news"
-            type="rss"
-            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
-        <outline
-            text="Google Alert - New"
-            title="Google Alert - New"
-            type="rss"
-            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
-        <outline
-            text="Google Alert - Fun"
-            title="Google Alert - Fun"
-            type="rss"
+        <outline text="Google Alert - Fun" title="Google Alert - Fun" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
-        <outline
-            text="Fun"
-            title="Fun"
-            type="rss"
-            xmlUrl="https://shr.pn/gpSIR" />
-        <outline
-            text="Google Alert - Opinionated"
-            title="Google Alert - Opinionated"
-            type="rss"
-            xmlUrl="https://shr.pn/4QT0t" />
-        <outline
-            text="Google Alert - Financial"
-            title="Google Alert - Financial"
-            type="rss"
-            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
-        <outline
-            text="Google Alert - Global"
-            title="Google Alert - Global"
-            type="rss"
-            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
-        <outline
-            text="Local - BingNews"
-            title="Local - BingNews"
-            type="rss"
-            xmlUrl="https://shr.pn/vEQJK" />
-        <outline
-            text="Opinionated"
-            title="Opinionated"
-            type="rss"
-            xmlUrl="https://shr.pn/suQ5U" />
-        <outline
-            text="Google Alert - Local"
-            title="Google Alert - Local"
-            type="rss"
-            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
-        <outline
-            text="Google Alert - Games"
-            title="Google Alert - Games"
-            type="rss"
+        <outline text="Google Alert - Games" title="Google Alert - Games" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
-        <outline
-            text="reddit.com: search results - Local"
-            title="reddit.com: search results - Local"
-            type="rss"
-            xmlUrl="https://shr.pn/PgBoN" />
-        <outline
-            text="Feedle.world: Global"
-            title="Feedle.world: Global"
-            type="rss"
-            xmlUrl="https://shr.pn/Klbke" />
-        <outline
-            text="reddit.com: search results - Financial"
-            title="reddit.com: search results - Financial"
-            type="rss"
-            xmlUrl="https://shr.pn/RoqmX" />
-        <outline
-            text="reddit.com: search results - Global"
-            title="reddit.com: search results - Global"
-            type="rss"
-            xmlUrl="https://shr.pn/dec8n" />
-        <outline
-            text="reddit.com: search results - Fun"
-            title="reddit.com: search results - Fun"
-            type="rss"
-            xmlUrl="https://shr.pn/G64ul" />
-        <outline
-            text="reddit.com: search results - Games"
-            title="reddit.com: search results - Games"
-            type="rss"
-            xmlUrl="https://shr.pn/zElRQ" />
-        <outline
-            text="reddit.com: search results - Opinionated"
-            title="reddit.com: search results - Opinionated"
-            type="rss"
-            xmlUrl="https://shr.pn/vYX6p" />
-        <outline
-            text="reddit.com: search results - New things"
-            title="reddit.com: search results - New things"
-            type="rss"
-            xmlUrl="https://shr.pn/cxv9i" />
-        <outline
-            text="reddit.com: search results - Service news"
-            title="reddit.com: search results - Service news"
-            type="rss"
+        <outline text="Google Alert - Service news" title="Google Alert - Service news" type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
+        <outline text="Google Alert - Global" title="Google Alert - Global" type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
+        <outline text="Google Alert - Financial" title="Google Alert - Financial" type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
+        <outline text="Google Alert - New" title="Google Alert - New" type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
+        <outline text="Google Alert - Local" title="Google Alert - Local" type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
+        <outline text="reddit.com: search results - Games"
+            title="reddit.com: search results - Games" type="rss" xmlUrl="https://shr.pn/zElRQ" />
+        <outline text="reddit.com: search results - Local"
+            title="reddit.com: search results - Local" type="rss" xmlUrl="https://shr.pn/PgBoN" />
+        <outline text="reddit.com: search results - New things"
+            title="reddit.com: search results - New things" type="rss" xmlUrl="https://shr.pn/cxv9i" />
+        <outline text="reddit.com: search results - Service news"
+            title="reddit.com: search results - Service news" type="rss"
             xmlUrl="https://shr.pn/mg2jf" />
-        <outline
-            text="SearXNG search: Fun"
-            title="SearXNG search: Fun"
-            type="rss"
-            xmlUrl="https://shr.pn/dkjZg" />
-        <outline
-            text="SearXNG search: Global"
-            title="SearXNG search: Global"
-            type="rss"
-            xmlUrl="https://shr.pn/uhaqK" />
-        <outline
-            text="SearXNG search: Local"
-            title="SearXNG search: Local"
-            type="rss"
-            xmlUrl="https://shr.pn/IQfbB" />
-        <outline
-            text="SearXNG search: Opinionated"
-            title="SearXNG search: Opinionated"
-            type="rss"
-            xmlUrl="https://shr.pn/53ZfB" />
-        <outline
-            text="SearXNG search: Financial"
-            title="SearXNG search: Financial"
-            type="rss"
-            xmlUrl="https://shr.pn/qhtVB" />
-        <outline
-            text="SearXNG search: Service news"
-            title="SearXNG search: Service news"
-            type="rss"
-            xmlUrl="https://shr.pn/De8R2" />
-        <outline
-            text="SearXNG search: Games"
-            title="SearXNG search: Games"
-            type="rss"
-            xmlUrl="https://shr.pn/v46jH" />
-        <outline
-            text="SearXNG search: New things"
-            title="SearXNG search: New things"
-            type="rss"
-            xmlUrl="https://shr.pn/lzBhO" />
-        <outline
-            title="Talkwalker Alert for Opinionated"
-            text="Talkwalker Alert for Opinionated"
-            type="rss"
-            xmlUrl="https://alerts.talkwalker.com/alerts/rss/4LH22U5RSMQ64B7S7E4EV43CNXQYUQWKHCRCL6AXXDPTSKMGKEKAXS5VVUYZN5ZGJUSGFQZT77VJ5IQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline
-            title="Talkwalker Alert for Local"
-            text="Talkwalker Alert for Local"
-            type="rss"
-            xmlUrl="https://alerts.talkwalker.com/alerts/rss/2JZBCD27257MXCJUWIZF6O3ECKJ27GPOLFXDTRFHLKC3Q4FQ4JOLFWQA75IJ5N65VHPKIGXNIAZXFIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline
-            title="Talkwalker Alert for Global"
-            text="Talkwalker Alert for Global"
-            type="rss"
-            xmlUrl="https://alerts.talkwalker.com/alerts/rss/37W35VZKY7BIEBZI6I7TZ5D45CNQUFBYT4K5WQ52WMSMY2LCOTPFCPPI7ESYHEC5BYECHLSG2KRJZIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline
-            title="Talkwalker Alert for Fun"
-            text="Talkwalker Alert for Fun"
-            type="rss"
-            xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline
-            title="Talkwalker Alert for Political"
-            text="Talkwalker Alert for Political"
-            type="rss"
-            xmlUrl="https://alerts.talkwalker.com/alerts/rss/X4UVJCIW3OKSIIVE2IOT7XSJKSYRVLZIKZXTJMLJ2VVZOHW54JK4MGFILTJNZ24TWIDQ2RA3QDU6NIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline
-            title="Talkwalker Alert for Financial"
-            text="Talkwalker Alert for Financial"
+        <outline text="reddit.com: search results - Global"
+            title="reddit.com: search results - Global" type="rss" xmlUrl="https://shr.pn/dec8n" />
+        <outline text="reddit.com: search results - Fun" title="reddit.com: search results - Fun"
+            type="rss" xmlUrl="https://shr.pn/G64ul" />
+        <outline text="reddit.com: search results - Opinionated"
+            title="reddit.com: search results - Opinionated" type="rss"
+            xmlUrl="https://shr.pn/vYX6p" />
+        <outline text="New" title="New" type="rss" xmlUrl="https://shr.pn/0ovzQ" />
+        <outline text="Fun" title="Fun" type="rss" xmlUrl="https://shr.pn/gpSIR" />
+        <outline text="Global - BingNews" title="Global - BingNews" type="rss"
+            xmlUrl="https://shr.pn/3n185" />
+        <outline text="Games" title="Games" type="rss" xmlUrl="https://shr.pn/WGetk" />
+        <outline text="Bing: Global" title="Bing: Global" type="rss" xmlUrl="https://shr.pn/Klbke" />
+        <outline text="Local - BingNews" title="Local - BingNews" type="rss"
+            xmlUrl="https://shr.pn/vEQJK" />
+        <outline text="Financial" title="Financial" type="rss" xmlUrl="https://shr.pn/AkTLe" />
+        <outline text="reddit.com: search results - Financial"
+            title="reddit.com: search results - Financial" type="rss" xmlUrl="https://shr.pn/RoqmX" />
+        <outline text="Opinionated" title="Opinionated" type="rss" xmlUrl="https://shr.pn/suQ5U" />
+        <outline text="Service news" title="Service news" type="rss" xmlUrl="https://shr.pn/Ipzjc" />
+        <outline text="Google Alert - Opinionated" title="Google Alert - Opinionated" type="rss"
+            xmlUrl="https://shr.pn/4QT0t" />
+        <outline text="Bing: Games" title="Bing: Games" type="rss" xmlUrl="https://shr.pn/m5brA" />
+        <outline text="Bing: Financial" title="Bing: Financial" type="rss"
+            xmlUrl="https://shr.pn/7qEwK" />
+        <outline text="Bing: Service news" title="Bing: Service news" type="rss"
+            xmlUrl="https://shr.pn/eryQ4" />
+        <outline text="Bing: New" title="Bing: New" type="rss" xmlUrl="https://shr.pn/sAeqF" />
+        <outline text="Bing: Opinionated" title="Bing: Opinionated" type="rss"
+            xmlUrl="https://shr.pn/6izfX" />
+        <outline text="forums" title="forums">
+            <outline text="PS4 CFW and Hacks" title="PS4 CFW and Hacks" type="rss"
+                xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
+            <outline text="PS4 News" title="PS4 News" type="rss"
+                xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
+            <outline text="Nintendo Switch" title="Nintendo Switch" type="rss"
+                xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" />
+        </outline>
+        <outline text="Talkwalker Alert for Financial" title="Talkwalker Alert for Financial"
             type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/55G2G2VZ3ZHF3BN4TGHHVDZHJB73TJ7SCGEKZTKFB5JL6M55GK27VXHVOXNZLPVJY6ZQFWVWKZ3MNIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline
-            title="Talkwalker Alert for Service news"
-            text="Talkwalker Alert for Service news"
+        <outline text="Talkwalker Alert for Service news" title="Talkwalker Alert for Service news"
             type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/JSMAJRIERWWVSNATM2YU4K5ZKFIBESYW7JZYBE4LQVFXOTWWDGF53BCHLZGK3OGH5CHATJXYFSVSBIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline
-            title="Talkwalker Alert for New things"
-            text="Talkwalker Alert for New things"
+        <outline text="Talkwalker Alert for Global" title="Talkwalker Alert for Global" type="rss"
+            xmlUrl="https://alerts.talkwalker.com/alerts/rss/37W35VZKY7BIEBZI6I7TZ5D45CNQUFBYT4K5WQ52WMSMY2LCOTPFCPPI7ESYHEC5BYECHLSG2KRJZIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
+        <outline text="Talkwalker Alert for Political" title="Talkwalker Alert for Political"
+            type="rss"
+            xmlUrl="https://alerts.talkwalker.com/alerts/rss/X4UVJCIW3OKSIIVE2IOT7XSJKSYRVLZIKZXTJMLJ2VVZOHW54JK4MGFILTJNZ24TWIDQ2RA3QDU6NIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
+        <outline text="Talkwalker Alert for Local" title="Talkwalker Alert for Local" type="rss"
+            xmlUrl="https://alerts.talkwalker.com/alerts/rss/2JZBCD27257MXCJUWIZF6O3ECKJ27GPOLFXDTRFHLKC3Q4FQ4JOLFWQA75IJ5N65VHPKIGXNIAZXFIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
+        <outline text="Talkwalker Alert for Opinionated" title="Talkwalker Alert for Opinionated"
+            type="rss"
+            xmlUrl="https://alerts.talkwalker.com/alerts/rss/4LH22U5RSMQ64B7S7E4EV43CNXQYUQWKHCRCL6AXXDPTSKMGKEKAXS5VVUYZN5ZGJUSGFQZT77VJ5IQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
+        <outline text="Talkwalker Alert for New things" title="Talkwalker Alert for New things"
             type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/HTZAPAUBBKEQWBJEICLHLFPOCOGNPKNNDEDWMGWWR2U57BJNJVTI64ADWQXNZKVORYUC4BTEGO6RTIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline
-            title="Talkwalker Alert for Games"
-            text="Talkwalker Alert for Games"
-            type="rss"
+        <outline text="Talkwalker Alert for Games" title="Talkwalker Alert for Games" type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/NHV2T453OXMGY6K6YJ6YRPD6GHTNN5D4EA4IXOZHIYF2RZV4YD6XB3WFXUPTUFCCIEJQW545HJVGVIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
+        <outline text="Talkwalker Alert for Fun" title="Talkwalker Alert for Fun" type="rss"
+            xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
+        <outline
+            text="feedle | Political"
+            title="feedle | Political"
+            type="rss" xmlUrl="https://shr.pn/6RycW" />
+        <outline
+            text="Bing: Political"
+            title="Bing: Political"
+            type="rss" xmlUrl="https://shr.pn/K4Yd5" />
+        <outline
+            text="reddit.com: search results - Political"
+            title="reddit.com: search results - Political"
+            type="rss" xmlUrl="https://shr.pn/OIcpR" />
         <outline text="youtube-news" title="youtube-news">
             <outline text="Adobe" title="Adobe" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
