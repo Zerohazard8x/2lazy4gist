@@ -34,29 +34,31 @@
         <outline text="reddit.com: search results - Opinionated"
             title="reddit.com: search results - Opinionated" type="rss"
             xmlUrl="https://shr.pn/vYX6p" />
-        <outline text="New things" title="New things" type="rss" xmlUrl="https://shr.pn/0ovzQ" />
-        <outline text="Fun" title="Fun" type="rss" xmlUrl="https://shr.pn/gpSIR" />
+        <outline text="New things - BingNews" title="New things - BingNews" type="rss" xmlUrl="https://shr.pn/0ovzQ" />
+        <outline text="Fun - BingNews" title="Fun - BingNews" type="rss" xmlUrl="https://shr.pn/gpSIR" />
         <outline text="Global - BingNews" title="Global - BingNews" type="rss"
             xmlUrl="https://shr.pn/3n185" />
-        <outline text="Games" title="Games" type="rss" xmlUrl="https://shr.pn/WGetk" />
-        <outline text="Bing: Global" title="Bing: Global" type="rss" xmlUrl="https://shr.pn/Klbke" />
+        <outline text="Games - BingNews" title="Games - BingNews" type="rss" xmlUrl="https://shr.pn/WGetk" />
+        <outline text="Feedle: Global" title="Feedle: Global" type="rss" xmlUrl="https://shr.pn/Klbke" />
         <outline text="Local - BingNews" title="Local - BingNews" type="rss"
             xmlUrl="https://shr.pn/vEQJK" />
         <outline text="Financial" title="Financial" type="rss" xmlUrl="https://shr.pn/AkTLe" />
         <outline text="reddit.com: search results - Financial"
             title="reddit.com: search results - Financial" type="rss" xmlUrl="https://shr.pn/RoqmX" />
-        <outline text="Opinionated" title="Opinionated" type="rss" xmlUrl="https://shr.pn/suQ5U" />
-        <outline text="Service news" title="Service news" type="rss" xmlUrl="https://shr.pn/Ipzjc" />
+        <outline text="Opinionated - BingNews" title="Opinionated - BingNews" type="rss" xmlUrl="https://shr.pn/suQ5U" />
+        <outline text="Service news - BingNews" title="Service news - BingNews" type="rss" xmlUrl="https://shr.pn/Ipzjc" />
         <outline text="Google Alert - Opinionated" title="Google Alert - Opinionated" type="rss"
             xmlUrl="https://shr.pn/4QT0t" />
-        <outline text="Bing: Games" title="Bing: Games" type="rss" xmlUrl="https://shr.pn/m5brA" />
-        <outline text="Bing: Financial" title="Bing: Financial" type="rss"
+        <outline text="Feedle: Games" title="Feedle: Games" type="rss" xmlUrl="https://shr.pn/m5brA" />
+        <outline text="Feedle: Financial" title="Feedle: Financial" type="rss"
             xmlUrl="https://shr.pn/7qEwK" />
-        <outline text="Bing: Service news" title="Bing: Service news" type="rss"
+        <outline text="Feedle: Service news" title="Feedle: Service news" type="rss"
             xmlUrl="https://shr.pn/eryQ4" />
-        <outline text="Bing: New things" title="Bing: New things" type="rss" xmlUrl="https://shr.pn/sAeqF" />
-        <outline text="Bing: Opinionated" title="Bing: Opinionated" type="rss"
+        <outline text="Feedle: New things" title="Feedle: New things" type="rss" xmlUrl="https://shr.pn/sAeqF" />
+        <outline text="Feedle: Opinionated" title="Feedle: Opinionated" type="rss"
             xmlUrl="https://shr.pn/6izfX" />
+        <outline text="Feedle: Local" title="Feedle: Local" type="rss" xmlUrl="https://shr.pn/tEkqs" />
+        <outline text="Feedle: Fun" title="Feedle: Fun" type="rss" xmlUrl="https://shr.pn/u3XbS" />
         <outline text="forums" title="forums">
             <outline text="PS4 CFW and Hacks" title="PS4 CFW and Hacks" type="rss"
                 xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
@@ -93,8 +95,8 @@
             title="feedle | Political"
             type="rss" xmlUrl="https://shr.pn/6RycW" />
         <outline
-            text="Bing: Political"
-            title="Bing: Political"
+            text="Feedle: Political"
+            title="Feedle: Political"
             type="rss" xmlUrl="https://shr.pn/K4Yd5" />
         <outline
             text="reddit.com: search results - Political"
