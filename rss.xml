@@ -14,7 +14,7 @@
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
         <outline text="Google Alert - Financial" title="Google Alert - Financial" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
-        <outline text="Google Alert - New" title="Google Alert - New" type="rss"
+        <outline text="Google Alert - New things" title="Google Alert - New things" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
         <outline text="Google Alert - Local" title="Google Alert - Local" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
@@ -34,7 +34,7 @@
         <outline text="reddit.com: search results - Opinionated"
             title="reddit.com: search results - Opinionated" type="rss"
             xmlUrl="https://shr.pn/vYX6p" />
-        <outline text="New" title="New" type="rss" xmlUrl="https://shr.pn/0ovzQ" />
+        <outline text="New things" title="New things" type="rss" xmlUrl="https://shr.pn/0ovzQ" />
         <outline text="Fun" title="Fun" type="rss" xmlUrl="https://shr.pn/gpSIR" />
         <outline text="Global - BingNews" title="Global - BingNews" type="rss"
             xmlUrl="https://shr.pn/3n185" />
@@ -54,7 +54,7 @@
             xmlUrl="https://shr.pn/7qEwK" />
         <outline text="Bing: Service news" title="Bing: Service news" type="rss"
             xmlUrl="https://shr.pn/eryQ4" />
-        <outline text="Bing: New" title="Bing: New" type="rss" xmlUrl="https://shr.pn/sAeqF" />
+        <outline text="Bing: New things" title="Bing: New things" type="rss" xmlUrl="https://shr.pn/sAeqF" />
         <outline text="Bing: Opinionated" title="Bing: Opinionated" type="rss"
             xmlUrl="https://shr.pn/6izfX" />
         <outline text="forums" title="forums">
