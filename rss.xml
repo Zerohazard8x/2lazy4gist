@@ -102,7 +102,7 @@
             text="reddit.com: search results - Political"
             title="reddit.com: search results - Political"
             type="rss" xmlUrl="https://shr.pn/OIcpR" />
-        <outline text="youtube-news" title="youtube-news">
+        <outline text="video-news" title="video-news">
             <outline text="Adobe" title="Adobe" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
             <outline text="Adobe Creative Cloud" title="Adobe Creative Cloud" type="rss"
