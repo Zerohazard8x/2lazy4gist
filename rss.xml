@@ -345,19 +345,19 @@
             <outline text="YouTube Creator Liaison" title="YouTube Creator Liaison" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1ElwUxgOSHK7ENhTe9tiCA" />
             <outline text="playstation on Twitch" title="playstation on Twitch" type="rss"
-                xmlUrl="https://openrss.org/www.twitch.tv/PlayStation/videos?filter=all&amp;sort=time" />
+                xmlUrl="https://twitchrss.appspot.com/vod/PlayStation" />
             <outline text="sonic on Twitch" title="sonic on Twitch" type="rss"
-                xmlUrl="https://openrss.org/www.twitch.tv/Sonic/videos?filter=all&amp;sort=time" />
+                xmlUrl="https://twitchrss.appspot.com/vod/Sonic" />
             <outline text="xbox on Twitch" title="xbox on Twitch" type="rss"
-                xmlUrl="https://openrss.org/www.twitch.tv/Xbox/videos?filter=all&amp;sort=time" />
+                xmlUrl="https://twitchrss.appspot.com/vod/Xbox" />
             <outline text="xboxasl on Twitch" title="xboxasl on Twitch" type="rss"
-                xmlUrl="https://openrss.org/www.twitch.tv/XboxASL/videos?filter=all&amp;sort=time" />
+                xmlUrl="https://twitchrss.appspot.com/vod/XboxASL" />
             <outline text="nintendo on Twitch" title="nintendo on Twitch" type="rss"
-                xmlUrl="https://openrss.org/www.twitch.tv/Nintendo/videos?filter=all&amp;sort=time" />
+                xmlUrl="https://twitchrss.appspot.com/vod/Nintendo" />
             <outline text="wutheringwavesofficial on Twitch" title="wutheringwavesofficial on Twitch" type="rss"
-                xmlUrl="https://openrss.org/www.twitch.tv/wutheringwavesofficial/videos?filter=all&amp;sort=time" />
+                xmlUrl="https://twitchrss.appspot.com/vod/wutheringwavesofficial" />
             <outline text="GenshinImpactOfficial on Twitch" title="GenshinImpactOfficial on Twitch" type="rss"
-                xmlUrl="https://openrss.org/www.twitch.tv/GenshinImpactOfficial/videos?filter=all&amp;sort=time" />
+                xmlUrl="https://twitchrss.appspot.com/vod/GenshinImpactOfficial" />
         </outline>
         <outline text="forums" title="forums">
             <outline text="PS4 CFW and Hacks" title="PS4 CFW and Hacks" type="rss"
