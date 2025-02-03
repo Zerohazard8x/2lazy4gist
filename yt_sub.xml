@@ -4,503 +4,503 @@
         <title>Fluent Reader Export</title>
     </head>
     <body>
-        <outline text="YouTube Subscriptions" title="YouTube Subscriptions">
-            <outline text="AICodeKing" title="AICodeKing" type="rss"
+        <outline title="YouTube Subscriptions">
+            <outline title="AICodeKing" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0m81bQuthaQZmFbXEY9QSw" />
-            <outline text="IGN" title="IGN" type="rss"
+            <outline title="IGN" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw" />
-            <outline text="AR12Gaming" title="AR12Gaming" type="rss"
+            <outline title="AR12Gaming" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkg2ZDee9ZLBCd2LVB6DPHA" />
-            <outline text="DOST-PAGASA Weather Report" title="DOST-PAGASA Weather Report" type="rss"
+            <outline title="DOST-PAGASA Weather Report" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpyLikj1x70S8UPxVqsPr6g" />
-            <outline text="CROSSFIRE STARS" title="CROSSFIRE STARS" type="rss"
+            <outline title="CROSSFIRE STARS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1qyRC_RczgsNs3UaDZ9hIA" />
-            <outline text="CY YU VODS" title="CY YU VODS" type="rss"
+            <outline title="CY YU VODS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCCM6UkFxxJV-5jE-EYS1ag" />
-            <outline text="Cosgrove" title="Cosgrove" type="rss"
+            <outline title="Cosgrove" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoHNcKmlnXjR-UEXCaJuftg" />
-            <outline text="Cohh" title="Cohh" type="rss"
+            <outline title="Cohh" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6D51PuWLyA4gertCnfKXkA" />
-            <outline text="CNET" title="CNET" type="rss"
+            <outline title="CNET" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg" />
-            <outline text="Android" title="Android" type="rss"
+            <outline title="Android" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" />
-            <outline text="Aaron Rheins" title="Aaron Rheins" type="rss"
+            <outline title="Aaron Rheins" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDXv3XxJ2RsaYqbGgX135Wg" />
-            <outline text="Call of Duty: Mobile Esports" title="Call of Duty: Mobile Esports"
+            <outline title="Call of Duty: Mobile Esports"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2WMdmYS1dclOCiJjyyW7_w" />
-            <outline text="Predator Gaming PH" title="Predator Gaming PH" type="rss"
+            <outline title="Predator Gaming PH" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwI0hG-Ql-jhOQuM2f7lFMw" />
-            <outline text="AlexMartini" title="AlexMartini" type="rss"
+            <outline title="AlexMartini" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCr--7d1Gf1KnKUPimURPZAw" />
-            <outline text="C-SPAN" title="C-SPAN" type="rss"
+            <outline title="C-SPAN" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCb--64Gl51jIEVE-GLDAVTg" />
-            <outline text="Caedrel" title="Caedrel" type="rss"
+            <outline title="Caedrel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOFiUtKui6-x4T-J7_DgCag" />
-            <outline text="BLAST Premier" title="BLAST Premier" type="rss"
+            <outline title="BLAST Premier" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9k--dE_UE0Faxzgb_DDkYQ" />
-            <outline text="Audience Reactions" title="Audience Reactions" type="rss"
+            <outline title="Audience Reactions" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrBrbDWc3FYKEZfD7E0PXEQ" />
-            <outline text="BLAST Premier CS2 Highlights" title="BLAST Premier CS2 Highlights"
+            <outline title="BLAST Premier CS2 Highlights"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbWA4nLSXvfWnOS2Q4yP48A" />
-            <outline text="Christian Gendrano" title="Christian Gendrano" type="rss"
+            <outline title="Christian Gendrano" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoo9gyvICqKeaOr6fjhP4Gg" />
-            <outline text="2kliksphilip" title="2kliksphilip" type="rss"
+            <outline title="2kliksphilip" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEKJKJ3FO-9SFv5x5BzyxhQ" />
-            <outline text="Capcom Fighters" title="Capcom Fighters" type="rss"
+            <outline title="Capcom Fighters" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPGuorlvarThSlwJpyTHOmQ" />
-            <outline text="Bigpuffer" title="Bigpuffer" type="rss"
+            <outline title="Bigpuffer" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmY6t25uVbXIDTizjfLBI4Q" />
-            <outline text="arcsystemworks" title="arcsystemworks" type="rss"
+            <outline title="arcsystemworks" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClqUSY9SshvuFja6yNXp4nQ" />
-            <outline text="VALORANT Champions Tour" title="VALORANT Champions Tour" type="rss"
+            <outline title="VALORANT Champions Tour" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA1d3HFGFUmkKr2JIUA5Vlw" />
-            <outline text="August" title="August" type="rss"
+            <outline title="August" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClwzSfLTpXabqWvlWyFHBSw" />
-            <outline text="Bigpuffer VODS" title="Bigpuffer VODS" type="rss"
+            <outline title="Bigpuffer VODS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIHTBu1b5m-zxddG6_26EXw" />
-            <outline text="Microsoft Events" title="Microsoft Events" type="rss"
+            <outline title="Microsoft Events" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrhJmfAGQ5K81XQ8_od1iTg" />
-            <outline text="Call of Duty League" title="Call of Duty League" type="rss"
+            <outline title="Call of Duty League" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbLIqv9Puhyp9_ZjVtfOy7w" />
-            <outline text="D-Von Dudley" title="D-Von Dudley" type="rss"
+            <outline title="D-Von Dudley" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0-GPkPiWhQReV4QgQU-2WA" />
-            <outline text="Bazinga Gaming Videos" title="Bazinga Gaming Videos" type="rss"
+            <outline title="Bazinga Gaming Videos" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEftLH5sVIJM9IhLTHb1RhQ" />
-            <outline text="Dan Murrell" title="Dan Murrell" type="rss"
+            <outline title="Dan Murrell" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbiOAho0h23IMInURiESx1w" />
-            <outline text="Cultaholic Wrestling" title="Cultaholic Wrestling" type="rss"
+            <outline title="Cultaholic Wrestling" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjcPJbFDwVZZELGG38q2cLQ" />
-            <outline text="All Elite Wrestling" title="All Elite Wrestling" type="rss"
+            <outline title="All Elite Wrestling" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFN4JkGP_bVhAdBsoV9xftA" />
-            <outline text="BLAST Slam Dota 2" title="BLAST Slam Dota 2" type="rss"
+            <outline title="BLAST Slam Dota 2" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAvIC2XmBLLXFPdveirTrmw" />
-            <outline text="83Chrisaaron" title="83Chrisaaron" type="rss"
+            <outline title="83Chrisaaron" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMN2R--SBQg3NhcUfBeCfOA" />
-            <outline text="CptCanada" title="CptCanada" type="rss"
+            <outline title="CptCanada" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg0CiI9VB9PVJfEGEZfh-Tw" />
-            <outline text="Apple Demo" title="Apple Demo" type="rss"
+            <outline title="Apple Demo" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYsV40rt86JO2cUCJxsqMZg" />
-            <outline text="Poseidon Entertainment" title="Poseidon Entertainment" type="rss"
+            <outline title="Poseidon Entertainment" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG0g-AeZntvsNzkDonjdFPA" />
-            <outline text="Bobby Plays" title="Bobby Plays" type="rss"
+            <outline title="Bobby Plays" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRW7gbgekVjxUOmKHBdz8Og" />
-            <outline text="Chaz NBA" title="Chaz NBA" type="rss"
+            <outline title="Chaz NBA" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChgDp_uE5PVqnpdV05xKOOA" />
-            <outline text="Dark Asia with Megan" title="Dark Asia with Megan" type="rss"
+            <outline title="Dark Asia with Megan" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxCluSnDKJmDiamvRTArf5g" />
-            <outline text="E Live" title="E Live" type="rss"
+            <outline title="E Live" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeVmD7fCjUo5Nqk35zcF6Og" />
-            <outline text="cobanermani456" title="cobanermani456" type="rss"
+            <outline title="cobanermani456" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtr2VqYDR7mx0Q15jOfK1vg" />
-            <outline text="Aerith" title="Aerith" type="rss"
+            <outline title="Aerith" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmq1iHmomVRCf2APufQZkCQ" />
-            <outline text="Blaine Locklair" title="Blaine Locklair" type="rss"
+            <outline title="Blaine Locklair" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc16nxCRvhba37wzU2eVS2Q" />
-            <outline text="Bandai Namco Esports" title="Bandai Namco Esports" type="rss"
+            <outline title="Bandai Namco Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKHx_yf3dI2ajWAjXRJ_9Rw" />
-            <outline text="Botchamania Again" title="Botchamania Again" type="rss"
+            <outline title="Botchamania Again" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjjBD37VlF9JhYPhuso9Vew" />
-            <outline text="CohhCarnage" title="CohhCarnage" type="rss"
+            <outline title="CohhCarnage" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp9TXGvv2-7JVVdyKEi0A6A" />
-            <outline text="Daily Valorant" title="Daily Valorant" type="rss"
+            <outline title="Daily Valorant" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_9W6Z5Y3lDpLk47Y_y5ITQ" />
-            <outline text="Conman167" title="Conman167" type="rss"
+            <outline title="Conman167" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPrPpMSq6db9e92y5Ga9cIA" />
-            <outline text="Drae" title="Drae" type="rss"
+            <outline title="Drae" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCf2ocK7dG_WFUgtDtrKR4rw" />
             <outline text="B.LEAGUE INTERNATIONAL (Official)"
                 title="B.LEAGUE INTERNATIONAL (Official)" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCx4M7pOU3Yhq9VAxmEbe1Vg" />
-            <outline text="Commissioner Dynamo" title="Commissioner Dynamo" type="rss"
+            <outline title="Commissioner Dynamo" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7Cr9o-Qvm_Fdlh2R_1UeUA" />
-            <outline text="Clutch Gone Rogue" title="Clutch Gone Rogue" type="rss"
+            <outline title="Clutch Gone Rogue" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRS1E5kaSJyqsOPzEGAvu7g" />
-            <outline text="ASEAN United FC" title="ASEAN United FC" type="rss"
+            <outline title="ASEAN United FC" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGyn3Y7NOSCHjFM_eJqydRA" />
-            <outline text="All Things Halo" title="All Things Halo" type="rss"
+            <outline title="All Things Halo" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWqGWieCKDdF80eHc7TuTPw" />
-            <outline text="BSoloe" title="BSoloe" type="rss"
+            <outline title="BSoloe" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqpTBSxAyjZwcXpuoYOY13g" />
-            <outline text="CBS Sports Golazo" title="CBS Sports Golazo" type="rss"
+            <outline title="CBS Sports Golazo" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCET00YnetHT7tOpu12v8jxg" />
-            <outline text="DeadlySlob" title="DeadlySlob" type="rss"
+            <outline title="DeadlySlob" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvG50sPKoj869ml1jgA1RJg" />
-            <outline text="Brew" title="Brew" type="rss"
+            <outline title="Brew" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVQGtUcRjHTQLTTu-5s9_4Q" />
-            <outline text="Brian Menard" title="Brian Menard" type="rss"
+            <outline title="Brian Menard" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3t5CYZMhhOl0_8ATxCBrkg" />
-            <outline text="Apex Legends Global Series" title="Apex Legends Global Series" type="rss"
+            <outline title="Apex Legends Global Series" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC87gHNI4LrmVhke9IE7VDOA" />
-            <outline text="Car and Driver" title="Car and Driver" type="rss"
+            <outline title="Car and Driver" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOqhTsqySBCBTy571GArcXg" />
-            <outline text="dkdynamite" title="dkdynamite" type="rss"
+            <outline title="dkdynamite" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe1yEAEbnDWM7nVi3y2pjYw" />
-            <outline text="DAMDAM" title="DAMDAM" type="rss"
+            <outline title="DAMDAM" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ80uFX-rzzvL3Uz7XQ2qw" />
-            <outline text="CodeNamePizza" title="CodeNamePizza" type="rss"
+            <outline title="CodeNamePizza" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWyPmQ5E-Bh1-RPZ-zsLnLQ" />
-            <outline text="Earth Uncut TV" title="Earth Uncut TV" type="rss"
+            <outline title="Earth Uncut TV" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLKYsEXfI0PGXeKYL1KV7qA" />
-            <outline text="ESL Asia" title="ESL Asia" type="rss"
+            <outline title="ESL Asia" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRM58mYe8HZjoa_itA_hFkQ" />
-            <outline text="Cringer" title="Cringer" type="rss"
+            <outline title="Cringer" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnc9Cm9AWgKkKweNb6HsKMA" />
-            <outline text="FAN REACTIONS FOOTBALL CLUB" title="FAN REACTIONS FOOTBALL CLUB"
+            <outline title="FAN REACTIONS FOOTBALL CLUB"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoHkpXvrjtemq69JDcfkU0Q" />
-            <outline text="ESO" title="ESO" type="rss"
+            <outline title="ESO" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjFztUZFRTDd1HTHxTFIXfQ" />
-            <outline text="ESL Counter-Strike Highlights" title="ESL Counter-Strike Highlights"
+            <outline title="ESL Counter-Strike Highlights"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDQZcZZwv-RhxHxJpHCdmbQ" />
-            <outline text="ESL Counter-Strike B" title="ESL Counter-Strike B" type="rss"
+            <outline title="ESL Counter-Strike B" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxKq27R4jcotw4pLjb1jZQ" />
-            <outline text="ESL Counter-Strike" title="ESL Counter-Strike" type="rss"
+            <outline title="ESL Counter-Strike" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPq2ETz4aAGo2Z-8JisDPIA" />
-            <outline text="Elisa Esports" title="Elisa Esports" type="rss"
+            <outline title="Elisa Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCD12fJ7la1TZ514wqNGXBKw" />
-            <outline text="Esports World Cup" title="Esports World Cup" type="rss"
+            <outline title="Esports World Cup" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCENNtCRTPTdH_IGXs42LuHQ" />
-            <outline text="Google" title="Google" type="rss"
+            <outline title="Google" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA" />
-            <outline text="ESL Dota 2" title="ESL Dota 2" type="rss"
+            <outline title="ESL Dota 2" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaYLBJfw6d8XqmNlL204lNg" />
-            <outline text="Forrest's Auto Reviews" title="Forrest's Auto Reviews" type="rss"
+            <outline title="Forrest's Auto Reviews" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJla13cU_l6Itg8yEtOiAqQ" />
-            <outline text="Jay3 Reacts" title="Jay3 Reacts" type="rss"
+            <outline title="Jay3 Reacts" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe_uMH6pCpC7TlfnRapYUaw" />
-            <outline text="Kanga" title="Kanga" type="rss"
+            <outline title="Kanga" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrfyyS0SKv_HAeP7v9qkFYA" />
-            <outline text="MLBB eSports" title="MLBB eSports" type="rss"
+            <outline title="MLBB eSports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMncR-XXNXhMyJELEgCrHlg" />
-            <outline text="Just ML" title="Just ML" type="rss"
+            <outline title="Just ML" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_vLddUnvExJH337wAFyHng" />
-            <outline text="Joey Engelman" title="Joey Engelman" type="rss"
+            <outline title="Joey Engelman" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNfTbxFqaPTMs9-2X_LxeBg" />
-            <outline text="PUBG MOBILE" title="PUBG MOBILE" type="rss"
+            <outline title="PUBG MOBILE" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKuBf7CRNf4OYoDyTtAL5fg" />
             <outline text="Mobile Legends: Bang Bang North America"
                 title="Mobile Legends: Bang Bang North America" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs0NBmP5x_U5eq0gHZmffgw" />
-            <outline text="genesisgg" title="genesisgg" type="rss"
+            <outline title="genesisgg" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7boel3KeF8CfIoe0j1WHqA" />
-            <outline text="Espresso" title="Espresso" type="rss"
+            <outline title="Espresso" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnYuPwWC1WB3uasxSXoARXg" />
-            <outline text="Kevduit" title="Kevduit" type="rss"
+            <outline title="Kevduit" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnEJAjrwfuU7T2yYv00WsA" />
-            <outline text="Josh Revell" title="Josh Revell" type="rss"
+            <outline title="Josh Revell" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSawmZ2PP6R7EURKRMNYXMw" />
-            <outline text="Kanna Yanagi Ch.【PixelLink】" title="Kanna Yanagi Ch.【PixelLink】"
+            <outline title="Kanna Yanagi Ch.【PixelLink】"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClxj3GlGphZVgd1SLYhZKmg" />
-            <outline text="MissMikkaa" title="MissMikkaa" type="rss"
+            <outline title="MissMikkaa" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEMT8neztQTMuz5RZcg5M5Q" />
-            <outline text="Jay3" title="Jay3" type="rss"
+            <outline title="Jay3" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoKKe0XN5Zc1lSTi1_utNOw" />
-            <outline text="more tarik" title="more tarik" type="rss"
+            <outline title="more tarik" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWoYflBAld7tr3zVsjaw5Rg" />
-            <outline text="Fortnite Competitive" title="Fortnite Competitive" type="rss"
+            <outline title="Fortnite Competitive" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrK8YXOE215o5FxQI_V0ydg" />
-            <outline text="Meghan Yeah" title="Meghan Yeah" type="rss"
+            <outline title="Meghan Yeah" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwjtG-DXHDJSk2pRM7_o3QQ" />
-            <outline text="Rainbow Six Esports" title="Rainbow Six Esports" type="rss"
+            <outline title="Rainbow Six Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWKHac5bjhsUtSnMDFCT-7A" />
-            <outline text="MoreLifeShaq" title="MoreLifeShaq" type="rss"
+            <outline title="MoreLifeShaq" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC53T4J0pJwY-3_ZTK2cqsZw" />
-            <outline text="IWDominate" title="IWDominate" type="rss"
+            <outline title="IWDominate" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmEu9Y8nodUV0jvsR9NYLJA" />
-            <outline text="GG Rewind" title="GG Rewind" type="rss"
+            <outline title="GG Rewind" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCI8wGudOsEZqHwdszhTEzNQ" />
-            <outline text="Raptor" title="Raptor" type="rss"
+            <outline title="Raptor" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoOmgnp3Ao2laZHtvRGdceg" />
-            <outline text="MoreGinge" title="MoreGinge" type="rss"
+            <outline title="MoreGinge" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX4-0cyettye55lBm7CYz0Q" />
-            <outline text="Miami HEAT" title="Miami HEAT" type="rss"
+            <outline title="Miami HEAT" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8bZbiKoPNRi3taABIaFeBw" />
-            <outline text="RauKnows" title="RauKnows" type="rss"
+            <outline title="RauKnows" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnKfR9ODvna_ou_GNs9fINQ" />
-            <outline text="Screenz lol" title="Screenz lol" type="rss"
+            <outline title="Screenz lol" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFDGcs-NukD7xa32KRJ3XSA" />
-            <outline text="seangares" title="seangares" type="rss"
+            <outline title="seangares" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyTkTNJeDaIjyCpUSsZ9FJA" />
-            <outline text="Ray Narvaez Jr" title="Ray Narvaez Jr" type="rss"
+            <outline title="Ray Narvaez Jr" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFbgt4fSBvjT9rKjE8qfSjw" />
-            <outline text="mL7" title="mL7" type="rss"
+            <outline title="mL7" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCejVlAl2kUwBgSHtQeBoKhQ" />
-            <outline text="The AFC Hub" title="The AFC Hub" type="rss"
+            <outline title="The AFC Hub" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnj0TjaM0wyxkAWW_nz8_1g" />
-            <outline text="Nintendo of America" title="Nintendo of America" type="rss"
+            <outline title="Nintendo of America" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGIY_O-8vW4rfX98KlMkvRg" />
-            <outline text="Sacriel" title="Sacriel" type="rss"
+            <outline title="Sacriel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCROp--Hg_j2ocY-XYh8L68w" />
-            <outline text="Rappler" title="Rappler" type="rss"
+            <outline title="Rappler" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdnZdQxYXnbN4uWJg96oGxw" />
-            <outline text="RDC Live" title="RDC Live" type="rss"
+            <outline title="RDC Live" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOnECY8FBKKPVi5ZsSgXPJA" />
-            <outline text="tarik" title="tarik" type="rss"
+            <outline title="tarik" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTbtlMEiBfs0zZLQyJzR0Uw" />
-            <outline text="TeeP" title="TeeP" type="rss"
+            <outline title="TeeP" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq5jqX3nqMcFlUQzHjgyXdQ" />
-            <outline text="Scump" title="Scump" type="rss"
+            <outline title="Scump" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCWSG8MXoqvIEBPRnOSxwzw" />
-            <outline text="RyanCentral" title="RyanCentral" type="rss"
+            <outline title="RyanCentral" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZmz0RdI6LvX_rRmrlwx0Eg" />
-            <outline text="Swiss001" title="Swiss001" type="rss"
+            <outline title="Swiss001" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYiaHzwtsww6phfxwUtZv8w" />
-            <outline text="VALORANT Champions Tour Pacific" title="VALORANT Champions Tour Pacific"
+            <outline title="VALORANT Champions Tour Pacific"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA8fUfoBLWyUpAZTbXB0uoA" />
-            <outline text="United View" title="United View" type="rss"
+            <outline title="United View" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQWkxGgZFv3VcrwqwIIGFgA" />
             <outline text="VALORANT Champions Tour Americas"
                 title="VALORANT Champions Tour Americas" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCifCesg-EUkjKyQedaB3hRg" />
-            <outline text="Two Minute Papers" title="Two Minute Papers" type="rss"
+            <outline title="Two Minute Papers" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg" />
-            <outline text="Zack D. Films" title="Zack D. Films" type="rss"
+            <outline title="Zack D. Films" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvz84_Q0BbvZThy75mbd-Dg" />
-            <outline text="TenZ" title="TenZ" type="rss"
+            <outline title="TenZ" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCckPYr9b_iVucz8ID1Q67sw" />
-            <outline text="Sakura Stardust" title="Sakura Stardust" type="rss"
+            <outline title="Sakura Stardust" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe6Kb_fN2ZEC0bMdDye7ZQg" />
-            <outline text="dota2" title="dota2" type="rss"
+            <outline title="dota2" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTQKT5QqO3h7y32G8VzuySQ" />
-            <outline text="TNA Wrestling" title="TNA Wrestling" type="rss"
+            <outline title="TNA Wrestling" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOp8wkVqdrWbFYHjDv946QQ" />
-            <outline text="WrestleTalk" title="WrestleTalk" type="rss"
+            <outline title="WrestleTalk" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRSW0_U9cdAQU5FEOXs-DJw" />
-            <outline text="WrestlinGifs" title="WrestlinGifs" type="rss"
+            <outline title="WrestlinGifs" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcvM7fNSMn9Qm3BZnKTK8oQ" />
-            <outline text="VALORANT Champions Tour CN" title="VALORANT Champions Tour CN" type="rss"
+            <outline title="VALORANT Champions Tour CN" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc1VJX_5Z2RdGi58XU4IfbA" />
-            <outline text="FORMULA 1" title="FORMULA 1" type="rss"
+            <outline title="FORMULA 1" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCB_qr75-ydFVKSF9Dmo6izg" />
-            <outline text="Wrestling Daze" title="Wrestling Daze" type="rss"
+            <outline title="Wrestling Daze" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRfz689NhYtN-byWAWK68oA" />
-            <outline text="LastKnownMeal" title="LastKnownMeal" type="rss"
+            <outline title="LastKnownMeal" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSI_PW-LM2rC5-1XYpbaSBQ" />
-            <outline text="Valorant Mundi" title="Valorant Mundi" type="rss"
+            <outline title="Valorant Mundi" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmbfLS3A3n_XbdvY8Zp-BWA" />
-            <outline text="Gadget Addict" title="Gadget Addict" type="rss"
+            <outline title="Gadget Addict" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjmjkvqp279nTv5Tg2KB2aA" />
-            <outline text="Tech YES City" title="Tech YES City" type="rss"
+            <outline title="Tech YES City" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9Tn-atYOt8qZP-oqui7bhw" />
-            <outline text="minnieportable" title="minnieportable" type="rss"
+            <outline title="minnieportable" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCw-BgB997z8oxJZdSUn2qzA" />
-            <outline text="ZBRA" title="ZBRA" type="rss"
+            <outline title="ZBRA" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgb7cW-NE8XGxDc9AkAVNoA" />
-            <outline text="Grand POOBear" title="Grand POOBear" type="rss"
+            <outline title="Grand POOBear" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3g50Yr3GFPYrBj-n55BdqA" />
-            <outline text="GAMErHyNas" title="GAMErHyNas" type="rss"
+            <outline title="GAMErHyNas" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBgIxCjIfkSHuwCUajbQEuA" />
-            <outline text="VALORANT Champions Tour EMEA" title="VALORANT Champions Tour EMEA"
+            <outline title="VALORANT Champions Tour EMEA"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp6n8d8Y8r3MwKNw_MMaouQ" />
-            <outline text="Xbox On" title="Xbox On" type="rss"
+            <outline title="Xbox On" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCozZmz40Oc6NYD4JtZJgO8A" />
-            <outline text="Lucid" title="Lucid" type="rss"
+            <outline title="Lucid" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUjqYkWG30kot0uzZxlH3GA" />
-            <outline text="LSuperSonicQ" title="LSuperSonicQ" type="rss"
+            <outline title="LSuperSonicQ" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSl4Y5mQzWINY6ZWh04Ws6w" />
-            <outline text="Lakers Nation" title="Lakers Nation" type="rss"
+            <outline title="Lakers Nation" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbNWe0snu7U9H2qioNH2nvg" />
-            <outline text="Flats" title="Flats" type="rss"
+            <outline title="Flats" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCulXXKKrC3LjQpxGNPNMFPA" />
-            <outline text="v88 box" title="v88 box" type="rss"
+            <outline title="v88 box" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCN-klC8jxVFx4puL41EDEHA" />
-            <outline text="PUBG MOBILE Esports" title="PUBG MOBILE Esports" type="rss"
+            <outline title="PUBG MOBILE Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmeeY9kzNswUpbYyJntb3Aw" />
-            <outline text="Frogger" title="Frogger" type="rss"
+            <outline title="Frogger" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEw4gExCX4SWq-dwhakHbUQ" />
-            <outline text="Markyd123" title="Markyd123" type="rss"
+            <outline title="Markyd123" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo2mjqMT_qFENjAbfHExXow" />
-            <outline text="Ludwig" title="Ludwig" type="rss"
+            <outline title="Ludwig" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrPseYLGpNygVi34QpGNqpA" />
-            <outline text="Flats Two" title="Flats Two" type="rss"
+            <outline title="Flats Two" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpXyxLahbn7vZfR5fexenuw" />
-            <outline text="MPL Philippines" title="MPL Philippines" type="rss"
+            <outline title="MPL Philippines" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5ASeit2rM3taMSUChv9tNA" />
-            <outline text="Loserfruit" title="Loserfruit" type="rss"
+            <outline title="Loserfruit" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIOrUVVyfoWnmcwG6IwCULQ" />
-            <outline text="Los Angeles Lakers" title="Los Angeles Lakers" type="rss"
+            <outline title="Los Angeles Lakers" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8CSt-oVqy8pUAoKSApTxQw" />
-            <outline text="ManiYa Streams" title="ManiYa Streams" type="rss"
+            <outline title="ManiYa Streams" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo0bp6-iNDJmExq6kp6PYcg" />
-            <outline text="VALORANT Challengers NORTH EAST" title="VALORANT Challengers NORTH EAST"
+            <outline title="VALORANT Challengers NORTH EAST"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjQAdKf6m6HnpCgG1h5iYrg" />
-            <outline text="MANIACITV" title="MANIACITV" type="rss"
+            <outline title="MANIACITV" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnseA2zPlNxRi5BCL7w2LA" />
-            <outline text="FreeDawkins" title="FreeDawkins" type="rss"
+            <outline title="FreeDawkins" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEjOSbbaOfgnfRODEEMYlCw" />
-            <outline text="Manchester United" title="Manchester United" type="rss"
+            <outline title="Manchester United" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6yW44UGJJBvYTlfC7CRg2Q" />
-            <outline text="Macro LIVE" title="Macro LIVE" type="rss"
+            <outline title="Macro LIVE" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSzBfLmM-DswAOKzOv8eqbA" />
-            <outline text="Lirik" title="Lirik" type="rss"
+            <outline title="Lirik" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEmOgh0uJDBoKSHfgzdxRuw" />
-            <outline text="Maqwell" title="Maqwell" type="rss"
+            <outline title="Maqwell" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2NB_acBZHQIeqxTaWj2dVQ" />
-            <outline text="MrSantiZap" title="MrSantiZap" type="rss"
+            <outline title="MrSantiZap" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC60Z18qxfHNBdI-c_dE6z1Q" />
-            <outline text="MrRoflWaffles" title="MrRoflWaffles" type="rss"
+            <outline title="MrRoflWaffles" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzH3H8sRfqH3rEVZcpTV2Cw" />
-            <outline text="NBA" title="NBA" type="rss"
+            <outline title="NBA" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWJ2lWNubArHWmf3FIHbfcQ" />
-            <outline text="No Life Shaq" title="No Life Shaq" type="rss"
+            <outline title="No Life Shaq" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKUCm3FepRrl-VKhq0Wwajg" />
-            <outline text="Nick Crowley" title="Nick Crowley" type="rss"
+            <outline title="Nick Crowley" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMX31RavkfUHJvw03RbUZnA" />
-            <outline text="LGR" title="LGR" type="rss"
+            <outline title="LGR" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ" />
-            <outline text="LoL Esports" title="LoL Esports" type="rss"
+            <outline title="LoL Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvqRdlKsE5Q8mf8YXbdIJLw" />
-            <outline text="OneGame" title="OneGame" type="rss"
+            <outline title="OneGame" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPHcMtV17sbFTtYN1F09orQ" />
-            <outline text="OPLOLReplay" title="OPLOLReplay" type="rss"
+            <outline title="OPLOLReplay" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0RalGf69iYVBFteHInyJJg" />
-            <outline text="Nadeshot" title="Nadeshot" type="rss"
+            <outline title="Nadeshot" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs3l6DsCu9ZOXkJkvskEsrQ" />
-            <outline text="Overwatch Esports" title="Overwatch Esports" type="rss"
+            <outline title="Overwatch Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiAInBL9kUzz1XRxk66v-gw" />
-            <outline text="Pestily" title="Pestily" type="rss"
+            <outline title="Pestily" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC142-qvFgwSS6UIU-fFCd6w" />
-            <outline text="Oroboro" title="Oroboro" type="rss"
+            <outline title="Oroboro" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC73Us1H9hxv__5oobyLDOyw" />
-            <outline text="PGL" title="PGL" type="rss"
+            <outline title="PGL" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5jpxDZx4yoBo324pMQ91Ww" />
-            <outline text="Reuters" title="Reuters" type="rss"
+            <outline title="Reuters" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ" />
-            <outline text="Philippines Football League" title="Philippines Football League"
+            <outline title="Philippines Football League"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCewlC5rcsENhcjnrsfvIpaw" />
-            <outline text="Noah Sunday - Mobile" title="Noah Sunday - Mobile" type="rss"
+            <outline title="Noah Sunday - Mobile" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiln7iedegEDFVAe-ssxSxQ" />
-            <outline text="One Sports" title="One Sports" type="rss"
+            <outline title="One Sports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXDG9ue-emCN8Ad3h7lERqQ" />
-            <outline text="Red Bull Gaming" title="Red Bull Gaming" type="rss"
+            <outline title="Red Bull Gaming" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8VddvuHJzIj__Ud0rY2_ww" />
-            <outline text="PaigeTheWitch" title="PaigeTheWitch" type="rss"
+            <outline title="PaigeTheWitch" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE3w5blX-dO7xugnamKOkRQ" />
-            <outline text="PlayOverwatch" title="PlayOverwatch" type="rss"
+            <outline title="PlayOverwatch" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClOf1XXinvZsy4wKPAkro2A" />
-            <outline text="realme India" title="realme India" type="rss"
+            <outline title="realme India" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeM7fTLWxyxIMw9WfMSX8ww" />
-            <outline text="Galaxy Battle" title="Galaxy Battle" type="rss"
+            <outline title="Galaxy Battle" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCym6NEe3xXlvKicJiOwVVVQ" />
-            <outline text="Sliggy" title="Sliggy" type="rss"
+            <outline title="Sliggy" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBgWHcUevzhAJ3eWSetT8-g" />
-            <outline text="Phixate" title="Phixate" type="rss"
+            <outline title="Phixate" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVT-8350tCpSc7_X4dBhneg" />
-            <outline text="quill18" title="quill18" type="rss"
+            <outline title="quill18" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbx1TZgxfIauUZyPuBzEwZg" />
-            <outline text="Sideshow" title="Sideshow" type="rss"
+            <outline title="Sideshow" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyLvxt4eVsF6rwsTEbj1yeQ" />
-            <outline text="Shroud" title="Shroud" type="rss"
+            <outline title="Shroud" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoz3Kpu5lv-ALhR4h9bDvcw" />
-            <outline text="Rurikhan" title="Rurikhan" type="rss"
+            <outline title="Rurikhan" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy9L0ITuHozyqAxW26KPvKg" />
-            <outline text="TheAsianTournament" title="TheAsianTournament" type="rss"
+            <outline title="TheAsianTournament" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCU2n0Xm6Dz6aZ8O_gl8OQeA" />
-            <outline text="Secret Sleepover Society" title="Secret Sleepover Society" type="rss"
+            <outline title="Secret Sleepover Society" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFi1o_TEVQIPzzZi7JZ63PQ" />
-            <outline text="Sentinels" title="Sentinels" type="rss"
+            <outline title="Sentinels" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNcWiCgpHVctNxLr3FD04PA" />
-            <outline text="skippy62able" title="skippy62able" type="rss"
+            <outline title="skippy62able" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDZESjYAwh-ws7ZSZZ8DKeg" />
-            <outline text="The United Stand" title="The United Stand" type="rss"
+            <outline title="The United Stand" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMmVPVb0BwSIOWVeDwlPocQ" />
-            <outline text="The Scoreboard" title="The Scoreboard" type="rss"
+            <outline title="The Scoreboard" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeSxYbBgmMJApDAoN1-rcTw" />
-            <outline text="MrMarvelTV" title="MrMarvelTV" type="rss"
+            <outline title="MrMarvelTV" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqBaw9Ze5EJ4fJVbaXbhnmw" />
-            <outline text="Simon Miller" title="Simon Miller" type="rss"
+            <outline title="Simon Miller" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5YhP-H5snGgi6dOE8vj-aA" />
             <outline text="The Official Pokémon YouTube channel"
                 title="The Official Pokémon YouTube channel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFctpiB_Hnlk3ejWfHqSm6Q" />
-            <outline text="summit1g" title="summit1g" type="rss"
+            <outline title="summit1g" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9XKrQI5N24RDzZA8fheEjg" />
-            <outline text="Shotzzy" title="Shotzzy" type="rss"
+            <outline title="Shotzzy" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmUPc8k5mKDG_496VyOhVBA" />
-            <outline text="Retromation" title="Retromation" type="rss"
+            <outline title="Retromation" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4Xj6emHTXnKHUq8btUuN6A" />
-            <outline text="The Geek Cupboard" title="The Geek Cupboard" type="rss"
+            <outline title="The Geek Cupboard" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqCa31-K_PjmEty8WX3whyw" />
-            <outline text="SuperkickStudios" title="SuperkickStudios" type="rss"
+            <outline title="SuperkickStudios" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNjrkeP32PXtt0SvVLQWKXg" />
-            <outline text="SoaR Kitty" title="SoaR Kitty" type="rss"
+            <outline title="SoaR Kitty" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVu1acqOmA_EsUgYWrSDptQ" />
-            <outline text="Tottenham Hotspur" title="Tottenham Hotspur" type="rss"
+            <outline title="Tottenham Hotspur" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEg25rdRZXg32iwai6N6l0w" />
-            <outline text="WhatCulture Wrestling" title="WhatCulture Wrestling" type="rss"
+            <outline title="WhatCulture Wrestling" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq8jp0E99ELBvmBxjJ-JLgA" />
-            <outline text="Swagg" title="Swagg" type="rss"
+            <outline title="Swagg" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW1CGYCjfKhNLGp_Os1g_Pg" />
-            <outline text="Wrestling With Wregret" title="Wrestling With Wregret" type="rss"
+            <outline title="Wrestling With Wregret" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjCDlbCvET6a6K53TV9ZhZA" />
-            <outline text="WheezyBlonde" title="WheezyBlonde" type="rss"
+            <outline title="WheezyBlonde" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoe52S7YI72_YzBeBqRWdoQ" />
-            <outline text="Tomographic" title="Tomographic" type="rss"
+            <outline title="Tomographic" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOt5hVyS2-nbcJ3_FP41Ajg" />
-            <outline text="WWE Vault" title="WWE Vault" type="rss"
+            <outline title="WWE Vault" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNSnSemXKDc9UEZ7m31wY9Q" />
-            <outline text="TR1Iceman" title="TR1Iceman" type="rss"
+            <outline title="TR1Iceman" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC73QX85bGegswROr-UylY3A" />
-            <outline text="HaloFollower" title="HaloFollower" type="rss"
+            <outline title="HaloFollower" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCptNOWTizPKjnHYLydzUWbw" />
-            <outline text="Hollow" title="Hollow" type="rss"
+            <outline title="Hollow" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmp5y07YIV6i2jPX4x82hVQ" />
-            <outline text="LCK Global" title="LCK Global" type="rss"
+            <outline title="LCK Global" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKVlixycWmapnGQ_wht4cHQ" />
-            <outline text="FISS DOTA 2 EN" title="FISS DOTA 2 EN" type="rss"
+            <outline title="FISS DOTA 2 EN" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_uzrw4isdO2pIwO0Y1tIPQ" />
-            <outline text="Tomato's Trash" title="Tomato's Trash" type="rss"
+            <outline title="Tomato's Trash" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeOUmAzHQi3xO7q7d92tA9g" />
-            <outline text="WWE" title="WWE" type="rss"
+            <outline title="WWE" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ5v_MCY6GNUBTO8-D3XoAg" />
-            <outline text="Flying Pig United" title="Flying Pig United" type="rss"
+            <outline title="Flying Pig United" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCd662u2E4wR7I-sGVIIT9ZA" />
-            <outline text="fl0m" title="fl0m" type="rss"
+            <outline title="fl0m" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVXA3FX3fCv-YEuBlxpeFVg" />
-            <outline text="Klean" title="Klean" type="rss"
+            <outline title="Klean" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHI3OE15PJ3pFWm1a9JsKw" />
             <outline text="League of Legends Championship Pacific"
                 title="League of Legends Championship Pacific" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmpj_KlPHHSRCLMdqOK6BDQ" />
-            <outline text="The GeekBox" title="The GeekBox" type="rss"
+            <outline title="The GeekBox" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLkyJLX9b6YF5Jw7vIVF-2Q" />
-            <outline text="Snapdragon Pro Series" title="Snapdragon Pro Series" type="rss"
+            <outline title="Snapdragon Pro Series" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3wGgfxWJiIquQtSWlYfZcQ" />
-            <outline text="Thinking Man's Valorant" title="Thinking Man's Valorant" type="rss"
+            <outline title="Thinking Man's Valorant" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgIriwgZBo34xOp96Xsp4Yw" />
-            <outline text="HoK Global Esports" title="HoK Global Esports" type="rss"
+            <outline title="HoK Global Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBqo62uoCQKO71QF6J2aNQA" />
-            <outline text="Kim Justice's Wrestling Road" title="Kim Justice's Wrestling Road"
+            <outline title="Kim Justice's Wrestling Road"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4q7AUvWVboY5wq4YYzy2DQ" />
-            <outline text="LegoUnlocked" title="LegoUnlocked" type="rss"
+            <outline title="LegoUnlocked" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJffBkLaEjsL_f21kT_5CKg" />
-            <outline text="LarryLurr" title="LarryLurr" type="rss"
+            <outline title="LarryLurr" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTc6QUhdAc-yU99rpDxlWrw" />
-            <outline text="Vulture" title="Vulture" type="rss"
+            <outline title="Vulture" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgUjAcXdTD0Ub6mBboSI-eg" />
-            <outline text="Stunned By Wrestling" title="Stunned By Wrestling" type="rss"
+            <outline title="Stunned By Wrestling" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY5ioKdNQRitN707Y9ys1qQ" />
-            <outline text="SeLFlo" title="SeLFlo" type="rss"
+            <outline title="SeLFlo" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKgpTzSKoGvmirYYk9KTUZw" />
-            <outline text="ZenithCODM" title="ZenithCODM" type="rss"
+            <outline title="ZenithCODM" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC02VMQB3VTy7x-HWe2We_mg" />
-            <outline text="TheXclusiveAce" title="TheXclusiveAce" type="rss"
+            <outline title="TheXclusiveAce" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaN1rig0bL7SUod2WN0P8XA" />
-            <outline text="ZBRA Too" title="ZBRA Too" type="rss"
+            <outline title="ZBRA Too" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrZpXUD0c1Jlr2zSKi8M2qQ" />
-            <outline text="Zyro" title="Zyro" type="rss"
+            <outline title="Zyro" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAsw2cESMj2mIl2JEAZFkew" />
-            <outline text="FIA" title="FIA" type="rss"
+            <outline title="FIA" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFSkxZVj6ki9RrWC8ZcCPrQ" />
             <outline text="IESF - International Esports Federation"
                 title="IESF - International Esports Federation" type="rss"
@@ -508,133 +508,133 @@
             <outline text="Korea e-Sports Association (KeSPA)"
                 title="Korea e-Sports Association (KeSPA)" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6YqXiwCBfPvPTs3wXgWElQ" />
-            <outline text="zollotech" title="zollotech" type="rss"
+            <outline title="zollotech" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiQMYozSSTkJ2twtZM1bG9w" />
-            <outline text="Fire Mountain" title="Fire Mountain" type="rss"
+            <outline title="Fire Mountain" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEab88_RThClRVuZGWP33Bg" />
-            <outline text="Macro" title="Macro" type="rss"
+            <outline title="Macro" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs3uTN9G4MnZGOfYWoSs9mA" />
-            <outline text="Tifo Football" title="Tifo Football" type="rss"
+            <outline title="Tifo Football" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGYYNGmyhZ_kwBF_lqqXdAQ" />
-            <outline text="Halo Esports" title="Halo Esports" type="rss"
+            <outline title="Halo Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWRlMArGqt607LYdhlrrYVA" />
-            <outline text="Maven Huffman" title="Maven Huffman" type="rss"
+            <outline title="Maven Huffman" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUaMKv2qklMwzIwHXDpWyFg" />
-            <outline text="INQUIRER.net" title="INQUIRER.net" type="rss"
+            <outline title="INQUIRER.net" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvRAX-ujvZ0eTMLGG2vki9w" />
-            <outline text="Kinda Funny Games" title="Kinda Funny Games" type="rss"
+            <outline title="Kinda Funny Games" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT6QFE3peNry9PdO5uGj96g" />
-            <outline text="VΞNOM MΛGNUS" title="VΞNOM MΛGNUS" type="rss"
+            <outline title="VΞNOM MΛGNUS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgg24CW7FrwTMrEUxx44Qlg" />
-            <outline text="LiteWeight Gaming" title="LiteWeight Gaming" type="rss"
+            <outline title="LiteWeight Gaming" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkA6jSV8nbedJTuK8a0cyFQ" />
-            <outline text="LPL_English" title="LPL_English" type="rss"
+            <outline title="LPL_English" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0uDpQfU-FwY571UEhgd87Q" />
-            <outline text="Grizzy" title="Grizzy" type="rss"
+            <outline title="Grizzy" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPbGiUt4Yu8EsaFM-KAmgjg" />
-            <outline text="MPBL" title="MPBL" type="rss"
+            <outline title="MPBL" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbxiLsJzOnnpDOZSwB5HWUQ" />
-            <outline text="FIBA Basketball" title="FIBA Basketball" type="rss"
+            <outline title="FIBA Basketball" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtInrnU3QbWqFGsdKT1GZtg" />
-            <outline text="NCAA Philippines" title="NCAA Philippines" type="rss"
+            <outline title="NCAA Philippines" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3Whnl6MzB0bJKwfbm43JMw" />
-            <outline text="NTV PH" title="NTV PH" type="rss"
+            <outline title="NTV PH" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe6uZ90NjlLYqU0MppVpbCA" />
-            <outline text="Wanderbots" title="Wanderbots" type="rss"
+            <outline title="Wanderbots" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2wac-sRkNMPSFEnaOHCL3g" />
-            <outline text="PUBG MOBILE Philippines" title="PUBG MOBILE Philippines" type="rss"
+            <outline title="PUBG MOBILE Philippines" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgn7fCFfIjUx34GMGbSEYaw" />
-            <outline text="The Emirates FA Cup" title="The Emirates FA Cup" type="rss"
+            <outline title="The Emirates FA Cup" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCChcWqwYXCEs657MQ00qVWA" />
-            <outline text="ti8ick" title="ti8ick" type="rss"
+            <outline title="ti8ick" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpBfbl39OIZv5GU6OpnpsIQ" />
-            <outline text="Noel Philips" title="Noel Philips" type="rss"
+            <outline title="Noel Philips" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2O6HDtMOZf9FkUAepz9Atg" />
-            <outline text="NoahJ456" title="NoahJ456" type="rss"
+            <outline title="NoahJ456" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP9tAErY_RlX4RFKssE4ogg" />
-            <outline text="VALORANT Challengers Americas" title="VALORANT Challengers Americas"
+            <outline title="VALORANT Challengers Americas"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_l3b2l822SSWaoA7DLXTiQ" />
-            <outline text="NotYourAverageFlight" title="NotYourAverageFlight" type="rss"
+            <outline title="NotYourAverageFlight" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoGIPQ7M4NWai7LRgRhaSOg" />
-            <outline text="InTheClutch Ent" title="InTheClutch Ent" type="rss"
+            <outline title="InTheClutch Ent" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg9w2x6EYbcxGiLeh8UTMdQ" />
-            <outline text="NBC Sports" title="NBC Sports" type="rss"
+            <outline title="NBC Sports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqZQlzSHbVJrwrn5XvzrzcA" />
-            <outline text="jackfrags" title="jackfrags" type="rss"
+            <outline title="jackfrags" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCw7FkXsC00lH2v2yB5LQoYA" />
-            <outline text="MrDalekJD" title="MrDalekJD" type="rss"
+            <outline title="MrDalekJD" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMUP9j-QidC_S0KLlO06uCg" />
-            <outline text="PGL Counter-Strike Highlights" title="PGL Counter-Strike Highlights"
+            <outline title="PGL Counter-Strike Highlights"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3y-TwdfrUfm7Iindvvxsjg" />
-            <outline text="FAN REACTIONS HUB" title="FAN REACTIONS HUB" type="rss"
+            <outline title="FAN REACTIONS HUB" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs1M0wmfxAbv7m5TCoQYtGw" />
-            <outline text="Octane" title="Octane" type="rss"
+            <outline title="Octane" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDBtDztKz4btIPLYjy6ZqnA" />
-            <outline text="Stretford Paddock" title="Stretford Paddock" type="rss"
+            <outline title="Stretford Paddock" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7w8GnTF2Sp3wldDMtCCtVw" />
-            <outline text="감스트GAMST" title="감스트GAMST" type="rss"
+            <outline title="감스트GAMST" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbFzvzDu17eDZ3RIeaLRswQ" />
-            <outline text="Stealth CODM" title="Stealth CODM" type="rss"
+            <outline title="Stealth CODM" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC04eKCHxzFlMw16jsWfwErg" />
-            <outline text="Not The Expert" title="Not The Expert" type="rss"
+            <outline title="Not The Expert" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsUeMgCW9MRxoZbXTpA7Sog" />
-            <outline text="nonmaliceowl" title="nonmaliceowl" type="rss"
+            <outline title="nonmaliceowl" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcjiE6xWumH887o19Ml3qeQ" />
-            <outline text="Julian Goldie SEO" title="Julian Goldie SEO" type="rss"
+            <outline title="Julian Goldie SEO" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGpsgNbzdF7BECCVbB1COHw" />
-            <outline text="Theme Park Crazy" title="Theme Park Crazy" type="rss"
+            <outline title="Theme Park Crazy" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFbb5v6I-bxiQfZumWn2S2A" />
-            <outline text="ardiis" title="ardiis" type="rss"
+            <outline title="ardiis" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0orHdcQbBFxXcxy-F1buqA" />
-            <outline text="Galint Gaming VODs" title="Galint Gaming VODs" type="rss"
+            <outline title="Galint Gaming VODs" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG-pxOMgCQ3AtsxVPWk3XuQ" />
-            <outline text="VGBootCamp" title="VGBootCamp" type="rss"
+            <outline title="VGBootCamp" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCj1J3QuIftjOq9iv_rr7Egw" />
-            <outline text="Luminosity Smash" title="Luminosity Smash" type="rss"
+            <outline title="Luminosity Smash" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMhGhRavVZM32Qai3YoDPLQ" />
-            <outline text="Nouns GG" title="Nouns GG" type="rss"
+            <outline title="Nouns GG" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCmBH46G0Y3Tdor4b1-PZ_w" />
-            <outline text="LEETOTHEVI" title="LEETOTHEVI" type="rss"
+            <outline title="LEETOTHEVI" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0FRSQh4P5S-5FwnL8hsQrQ" />
-            <outline text="Cross2Crown2" title="Cross2Crown2" type="rss"
+            <outline title="Cross2Crown2" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkJ6d2fXwm2SvVNpAX-kx8w" />
-            <outline text="Loochy" title="Loochy" type="rss"
+            <outline title="Loochy" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCghVgPYA_pB7MdbDVaiCTng" />
-            <outline text="BennyCentral" title="BennyCentral" type="rss"
+            <outline title="BennyCentral" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAOvCl3N0lpjcrvfaVe4zhw" />
-            <outline text="Wirtual" title="Wirtual" type="rss"
+            <outline title="Wirtual" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCt-HTfaCUz8QIoknqyXKYiw" />
-            <outline text="Soloista Ph" title="Soloista Ph" type="rss"
+            <outline title="Soloista Ph" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqqreHN9wUNdnVwybYP4W0w" />
-            <outline text="Gaming Fight Club" title="Gaming Fight Club" type="rss"
+            <outline title="Gaming Fight Club" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7hBgc1dZM9naa-jyOh2jMw" />
-            <outline text="Drillstar" title="Drillstar" type="rss"
+            <outline title="Drillstar" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6vgUgQABd3zQsr_aX24Kxw" />
-            <outline text="SkyBoi" title="SkyBoi" type="rss"
+            <outline title="SkyBoi" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5lrhqKFtbuUV97oC2Ql0oA" />
-            <outline text="Theo - t3.gg" title="Theo - t3.gg" type="rss"
+            <outline title="Theo - t3.gg" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbRP3c757lWg9M-U7TyEkXA" />
-            <outline text="Racing Statistics" title="Racing Statistics" type="rss"
+            <outline title="Racing Statistics" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAFb4p0Xn19QIbz2V6I3pKg" />
-            <outline text="Tankz" title="Tankz" type="rss"
+            <outline title="Tankz" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLyvdwN2npCk-4oVvP0Um_w" />
         </outline>
-        <outline text="Twitch Following" title="Twitch Following">
-            <outline text="AR3NAgg's Twitch video RSS" title="AR3NAgg's Twitch video RSS" type="rss"
+        <outline title="Twitch Following">
+            <outline title="AR3NAgg's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/AR3NAgg" />
-            <outline text="Apathy's Twitch video RSS" title="Apathy's Twitch video RSS" type="rss"
+            <outline title="Apathy's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Apathy" />
-            <outline text="ArmadaUGS's Twitch video RSS" title="ArmadaUGS's Twitch video RSS"
+            <outline title="ArmadaUGS's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ArmadaUGS" />
-            <outline text="Anders's Twitch video RSS" title="Anders's Twitch video RSS" type="rss"
+            <outline title="Anders's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Anders" />
-            <outline text="BLASTDota's Twitch video RSS" title="BLASTDota's Twitch video RSS"
+            <outline title="BLASTDota's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BLASTDota" />
-            <outline text="Arcus's Twitch video RSS" title="Arcus's Twitch video RSS" type="rss"
+            <outline title="Arcus's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Arcus" />
-            <outline text="ESL_Mobile's Twitch video RSS" title="ESL_Mobile's Twitch video RSS"
+            <outline title="ESL_Mobile's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ESL_Mobile" />
             <outline text="LondonController's Twitch video RSS"
                 title="LondonController's Twitch video RSS" type="rss"
@@ -642,123 +642,123 @@
             <outline text="EvenMatchupGaming's Twitch video RSS"
                 title="EvenMatchupGaming's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/EvenMatchupGaming" />
-            <outline text="39daph's Twitch video RSS" title="39daph's Twitch video RSS" type="rss"
+            <outline title="39daph's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/39daph" />
-            <outline text="AR12Gaming's Twitch video RSS" title="AR12Gaming's Twitch video RSS"
+            <outline title="AR12Gaming's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/AR12Gaming" />
-            <outline text="CohhCarnage's Twitch video RSS" title="CohhCarnage's Twitch video RSS"
+            <outline title="CohhCarnage's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CohhCarnage" />
             <outline text="CapcomFighters's Twitch video RSS"
                 title="CapcomFighters's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/CapcomFighters" />
-            <outline text="Camy's Twitch video RSS" title="Camy's Twitch video RSS" type="rss"
+            <outline title="Camy's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Camy" />
-            <outline text="CodySchwab's Twitch video RSS" title="CodySchwab's Twitch video RSS"
+            <outline title="CodySchwab's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CodySchwab" />
-            <outline text="Macro's Twitch video RSS" title="Macro's Twitch video RSS" type="rss"
+            <outline title="Macro's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Macro" />
-            <outline text="August's Twitch video RSS" title="August's Twitch video RSS" type="rss"
+            <outline title="August's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/August" />
             <outline text="CROSSFIRE_STARS's Twitch video RSS"
                 title="CROSSFIRE_STARS's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/CROSSFIRE_STARS" />
-            <outline text="CyYuVtuber's Twitch video RSS" title="CyYuVtuber's Twitch video RSS"
+            <outline title="CyYuVtuber's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CyYuVtuber" />
-            <outline text="BurkeBlack's Twitch video RSS" title="BurkeBlack's Twitch video RSS"
+            <outline title="BurkeBlack's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BurkeBlack" />
-            <outline text="Evo's Twitch video RSS" title="Evo's Twitch video RSS" type="rss"
+            <outline title="Evo's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Evo" />
-            <outline text="Klean's Twitch video RSS" title="Klean's Twitch video RSS" type="rss"
+            <outline title="Klean's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Klean" />
-            <outline text="GoOffKings's Twitch video RSS" title="GoOffKings's Twitch video RSS"
+            <outline title="GoOffKings's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/GoOffKings" />
             <outline text="ESL_Dota2Storm's Twitch video RSS"
                 title="ESL_Dota2Storm's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/ESL_Dota2Storm" />
-            <outline text="EWC_CS's Twitch video RSS" title="EWC_CS's Twitch video RSS" type="rss"
+            <outline title="EWC_CS's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/EWC_CS" />
-            <outline text="DansGaming's Twitch video RSS" title="DansGaming's Twitch video RSS"
+            <outline title="DansGaming's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/DansGaming" />
-            <outline text="IWDominate's Twitch video RSS" title="IWDominate's Twitch video RSS"
+            <outline title="IWDominate's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/IWDominate" />
             <outline text="GenshinImpactOfficial's Twitch video RSS"
                 title="GenshinImpactOfficial's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/GenshinImpactOfficial" />
-            <outline text="LEC's Twitch video RSS" title="LEC's Twitch video RSS" type="rss"
+            <outline title="LEC's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/LEC" />
-            <outline text="Kenco's Twitch video RSS" title="Kenco's Twitch video RSS" type="rss"
+            <outline title="Kenco's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Kenco" />
-            <outline text="Loserfruit's Twitch video RSS" title="Loserfruit's Twitch video RSS"
+            <outline title="Loserfruit's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Loserfruit" />
-            <outline text="BLASTPremier's Twitch video RSS" title="BLASTPremier's Twitch video RSS"
+            <outline title="BLASTPremier's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BLASTPremier" />
-            <outline text="ESLCS_GG's Twitch video RSS" title="ESLCS_GG's Twitch video RSS"
+            <outline title="ESLCS_GG's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ESLCS_GG" />
-            <outline text="Compass_cs2's Twitch video RSS" title="Compass_cs2's Twitch video RSS"
+            <outline title="Compass_cs2's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Compass_cs2" />
-            <outline text="Chrisnxtdoor's Twitch video RSS" title="Chrisnxtdoor's Twitch video RSS"
+            <outline title="Chrisnxtdoor's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Chrisnxtdoor" />
-            <outline text="ESLCS's Twitch video RSS" title="ESLCS's Twitch video RSS" type="rss"
+            <outline title="ESLCS's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/ESLCS" />
-            <outline text="Kaysan's Twitch video RSS" title="Kaysan's Twitch video RSS" type="rss"
+            <outline title="Kaysan's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Kaysan" />
             <outline text="KindaFunnyGames's Twitch video RSS"
                 title="KindaFunnyGames's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/KindaFunnyGames" />
-            <outline text="MSFSofficial's Twitch video RSS" title="MSFSofficial's Twitch video RSS"
+            <outline title="MSFSofficial's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MSFSofficial" />
-            <outline text="Leopard's Twitch video RSS" title="Leopard's Twitch video RSS" type="rss"
+            <outline title="Leopard's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Leopard" />
-            <outline text="Giantwaffle's Twitch video RSS" title="Giantwaffle's Twitch video RSS"
+            <outline title="Giantwaffle's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Giantwaffle" />
-            <outline text="ColtHavok's Twitch video RSS" title="ColtHavok's Twitch video RSS"
+            <outline title="ColtHavok's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ColtHavok" />
-            <outline text="Caedrel's Twitch video RSS" title="Caedrel's Twitch video RSS" type="rss"
+            <outline title="Caedrel's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Caedrel" />
-            <outline text="ElisaEsports's Twitch video RSS" title="ElisaEsports's Twitch video RSS"
+            <outline title="ElisaEsports's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ElisaEsports" />
             <outline text="BarbarousKing's Twitch video RSS"
                 title="BarbarousKing's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/BarbarousKing" />
-            <outline text="Halo's Twitch video RSS" title="Halo's Twitch video RSS" type="rss"
+            <outline title="Halo's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Halo" />
-            <outline text="Elly's Twitch video RSS" title="Elly's Twitch video RSS" type="rss"
+            <outline title="Elly's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Elly" />
-            <outline text="JSmoothHD's Twitch video RSS" title="JSmoothHD's Twitch video RSS"
+            <outline title="JSmoothHD's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/JSmoothHD" />
-            <outline text="LiquidWiFi's Twitch video RSS" title="LiquidWiFi's Twitch video RSS"
+            <outline title="LiquidWiFi's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LiquidWiFi" />
-            <outline text="Criken's Twitch video RSS" title="Criken's Twitch video RSS" type="rss"
+            <outline title="Criken's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Criken" />
             <outline text="HoK_Global_Esports's Twitch video RSS"
                 title="HoK_Global_Esports's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/HoK_Global_Esports" />
-            <outline text="Kitty's Twitch video RSS" title="Kitty's Twitch video RSS" type="rss"
+            <outline title="Kitty's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Kitty" />
-            <outline text="MPLSingapore's Twitch video RSS" title="MPLSingapore's Twitch video RSS"
+            <outline title="MPLSingapore's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MPLSingapore" />
-            <outline text="Bigpuffer's Twitch video RSS" title="Bigpuffer's Twitch video RSS"
+            <outline title="Bigpuffer's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Bigpuffer" />
-            <outline text="Grizzy's Twitch video RSS" title="Grizzy's Twitch video RSS" type="rss"
+            <outline title="Grizzy's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Grizzy" />
-            <outline text="EEvisu's Twitch video RSS" title="EEvisu's Twitch video RSS" type="rss"
+            <outline title="EEvisu's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/EEvisu" />
-            <outline text="EWC_Dota2's Twitch video RSS" title="EWC_Dota2's Twitch video RSS"
+            <outline title="EWC_Dota2's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/EWC_Dota2" />
-            <outline text="CCT_CS's Twitch video RSS" title="CCT_CS's Twitch video RSS" type="rss"
+            <outline title="CCT_CS's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/CCT_CS" />
-            <outline text="Demon1's Twitch video RSS" title="Demon1's Twitch video RSS" type="rss"
+            <outline title="Demon1's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Demon1" />
-            <outline text="Hungrybox's Twitch video RSS" title="Hungrybox's Twitch video RSS"
+            <outline title="Hungrybox's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Hungrybox" />
-            <outline text="LoLPacificEN's Twitch video RSS" title="LoLPacificEN's Twitch video RSS"
+            <outline title="LoLPacificEN's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LoLPacificEN" />
             <outline text="Flight23white's Twitch video RSS"
                 title="Flight23white's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Flight23white" />
-            <outline text="Cringer's Twitch video RSS" title="Cringer's Twitch video RSS" type="rss"
+            <outline title="Cringer's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Cringer" />
-            <outline text="EWC's Twitch video RSS" title="EWC's Twitch video RSS" type="rss"
+            <outline title="EWC's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/EWC" />
             <outline text="ExcessiveProfanity's Twitch video RSS"
                 title="ExcessiveProfanity's Twitch video RSS" type="rss"
@@ -769,46 +769,46 @@
             <outline text="KMLTournaments's Twitch video RSS"
                 title="KMLTournaments's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/KMLTournaments" />
-            <outline text="ESB_Dota2_EN's Twitch video RSS" title="ESB_Dota2_EN's Twitch video RSS"
+            <outline title="ESB_Dota2_EN's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ESB_Dota2_EN" />
-            <outline text="LPL_VALORANT's Twitch video RSS" title="LPL_VALORANT's Twitch video RSS"
+            <outline title="LPL_VALORANT's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LPL_VALORANT" />
-            <outline text="YamatoCannon's Twitch video RSS" title="YamatoCannon's Twitch video RSS"
+            <outline title="YamatoCannon's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/YamatoCannon" />
-            <outline text="Fortnite's Twitch video RSS" title="Fortnite's Twitch video RSS"
+            <outline title="Fortnite's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Fortnite" />
-            <outline text="LTANorth's Twitch video RSS" title="LTANorth's Twitch video RSS"
+            <outline title="LTANorth's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LTANorth" />
-            <outline text="Level1_TV's Twitch video RSS" title="Level1_TV's Twitch video RSS"
+            <outline title="Level1_TV's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Level1_TV" />
-            <outline text="Deadlyslob's Twitch video RSS" title="Deadlyslob's Twitch video RSS"
+            <outline title="Deadlyslob's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Deadlyslob" />
-            <outline text="Lenun's Twitch video RSS" title="Lenun's Twitch video RSS" type="rss"
+            <outline title="Lenun's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Lenun" />
-            <outline text="Matimi0's Twitch video RSS" title="Matimi0's Twitch video RSS" type="rss"
+            <outline title="Matimi0's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Matimi0" />
-            <outline text="LongShot's Twitch video RSS" title="LongShot's Twitch video RSS"
+            <outline title="LongShot's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LongShot" />
-            <outline text="LVTHalo's Twitch video RSS" title="LVTHalo's Twitch video RSS" type="rss"
+            <outline title="LVTHalo's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/LVTHalo" />
-            <outline text="Dabuz's Twitch video RSS" title="Dabuz's Twitch video RSS" type="rss"
+            <outline title="Dabuz's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Dabuz" />
-            <outline text="Kyedae's Twitch video RSS" title="Kyedae's Twitch video RSS" type="rss"
+            <outline title="Kyedae's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Kyedae" />
-            <outline text="GalintGaming's Twitch video RSS" title="GalintGaming's Twitch video RSS"
+            <outline title="GalintGaming's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/GalintGaming" />
-            <outline text="LCK's Twitch video RSS" title="LCK's Twitch video RSS" type="rss"
+            <outline title="LCK's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/LCK" />
-            <outline text="MarvelRivals's Twitch video RSS" title="MarvelRivals's Twitch video RSS"
+            <outline title="MarvelRivals's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MarvelRivals" />
-            <outline text="ClassyPax's Twitch video RSS" title="ClassyPax's Twitch video RSS"
+            <outline title="ClassyPax's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ClassyPax" />
             <outline text="IntoTheBreachTV's Twitch video RSS"
                 title="IntoTheBreachTV's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/IntoTheBreachTV" />
-            <outline text="LIRIK's Twitch video RSS" title="LIRIK's Twitch video RSS" type="rss"
+            <outline title="LIRIK's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/LIRIK" />
-            <outline text="LilKirbs's Twitch video RSS" title="LilKirbs's Twitch video RSS"
+            <outline title="LilKirbs's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LilKirbs" />
             <outline text="Maximilian_DOOD's Twitch video RSS"
                 title="Maximilian_DOOD's Twitch video RSS" type="rss"
@@ -816,61 +816,61 @@
             <outline text="DeltaForceGameOfficial's Twitch video RSS"
                 title="DeltaForceGameOfficial's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/DeltaForceGameOfficial" />
-            <outline text="JaboodyShow's Twitch video RSS" title="JaboodyShow's Twitch video RSS"
+            <outline title="JaboodyShow's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/JaboodyShow" />
-            <outline text="HouseOf3000's Twitch video RSS" title="HouseOf3000's Twitch video RSS"
+            <outline title="HouseOf3000's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/HouseOf3000" />
-            <outline text="lindsfry's Twitch video RSS" title="lindsfry's Twitch video RSS"
+            <outline title="lindsfry's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/lindsfry" />
-            <outline text="HollyRex's Twitch video RSS" title="HollyRex's Twitch video RSS"
+            <outline title="HollyRex's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/HollyRex" />
-            <outline text="JuicyJohns's Twitch video RSS" title="JuicyJohns's Twitch video RSS"
+            <outline title="JuicyJohns's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/JuicyJohns" />
             <outline text="CollisionSeriesTV's Twitch video RSS"
                 title="CollisionSeriesTV's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/CollisionSeriesTV" />
-            <outline text="BennyCentral's Twitch video RSS" title="BennyCentral's Twitch video RSS"
+            <outline title="BennyCentral's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BennyCentral" />
-            <outline text="osulive's Twitch video RSS" title="osulive's Twitch video RSS" type="rss"
+            <outline title="osulive's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/osulive" />
-            <outline text="MOONMOON's Twitch video RSS" title="MOONMOON's Twitch video RSS"
+            <outline title="MOONMOON's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MOONMOON" />
             <outline text="KingGothalion's Twitch video RSS"
                 title="KingGothalion's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/KingGothalion" />
-            <outline text="Gmart's Twitch video RSS" title="Gmart's Twitch video RSS" type="rss"
+            <outline title="Gmart's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Gmart" />
             <outline text="LuminosityGaming's Twitch video RSS"
                 title="LuminosityGaming's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/LuminosityGaming" />
-            <outline text="Methodz's Twitch video RSS" title="Methodz's Twitch video RSS" type="rss"
+            <outline title="Methodz's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Methodz" />
-            <outline text="MissMikkaa's Twitch video RSS" title="MissMikkaa's Twitch video RSS"
+            <outline title="MissMikkaa's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MissMikkaa" />
             <outline text="MysticSquad_TV's Twitch video RSS"
                 title="MysticSquad_TV's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/MysticSquad_TV" />
-            <outline text="Natarsha's Twitch video RSS" title="Natarsha's Twitch video RSS"
+            <outline title="Natarsha's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Natarsha" />
-            <outline text="Nadeshot's Twitch video RSS" title="Nadeshot's Twitch video RSS"
+            <outline title="Nadeshot's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Nadeshot" />
-            <outline text="Necros's Twitch video RSS" title="Necros's Twitch video RSS" type="rss"
+            <outline title="Necros's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Necros" />
-            <outline text="Noko's Twitch video RSS" title="Noko's Twitch video RSS" type="rss"
+            <outline title="Noko's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Noko" />
-            <outline text="Mukluk's Twitch video RSS" title="Mukluk's Twitch video RSS" type="rss"
+            <outline title="Mukluk's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Mukluk" />
-            <outline text="NounsEsports's Twitch video RSS" title="NounsEsports's Twitch video RSS"
+            <outline title="NounsEsports's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/NounsEsports" />
-            <outline text="Octane's Twitch video RSS" title="Octane's Twitch video RSS" type="rss"
+            <outline title="Octane's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Octane" />
-            <outline text="Oroboro's Twitch video RSS" title="Oroboro's Twitch video RSS" type="rss"
+            <outline title="Oroboro's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Oroboro" />
-            <outline text="PGL's Twitch video RSS" title="PGL's Twitch video RSS" type="rss"
+            <outline title="PGL's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PGL" />
-            <outline text="PGL_CS2's Twitch video RSS" title="PGL_CS2's Twitch video RSS" type="rss"
+            <outline title="PGL_CS2's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PGL_CS2" />
-            <outline text="PGL_Dota2's Twitch video RSS" title="PGL_Dota2's Twitch video RSS"
+            <outline title="PGL_Dota2's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PGL_Dota2" />
             <outline text="PUBGMOBILEEsports's Twitch video RSS"
                 title="PUBGMOBILEEsports's Twitch video RSS" type="rss"
@@ -878,7 +878,7 @@
             <outline text="PaigeTheWitch's Twitch video RSS"
                 title="PaigeTheWitch's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PaigeTheWitch" />
-            <outline text="PaladinAmber's Twitch video RSS" title="PaladinAmber's Twitch video RSS"
+            <outline title="PaladinAmber's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PaladinAmber" />
             <outline text="PlayOverwatch's Twitch video RSS"
                 title="PlayOverwatch's Twitch video RSS" type="rss"
@@ -886,77 +886,77 @@
             <outline text="PredatorGaming_PH's Twitch video RSS"
                 title="PredatorGaming_PH's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PredatorGaming_PH" />
-            <outline text="Pokemon's Twitch video RSS" title="Pokemon's Twitch video RSS" type="rss"
+            <outline title="Pokemon's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Pokemon" />
-            <outline text="PrimeVideo's Twitch video RSS" title="PrimeVideo's Twitch video RSS"
+            <outline title="PrimeVideo's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PrimeVideo" />
-            <outline text="R6EsportsNA's Twitch video RSS" title="R6EsportsNA's Twitch video RSS"
+            <outline title="R6EsportsNA's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/R6EsportsNA" />
-            <outline text="REKTgn's Twitch video RSS" title="REKTgn's Twitch video RSS" type="rss"
+            <outline title="REKTgn's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/REKTgn" />
-            <outline text="Rainbow6's Twitch video RSS" title="Rainbow6's Twitch video RSS"
+            <outline title="Rainbow6's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Rainbow6" />
-            <outline text="Rainhoe's Twitch video RSS" title="Rainhoe's Twitch video RSS" type="rss"
+            <outline title="Rainhoe's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Rainhoe" />
-            <outline text="Ray's Twitch video RSS" title="Ray's Twitch video RSS" type="rss"
+            <outline title="Ray's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Ray" />
-            <outline text="RedBull's Twitch video RSS" title="RedBull's Twitch video RSS" type="rss"
+            <outline title="RedBull's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/RedBull" />
-            <outline text="Riot Games's Twitch video RSS" title="Riot Games's Twitch video RSS"
+            <outline title="Riot Games's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RiotGames" />
-            <outline text="Reidboyy's Twitch video RSS" title="Reidboyy's Twitch video RSS"
+            <outline title="Reidboyy's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Reidboyy" />
-            <outline text="RogersBase's Twitch video RSS" title="RogersBase's Twitch video RSS"
+            <outline title="RogersBase's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RogersBase" />
-            <outline text="RiotGamesOCE's Twitch video RSS" title="RiotGamesOCE's Twitch video RSS"
+            <outline title="RiotGamesOCE's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RiotGamesOCE" />
-            <outline text="SHiFT's Twitch video RSS" title="SHiFT's Twitch video RSS" type="rss"
+            <outline title="SHiFT's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/SHiFT" />
-            <outline text="RyanCentral's Twitch video RSS" title="RyanCentral's Twitch video RSS"
+            <outline title="RyanCentral's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RyanCentral" />
-            <outline text="Sacriel's Twitch video RSS" title="Sacriel's Twitch video RSS" type="rss"
+            <outline title="Sacriel's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Sacriel" />
-            <outline text="Shotzzy's Twitch video RSS" title="Shotzzy's Twitch video RSS" type="rss"
+            <outline title="Shotzzy's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Shotzzy" />
             <outline text="SatelliteSmash's Twitch video RSS"
                 title="SatelliteSmash's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/SatelliteSmash" />
-            <outline text="Sideshow's Twitch video RSS" title="Sideshow's Twitch video RSS"
+            <outline title="Sideshow's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Sideshow" />
-            <outline text="Sliggytv's Twitch video RSS" title="Sliggytv's Twitch video RSS"
+            <outline title="Sliggytv's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Sliggytv" />
-            <outline text="Slacked's Twitch video RSS" title="Slacked's Twitch video RSS" type="rss"
+            <outline title="Slacked's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Slacked" />
             <outline text="SmashFactorGaming's Twitch video RSS"
                 title="SmashFactorGaming's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/SmashFactorGaming" />
-            <outline text="SoaR's Twitch video RSS" title="SoaR's Twitch video RSS" type="rss"
+            <outline title="SoaR's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/SoaR" />
-            <outline text="TEKKEN's Twitch video RSS" title="TEKKEN's Twitch video RSS" type="rss"
+            <outline title="TEKKEN's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/TEKKEN" />
-            <outline text="TeamRegenGG's Twitch video RSS" title="TeamRegenGG's Twitch video RSS"
+            <outline title="TeamRegenGG's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/TeamRegenGG" />
-            <outline text="TeePee's Twitch video RSS" title="TeePee's Twitch video RSS" type="rss"
+            <outline title="TeePee's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/TeePee" />
-            <outline text="ThatSrb2DUDE's Twitch video RSS" title="ThatSrb2DUDE's Twitch video RSS"
+            <outline title="ThatSrb2DUDE's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ThatSrb2DUDE" />
-            <outline text="TenZ's Twitch video RSS" title="TenZ's Twitch video RSS" type="rss"
+            <outline title="TenZ's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/TenZ" />
-            <outline text="TheChief1114's Twitch video RSS" title="TheChief1114's Twitch video RSS"
+            <outline title="TheChief1114's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/TheChief1114" />
-            <outline text="TheOrlandoGG's Twitch video RSS" title="TheOrlandoGG's Twitch video RSS"
+            <outline title="TheOrlandoGG's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/TheOrlandoGG" />
             <outline text="ThinkingMansValo's Twitch video RSS"
                 title="ThinkingMansValo's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/ThinkingMansValo" />
-            <outline text="Tomato's Twitch video RSS" title="Tomato's Twitch video RSS" type="rss"
+            <outline title="Tomato's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Tomato" />
             <outline text="TopShelfEsports's Twitch video RSS"
                 title="TopShelfEsports's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/TopShelfEsports" />
-            <outline text="VALORANT's Twitch video RSS" title="VALORANT's Twitch video RSS"
+            <outline title="VALORANT's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/VALORANT" />
-            <outline text="Vinesauce's Twitch video RSS" title="Vinesauce's Twitch video RSS"
+            <outline title="Vinesauce's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Vinesauce" />
             <outline text="Vargskelethor's Twitch video RSS"
                 title="Vargskelethor's Twitch video RSS" type="rss"
@@ -964,32 +964,32 @@
             <outline text="VALORANT_Americas's Twitch video RSS"
                 title="VALORANT_Americas's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/VALORANT_Americas" />
-            <outline text="XLR8's Twitch video RSS" title="XLR8's Twitch video RSS" type="rss"
+            <outline title="XLR8's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/XLR8" />
-            <outline text="XboxOn's Twitch video RSS" title="XboxOn's Twitch video RSS" type="rss"
+            <outline title="XboxOn's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/XboxOn" />
-            <outline text="ZBRA's Twitch video RSS" title="ZBRA's Twitch video RSS" type="rss"
+            <outline title="ZBRA's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/ZBRA" />
-            <outline text="Zoomaa's Twitch video RSS" title="Zoomaa's Twitch video RSS" type="rss"
+            <outline title="Zoomaa's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Zoomaa" />
-            <outline text="aceu's Twitch video RSS" title="aceu's Twitch video RSS" type="rss"
+            <outline title="aceu's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/aceu" />
-            <outline text="ardiis's Twitch video RSS" title="ardiis's Twitch video RSS" type="rss"
+            <outline title="ardiis's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/ardiis" />
-            <outline text="curry's Twitch video RSS" title="curry's Twitch video RSS" type="rss"
+            <outline title="curry's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/curry" />
-            <outline text="btssmash's Twitch video RSS" title="btssmash's Twitch video RSS"
+            <outline title="btssmash's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/btssmash" />
-            <outline text="dota2ti's Twitch video RSS" title="dota2ti's Twitch video RSS" type="rss"
+            <outline title="dota2ti's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/dota2ti" />
-            <outline text="dasMEHDI's Twitch video RSS" title="dasMEHDI's Twitch video RSS"
+            <outline title="dasMEHDI's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/dasMEHDI" />
             <outline text="eXTREMESLANDAsia's Twitch video RSS"
                 title="eXTREMESLANDAsia's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/eXTREMESLANDAsia" />
-            <outline text="esl_asia's Twitch video RSS" title="esl_asia's Twitch video RSS"
+            <outline title="esl_asia's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/esl_asia" />
-            <outline text="ewc_white's Twitch video RSS" title="ewc_white's Twitch video RSS"
+            <outline title="ewc_white's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ewc_white" />
             <outline text="fifakillvizualz's Twitch video RSS"
                 title="fifakillvizualz's Twitch video RSS" type="rss"
@@ -1003,50 +1003,50 @@
             <outline text="fissure_cs_eng's Twitch video RSS"
                 title="fissure_cs_eng's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/fissure_cs_eng" />
-            <outline text="hackerling's Twitch video RSS" title="hackerling's Twitch video RSS"
+            <outline title="hackerling's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/hackerling" />
-            <outline text="genesisgg's Twitch video RSS" title="genesisgg's Twitch video RSS"
+            <outline title="genesisgg's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/genesisgg" />
-            <outline text="iRacing's Twitch video RSS" title="iRacing's Twitch video RSS" type="rss"
+            <outline title="iRacing's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/iRacing" />
-            <outline text="jawgemo's Twitch video RSS" title="jawgemo's Twitch video RSS" type="rss"
+            <outline title="jawgemo's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/jawgemo" />
-            <outline text="julien's Twitch video RSS" title="julien's Twitch video RSS" type="rss"
+            <outline title="julien's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/julien" />
-            <outline text="johnxfire's Twitch video RSS" title="johnxfire's Twitch video RSS"
+            <outline title="johnxfire's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/johnxfire" />
-            <outline text="kayjii's Twitch video RSS" title="kayjii's Twitch video RSS" type="rss"
+            <outline title="kayjii's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/kayjii" />
-            <outline text="lplenglish's Twitch video RSS" title="lplenglish's Twitch video RSS"
+            <outline title="lplenglish's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/lplenglish" />
-            <outline text="mang0's Twitch video RSS" title="mang0's Twitch video RSS" type="rss"
+            <outline title="mang0's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/mang0" />
-            <outline text="mL7support's Twitch video RSS" title="mL7support's Twitch video RSS"
+            <outline title="mL7support's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/mL7support" />
-            <outline text="ow_esports's Twitch video RSS" title="ow_esports's Twitch video RSS"
+            <outline title="ow_esports's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ow_esports" />
-            <outline text="scump's Twitch video RSS" title="scump's Twitch video RSS" type="rss"
+            <outline title="scump's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/scump" />
-            <outline text="playapex's Twitch video RSS" title="playapex's Twitch video RSS"
+            <outline title="playapex's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/playapex" />
-            <outline text="sgares's Twitch video RSS" title="sgares's Twitch video RSS" type="rss"
+            <outline title="sgares's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/sgares" />
-            <outline text="shanks_ttv's Twitch video RSS" title="shanks_ttv's Twitch video RSS"
+            <outline title="shanks_ttv's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/shanks_ttv" />
-            <outline text="shroud's Twitch video RSS" title="shroud's Twitch video RSS" type="rss"
+            <outline title="shroud's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/shroud" />
-            <outline text="sneakylol's Twitch video RSS" title="sneakylol's Twitch video RSS"
+            <outline title="sneakylol's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/sneakylol" />
-            <outline text="shenryyr's Twitch video RSS" title="shenryyr's Twitch video RSS"
+            <outline title="shenryyr's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/shenryyr" />
-            <outline text="summit1g's Twitch video RSS" title="summit1g's Twitch video RSS"
+            <outline title="summit1g's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/summit1g" />
-            <outline text="tarik's Twitch video RSS" title="tarik's Twitch video RSS" type="rss"
+            <outline title="tarik's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/tarik" />
             <outline text="thegameawards's Twitch video RSS"
                 title="thegameawards's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/thegameawards" />
-            <outline text="tulpar_uk's Twitch video RSS" title="tulpar_uk's Twitch video RSS"
+            <outline title="tulpar_uk's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/tulpar_uk" />
             <outline text="valorantesports_cn's Twitch video RSS"
                 title="valorantesports_cn's Twitch video RSS" type="rss"
@@ -1057,15 +1057,15 @@
             <outline text="valorantleague_ne's Twitch video RSS"
                 title="valorantleague_ne's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
-            <outline text="Swagg's Twitch video RSS" title="Swagg's Twitch video RSS" type="rss"
+            <outline title="Swagg's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Swagg" />
-            <outline text="Strippin's Twitch video RSS" title="Strippin's Twitch video RSS"
+            <outline title="Strippin's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Strippin" />
-            <outline text="SumSoc's Twitch video RSS" title="SumSoc's Twitch video RSS" type="rss"
+            <outline title="SumSoc's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/SumSoc" />
-            <outline text="Symfuhny's Twitch video RSS" title="Symfuhny's Twitch video RSS"
+            <outline title="Symfuhny's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Symfuhny" />
-            <outline text="SuraFPS's Twitch video RSS" title="SuraFPS's Twitch video RSS" type="rss"
+            <outline title="SuraFPS's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/SuraFPS" />
             <outline text="VALORANT_Pacific's Twitch video RSS"
                 title="VALORANT_Pacific's Twitch video RSS" type="rss"
@@ -1073,14 +1073,14 @@
             <outline text="VALORANT_NorthAmerica's Twitch video RSS"
                 title="VALORANT_NorthAmerica's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/VALORANT_NorthAmerica" />
-            <outline text="VGBootCamp2's Twitch video RSS" title="VGBootCamp2's Twitch video RSS"
+            <outline title="VGBootCamp2's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/VGBootCamp2" />
             <outline text="VALORANT_EMEA's Twitch video RSS"
                 title="VALORANT_EMEA's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/VALORANT_EMEA" />
-            <outline text="VGBootCamp's Twitch video RSS" title="VGBootCamp's Twitch video RSS"
+            <outline title="VGBootCamp's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/VGBootCamp" />
-            <outline text="Call of Duty's Twitch video RSS" title="Call of Duty's Twitch video RSS"
+            <outline title="Call of Duty's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CallofDuty" />
         </outline>
     </body>

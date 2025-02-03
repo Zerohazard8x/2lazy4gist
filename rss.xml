@@ -4,19 +4,19 @@
         <title>Fluent Reader Export</title>
     </head>
     <body>
-        <outline text="Google Alert - Fun" title="Google Alert - Fun" type="rss"
+        <outline title="Google Alert - Fun" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
-        <outline text="Google Alert - Games" title="Google Alert - Games" type="rss"
+        <outline title="Google Alert - Games" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
-        <outline text="Google Alert - Service news" title="Google Alert - Service news" type="rss"
+        <outline title="Google Alert - Service news" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
-        <outline text="Google Alert - Global" title="Google Alert - Global" type="rss"
+        <outline title="Google Alert - Global" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
-        <outline text="Google Alert - Financial" title="Google Alert - Financial" type="rss"
+        <outline title="Google Alert - Financial" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
-        <outline text="Google Alert - New things" title="Google Alert - New things" type="rss"
+        <outline title="Google Alert - New things" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
-        <outline text="Google Alert - Local" title="Google Alert - Local" type="rss"
+        <outline title="Google Alert - Local" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
         <outline text="reddit.com: search results - Games"
             title="reddit.com: search results - Games" type="rss" xmlUrl="https://shr.pn/zElRQ" />
@@ -29,71 +29,76 @@
             xmlUrl="https://shr.pn/mg2jf" />
         <outline text="reddit.com: search results - Global"
             title="reddit.com: search results - Global" type="rss" xmlUrl="https://shr.pn/dec8n" />
-        <outline text="reddit.com: search results - Fun" title="reddit.com: search results - Fun"
+        <outline title="reddit.com: search results - Fun"
             type="rss" xmlUrl="https://shr.pn/G64ul" />
         <outline text="reddit.com: search results - Opinionated"
             title="reddit.com: search results - Opinionated" type="rss"
             xmlUrl="https://shr.pn/vYX6p" />
-        <outline text="New things - BingNews" title="New things - BingNews" type="rss" xmlUrl="https://shr.pn/0ovzQ" />
-        <outline text="Fun - BingNews" title="Fun - BingNews" type="rss" xmlUrl="https://shr.pn/gpSIR" />
-        <outline text="Global - BingNews" title="Global - BingNews" type="rss"
+        <outline title="New things - BingNews" type="rss" xmlUrl="https://shr.pn/0ovzQ" />
+        <outline title="Fun - BingNews" type="rss" xmlUrl="https://shr.pn/gpSIR" />
+        <outline title="Global - BingNews" type="rss"
             xmlUrl="https://shr.pn/3n185" />
-        <outline text="Games - BingNews" title="Games - BingNews" type="rss" xmlUrl="https://shr.pn/WGetk" />
-        <outline text="Feedle: Global" title="Feedle: Global" type="rss" xmlUrl="https://shr.pn/Klbke" />
-        <outline text="Local - BingNews" title="Local - BingNews" type="rss"
+        <outline title="Games - BingNews" type="rss" xmlUrl="https://shr.pn/WGetk" />
+        <outline title="Feedle: Global" type="rss" xmlUrl="https://shr.pn/Klbke" />
+        <outline title="Local - BingNews" type="rss"
             xmlUrl="https://shr.pn/vEQJK" />
-        <outline text="Financial" title="Financial" type="rss" xmlUrl="https://shr.pn/AkTLe" />
+        <outline title="Financial - BingNews" type="rss" xmlUrl="https://shr.pn/AkTLe" />
         <outline text="reddit.com: search results - Financial"
             title="reddit.com: search results - Financial" type="rss" xmlUrl="https://shr.pn/RoqmX" />
-        <outline text="Opinionated - BingNews" title="Opinionated - BingNews" type="rss" xmlUrl="https://shr.pn/suQ5U" />
-        <outline text="Service news - BingNews" title="Service news - BingNews" type="rss" xmlUrl="https://shr.pn/Ipzjc" />
-        <outline text="Google Alert - Opinionated" title="Google Alert - Opinionated" type="rss"
-            xmlUrl="https://shr.pn/4QT0t" />
-        <outline text="Feedle: Games" title="Feedle: Games" type="rss" xmlUrl="https://shr.pn/m5brA" />
-        <outline text="Feedle: Financial" title="Feedle: Financial" type="rss"
+        <outline title="Opinionated - BingNews" type="rss" xmlUrl="https://shr.pn/suQ5U" />
+        <outline title="Service news - BingNews" type="rss" xmlUrl="https://shr.pn/Ipzjc" />
+        <outline title="Political - BingNews" type="rss" xmlUrl="https://shr.pn/s9fRL" />
+        <outline title="Google Alert - Opinionated" type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
+        <outline title="Feedle: Games" type="rss" xmlUrl="https://shr.pn/m5brA" />
+        <outline title="Feedle: Financial" type="rss"
             xmlUrl="https://shr.pn/7qEwK" />
-        <outline text="Feedle: Service news" title="Feedle: Service news" type="rss"
+        <outline title="Feedle: Service news" type="rss"
             xmlUrl="https://shr.pn/eryQ4" />
-        <outline text="Feedle: New things" title="Feedle: New things" type="rss" xmlUrl="https://shr.pn/sAeqF" />
-        <outline text="Feedle: Opinionated" title="Feedle: Opinionated" type="rss"
+        <outline title="Feedle: New things" type="rss" xmlUrl="https://shr.pn/sAeqF" />
+        <outline title="Feedle: Opinionated" type="rss"
             xmlUrl="https://shr.pn/6izfX" />
-        <outline text="Feedle: Local" title="Feedle: Local" type="rss" xmlUrl="https://shr.pn/tEkqs" />
-        <outline text="Feedle: Fun" title="Feedle: Fun" type="rss" xmlUrl="https://shr.pn/u3XbS" />
-        <outline text="forums" title="forums">
-            <outline text="PS4 CFW and Hacks" title="PS4 CFW and Hacks" type="rss"
+        <outline title="Feedle: Local" type="rss" xmlUrl="https://shr.pn/tEkqs" />
+        <outline title="Feedle: Fun" type="rss" xmlUrl="https://shr.pn/u3XbS" />
+        <outline title="Google News: Fun" type="rss" xmlUrl="https://shr.pn/KCi94" />
+        <outline title="Google News: Local" type="rss" xmlUrl="https://shr.pn/W2Ui0" />
+        <outline title="Google News: Global" type="rss" xmlUrl="https://shr.pn/ft01p" />
+        <outline title="Google News: Service news" type="rss" xmlUrl="https://shr.pn/t8vk9" />
+        <outline title="Google News: New things" type="rss" xmlUrl="https://shr.pn/lvbUL" />
+        <outline title="Google News: Opinionated" type="rss" xmlUrl="https://shr.pn/1FjSC" />
+        <outline title="Google News: Games" type="rss" xmlUrl="https://shr.pn/6uigH" />
+        <outline title="Google News: Financial" type="rss" xmlUrl="https://shr.pn/zmge9" />
+        <outline title="forums">
+            <outline title="PS4 CFW and Hacks" type="rss"
                 xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
-            <outline text="PS4 News" title="PS4 News" type="rss"
+            <outline title="PS4 News" type="rss"
                 xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
-            <outline text="Nintendo Switch" title="Nintendo Switch" type="rss"
+            <outline title="Nintendo Switch" type="rss"
                 xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" />
         </outline>
-        <outline text="Talkwalker Alert for Financial" title="Talkwalker Alert for Financial"
+        <outline title="Talkwalker Alert for Financial"
             type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/55G2G2VZ3ZHF3BN4TGHHVDZHJB73TJ7SCGEKZTKFB5JL6M55GK27VXHVOXNZLPVJY6ZQFWVWKZ3MNIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline text="Talkwalker Alert for Service news" title="Talkwalker Alert for Service news"
+        <outline title="Talkwalker Alert for Service news"
             type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/JSMAJRIERWWVSNATM2YU4K5ZKFIBESYW7JZYBE4LQVFXOTWWDGF53BCHLZGK3OGH5CHATJXYFSVSBIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline text="Talkwalker Alert for Global" title="Talkwalker Alert for Global" type="rss"
+        <outline title="Talkwalker Alert for Global" type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/37W35VZKY7BIEBZI6I7TZ5D45CNQUFBYT4K5WQ52WMSMY2LCOTPFCPPI7ESYHEC5BYECHLSG2KRJZIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline text="Talkwalker Alert for Political" title="Talkwalker Alert for Political"
+        <outline title="Talkwalker Alert for Political"
             type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/X4UVJCIW3OKSIIVE2IOT7XSJKSYRVLZIKZXTJMLJ2VVZOHW54JK4MGFILTJNZ24TWIDQ2RA3QDU6NIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline text="Talkwalker Alert for Local" title="Talkwalker Alert for Local" type="rss"
+        <outline title="Talkwalker Alert for Local" type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/2JZBCD27257MXCJUWIZF6O3ECKJ27GPOLFXDTRFHLKC3Q4FQ4JOLFWQA75IJ5N65VHPKIGXNIAZXFIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline text="Talkwalker Alert for Opinionated" title="Talkwalker Alert for Opinionated"
+        <outline title="Talkwalker Alert for Opinionated"
             type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/4LH22U5RSMQ64B7S7E4EV43CNXQYUQWKHCRCL6AXXDPTSKMGKEKAXS5VVUYZN5ZGJUSGFQZT77VJ5IQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline text="Talkwalker Alert for New things" title="Talkwalker Alert for New things"
+        <outline title="Talkwalker Alert for New things"
             type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/HTZAPAUBBKEQWBJEICLHLFPOCOGNPKNNDEDWMGWWR2U57BJNJVTI64ADWQXNZKVORYUC4BTEGO6RTIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline text="Talkwalker Alert for Games" title="Talkwalker Alert for Games" type="rss"
+        <outline title="Talkwalker Alert for Games" type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/NHV2T453OXMGY6K6YJ6YRPD6GHTNN5D4EA4IXOZHIYF2RZV4YD6XB3WFXUPTUFCCIEJQW545HJVGVIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline text="Talkwalker Alert for Fun" title="Talkwalker Alert for Fun" type="rss"
+        <outline title="Talkwalker Alert for Fun" type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
-        <outline
-            text="feedle | Political"
-            title="feedle | Political"
-            type="rss" xmlUrl="https://shr.pn/6RycW" />
         <outline
             text="Feedle: Political"
             title="Feedle: Political"
@@ -102,271 +107,271 @@
             text="reddit.com: search results - Political"
             title="reddit.com: search results - Political"
             type="rss" xmlUrl="https://shr.pn/OIcpR" />
-        <outline text="video-news" title="video-news">
-            <outline text="Adobe" title="Adobe" type="rss"
+        <outline title="video-news">
+            <outline title="Adobe" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
-            <outline text="Adobe Creative Cloud" title="Adobe Creative Cloud" type="rss"
+            <outline title="Adobe Creative Cloud" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL0iAkpqV5YaIVG7xkDtS4Q" />
-            <outline text="Aether Studios" title="Aether Studios" type="rss"
+            <outline title="Aether Studios" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjJe1z4OSKKav9MLVEvXWfA" />
-            <outline text="Android" title="Android" type="rss"
+            <outline title="Android" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" />
-            <outline text="Apex Legends" title="Apex Legends" type="rss"
+            <outline title="Apex Legends" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZV6M2THA81QT9hrVWJG3A" />
-            <outline text="Curiomatic" title="Curiomatic" type="rss"
+            <outline title="Curiomatic" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCI9d6eQjf__r5gyH4GHRssg" />
-            <outline text="Arena Breakout Infinite" title="Arena Breakout Infinite" type="rss"
+            <outline title="Arena Breakout Infinite" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4p7wn-3DHpKk_9hxftr0ag" />
-            <outline text="ASCENDANT" title="ASCENDANT" type="rss"
+            <outline title="ASCENDANT" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClA-80_IGJkaqLQ5cHvGoRw" />
-            <outline text="AVS ARSONist" title="AVS ARSONist" type="rss"
+            <outline title="AVS ARSONist" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0EsNUDi5U0W3K3nzrxHJcw" />
-            <outline text="Apple" title="Apple" type="rss"
+            <outline title="Apple" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw" />
-            <outline text="Asphalt" title="Asphalt" type="rss"
+            <outline title="Asphalt" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCphl7N613vv9pgds_LdvpGg" />
-            <outline text="Delta Force Game" title="Delta Force Game" type="rss"
+            <outline title="Delta Force Game" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLPFR4s_DxzMqw_brKvlGRg" />
-            <outline text="Brawlhalla" title="Brawlhalla" type="rss"
+            <outline title="Brawlhalla" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQ5k469r1kRZ10zvyxQsFCg" />
-            <outline text="Battlestate" title="Battlestate" type="rss"
+            <outline title="Battlestate" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5QGploHhl9_XaxDiHZKamg" />
-            <outline text="Compulsion Games" title="Compulsion Games" type="rss"
+            <outline title="Compulsion Games" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCr1AVOQF92looRxGNu8_JBg" />
-            <outline text="EA SPORTS WRC" title="EA SPORTS WRC" type="rss"
+            <outline title="EA SPORTS WRC" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxof40YutASfqx43YLSXYA" />
-            <outline text="DEMONSXROBOTS" title="DEMONSXROBOTS" type="rss"
+            <outline title="DEMONSXROBOTS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUblhHfWLsU09MstR63BRIA" />
-            <outline text="Garena Call of Duty Mobile" title="Garena Call of Duty Mobile" type="rss"
+            <outline title="Garena Call of Duty Mobile" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX2dNdYesTrOC7tjiQs9jHA" />
-            <outline text="FragPunk" title="FragPunk" type="rss"
+            <outline title="FragPunk" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6Y3O2aAJf6orASsPAI9ElA" />
-            <outline text="Forza" title="Forza" type="rss"
+            <outline title="Forza" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCydtMNspoPAlqBjFSGnigSw" />
-            <outline text="League of Legends" title="League of Legends" type="rss"
+            <outline title="League of Legends" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2t5bjwHdUX4vM2g8TRDq5g" />
-            <outline text="ChaosX" title="ChaosX" type="rss"
+            <outline title="ChaosX" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPcCzJ5G4tHG4PQRnZXc4Qw" />
-            <outline text="Assetto Corsa Official" title="Assetto Corsa Official" type="rss"
+            <outline title="Assetto Corsa Official" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgrlBI6OzHgVA-iVupI4TuQ" />
-            <outline text="Genshin Impact" title="Genshin Impact" type="rss"
+            <outline title="Genshin Impact" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiS882YPwZt1NfaM0gR0D9Q" />
-            <outline text="Electronic Arts" title="Electronic Arts" type="rss"
+            <outline title="Electronic Arts" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIHBybdoneVVpaQK7xMz1ww" />
-            <outline text="BeamNG" title="BeamNG" type="rss"
+            <outline title="BeamNG" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTX0E9xUdeXLfc8n9f7xR7A" />
-            <outline text="eFootball" title="eFootball" type="rss"
+            <outline title="eFootball" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQdSC4folRoUuPC3iiRkfFQ" />
             <outline text="Bandai Namco Entertainment America"
                 title="Bandai Namco Entertainment America" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_ntXHv-XdKCD7CPynVvnQw" />
-            <outline text="Capcom USA" title="Capcom USA" type="rss"
+            <outline title="Capcom USA" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW7h-1mymnJ96akzjrmiIgA" />
-            <outline text="PUBG: BATTLEGROUNDS" title="PUBG: BATTLEGROUNDS" type="rss"
+            <outline title="PUBG: BATTLEGROUNDS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnXDQbqIdp-HQuDyM4p12ng" />
-            <outline text="Battlefield" title="Battlefield" type="rss"
+            <outline title="Battlefield" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvNBXWGykQrWb7kPAn5eLUQ" />
-            <outline text="Bread" title="Bread" type="rss"
+            <outline title="Bread" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCm8xVBGZ4arx3olqdkqKNgQ" />
-            <outline text="Apex Legends" title="Apex Legends" type="rss"
+            <outline title="Apex Legends" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZV6M2THA81QT9hrVWJG3A" />
-            <outline text="Call of Duty" title="Call of Duty" type="rss"
+            <outline title="Call of Duty" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9YydG57epLqxA9cTzZXSeQ" />
-            <outline text="CapcomChannel" title="CapcomChannel" type="rss"
+            <outline title="CapcomChannel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyuEAZQzRqhcaLZvQd9ZUNA" />
-            <outline text="Bing" title="Bing" type="rss"
+            <outline title="Bing" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXOhwSygMaNt5_VIAAo-49g" />
-            <outline text="Pokémon UNITE" title="Pokémon UNITE" type="rss"
+            <outline title="Pokémon UNITE" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGjyNCAcnOu96fcJUWeQ9SA" />
-            <outline text="Bethesda Softworks" title="Bethesda Softworks" type="rss"
+            <outline title="Bethesda Softworks" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvZHe-SP3xC7DdOk4Ri8QBw" />
-            <outline text="Call of Duty: Mobile" title="Call of Duty: Mobile" type="rss"
+            <outline title="Call of Duty: Mobile" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCj9bJX9hh3pXjktcsOLJdgw" />
-            <outline text="Call of Duty: Warzone Mobile" title="Call of Duty: Warzone Mobile"
+            <outline title="Call of Duty: Warzone Mobile"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSGsC1ggLXyumgq_RQj1B3g" />
-            <outline text="Canva" title="Canva" type="rss"
+            <outline title="Canva" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEDLeLo3HNQZiJOTR2svg2A" />
-            <outline text="CarX Technologies" title="CarX Technologies" type="rss"
+            <outline title="CarX Technologies" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbKgJOungDJpkacsoNhZuNQ" />
-            <outline text="Microsoft Surface" title="Microsoft Surface" type="rss"
+            <outline title="Microsoft Surface" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGS474QoP8SCnSo6hOCaayA" />
-            <outline text="Rainbow Six Mobile" title="Rainbow Six Mobile" type="rss"
+            <outline title="Rainbow Six Mobile" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA8JO83nj1wWOkWvUMcIcZg" />
-            <outline text="Gears of War" title="Gears of War" type="rss"
+            <outline title="Gears of War" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3E8iPQGBdAnOQR_cmkEbsw" />
-            <outline text="Mobile Legends: Bang Bang" title="Mobile Legends: Bang Bang" type="rss"
+            <outline title="Mobile Legends: Bang Bang" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqmld-BIYME2i_ooRTo1EOg" />
-            <outline text="CrossFire West" title="CrossFire West" type="rss"
+            <outline title="CrossFire West" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn3W6kCcO2qnqJYOFubxZvA" />
-            <outline text="EribusD" title="EribusD" type="rss"
+            <outline title="EribusD" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrnG2Eg2fBvO41LZSECP73w" />
-            <outline text="Fortnite" title="Fortnite" type="rss"
+            <outline title="Fortnite" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClG8odDC8TS6Zpqk9CGVQiQ" />
-            <outline text="Microsoft 365" title="Microsoft 365" type="rss"
+            <outline title="Microsoft 365" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc3pNIRzIZ8ynI38GO6H01Q" />
-            <outline text="Made by Google" title="Made by Google" type="rss"
+            <outline title="Made by Google" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIG1k8umaCIIrujZPzZPIMA" />
-            <outline text="Spectre Divide" title="Spectre Divide" type="rss"
+            <outline title="Spectre Divide" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1FtVAxkR4-R6KNt3nLH5Dw" />
-            <outline text="GRAN TURISMO TV" title="GRAN TURISMO TV" type="rss"
+            <outline title="GRAN TURISMO TV" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtnIt0RNn3UiaysQCE-8hHQ" />
-            <outline text="Treyarch" title="Treyarch" type="rss"
+            <outline title="Treyarch" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCszIOrsb8PSapcRdsnGn1FA" />
-            <outline text="Off The Grid" title="Off The Grid" type="rss"
+            <outline title="Off The Grid" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCSCzLiYe8jbLT9emscqXHQ" />
-            <outline text="SEGA Asia(EN)" title="SEGA Asia(EN)" type="rss"
+            <outline title="SEGA Asia(EN)" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgbXqhXm7FfiABeM9UASdog" />
-            <outline text="Netflix Games" title="Netflix Games" type="rss"
+            <outline title="Netflix Games" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbXMPyxmiZyMpuzuoy4hlcA" />
-            <outline text="GRID" title="GRID" type="rss"
+            <outline title="GRID" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4eHFsvRNKucv6CuCEsgeSQ" />
-            <outline text="OPPO" title="OPPO" type="rss"
+            <outline title="OPPO" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1ET-1gMajGNKzOvm2e_D7Q" />
-            <outline text="Respawn Entertainment" title="Respawn Entertainment" type="rss"
+            <outline title="Respawn Entertainment" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCr9Ae54znWf7ge_xLU8i8Hw" />
-            <outline text="MultiVersus" title="MultiVersus" type="rss"
+            <outline title="MultiVersus" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv9Q8P1lM-fyu9BEQj19_jA" />
-            <outline text="Warner Bros. Japan Anime" title="Warner Bros. Japan Anime" type="rss"
+            <outline title="Warner Bros. Japan Anime" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcjqSFXBg2cGQg5r0YooMiA" />
-            <outline text="Paramount Pictures" title="Paramount Pictures" type="rss"
+            <outline title="Paramount Pictures" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCF9imwPMSGz4Vq1NiTWCC7g" />
-            <outline text="HALO" title="HALO" type="rss"
+            <outline title="HALO" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7NCg0venpKJg3kuJojKlbQ" />
-            <outline text="Trackmania" title="Trackmania" type="rss"
+            <outline title="Trackmania" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs98eSEpjDWhFZ-nj0RVKQg" />
-            <outline text="Konami" title="Konami" type="rss"
+            <outline title="Konami" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwkUBN7foWU9GcY5cFmso-Q" />
-            <outline text="State Of Decay" title="State Of Decay" type="rss"
+            <outline title="State Of Decay" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP2NOm_MoASfovXVY4nGvgQ" />
-            <outline text="iRacing" title="iRacing" type="rss"
+            <outline title="iRacing" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPEcqkRG-kf2Vk6Rn_2WZSQ" />
-            <outline text="Rebellion" title="Rebellion" type="rss"
+            <outline title="Rebellion" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM1xfX_G9oLhyb_TkTYjjaA" />
-            <outline text="Street Fighter" title="Street Fighter" type="rss"
+            <outline title="Street Fighter" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVg9nCmmfIyP4QcGOnZZ9Qg" />
-            <outline text="KOJIMA PRODUCTIONS" title="KOJIMA PRODUCTIONS" type="rss"
+            <outline title="KOJIMA PRODUCTIONS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6lUqvh42Oc3XL19Edgd9QA" />
-            <outline text="Obsidian Entertainment" title="Obsidian Entertainment" type="rss"
+            <outline title="Obsidian Entertainment" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4xyf_Z-pEQOTaRVyjXfA1g" />
-            <outline text="Windows" title="Windows" type="rss"
+            <outline title="Windows" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVGOyzms_XJNk_DHqrffXCw" />
-            <outline text="TMSアニメ公式チャンネル【アニメ制作60周年】" title="TMSアニメ公式チャンネル【アニメ制作60周年】" type="rss"
+            <outline title="TMSアニメ公式チャンネル【アニメ制作60周年】" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkVvAm5jb62IMIJQj4wPVGA" />
-            <outline text="KONAMI公式" title="KONAMI公式" type="rss"
+            <outline title="KONAMI公式" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWSPqhLRvqjC-vLYA5_n4LQ" />
-            <outline text="Lenovo" title="Lenovo" type="rss"
+            <outline title="Lenovo" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpvg0uZH-oxmCagOWJo9p9g" />
-            <outline text="LG Global" title="LG Global" type="rss"
+            <outline title="LG Global" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2SIWgqcys7Gcb6JxsFTm1Q" />
-            <outline text="Logitech G" title="Logitech G" type="rss"
+            <outline title="Logitech G" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCNyeUr-yOwdoVzmb_CDITg" />
-            <outline text="SteelSeries" title="SteelSeries" type="rss"
+            <outline title="SteelSeries" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC541jp3JO5e09cPtTcOImiQ" />
-            <outline text="Xiaomi" title="Xiaomi" type="rss"
+            <outline title="Xiaomi" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCspJ6mFfCwOV4qFjZWi2wg" />
-            <outline text="Microsoft Flight Simulator" title="Microsoft Flight Simulator" type="rss"
+            <outline title="Microsoft Flight Simulator" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqONzeACDBaF6FfKjh7ndAQ" />
-            <outline text="Marvel Rivals" title="Marvel Rivals" type="rss"
+            <outline title="Marvel Rivals" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWzmOSSiSPbVnVu3ZAyDx2w" />
-            <outline text="Microsoft" title="Microsoft" type="rss"
+            <outline title="Microsoft" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw" />
-            <outline text="Microsoft Mechanics" title="Microsoft Mechanics" type="rss"
+            <outline title="Microsoft Mechanics" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ9905MRHxwLZ2jeNQGIWxA" />
-            <outline text="Microsoft Copilot" title="Microsoft Copilot" type="rss"
+            <outline title="Microsoft Copilot" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnba_sSOe_umiHCpYYvRCqQ" />
-            <outline text="コーエーテクモChannel" title="コーエーテクモChannel" type="rss"
+            <outline title="コーエーテクモChannel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM0d5CqnNiJu4zsPTnwmjAQ" />
-            <outline text="Need for Speed" title="Need for Speed" type="rss"
+            <outline title="Need for Speed" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXXBi6rvC-u8VDZRD23F7tw" />
-            <outline text="OpenAI" title="OpenAI" type="rss"
+            <outline title="OpenAI" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A" />
-            <outline text="POCO Global" title="POCO Global" type="rss"
+            <outline title="POCO Global" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLqyjOsn6zS-j5adSd7g-Qg" />
-            <outline text="Splitgate 2" title="Splitgate 2" type="rss"
+            <outline title="Splitgate 2" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdUA8I1gJ606kBa9MfTZIyw" />
-            <outline text="oxyllic" title="oxyllic" type="rss"
+            <outline title="oxyllic" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKhlAlz141txs81YhgltFLQ" />
-            <outline text="SNK OFFICIAL" title="SNK OFFICIAL" type="rss"
+            <outline title="SNK OFFICIAL" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCI-Q7uYhRVMxyrmcZRf0Egg" />
-            <outline text="Sonic the Hedgehog" title="Sonic the Hedgehog" type="rss"
+            <outline title="Sonic the Hedgehog" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCOSYITWQHRSUxvlQ4_PSCg" />
-            <outline text="Rockstar Games" title="Rockstar Games" type="rss"
+            <outline title="Rockstar Games" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A" />
-            <outline text="Resident Evil" title="Resident Evil" type="rss"
+            <outline title="Resident Evil" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS2iGSouOopNHXFBcWtBQiA" />
-            <outline text="THE FINALS" title="THE FINALS" type="rss"
+            <outline title="THE FINALS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEqzN3PRSCrxYq5tUwYJaPw" />
-            <outline text="Samsung Philippines" title="Samsung Philippines" type="rss"
+            <outline title="Samsung Philippines" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMVrFdXvbLLPziDG2EClOBQ" />
-            <outline text="Samsung Singapore" title="Samsung Singapore" type="rss"
+            <outline title="Samsung Singapore" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG2D173IlWnQHUTS07ytGsw" />
-            <outline text="SEGA" title="SEGA" type="rss"
+            <outline title="SEGA" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWfXR0-F7MI-TbqikgEdJcQ" />
-            <outline text="Mortal Kombat" title="Mortal Kombat" type="rss"
+            <outline title="Mortal Kombat" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKmLw-0rYN0prXDFITjN4og" />
-            <outline text="Sonic Forces Overclocked" title="Sonic Forces Overclocked" type="rss"
+            <outline title="Sonic Forces Overclocked" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHpA9gCEvfcn6o0N-a5Jfug" />
-            <outline text="Sonic Galactic" title="Sonic Galactic" type="rss"
+            <outline title="Sonic Galactic" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIbsUyJideEfS_6wEtVq2nQ" />
-            <outline text="Roblox" title="Roblox" type="rss"
+            <outline title="Roblox" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjiPEaapiHbJMoAdi_L8fNA" />
-            <outline text="thegameawards" title="thegameawards" type="rss"
+            <outline title="thegameawards" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqDS7KWjAPKv-7ZSlro9OiQ" />
-            <outline text="Strinova_EN" title="Strinova_EN" type="rss"
+            <outline title="Strinova_EN" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkM1U9GSsmsQImoiPovJvHA" />
-            <outline text="VALORANT" title="VALORANT" type="rss"
+            <outline title="VALORANT" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg" />
-            <outline text="Val Commander" title="Val Commander" type="rss"
+            <outline title="Val Commander" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8r6bt3NnT9wtldTQTyGERA" />
-            <outline text="Valve" title="Valve" type="rss"
+            <outline title="Valve" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg" />
-            <outline text="Haze_Aphids" title="Haze_Aphids" type="rss"
+            <outline title="Haze_Aphids" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGjL5fUct4hHDcftjkLo-w" />
             <outline text="Initial D THE ARCADE Official Channel"
                 title="Initial D THE ARCADE Official Channel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChJePfGTsMeiY480AxSJcbw" />
-            <outline text="龍が如くスタジオ 公式" title="龍が如くスタジオ 公式" type="rss"
+            <outline title="龍が如くスタジオ 公式" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsof6qICUcobSUN0tTnR-4g" />
-            <outline text="Warner Bros. Games" title="Warner Bros. Games" type="rss"
+            <outline title="Warner Bros. Games" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHqAOjD1bj-PvtPcK8qDFMQ" />
-            <outline text="Warner Bros. Entertainment" title="Warner Bros. Entertainment" type="rss"
+            <outline title="Warner Bros. Entertainment" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgKkNPU2Ib7_TcyAl8M2S-w" />
-            <outline text="バンダイナムコアミューズメント公式チャンネル" title="バンダイナムコアミューズメント公式チャンネル" type="rss"
+            <outline title="バンダイナムコアミューズメント公式チャンネル" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJxxoli_XbupD8SK_TtytAQ" />
-            <outline text="極速快感:集結" title="極速快感:集結" type="rss"
+            <outline title="極速快感:集結" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVMugNKlJ8cEmDVFnpbuGyw" />
-            <outline text="Xbox Asia" title="Xbox Asia" type="rss"
+            <outline title="Xbox Asia" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGl-0uuHJ2PXvTZF5sEJUUQ" />
-            <outline text="WUCHANG: Fallen Feathers" title="WUCHANG: Fallen Feathers" type="rss"
+            <outline title="WUCHANG: Fallen Feathers" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpFeMtdNCdCTTzBl0jXa_Vg" />
-            <outline text="Wuthering Waves" title="Wuthering Waves" type="rss"
+            <outline title="Wuthering Waves" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0Bi5KMcECRVYis5Gb_ZYZQ" />
-            <outline text="YouTube Creator Liaison" title="YouTube Creator Liaison" type="rss"
+            <outline title="YouTube Creator Liaison" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1ElwUxgOSHK7ENhTe9tiCA" />
-            <outline text="playstation on Twitch" title="playstation on Twitch" type="rss"
+            <outline title="playstation on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PlayStation" />
-            <outline text="sonic on Twitch" title="sonic on Twitch" type="rss"
+            <outline title="sonic on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Sonic" />
-            <outline text="xbox on Twitch" title="xbox on Twitch" type="rss"
+            <outline title="xbox on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Xbox" />
-            <outline text="xboxasl on Twitch" title="xboxasl on Twitch" type="rss"
+            <outline title="xboxasl on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/XboxASL" />
-            <outline text="nintendo on Twitch" title="nintendo on Twitch" type="rss"
+            <outline title="nintendo on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Nintendo" />
-            <outline text="wutheringwavesofficial on Twitch" title="wutheringwavesofficial on Twitch" type="rss"
+            <outline title="wutheringwavesofficial on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/wutheringwavesofficial" />
-            <outline text="GenshinImpactOfficial on Twitch" title="GenshinImpactOfficial on Twitch" type="rss"
+            <outline title="GenshinImpactOfficial on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/GenshinImpactOfficial" />
-            <outline text="IGN's Twitch video RSS" title="IGN's Twitch video RSS" type="rss"
+            <outline title="IGN's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/IGN" />
         </outline>
-        <outline text="forums" title="forums">
-            <outline text="PS4 CFW and Hacks" title="PS4 CFW and Hacks" type="rss"
+        <outline title="forums">
+            <outline title="PS4 CFW and Hacks" type="rss"
                 xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
-            <outline text="PS4 News" title="PS4 News" type="rss"
+            <outline title="PS4 News" type="rss"
                 xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
-            <outline text="Nintendo Switch" title="Nintendo Switch" type="rss"
+            <outline title="Nintendo Switch" type="rss"
                 xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" />
         </outline>
     </body>
