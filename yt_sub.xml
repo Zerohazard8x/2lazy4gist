@@ -672,8 +672,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Klean" />
             <outline text="GoOffKings's Twitch video RSS" title="GoOffKings's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/GoOffKings" />
-            <outline text="IGN's Twitch video RSS" title="IGN's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/IGN" />
             <outline text="ESL_Dota2Storm's Twitch video RSS"
                 title="ESL_Dota2Storm's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/ESL_Dota2Storm" />

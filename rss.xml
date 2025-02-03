@@ -358,6 +358,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/wutheringwavesofficial" />
             <outline text="GenshinImpactOfficial on Twitch" title="GenshinImpactOfficial on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/GenshinImpactOfficial" />
+            <outline text="IGN's Twitch video RSS" title="IGN's Twitch video RSS" type="rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/IGN" />
         </outline>
         <outline text="forums" title="forums">
             <outline text="PS4 CFW and Hacks" title="PS4 CFW and Hacks" type="rss"
