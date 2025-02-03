@@ -18,6 +18,8 @@
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
         <outline title="Google Alert - Local" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
+            <outline title="Google Alert - Opinionated" type="rss"
+            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
         <outline text="reddit.com: search results - Games"
             title="reddit.com: search results - Games" type="rss" xmlUrl="https://shr.pn/zElRQ" />
         <outline text="reddit.com: search results - Local"
@@ -34,40 +36,33 @@
         <outline text="reddit.com: search results - Opinionated"
             title="reddit.com: search results - Opinionated" type="rss"
             xmlUrl="https://shr.pn/vYX6p" />
-        <outline title="New things - BingNews" type="rss" xmlUrl="https://shr.pn/0ovzQ" />
-        <outline title="Fun - BingNews" type="rss" xmlUrl="https://shr.pn/gpSIR" />
-        <outline title="Global - BingNews" type="rss"
-            xmlUrl="https://shr.pn/3n185" />
-        <outline title="Games - BingNews" type="rss" xmlUrl="https://shr.pn/WGetk" />
-        <outline title="Feedle: Global" type="rss" xmlUrl="https://shr.pn/Klbke" />
-        <outline title="Local - BingNews" type="rss"
-            xmlUrl="https://shr.pn/vEQJK" />
-        <outline title="Financial - BingNews" type="rss" xmlUrl="https://shr.pn/AkTLe" />
         <outline text="reddit.com: search results - Financial"
             title="reddit.com: search results - Financial" type="rss" xmlUrl="https://shr.pn/RoqmX" />
-        <outline title="Opinionated - BingNews" type="rss" xmlUrl="https://shr.pn/suQ5U" />
-        <outline title="Service news - BingNews" type="rss" xmlUrl="https://shr.pn/Ipzjc" />
-        <outline title="Political - BingNews" type="rss" xmlUrl="https://shr.pn/s9fRL" />
-        <outline title="Google Alert - Opinionated" type="rss"
-            xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
-        <outline title="Feedle: Games" type="rss" xmlUrl="https://shr.pn/m5brA" />
-        <outline title="Feedle: Financial" type="rss"
-            xmlUrl="https://shr.pn/7qEwK" />
-        <outline title="Feedle: Service news" type="rss"
-            xmlUrl="https://shr.pn/eryQ4" />
-        <outline title="Feedle: New things" type="rss" xmlUrl="https://shr.pn/sAeqF" />
-        <outline title="Feedle: Opinionated" type="rss"
-            xmlUrl="https://shr.pn/6izfX" />
-        <outline title="Feedle: Local" type="rss" xmlUrl="https://shr.pn/tEkqs" />
+        <outline title="Feedle: Financial" type="rss" xmlUrl="https://shr.pn/7qEwK" />
         <outline title="Feedle: Fun" type="rss" xmlUrl="https://shr.pn/u3XbS" />
+        <outline title="Feedle: Games" type="rss" xmlUrl="https://shr.pn/m5brA" />
+        <outline title="Feedle: Global" type="rss" xmlUrl="https://shr.pn/Klbke" />
+        <outline title="Feedle: Local" type="rss" xmlUrl="https://shr.pn/tEkqs" />
+        <outline title="Feedle: New things" type="rss" xmlUrl="https://shr.pn/sAeqF" />
+        <outline title="Feedle: Opinionated" type="rss" xmlUrl="https://shr.pn/6izfX" />
+        <outline title="Feedle: Service news" type="rss" xmlUrl="https://shr.pn/eryQ4" />
+        <outline title="Financial - BingNews" type="rss" xmlUrl="https://shr.pn/AkTLe" />
+        <outline title="Fun - BingNews" type="rss" xmlUrl="https://shr.pn/gpSIR" />
+        <outline title="Games - BingNews" type="rss" xmlUrl="https://shr.pn/WGetk" />
+        <outline title="Global - BingNews" type="rss" xmlUrl="https://shr.pn/3n185" />
+        <outline title="Google News: Financial" type="rss" xmlUrl="https://shr.pn/zmge9" />
         <outline title="Google News: Fun" type="rss" xmlUrl="https://shr.pn/KCi94" />
-        <outline title="Google News: Local" type="rss" xmlUrl="https://shr.pn/W2Ui0" />
+        <outline title="Google News: Games" type="rss" xmlUrl="https://shr.pn/6uigH" />
         <outline title="Google News: Global" type="rss" xmlUrl="https://shr.pn/ft01p" />
-        <outline title="Google News: Service news" type="rss" xmlUrl="https://shr.pn/t8vk9" />
+        <outline title="Google News: Local" type="rss" xmlUrl="https://shr.pn/W2Ui0" />
         <outline title="Google News: New things" type="rss" xmlUrl="https://shr.pn/lvbUL" />
         <outline title="Google News: Opinionated" type="rss" xmlUrl="https://shr.pn/1FjSC" />
-        <outline title="Google News: Games" type="rss" xmlUrl="https://shr.pn/6uigH" />
-        <outline title="Google News: Financial" type="rss" xmlUrl="https://shr.pn/zmge9" />
+        <outline title="Google News: Service news" type="rss" xmlUrl="https://shr.pn/t8vk9" />
+        <outline title="Local - BingNews" type="rss" xmlUrl="https://shr.pn/vEQJK" />
+        <outline title="New things - BingNews" type="rss" xmlUrl="https://shr.pn/0ovzQ" />
+        <outline title="Opinionated - BingNews" type="rss" xmlUrl="https://shr.pn/suQ5U" />
+        <outline title="Political - BingNews" type="rss" xmlUrl="https://shr.pn/s9fRL" />
+        <outline title="Service news - BingNews" type="rss" xmlUrl="https://shr.pn/Ipzjc" />
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"
                 xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
