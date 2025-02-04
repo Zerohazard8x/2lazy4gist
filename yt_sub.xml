@@ -620,6 +620,12 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAFb4p0Xn19QIbz2V6I3pKg" />
             <outline title="Tankz" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLyvdwN2npCk-4oVvP0Um_w" />
+            <outline title="Maxiq" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmgOCibflFwaslTaKLP9Fzg" />
+            <outline title="TheBrokenMachine" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC82hr_TycIBi_BvEnWVoGIw" />
+            <outline title="SQUiD OG" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ3r6PA9VSNSD3IFORf5yoA" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
