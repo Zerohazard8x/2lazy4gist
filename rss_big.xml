@@ -80,7 +80,7 @@
             <outline text="Bing Blogs" title="Bing Blogs" type="rss"
                 xmlUrl="https://blogs.bing.com/Home/feed" />
         </outline>
-        <outline title="Talkwalker Alert for Financial"
+        <!-- <outline title="Talkwalker Alert for Financial"
             type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/55G2G2VZ3ZHF3BN4TGHHVDZHJB73TJ7SCGEKZTKFB5JL6M55GK27VXHVOXNZLPVJY6ZQFWVWKZ3MNIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
         <outline title="Talkwalker Alert for Service news"
@@ -102,7 +102,7 @@
         <outline title="Talkwalker Alert for Games" type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/NHV2T453OXMGY6K6YJ6YRPD6GHTNN5D4EA4IXOZHIYF2RZV4YD6XB3WFXUPTUFCCIEJQW545HJVGVIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
         <outline title="Talkwalker Alert for Fun" type="rss"
-            xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" />
+            xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" /> -->
         <outline
             text="Feedle: Political"
             title="Feedle: Political"
