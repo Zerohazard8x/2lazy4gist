@@ -275,6 +275,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0Bi5KMcECRVYis5Gb_ZYZQ" />
             <outline title="YouTube Creator Liaison" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1ElwUxgOSHK7ENhTe9tiCA" />
+            <outline title="Anthropic" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA" />
+            <outline title="AI at Meta" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5qxlwEKM7-5YZudb24l0bg" />
             <outline title="playstation on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PlayStation" />
             <outline title="sonic on Twitch" type="rss"
