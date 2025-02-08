@@ -630,6 +630,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnH8al10BzxCg-N-69Syqjg" />
             <outline title="Rainbow6 Hub" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_moEeEGn7fg4Xp6Ir6to4Q" />
+            <outline title="RLG" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9lhBi1a5OAkb3kFYbWLTQQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
@@ -1092,6 +1094,8 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/VGBootCamp" />
             <outline title="Call of Duty's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CallofDuty" />
+            <outline title="relog_cs's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/relog_cs" />
         </outline>
     </body>
 </opml>
