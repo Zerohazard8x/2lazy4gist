@@ -111,7 +111,7 @@
             text="reddit.com: search results - Political"
             title="reddit.com: search results - Political"
             type="rss" xmlUrl="https://shr.pn/OIcpR" />
-        <outline title="video-news">
+        <!-- <outline title="video-news">
             <outline title="Adobe" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
             <outline title="Adobe Creative Cloud" type="rss"
@@ -369,14 +369,14 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/GenshinImpactOfficial" />
             <outline title="IGN's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/IGN" />
-        </outline>
-        <outline title="forums">
+        </outline> -->
+        <!-- <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"
                 xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
             <outline title="PS4 News" type="rss"
                 xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
             <outline title="Nintendo Switch" type="rss"
                 xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" />
-        </outline>
+        </outline> -->
     </body>
 </opml>

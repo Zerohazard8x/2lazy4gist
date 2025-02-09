@@ -279,6 +279,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA" />
             <outline title="AI at Meta" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5qxlwEKM7-5YZudb24l0bg" />
+            <outline title="KOEI TECMO EUROPE LTD." type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCh3mpF538BGD6dww6mmTljg" />
             <outline title="playstation on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PlayStation" />
             <outline title="sonic on Twitch" type="rss"
