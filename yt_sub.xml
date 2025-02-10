@@ -630,6 +630,14 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_moEeEGn7fg4Xp6Ir6to4Q" />
             <outline title="RLG" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9lhBi1a5OAkb3kFYbWLTQQ" />
+            <outline title="PBA Official" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9WkScCyThtumtf9XVO4eWQ" />
+            <outline title="Titan Series" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiX8x-MmFLcRYXOTXuRsvIg" />
+            <outline title="PUBG MOBILE Esports NA" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqFXoUdIMsNg_ZHb_zyuBew" />
+            <outline title="KRAFTON INDIA ESPORTS" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCugG6-k5QGbq_iDEPAnG4NQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
