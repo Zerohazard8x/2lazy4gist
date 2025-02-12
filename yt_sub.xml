@@ -638,6 +638,16 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqFXoUdIMsNg_ZHb_zyuBew" />
             <outline title="KRAFTON INDIA ESPORTS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCugG6-k5QGbq_iDEPAnG4NQ" />
+            <outline title="Mok3ysnip3r" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqP78lmrrfxwiWy0mNAuljQ" />
+            <outline title="RossTheeSquirrel" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKB1_j8RLTcwreCqAOqX8Ug" />
+            <outline title="Johnny Price" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfArQoYfk1mPCii5IV-TYuA" />
+            <outline title="The Gaming Merchant" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz2_M6-NBgdiLvDOmlH074g" />
+            <outline title="ayex" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9spoE5x1NMJvGjZUGpVN4w" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
@@ -1102,6 +1112,10 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CallofDuty" />
             <outline title="relog_cs's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/relog_cs" />
+            <outline title="relog_cs's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/rogue" />
+            <outline title="relog_cs's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/zachmazer" />
         </outline>
     </body>
 </opml>
