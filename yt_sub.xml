@@ -745,8 +745,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Criken" />
             <outline title="HoK_Global_Esports's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/HoK_Global_Esports" />
-            <outline title="Kitty's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Kitty" />
             <outline title="MPLSingapore's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MPLSingapore" />
             <outline title="Bigpuffer's Twitch video RSS"
@@ -889,8 +887,6 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PrimeVideo" />
             <outline title="R6EsportsNA's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/R6EsportsNA" />
-            <outline title="REKTgn's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/REKTgn" />
             <outline title="Rainbow6's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Rainbow6" />
             <outline title="Rainhoe's Twitch video RSS" type="rss"
