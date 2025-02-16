@@ -635,6 +635,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz2_M6-NBgdiLvDOmlH074g" />
             <outline title="ayex" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9spoE5x1NMJvGjZUGpVN4w" />
+            <outline title="Evo Events" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWI626ZNdqM5tOlctPUTW2g" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
