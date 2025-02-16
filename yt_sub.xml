@@ -13,8 +13,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkg2ZDee9ZLBCd2LVB6DPHA" />
             <outline title="DOST-PAGASA Weather Report" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpyLikj1x70S8UPxVqsPr6g" />
-            <outline title="CROSSFIRE STARS" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1qyRC_RczgsNs3UaDZ9hIA" />
             <outline title="CY YU VODS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCCM6UkFxxJV-5jE-EYS1ag" />
             <outline title="Cosgrove" type="rss"
@@ -59,8 +57,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA1d3HFGFUmkKr2JIUA5Vlw" />
             <outline title="August" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClwzSfLTpXabqWvlWyFHBSw" />
-            <outline title="Bigpuffer VODS" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIHTBu1b5m-zxddG6_26EXw" />
             <outline title="Microsoft Events" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrhJmfAGQ5K81XQ8_od1iTg" />
             <outline title="Call of Duty League" type="rss"
@@ -470,8 +466,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3wGgfxWJiIquQtSWlYfZcQ" />
             <outline title="Thinking Man's Valorant" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgIriwgZBo34xOp96Xsp4Yw" />
-            <outline title="HoK Global Esports" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBqo62uoCQKO71QF6J2aNQA" />
             <outline title="Kim Justice's Wrestling Road"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4q7AUvWVboY5wq4YYzy2DQ" />
@@ -793,8 +787,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Lenun" />
             <outline title="Matimi0's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Matimi0" />
-            <outline title="LongShot's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LongShot" />
             <outline title="LVTHalo's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/LVTHalo" />
             <outline title="Dabuz's Twitch video RSS" type="rss"
@@ -803,8 +795,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Kyedae" />
             <outline title="GalintGaming's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/GalintGaming" />
-            <outline title="LCK's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/LCK" />
             <outline title="MarvelRivals's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MarvelRivals" />
             <outline title="ClassyPax's Twitch video RSS"
