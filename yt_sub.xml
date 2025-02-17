@@ -637,6 +637,16 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9spoE5x1NMJvGjZUGpVN4w" />
             <outline title="Evo Events" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWI626ZNdqM5tOlctPUTW2g" />
+            <outline title="Joe Bart VODs" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-lfGGqb5hHLBqVnVnWyrsw" />
+            <outline title="Bricky EP. 2" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHcODW8jrSHWw7Na0dC6qcA" />
+            <outline title="Dooley Noted" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHvrQ9mHjjA9UDvRCoJaUrg" />
+            <outline title="Lirik Plays" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCebh6Np0l-DT9LXHrXbmopg" />
+            <outline title="Greenskull" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-UXMS9Q-apozW8jALP5UZw" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
