@@ -647,6 +647,12 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCebh6Np0l-DT9LXHrXbmopg" />
             <outline title="Greenskull" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-UXMS9Q-apozW8jALP5UZw" />
+            <outline title="MegMage" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNwXk1mst3ddgRd9tj-pHtg" />
+            <outline title="Mortismal Gaming" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEQ7KR9enYdQsB6kcMnw0NA" />
+            <outline title="FightinCowboy" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9N0DmacOi4iWKQyygX89OQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
