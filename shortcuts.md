@@ -13,6 +13,18 @@
 
 ---
 
+- [ChatGPT](https://chatgpt.com)
+- [Google AI Studio](https://aistudio.google.com)
+- [Grok](https://grok.com)
+- [Groq](https://groq.com)
+- [LMArena](https://lmarena.ai)
+- [MS Copilot](https://copilot.microsoft.com)
+- [Mistral](https://chat.mistral.ai)
+- [Perplexity](https://perplexity.ai)
+- [Pi](https://pi.ai)
+
+---
+
 - [Time](https://time.is/?c=d3l1_3F_3j1_3Y1_3WXth2i2s.TAXfmrXc1Xo480Xz1Xa1Xb51ea29.4e4185.28571f.2d99db.abbd8.1bb85e.1c3b23Xw1Xv20240528Xh0Xi1XZ1XmXuXB1Xs0)
 - [Redlib settings](https://redlib.freedit.eu/settings/restore/?theme=system&front_page=default&layout=card&wide=off&post_sort=top&comment_sort=top&show_nsfw=on&use_hls=off&hide_hls_notification=off&hide_awards=off&fixed_navbar=on&subscriptions=&filters=)
 
