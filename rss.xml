@@ -282,6 +282,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ" />
             <outline title="YouTube Creators" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkRfArvrzheW2E7b6SVT7vQ" />
+            <outline title="Riot Games's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RiotGames" />
             <outline title="playstation on Twitch" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PlayStation" />
             <outline title="sonic on Twitch" type="rss"

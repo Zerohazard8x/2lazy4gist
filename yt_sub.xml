@@ -653,6 +653,14 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEQ7KR9enYdQsB6kcMnw0NA" />
             <outline title="FightinCowboy" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9N0DmacOi4iWKQyygX89OQ" />
+            <outline title="Trap Lore Clips" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8PLXFw6vgmnBuo1xcQvXSA" />
+            <outline title="TysyTube Restoration" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIGEtjevANE0Nqain3EqNSg" />
+            <outline title="Odd Tinkering" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCf_suVrG2dA5BTjJhNLwthQ" />
+            <outline title="Classic Tetris" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8BAEcWSEs4-KQp1ULVnaQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
@@ -903,8 +911,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Ray" />
             <outline title="RedBull's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/RedBull" />
-            <outline title="Riot Games's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RiotGames" />
             <outline title="Reidboyy's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Reidboyy" />
             <outline title="RogersBase's Twitch video RSS"
