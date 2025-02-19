@@ -20,24 +20,17 @@
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
         <outline title="Google Alert - Opinionated" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
-        <outline text="reddit.com: search results - Games"
-            title="reddit.com: search results - Games" type="rss" xmlUrl="https://shr.pn/zElRQ" />
-        <outline text="reddit.com: search results - Local"
-            title="reddit.com: search results - Local" type="rss" xmlUrl="https://shr.pn/PgBoN" />
-        <outline text="reddit.com: search results - New things"
-            title="reddit.com: search results - New things" type="rss" xmlUrl="https://shr.pn/cxv9i" />
-        <outline text="reddit.com: search results - Service news"
-            title="reddit.com: search results - Service news" type="rss"
+        <outline title="reddit.com: search results - Games" type="rss" xmlUrl="https://shr.pn/zElRQ" />
+        <outline title="reddit.com: search results - Local" type="rss" xmlUrl="https://shr.pn/PgBoN" />
+        <outline title="reddit.com: search results - New things" type="rss" xmlUrl="https://shr.pn/cxv9i" />
+        <outline title="reddit.com: search results - Service news" type="rss"
             xmlUrl="https://shr.pn/mg2jf" />
-        <outline text="reddit.com: search results - Global"
-            title="reddit.com: search results - Global" type="rss" xmlUrl="https://shr.pn/dec8n" />
+        <outline title="reddit.com: search results - Global" type="rss" xmlUrl="https://shr.pn/dec8n" />
         <outline title="reddit.com: search results - Fun"
             type="rss" xmlUrl="https://shr.pn/G64ul" />
-        <outline text="reddit.com: search results - Opinionated"
-            title="reddit.com: search results - Opinionated" type="rss"
+        <outline title="reddit.com: search results - Opinionated" type="rss"
             xmlUrl="https://shr.pn/vYX6p" />
-        <outline text="reddit.com: search results - Financial"
-            title="reddit.com: search results - Financial" type="rss" xmlUrl="https://shr.pn/RoqmX" />
+        <outline title="reddit.com: search results - Financial" type="rss" xmlUrl="https://shr.pn/RoqmX" />
         <outline title="Feedle: Financial" type="rss" xmlUrl="https://shr.pn/7qEwK" />
         <outline title="Feedle: Fun" type="rss" xmlUrl="https://shr.pn/u3XbS" />
         <outline title="Feedle: Games" type="rss" xmlUrl="https://shr.pn/m5brA" />
@@ -63,21 +56,20 @@
         <outline title="Opinionated - BingNews" type="rss" xmlUrl="https://shr.pn/suQ5U" />
         <outline title="Political - BingNews" type="rss" xmlUrl="https://shr.pn/s9fRL" />
         <outline title="Service news - BingNews" type="rss" xmlUrl="https://shr.pn/Ipzjc" />
-        <outline text="forums" title="forums">
-            <outline text="PS4 CFW and Hacks" title="PS4 CFW and Hacks" type="rss"
+        <outline title="forums">
+            <outline title="PS4 CFW and Hacks" type="rss"
                 xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
-            <outline text="PS4 News" title="PS4 News" type="rss"
+            <outline title="PS4 News" type="rss"
                 xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
-            <outline text="Nintendo Switch" title="Nintendo Switch" type="rss"
+            <outline title="Nintendo Switch" type="rss"
                 xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" />
-            <outline text="Mozilla Hacks – the Web developer blog"
-                title="Mozilla Hacks – the Web developer blog" type="rss"
+            <outline title="Mozilla Hacks – the Web developer blog" type="rss"
                 xmlUrl="https://hacks.mozilla.org/feed/" />
-            <outline text="The Mozilla Blog" title="The Mozilla Blog" type="rss"
+            <outline title="The Mozilla Blog" type="rss"
                 xmlUrl="https://blog.mozilla.org/en/feed/" />
-            <outline text="Xbox Wire" title="Xbox Wire" type="rss"
+            <outline title="Xbox Wire" type="rss"
                 xmlUrl="https://news.xbox.com/en-us/feed/" />
-            <outline text="Bing Blogs" title="Bing Blogs" type="rss"
+            <outline title="Bing Blogs" type="rss"
                 xmlUrl="https://blogs.bing.com/Home/feed" />
         </outline>
         <!-- <outline title="Talkwalker Alert for Financial"
@@ -104,11 +96,9 @@
         <outline title="Talkwalker Alert for Fun" type="rss"
             xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB" /> -->
         <outline
-            text="Feedle: Political"
             title="Feedle: Political"
             type="rss" xmlUrl="https://shr.pn/K4Yd5" />
         <outline
-            text="reddit.com: search results - Political"
             title="reddit.com: search results - Political"
             type="rss" xmlUrl="https://shr.pn/OIcpR" />
         <!-- <outline title="video-news">
@@ -166,8 +156,7 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTX0E9xUdeXLfc8n9f7xR7A" />
             <outline title="eFootball" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQdSC4folRoUuPC3iiRkfFQ" />
-            <outline text="Bandai Namco Entertainment America"
-                title="Bandai Namco Entertainment America" type="rss"
+            <outline title="Bandai Namco Entertainment America" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_ntXHv-XdKCD7CPynVvnQw" />
             <outline title="Capcom USA" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW7h-1mymnJ96akzjrmiIgA" />
@@ -332,8 +321,7 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg" />
             <outline title="Haze_Aphids" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGjL5fUct4hHDcftjkLo-w" />
-            <outline text="Initial D THE ARCADE Official Channel"
-                title="Initial D THE ARCADE Official Channel" type="rss"
+            <outline title="Initial D THE ARCADE Official Channel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChJePfGTsMeiY480AxSJcbw" />
             <outline title="龍が如くスタジオ 公式" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsof6qICUcobSUN0tTnR-4g" />
