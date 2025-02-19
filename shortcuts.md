@@ -14,6 +14,7 @@
 ---
 
 - [ChatGPT](https://chatgpt.com)
+- [Claude](https://claude.ai)
 - [Google AI Studio](https://aistudio.google.com)
 - [Grok](https://grok.com)
 - [Groq](https://groq.com)
