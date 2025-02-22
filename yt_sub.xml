@@ -312,8 +312,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPHcMtV17sbFTtYN1F09orQ" />
             <outline title="OPLOLReplay" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0RalGf69iYVBFteHInyJJg" />
-            <outline title="Nadeshot" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs3l6DsCu9ZOXkJkvskEsrQ" />
             <outline title="Overwatch Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiAInBL9kUzz1XRxk66v-gw" />
             <outline title="Pestily" type="rss"
@@ -433,8 +431,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiQMYozSSTkJ2twtZM1bG9w" />
             <outline title="Fire Mountain" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEab88_RThClRVuZGWP33Bg" />
-            <outline title="Macro" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs3uTN9G4MnZGOfYWoSs9mA" />
             <outline title="Halo Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWRlMArGqt607LYdhlrrYVA" />
             <outline title="Maven Huffman" type="rss"
@@ -573,8 +569,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyTkTNJeDaIjyCpUSsZ9FJA" />
             <outline title="CodeNamePizza" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWyPmQ5E-Bh1-RPZ-zsLnLQ" />
-            <outline title="BennyCentral" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAOvCl3N0lpjcrvfaVe4zhw" />
             <outline title="MegMage" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNwXk1mst3ddgRd9tj-pHtg" />
             <outline title="LastKnownMeal" type="rss"
@@ -589,8 +583,6 @@
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/AR3NAgg" />
-            <outline title="Apathy's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Apathy" />
             <outline title="ArmadaUGS's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ArmadaUGS" />
             <outline title="Anders's Twitch video RSS" type="rss"
@@ -605,26 +597,16 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/LondonController" />
             <outline title="EvenMatchupGaming's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/EvenMatchupGaming" />
-            <outline title="39daph's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/39daph" />
             <outline title="AR12Gaming's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/AR12Gaming" />
-            <outline title="CohhCarnage's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CohhCarnage" />
             <outline title="CapcomFighters's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/CapcomFighters" />
-            <outline title="Camy's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Camy" />
             <outline title="CodySchwab's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CodySchwab" />
             <outline title="Macro's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Macro" />
-            <outline title="August's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/August" />
             <outline title="CROSSFIRE_STARS's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/CROSSFIRE_STARS" />
-            <outline title="CyYuVtuber's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CyYuVtuber" />
             <outline title="BurkeBlack's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BurkeBlack" />
             <outline title="Evo's Twitch video RSS" type="rss"
@@ -641,22 +623,14 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/DansGaming" />
             <outline title="IWDominate's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/IWDominate" />
-            <outline title="GenshinImpactOfficial's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/GenshinImpactOfficial" />
             <outline title="LEC's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/LEC" />
-            <outline title="Kenco's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Kenco" />
-            <outline title="Loserfruit's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Loserfruit" />
             <outline title="BLASTPremier's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BLASTPremier" />
             <outline title="ESLCS_GG's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ESLCS_GG" />
             <outline title="Compass_cs2's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Compass_cs2" />
-            <outline title="Chrisnxtdoor's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Chrisnxtdoor" />
             <outline title="ESLCS's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/ESLCS" />
             <outline title="Kaysan's Twitch video RSS" type="rss"
@@ -665,8 +639,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/KindaFunnyGames" />
             <outline title="MSFSofficial's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MSFSofficial" />
-            <outline title="Leopard's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Leopard" />
             <outline title="Giantwaffle's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Giantwaffle" />
             <outline title="ColtHavok's Twitch video RSS"
@@ -687,8 +659,6 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LiquidWiFi" />
             <outline title="Criken's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Criken" />
-            <outline title="HoK_Global_Esports's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/HoK_Global_Esports" />
             <outline title="MPLSingapore's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MPLSingapore" />
             <outline title="Bigpuffer's Twitch video RSS"
@@ -701,20 +671,14 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/EWC_Dota2" />
             <outline title="CCT_CS's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/CCT_CS" />
-            <outline title="Demon1's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Demon1" />
             <outline title="Hungrybox's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Hungrybox" />
             <outline title="LoLPacificEN's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LoLPacificEN" />
             <outline title="Flight23white's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Flight23white" />
-            <outline title="Cringer's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Cringer" />
             <outline title="EWC's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/EWC" />
-            <outline title="ExcessiveProfanity's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/ExcessiveProfanity" />
             <outline title="ClassicTetris's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/ClassicTetris" />
             <outline title="KMLTournaments's Twitch video RSS" type="rss"
@@ -753,8 +717,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/IntoTheBreachTV" />
             <outline title="LIRIK's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/LIRIK" />
-            <outline title="LilKirbs's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LilKirbs" />
             <outline title="Maximilian_DOOD's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Maximilian_DOOD" />
             <outline title="JaboodyShow's Twitch video RSS"
@@ -791,8 +753,6 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Natarsha" />
             <outline title="Nadeshot's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Nadeshot" />
-            <outline title="Necros's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Necros" />
             <outline title="Noko's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Noko" />
             <outline title="Mukluk's Twitch video RSS" type="rss"
@@ -801,8 +761,6 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/NounsEsports" />
             <outline title="Octane's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Octane" />
-            <outline title="Oroboro's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Oroboro" />
             <outline title="PGL's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PGL" />
             <outline title="PGL_CS2's Twitch video RSS" type="rss"
@@ -813,8 +771,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/PUBGMOBILEEsports" />
             <outline title="PaigeTheWitch's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PaigeTheWitch" />
-            <outline title="PaladinAmber's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PaladinAmber" />
             <outline title="PlayOverwatch's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/PlayOverwatch" />
             <outline title="PredatorGaming_PH's Twitch video RSS" type="rss"
@@ -827,22 +783,14 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/R6EsportsNA" />
             <outline title="Rainbow6's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Rainbow6" />
-            <outline title="Rainhoe's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Rainhoe" />
             <outline title="Ray's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Ray" />
             <outline title="RedBull's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/RedBull" />
-            <outline title="Reidboyy's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Reidboyy" />
             <outline title="RogersBase's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RogersBase" />
             <outline title="RiotGamesOCE's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RiotGamesOCE" />
-            <outline title="SHiFT's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/SHiFT" />
-            <outline title="RyanCentral's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RyanCentral" />
             <outline title="Sacriel's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Sacriel" />
             <outline title="Shotzzy's Twitch video RSS" type="rss"
@@ -867,10 +815,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/TeePee" />
             <outline title="ThatSrb2DUDE's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ThatSrb2DUDE" />
-            <outline title="TenZ's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/TenZ" />
-            <outline title="TheChief1114's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/TheChief1114" />
             <outline title="TheOrlandoGG's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/TheOrlandoGG" />
             <outline title="ThinkingMansValo's Twitch video RSS" type="rss"
@@ -897,8 +841,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Zoomaa" />
             <outline title="aceu's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/aceu" />
-            <outline title="ardiis's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/ardiis" />
             <outline title="curry's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/curry" />
             <outline title="btssmash's Twitch video RSS"
@@ -913,16 +855,12 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/esl_asia" />
             <outline title="ewc_white's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ewc_white" />
-            <outline title="fifakillvizualz's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/fifakillvizualz" />
             <outline title="galaxy_battle_cstv's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/galaxy_battle_cstv" />
             <outline title="fissure_dota_en's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/fissure_dota_en" />
             <outline title="fissure_cs_eng's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/fissure_cs_eng" />
-            <outline title="hackerling's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/hackerling" />
             <outline title="genesisgg's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/genesisgg" />
             <outline title="iRacing's Twitch video RSS" type="rss"
@@ -933,8 +871,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/julien" />
             <outline title="johnxfire's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/johnxfire" />
-            <outline title="kayjii's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/kayjii" />
             <outline title="lplenglish's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/lplenglish" />
             <outline title="mang0's Twitch video RSS" type="rss"
@@ -947,8 +883,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/scump" />
             <outline title="playapex's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/playapex" />
-            <outline title="sgares's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/sgares" />
             <outline title="shanks_ttv's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/shanks_ttv" />
             <outline title="shroud's Twitch video RSS" type="rss"
@@ -971,16 +905,10 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_east" />
             <outline title="valorantleague_ne's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
-            <outline title="Swagg's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Swagg" />
             <outline title="Strippin's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Strippin" />
             <outline title="SumSoc's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/SumSoc" />
-            <outline title="Symfuhny's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Symfuhny" />
-            <outline title="SuraFPS's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/SuraFPS" />
             <outline title="VALORANT_Pacific's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/VALORANT_Pacific" />
             <outline title="VALORANT_NorthAmerica's Twitch video RSS" type="rss"
@@ -997,8 +925,6 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/relog_cs" />
             <outline title="rogue's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/rogue" />
-            <outline title="zachmazer's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/zachmazer" />
             <outline title="overezeggs's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/overezeggs" />
         </outline>
