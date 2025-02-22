@@ -577,6 +577,14 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAOvCl3N0lpjcrvfaVe4zhw" />
             <outline title="MegMage" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNwXk1mst3ddgRd9tj-pHtg" />
+            <outline title="LastKnownMeal" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSI_PW-LM2rC5-1XYpbaSBQ" />
+            <outline title="Klean" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHI3OE15PJ3pFWm1a9JsKw" />
+            <outline title="Aerith" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmq1iHmomVRCf2APufQZkCQ" />
+            <outline title="Tech YES City" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9Tn-atYOt8qZP-oqui7bhw" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
