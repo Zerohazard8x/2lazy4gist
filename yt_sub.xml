@@ -5,8 +5,6 @@
     </head>
     <body>
         <outline title="YouTube Subscriptions">
-            <outline title="AICodeKing" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0m81bQuthaQZmFbXEY9QSw" />
             <outline title="IGN" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw" />
             <outline title="AR12Gaming" type="rss"
@@ -55,8 +53,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClqUSY9SshvuFja6yNXp4nQ" />
             <outline title="VALORANT Champions Tour" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA1d3HFGFUmkKr2JIUA5Vlw" />
-            <outline title="August" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClwzSfLTpXabqWvlWyFHBSw" />
             <outline title="Microsoft Events" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrhJmfAGQ5K81XQ8_od1iTg" />
             <outline title="Call of Duty League" type="rss"
@@ -75,8 +71,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAvIC2XmBLLXFPdveirTrmw" />
             <outline title="83Chrisaaron" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMN2R--SBQg3NhcUfBeCfOA" />
-            <outline title="CptCanada" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg0CiI9VB9PVJfEGEZfh-Tw" />
             <outline title="Apple Demo" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYsV40rt86JO2cUCJxsqMZg" />
             <outline title="Poseidon Entertainment" type="rss"
@@ -91,8 +85,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeVmD7fCjUo5Nqk35zcF6Og" />
             <outline title="cobanermani456" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtr2VqYDR7mx0Q15jOfK1vg" />
-            <outline title="Aerith" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmq1iHmomVRCf2APufQZkCQ" />
             <outline title="Blaine Locklair" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc16nxCRvhba37wzU2eVS2Q" />
             <outline title="Bandai Namco Esports" type="rss"
@@ -135,14 +127,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe1yEAEbnDWM7nVi3y2pjYw" />
             <outline title="DAMDAM" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ80uFX-rzzvL3Uz7XQ2qw" />
-            <outline title="CodeNamePizza" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWyPmQ5E-Bh1-RPZ-zsLnLQ" />
             <outline title="Earth Uncut TV" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLKYsEXfI0PGXeKYL1KV7qA" />
             <outline title="ESL Asia" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRM58mYe8HZjoa_itA_hFkQ" />
-            <outline title="Cringer" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnc9Cm9AWgKkKweNb6HsKMA" />
             <outline title="FAN REACTIONS FOOTBALL CLUB"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoHkpXvrjtemq69JDcfkU0Q" />
@@ -181,15 +169,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7boel3KeF8CfIoe0j1WHqA" />
             <outline title="Espresso" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnYuPwWC1WB3uasxSXoARXg" />
-            <outline title="Kevduit" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnEJAjrwfuU7T2yYv00WsA" />
             <outline title="Josh Revell" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSawmZ2PP6R7EURKRMNYXMw" />
-            <outline title="Kanna Yanagi Ch.【PixelLink】"
-                type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClxj3GlGphZVgd1SLYhZKmg" />
-            <outline title="MissMikkaa" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEMT8neztQTMuz5RZcg5M5Q" />
             <outline title="Jay3" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoKKe0XN5Zc1lSTi1_utNOw" />
             <outline title="more tarik" type="rss"
@@ -204,8 +185,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC53T4J0pJwY-3_ZTK2cqsZw" />
             <outline title="IWDominate" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmEu9Y8nodUV0jvsR9NYLJA" />
-            <outline title="GG Rewind" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCI8wGudOsEZqHwdszhTEzNQ" />
             <outline title="Raptor" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoOmgnp3Ao2laZHtvRGdceg" />
             <outline title="MoreGinge" type="rss"
@@ -216,8 +195,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnKfR9ODvna_ou_GNs9fINQ" />
             <outline title="Screenz lol" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFDGcs-NukD7xa32KRJ3XSA" />
-            <outline title="seangares" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyTkTNJeDaIjyCpUSsZ9FJA" />
             <outline title="Ray Narvaez Jr" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFbgt4fSBvjT9rKjE8qfSjw" />
             <outline title="mL7" type="rss"
@@ -226,8 +203,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnj0TjaM0wyxkAWW_nz8_1g" />
             <outline title="Nintendo of America" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGIY_O-8vW4rfX98KlMkvRg" />
-            <outline title="Sacriel" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCROp--Hg_j2ocY-XYh8L68w" />
             <outline title="Rappler" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdnZdQxYXnbN4uWJg96oGxw" />
             <outline title="RDC Live" type="rss"
@@ -238,8 +213,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq5jqX3nqMcFlUQzHjgyXdQ" />
             <outline title="Scump" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCWSG8MXoqvIEBPRnOSxwzw" />
-            <outline title="RyanCentral" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZmz0RdI6LvX_rRmrlwx0Eg" />
             <outline title="Swiss001" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYiaHzwtsww6phfxwUtZv8w" />
             <outline title="VALORANT Champions Tour Pacific"
@@ -271,29 +244,21 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCB_qr75-ydFVKSF9Dmo6izg" />
             <outline title="Wrestling Daze" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRfz689NhYtN-byWAWK68oA" />
-            <outline title="LastKnownMeal" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSI_PW-LM2rC5-1XYpbaSBQ" />
             <outline title="Valorant Mundi" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmbfLS3A3n_XbdvY8Zp-BWA" />
             <outline title="Gadget Addict" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjmjkvqp279nTv5Tg2KB2aA" />
-            <outline title="Tech YES City" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9Tn-atYOt8qZP-oqui7bhw" />
             <outline title="minnieportable" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCw-BgB997z8oxJZdSUn2qzA" />
             <outline title="ZBRA" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgb7cW-NE8XGxDc9AkAVNoA" />
             <outline title="Grand POOBear" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3g50Yr3GFPYrBj-n55BdqA" />
-            <outline title="GAMErHyNas" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBgIxCjIfkSHuwCUajbQEuA" />
             <outline title="VALORANT Champions Tour EMEA"
                 type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp6n8d8Y8r3MwKNw_MMaouQ" />
             <outline title="Xbox On" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCozZmz40Oc6NYD4JtZJgO8A" />
-            <outline title="Lucid" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUjqYkWG30kot0uzZxlH3GA" />
             <outline title="LSuperSonicQ" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSl4Y5mQzWINY6ZWh04Ws6w" />
             <outline title="Lakers Nation" type="rss"
@@ -329,12 +294,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEjOSbbaOfgnfRODEEMYlCw" />
             <outline title="Manchester United" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6yW44UGJJBvYTlfC7CRg2Q" />
-            <outline title="Macro LIVE" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSzBfLmM-DswAOKzOv8eqbA" />
             <outline title="Lirik" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEmOgh0uJDBoKSHfgzdxRuw" />
-            <outline title="Maqwell" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2NB_acBZHQIeqxTaWj2dVQ" />
             <outline title="MrSantiZap" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC60Z18qxfHNBdI-c_dE6z1Q" />
             <outline title="MrRoflWaffles" type="rss"
@@ -343,8 +304,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWJ2lWNubArHWmf3FIHbfcQ" />
             <outline title="No Life Shaq" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKUCm3FepRrl-VKhq0Wwajg" />
-            <outline title="Nick Crowley" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMX31RavkfUHJvw03RbUZnA" />
             <outline title="LGR" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ" />
             <outline title="LoL Esports" type="rss"
@@ -374,8 +333,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXDG9ue-emCN8Ad3h7lERqQ" />
             <outline title="Red Bull Gaming" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8VddvuHJzIj__Ud0rY2_ww" />
-            <outline title="PaigeTheWitch" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE3w5blX-dO7xugnamKOkRQ" />
             <outline title="PlayOverwatch" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClOf1XXinvZsy4wKPAkro2A" />
             <outline title="realme India" type="rss"
@@ -396,8 +353,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy9L0ITuHozyqAxW26KPvKg" />
             <outline title="TheAsianTournament" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCU2n0Xm6Dz6aZ8O_gl8OQeA" />
-            <outline title="Secret Sleepover Society" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFi1o_TEVQIPzzZi7JZ63PQ" />
             <outline title="Sentinels" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNcWiCgpHVctNxLr3FD04PA" />
             <outline title="skippy62able" type="rss"
@@ -418,12 +373,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmUPc8k5mKDG_496VyOhVBA" />
             <outline title="Retromation" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4Xj6emHTXnKHUq8btUuN6A" />
-            <outline title="The Geek Cupboard" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqCa31-K_PjmEty8WX3whyw" />
             <outline title="SuperkickStudios" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNjrkeP32PXtt0SvVLQWKXg" />
-            <outline title="SoaR Kitty" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVu1acqOmA_EsUgYWrSDptQ" />
             <outline title="Tottenham Hotspur" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEg25rdRZXg32iwai6N6l0w" />
             <outline title="WhatCulture Wrestling" type="rss"
@@ -434,14 +385,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjCDlbCvET6a6K53TV9ZhZA" />
             <outline title="WheezyBlonde" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoe52S7YI72_YzBeBqRWdoQ" />
-            <outline title="Tomographic" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOt5hVyS2-nbcJ3_FP41Ajg" />
             <outline title="WWE Vault" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNSnSemXKDc9UEZ7m31wY9Q" />
             <outline title="TR1Iceman" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC73QX85bGegswROr-UylY3A" />
-            <outline title="HaloFollower" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCptNOWTizPKjnHYLydzUWbw" />
             <outline title="Hollow" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmp5y07YIV6i2jPX4x82hVQ" />
             <outline title="LCK Global" type="rss"
@@ -456,8 +403,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCd662u2E4wR7I-sGVIIT9ZA" />
             <outline title="fl0m" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVXA3FX3fCv-YEuBlxpeFVg" />
-            <outline title="Klean" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHI3OE15PJ3pFWm1a9JsKw" />
             <outline title="League of Legends Championship Pacific" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmpj_KlPHHSRCLMdqOK6BDQ" />
             <outline title="The GeekBox" type="rss"
@@ -466,25 +411,16 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3wGgfxWJiIquQtSWlYfZcQ" />
             <outline title="Thinking Man's Valorant" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgIriwgZBo34xOp96Xsp4Yw" />
-            <outline title="Kim Justice's Wrestling Road"
-                type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4q7AUvWVboY5wq4YYzy2DQ" />
             <outline title="LegoUnlocked" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJffBkLaEjsL_f21kT_5CKg" />
             <outline title="LarryLurr" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTc6QUhdAc-yU99rpDxlWrw" />
-            <outline title="Vulture" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgUjAcXdTD0Ub6mBboSI-eg" />
-            <outline title="Stunned By Wrestling" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY5ioKdNQRitN707Y9ys1qQ" />
             <outline title="SeLFlo" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKgpTzSKoGvmirYYk9KTUZw" />
             <outline title="ZenithCODM" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC02VMQB3VTy7x-HWe2We_mg" />
             <outline title="TheXclusiveAce" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaN1rig0bL7SUod2WN0P8XA" />
-            <outline title="ZBRA Too" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrZpXUD0c1Jlr2zSKi8M2qQ" />
             <outline title="Zyro" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAsw2cESMj2mIl2JEAZFkew" />
             <outline title="FIA" type="rss"
@@ -499,8 +435,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEab88_RThClRVuZGWP33Bg" />
             <outline title="Macro" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs3uTN9G4MnZGOfYWoSs9mA" />
-            <outline title="Tifo Football" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGYYNGmyhZ_kwBF_lqqXdAQ" />
             <outline title="Halo Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWRlMArGqt607LYdhlrrYVA" />
             <outline title="Maven Huffman" type="rss"
@@ -511,12 +445,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT6QFE3peNry9PdO5uGj96g" />
             <outline title="VΞNOM MΛGNUS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgg24CW7FrwTMrEUxx44Qlg" />
-            <outline title="LiteWeight Gaming" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkA6jSV8nbedJTuK8a0cyFQ" />
             <outline title="LPL_English" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0uDpQfU-FwY571UEhgd87Q" />
-            <outline title="Grizzy" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPbGiUt4Yu8EsaFM-KAmgjg" />
             <outline title="MPBL" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbxiLsJzOnnpDOZSwB5HWUQ" />
             <outline title="FIBA Basketball" type="rss"
@@ -531,8 +461,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgn7fCFfIjUx34GMGbSEYaw" />
             <outline title="The Emirates FA Cup" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCChcWqwYXCEs657MQ00qVWA" />
-            <outline title="ti8ick" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpBfbl39OIZv5GU6OpnpsIQ" />
             <outline title="Noel Philips" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2O6HDtMOZf9FkUAepz9Atg" />
             <outline title="NoahJ456" type="rss"
@@ -546,8 +474,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg9w2x6EYbcxGiLeh8UTMdQ" />
             <outline title="NBC Sports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqZQlzSHbVJrwrn5XvzrzcA" />
-            <outline title="jackfrags" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCw7FkXsC00lH2v2yB5LQoYA" />
             <outline title="MrDalekJD" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMUP9j-QidC_S0KLlO06uCg" />
             <outline title="PGL Counter-Strike Highlights"
@@ -565,14 +491,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC04eKCHxzFlMw16jsWfwErg" />
             <outline title="Not The Expert" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsUeMgCW9MRxoZbXTpA7Sog" />
-            <outline title="nonmaliceowl" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcjiE6xWumH887o19Ml3qeQ" />
             <outline title="Julian Goldie SEO" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGpsgNbzdF7BECCVbB1COHw" />
             <outline title="Theme Park Crazy" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFbb5v6I-bxiQfZumWn2S2A" />
-            <outline title="ardiis" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0orHdcQbBFxXcxy-F1buqA" />
             <outline title="Galint Gaming VODs" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG-pxOMgCQ3AtsxVPWk3XuQ" />
             <outline title="VGBootCamp" type="rss"
@@ -583,12 +505,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCmBH46G0Y3Tdor4b1-PZ_w" />
             <outline title="LEETOTHEVI" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0FRSQh4P5S-5FwnL8hsQrQ" />
-            <outline title="Cross2Crown2" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkJ6d2fXwm2SvVNpAX-kx8w" />
             <outline title="Loochy" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCghVgPYA_pB7MdbDVaiCTng" />
-            <outline title="BennyCentral" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAOvCl3N0lpjcrvfaVe4zhw" />
             <outline title="Wirtual" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCt-HTfaCUz8QIoknqyXKYiw" />
             <outline title="Soloista Ph" type="rss"
@@ -615,8 +533,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnH8al10BzxCg-N-69Syqjg" />
             <outline title="Rainbow6 Hub" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_moEeEGn7fg4Xp6Ir6to4Q" />
-            <outline title="RLG" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9lhBi1a5OAkb3kFYbWLTQQ" />
             <outline title="PBA Official" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9WkScCyThtumtf9XVO4eWQ" />
             <outline title="Titan Series" type="rss"
@@ -625,12 +541,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqFXoUdIMsNg_ZHb_zyuBew" />
             <outline title="KRAFTON INDIA ESPORTS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCugG6-k5QGbq_iDEPAnG4NQ" />
-            <outline title="Mok3ysnip3r" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqP78lmrrfxwiWy0mNAuljQ" />
             <outline title="RossTheeSquirrel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKB1_j8RLTcwreCqAOqX8Ug" />
-            <outline title="Johnny Price" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfArQoYfk1mPCii5IV-TYuA" />
             <outline title="The Gaming Merchant" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz2_M6-NBgdiLvDOmlH074g" />
             <outline title="ayex" type="rss"
@@ -643,12 +555,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHcODW8jrSHWw7Na0dC6qcA" />
             <outline title="Dooley Noted" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHvrQ9mHjjA9UDvRCoJaUrg" />
-            <outline title="Lirik Plays" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCebh6Np0l-DT9LXHrXbmopg" />
             <outline title="Greenskull" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-UXMS9Q-apozW8jALP5UZw" />
-            <outline title="MegMage" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNwXk1mst3ddgRd9tj-pHtg" />
             <outline title="Mortismal Gaming" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEQ7KR9enYdQsB6kcMnw0NA" />
             <outline title="FightinCowboy" type="rss"
@@ -661,6 +569,14 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCf_suVrG2dA5BTjJhNLwthQ" />
             <outline title="Classic Tetris" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8BAEcWSEs4-KQp1ULVnaQ" />
+            <outline title="seangares" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyTkTNJeDaIjyCpUSsZ9FJA" />
+            <outline title="CodeNamePizza" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWyPmQ5E-Bh1-RPZ-zsLnLQ" />
+            <outline title="BennyCentral" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAOvCl3N0lpjcrvfaVe4zhw" />
+            <outline title="MegMage" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNwXk1mst3ddgRd9tj-pHtg" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
