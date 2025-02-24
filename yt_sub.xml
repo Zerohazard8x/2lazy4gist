@@ -577,6 +577,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmq1iHmomVRCf2APufQZkCQ" />
             <outline title="Tech YES City" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9Tn-atYOt8qZP-oqui7bhw" />
+            <outline title="Hungrybox" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvBHFNnPXt_re1WSdsennJg" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
