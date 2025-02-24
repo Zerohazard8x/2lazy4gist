@@ -290,6 +290,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs5Y5_7XK8HLDX0SLNwkd3w" />
             <outline title="GitHub" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ" />
+            <outline title="Google DeepMind" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A" />
             <outline title="Riot Games's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RiotGames" />
             <outline title="playstation on Twitch" type="rss"
