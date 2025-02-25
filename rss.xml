@@ -294,6 +294,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A" />
             <outline title="Mecha BREAK" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKfB7ETv-pCdtHs3TVbHiFQ" />
+            <outline title="Google Chrome" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL8ZULXASCc1I_oaOT0NaOQ" />
             <outline title="Riot Games's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RiotGames" />
             <outline title="playstation on Twitch" type="rss"
