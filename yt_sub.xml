@@ -579,6 +579,12 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9Tn-atYOt8qZP-oqui7bhw" />
             <outline title="Hungrybox" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvBHFNnPXt_re1WSdsennJg" />
+            <outline title="Disguised Toast" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUT8RoNBTJvwW1iErP6-b-A" />
+            <outline title="WoolieVersus" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyOJzQzyDGihKpTO3-zyhYg" />
+            <outline title="joshseki" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJK1rRdUPKL0XkFiiVlbJ3w" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
@@ -927,6 +933,22 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/rogue" />
             <outline title="overezeggs's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/overezeggs" />
+            <outline title="sykkuno's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/sykkuno" />
+            <outline title="millanoire's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/millanoire" />
+            <outline title="zentreya's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/zentreya" />
+            <outline title="venalis's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/venalis" />
+            <outline title="aikobliss's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/aikobliss" />
+            <outline title="brozime's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/brozime" />
+            <outline title="deme's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/deme" />
+            <outline title="TenZ's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/TenZ" />
         </outline>
     </body>
 </opml>
