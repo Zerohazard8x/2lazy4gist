@@ -585,6 +585,18 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyOJzQzyDGihKpTO3-zyhYg" />
             <outline title="joshseki" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJK1rRdUPKL0XkFiiVlbJ3w" />
+            <outline title="Cyx" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPIGuerly7kAIA3VjkYD6UQ" />
+            <outline title="emongg" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAtmNvxD7eOs_kwxm-zzoMQ" />
+            <outline title="Aspen" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPrWwYRITOFC010fkXZ0Glw" />
+            <outline title="KarQ Archives" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqonfqa51MTb9zeMbhvndeQ" />
+            <outline title="NoobHunter" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEMHiFr2E9Ekatjhl8mG0xA" />
+            <outline title="Niandra" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvo-St6TOmOgFmNvgQWZqMg" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
@@ -949,6 +961,28 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/deme" />
             <outline title="TenZ's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/TenZ" />
+            <outline title="danteh's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/danteh" />
+            <outline title="flats's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/flats" />
+            <outline title="jay3's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/jay3" />
+            <outline title="neuu's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/neuu" />
+            <outline title="emongg's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/emongg" />
+            <outline title="sinatraa's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/sinatraa" />
+            <outline title="supertf's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/supertf" />
+            <outline title="avast's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/avast" />
+            <outline title="skiesti's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/skiesti" />
+            <outline title="froggerow's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/froggerow" />
+            <outline title="bogur's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/bogur" />
         </outline>
     </body>
 </opml>
