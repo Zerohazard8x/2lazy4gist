@@ -597,6 +597,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEMHiFr2E9Ekatjhl8mG0xA" />
             <outline title="Niandra" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvo-St6TOmOgFmNvgQWZqMg" />
+            <outline title="Michael MJD" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS-WzPVpAAli-1IfEG2lN8A" />
+            <outline title="Pureinfotech" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp0mxgvv_9NT4akvi2D_uiA" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
