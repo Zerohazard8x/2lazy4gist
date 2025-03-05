@@ -20,7 +20,6 @@
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
         <outline title="Google Alert - Opinionated" type="rss"
             xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
-        <!-- <outline title="Google News: New things" type="rss" xmlUrl="https://shr.pn/lvbUL" /> -->
         <outline title="Feedle: Financial" type="rss" xmlUrl="https://shr.pn/7qEwK" />
         <outline title="Feedle: Fun" type="rss" xmlUrl="https://shr.pn/u3XbS" />
         <outline title="Feedle: Games" type="rss" xmlUrl="https://shr.pn/m5brA" />
