@@ -601,6 +601,12 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS-WzPVpAAli-1IfEG2lN8A" />
             <outline title="Pureinfotech" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp0mxgvv_9NT4akvi2D_uiA" />
+            <outline title="MrLlamaSC" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZcV8AWZ_nQvx0Yvnmy7aHw" />
+            <outline title="Aculite" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7bxtst_qd-STxMecToKJDw" />
+            <outline title="Handler" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6fq2wTTaGGh3WsdRe3G0mg" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
@@ -987,6 +993,20 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/froggerow" />
             <outline title="bogur's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/bogur" />
+            <outline title="pixuy's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/pixuy" />
+            <outline title="Mendo's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Mendo" />
+            <outline title="sYnceDez's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/sYnceDez" />
+            <outline title="Snip3down's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Snip3down" />
+            <outline title="MacieJay's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MacieJay" />
+            <outline title="ImperialHal__'s Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ImperialHal__" />
+            <outline title="NiceWigg's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/NiceWigg" />
         </outline>
     </body>
 </opml>
