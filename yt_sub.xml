@@ -609,6 +609,12 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6fq2wTTaGGh3WsdRe3G0mg" />
             <outline title="Parkerr" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvYc5KUONRoLFplIKAN4nFQ" />
+            <outline title="Mr. Fruit" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV96ER3MAI1S81HH6l9wwbQ" />
+            <outline title="Aztecross" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClbllR4Tx-lhYJyrpu1sA4A" />
+            <outline title="Generalkidd" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFJ9M_-nJXskQVqhOydcTcQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
@@ -1009,6 +1015,14 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ImperialHal__" />
             <outline title="NiceWigg's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/NiceWigg" />
+            <outline title="Nadeshot's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Nadeshot" />
+            <outline title="joe_bartolozzi's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/joe_bartolozzi" />
+            <outline title="KingGeorge's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/KingGeorge" />
+            <outline title="MataraKan's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MataraKan" />
         </outline>
     </body>
 </opml>
