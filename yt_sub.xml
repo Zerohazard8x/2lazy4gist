@@ -607,6 +607,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7bxtst_qd-STxMecToKJDw" />
             <outline title="Handler" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6fq2wTTaGGh3WsdRe3G0mg" />
+            <outline title="Parkerr" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvYc5KUONRoLFplIKAN4nFQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
