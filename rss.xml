@@ -320,6 +320,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/DeltaForceGameOfficial" />
             <outline title="Netherrealm's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Netherrealm" />
+            <outline title="MSFSofficial's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MSFSofficial" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"

@@ -615,6 +615,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClbllR4Tx-lhYJyrpu1sA4A" />
             <outline title="Generalkidd" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFJ9M_-nJXskQVqhOydcTcQ" />
+            <outline title="Maximilian Dood" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOgaIuQYGr6ow_jbote4BKA" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
@@ -673,8 +675,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Kaysan" />
             <outline title="KindaFunnyGames's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/KindaFunnyGames" />
-            <outline title="MSFSofficial's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MSFSofficial" />
             <outline title="Giantwaffle's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Giantwaffle" />
             <outline title="ColtHavok's Twitch video RSS"
