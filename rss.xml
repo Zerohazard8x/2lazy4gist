@@ -138,6 +138,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc3pNIRzIZ8ynI38GO6H01Q" />
             <outline title="Made by Google" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIG1k8umaCIIrujZPzZPIMA" />
+            <outline title="Google" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA" />
             <outline title="Spectre Divide" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1FtVAxkR4-R6KNt3nLH5Dw" />
             <outline title="GRAN TURISMO TV" type="rss"
@@ -322,6 +324,24 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Netherrealm" />
             <outline title="MSFSofficial's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MSFSofficial" />
+            <outline title="Christian Gendrano" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoo9gyvICqKeaOr6fjhP4Gg" />
+            <outline title="Android" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" />
+            <outline title="Predator Gaming PH" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwI0hG-Ql-jhOQuM2f7lFMw" />
+            <outline title="arcsystemworks" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClqUSY9SshvuFja6yNXp4nQ" />
+            <outline title="Microsoft Events" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrhJmfAGQ5K81XQ8_od1iTg" />
+            <outline title="dota2" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTQKT5QqO3h7y32G8VzuySQ" />
+            <outline title="PlayOverwatch" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClOf1XXinvZsy4wKPAkro2A" />
+            <outline title="realme India" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeM7fTLWxyxIMw9WfMSX8ww" />
+            <outline title="The Official Pokémon YouTube channel" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFctpiB_Hnlk3ejWfHqSm6Q" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"
