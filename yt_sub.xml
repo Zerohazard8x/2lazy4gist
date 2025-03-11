@@ -345,6 +345,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbGG2hv4cWmIrBAIhGiCdSg" />
             <outline title="MrMario2011" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-YlkP3c1zKUPfyMMurARAQ" />
+            <outline title="JerryRigEverything" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ" />
+            <outline title="Hugh Jeffreys" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA" />
         </outline>
         <outline title="video-general-news">
             <outline title="Call of Duty: Mobile Esports"
