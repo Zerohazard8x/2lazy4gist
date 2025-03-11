@@ -145,8 +145,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIOrUVVyfoWnmcwG6IwCULQ" />
             <outline title="ManiYa Streams" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo0bp6-iNDJmExq6kp6PYcg" />
-            <outline title="MANIACITV" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnseA2zPlNxRi5BCL7w2LA" />
             <outline title="Lirik" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEmOgh0uJDBoKSHfgzdxRuw" />
             <outline title="MrSantiZap" type="rss"
@@ -341,6 +339,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFJ9M_-nJXskQVqhOydcTcQ" />
             <outline title="Maximilian Dood" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOgaIuQYGr6ow_jbote4BKA" />
+            <outline title="ZBRA" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgb7cW-NE8XGxDc9AkAVNoA" />
+            <outline title="WCW" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbGG2hv4cWmIrBAIhGiCdSg" />
         </outline>
         <outline title="video-general-news">
             <outline title="Call of Duty: Mobile Esports"
@@ -597,8 +599,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjQAdKf6m6HnpCgG1h5iYrg" />
             <outline title="Los Angeles Lakers" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8CSt-oVqy8pUAoKSApTxQw" />
-            <outline title="ZBRA" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgb7cW-NE8XGxDc9AkAVNoA" />
+            <outline title="ZIAS!" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwKTAvM2mY5-A4dFY4xCgqw" />
+            <outline title="MANIACITV" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnseA2zPlNxRi5BCL7w2LA" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
