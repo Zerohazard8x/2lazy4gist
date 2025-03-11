@@ -213,8 +213,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEab88_RThClRVuZGWP33Bg" />
             <outline title="Maven Huffman" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUaMKv2qklMwzIwHXDpWyFg" />
-            <outline title="INQUIRER.net" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvRAX-ujvZ0eTMLGG2vki9w" />
             <outline title="VΞNOM MΛGNUS" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgg24CW7FrwTMrEUxx44Qlg" />
             <outline title="Wanderbots" type="rss"
@@ -611,6 +609,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnseA2zPlNxRi5BCL7w2LA" />
             <outline title="House of Representatives" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtGmCfZ4O1zrl9c8BEhGvRg" />
+            <outline title="INQUIRER.net" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvRAX-ujvZ0eTMLGG2vki9w" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
