@@ -343,6 +343,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgb7cW-NE8XGxDc9AkAVNoA" />
             <outline title="WCW" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbGG2hv4cWmIrBAIhGiCdSg" />
+            <outline title="MrMario2011" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-YlkP3c1zKUPfyMMurARAQ" />
         </outline>
         <outline title="video-general-news">
             <outline title="Call of Duty: Mobile Esports"
@@ -603,6 +605,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwKTAvM2mY5-A4dFY4xCgqw" />
             <outline title="MANIACITV" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnseA2zPlNxRi5BCL7w2LA" />
+            <outline title="House of Representatives" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtGmCfZ4O1zrl9c8BEhGvRg" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
