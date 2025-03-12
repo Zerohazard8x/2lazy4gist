@@ -342,6 +342,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeM7fTLWxyxIMw9WfMSX8ww" />
             <outline title="The Official Pokémon YouTube channel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFctpiB_Hnlk3ejWfHqSm6Q" />
+            <outline title="R Λ Z Ξ R" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOsLfEqAwim8MFOhPddwwFw" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"
