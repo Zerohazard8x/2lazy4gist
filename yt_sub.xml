@@ -347,6 +347,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ" />
             <outline title="Hugh Jeffreys" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA" />
+            <outline title="Promo Joey" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSqtN1vrq7CJ1B9XewyIa-Q" />
         </outline>
         <outline title="video-general-news">
             <outline title="Call of Duty: Mobile Esports"
@@ -611,6 +613,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtGmCfZ4O1zrl9c8BEhGvRg" />
             <outline title="INQUIRER.net" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvRAX-ujvZ0eTMLGG2vki9w" />
+            <outline title="QUEENZFLIP" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEQoJrBoUl07lj2RAe_8bgg" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
