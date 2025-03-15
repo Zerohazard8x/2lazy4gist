@@ -615,6 +615,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvRAX-ujvZ0eTMLGG2vki9w" />
             <outline title="QUEENZFLIP" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEQoJrBoUl07lj2RAe_8bgg" />
+            <outline title="Awful Coaching " type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCpzBYi-KM7EzblUEh5IRcg" />
+            <outline title="Sam Witteveen" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC55ODQSvARtgSyc8ThfiepQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
