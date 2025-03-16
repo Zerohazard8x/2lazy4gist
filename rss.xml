@@ -344,6 +344,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFctpiB_Hnlk3ejWfHqSm6Q" />
             <outline title="R Λ Z Ξ R" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOsLfEqAwim8MFOhPddwwFw" />
+            <outline title="MechaBREAKOfficial's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MechaBREAKOfficial" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"
