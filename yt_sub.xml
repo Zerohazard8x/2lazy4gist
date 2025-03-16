@@ -621,6 +621,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC55ODQSvARtgSyc8ThfiepQ" />
             <outline title="The Action Lab" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1VLQPn9cYSqx8plbk9RxxQ" />
+            <outline title="NileRed" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
