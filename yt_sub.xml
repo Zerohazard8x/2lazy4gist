@@ -625,6 +625,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCpzBYi-KM7EzblUEh5IRcg" />
             <outline title="Sam Witteveen" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC55ODQSvARtgSyc8ThfiepQ" />
+            <outline title="iFixit" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
