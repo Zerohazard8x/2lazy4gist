@@ -623,6 +623,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1VLQPn9cYSqx8plbk9RxxQ" />
             <outline title="NileRed" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA" />
+            <outline title="Phone Repair Guru" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCOrp7GPgZA8EGrbOcIAsyQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
