@@ -298,6 +298,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKfB7ETv-pCdtHs3TVbHiFQ" />
             <outline title="Google Chrome" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL8ZULXASCc1I_oaOT0NaOQ" />
+            <outline title="Arc System Works America" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBz_Fm199gY2XBj25TxzReA" />
             <outline title="Riot Games's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/RiotGames" />
             <outline title="playstation on Twitch" type="rss"
