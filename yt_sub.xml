@@ -349,6 +349,12 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA" />
             <outline title="Promo Joey" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSqtN1vrq7CJ1B9XewyIa-Q" />
+            <outline title="The Action Lab" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1VLQPn9cYSqx8plbk9RxxQ" />
+            <outline title="NileRed" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA" />
+            <outline title="Phone Repair Guru" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCOrp7GPgZA8EGrbOcIAsyQ" />
         </outline>
         <outline title="video-general-news">
             <outline title="Call of Duty: Mobile Esports"
@@ -619,12 +625,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCpzBYi-KM7EzblUEh5IRcg" />
             <outline title="Sam Witteveen" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC55ODQSvARtgSyc8ThfiepQ" />
-            <outline title="The Action Lab" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1VLQPn9cYSqx8plbk9RxxQ" />
-            <outline title="NileRed" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA" />
-            <outline title="Phone Repair Guru" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCOrp7GPgZA8EGrbOcIAsyQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
