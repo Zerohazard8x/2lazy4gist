@@ -1033,6 +1033,8 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/KingGeorge" />
             <outline title="MataraKan's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MataraKan" />
+            <outline title="sunglitters's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/sunglitters" />
         </outline>
     </body>
 </opml>
