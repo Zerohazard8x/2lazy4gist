@@ -355,6 +355,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA" />
             <outline title="Phone Repair Guru" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCOrp7GPgZA8EGrbOcIAsyQ" />
+            <outline title="Northernlion" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3tNpTOHsTnkmbwztCs30sA" />
+            <outline title="Luality" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0asP_S5FdO9qNSSiXYqulw" />
         </outline>
         <outline title="video-general-news">
             <outline title="Call of Duty: Mobile Esports"
@@ -1035,6 +1039,16 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MataraKan" />
             <outline title="sunglitters's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/sunglitters" />
+            <outline title="Elajjaz's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Elajjaz" />
+            <outline title="Northernlion's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Northernlion" />
+            <outline title="PorcelainMaid's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PorcelainMaid" />
+            <outline title="Tenma's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Tenma" />
+            <outline title="willneff's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/willneff" />
         </outline>
     </body>
 </opml>
