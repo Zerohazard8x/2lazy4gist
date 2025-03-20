@@ -575,6 +575,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgn7fCFfIjUx34GMGbSEYaw" />
             <outline title="Mobile Legends: Bang Bang North America" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs0NBmP5x_U5eq0gHZmffgw" />
+            <outline title="New York Mets" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgIMbGazP0uBDy9JVCqBUaA" />
+            <outline title="WardyNYM" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaX-QGxVlF7QXKzHwWAQcdQ" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
