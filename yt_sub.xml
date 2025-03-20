@@ -295,6 +295,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3tNpTOHsTnkmbwztCs30sA" />
             <outline title="Luality" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0asP_S5FdO9qNSSiXYqulw" />
+            <outline title="Kanna Yanagi ch. 柳かんな" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClxj3GlGphZVgd1SLYhZKmg" />
         </outline>
         <outline title="video-general-news">
             <outline title="Call of Duty: Mobile Esports"
@@ -909,6 +911,8 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PorcelainMaid" />
             <outline title="willneff's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/willneff" />
+            <outline title="Nadeshot's Twitch video RSS"
+                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Nadeshot" />
         </outline>
     </body>
 </opml>
