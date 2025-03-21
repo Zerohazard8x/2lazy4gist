@@ -362,6 +362,16 @@
                 xmlUrl="https://news.xbox.com/en-us/feed/" />
             <outline title="Bing Blogs" type="rss"
                 xmlUrl="https://blogs.bing.com/Home/feed" />
+            <outline title="Discord Blog" type="rss"
+                xmlUrl="https://discord.com/blog/rss.xml" />
+            <outline title="OpenAI News" type="rss"
+                xmlUrl="https://openai.com/blog/rss.xml" />
+            <outline title="PlayStation.Blog" type="rss"
+                xmlUrl="https://feeds.feedburner.com/psblog" />
+            <outline title="DirectX Developer Blog" type="rss"
+                xmlUrl="https://devblogs.microsoft.com/directx/feed" />
+            <outline title="Chromium Blog" type="rss"
+                xmlUrl="https://blog.chromium.org/feeds/posts/default?alt=rss" />
         </outline>
     </body>
 </opml>
