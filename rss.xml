@@ -354,8 +354,8 @@
                 xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
             <outline title="PS4 News" type="rss"
                 xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
-            <outline title="Nintendo Switch" type="rss"
-                xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" />
+            <!-- <outline title="Nintendo Switch" type="rss"
+                xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" /> -->
         </outline>
     </body>
 </opml>
