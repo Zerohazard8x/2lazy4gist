@@ -354,8 +354,14 @@
                 xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
             <outline title="PS4 News" type="rss"
                 xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
-            <!-- <outline title="Nintendo Switch" type="rss"
-                xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" /> -->
+            <outline title="Mozilla Hacks – the Web developer blog" type="rss"
+                xmlUrl="https://hacks.mozilla.org/feed/" />
+            <outline title="The Mozilla Blog" type="rss"
+                xmlUrl="https://blog.mozilla.org/en/feed/" />
+            <outline title="Xbox Wire" type="rss"
+                xmlUrl="https://news.xbox.com/en-us/feed/" />
+            <outline title="Bing Blogs" type="rss"
+                xmlUrl="https://blogs.bing.com/Home/feed" />
         </outline>
     </body>
 </opml>
