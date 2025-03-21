@@ -297,6 +297,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0asP_S5FdO9qNSSiXYqulw" />
             <outline title="Kanna Yanagi ch. 柳かんな" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClxj3GlGphZVgd1SLYhZKmg" />
+            <outline title="Nintendo 公式チャンネル" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkH3CcMfqww9RsZvPRPkAJA" />
         </outline>
         <outline title="video-general-news">
             <outline title="Call of Duty: Mobile Esports"
