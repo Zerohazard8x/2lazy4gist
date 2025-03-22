@@ -374,6 +374,8 @@
                 xmlUrl="https://blog.chromium.org/feeds/posts/default?alt=rss" />
             <outline title="Windows Experience Blog" type="rss"
                 xmlUrl="https://blogs.windows.com/windowsexperience/feed" />
+            <outline title="Apple Newsroom" type="rss"
+                xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" />
         </outline>
     </body>
 </opml>
