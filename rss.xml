@@ -372,6 +372,8 @@
                 xmlUrl="https://devblogs.microsoft.com/directx/feed" />
             <outline title="Chromium Blog" type="rss"
                 xmlUrl="https://blog.chromium.org/feeds/posts/default?alt=rss" />
+            <outline title="Windows Experience Blog" type="rss"
+                xmlUrl="https://blogs.windows.com/windowsexperience/feed" />
         </outline>
     </body>
 </opml>
