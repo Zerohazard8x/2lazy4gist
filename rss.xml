@@ -348,6 +348,8 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/MechaBREAKOfficial" />
             <outline title="Xbox" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g" />
+            <outline title="Ace Force 2" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC__LG40ZPhto_LP-3AwOJaw" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"
