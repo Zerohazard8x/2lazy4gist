@@ -57,8 +57,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvG50sPKoj869ml1jgA1RJg" />
             <outline title="Brew" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVQGtUcRjHTQLTTu-5s9_4Q" />
-            <outline title="dkdynamite" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe1yEAEbnDWM7nVi3y2pjYw" />
             <outline title="Forrest's Auto Reviews" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJla13cU_l6Itg8yEtOiAqQ" />
             <outline title="Joey Engelman" type="rss"
@@ -589,6 +587,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpNjnNFLr4UHNGHsG4uC2Ow" />
             <outline title="LTA North" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSF_aFGIIIoWY30GVV19TKA" />
+            <outline title="dkdynamite" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe1yEAEbnDWM7nVi3y2pjYw" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
