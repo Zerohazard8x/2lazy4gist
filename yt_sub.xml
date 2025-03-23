@@ -299,8 +299,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClxj3GlGphZVgd1SLYhZKmg" />
             <outline title="Nintendo 公式チャンネル" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkH3CcMfqww9RsZvPRPkAJA" />
-            <outline title="Arcus's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Arcus" />
+            <outline title="EEvisu" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRzBf605ucXv8pDMIEnCieg" />
+            <outline title="Nadeshot" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs3l6DsCu9ZOXkJkvskEsrQ" />
         </outline>
         <outline title="video-general-news">
             <outline title="Call of Duty: Mobile Esports"
@@ -583,6 +585,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgIMbGazP0uBDy9JVCqBUaA" />
             <outline title="WardyNYM" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaX-QGxVlF7QXKzHwWAQcdQ" />
+            <outline title="Asiabasket" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpNjnNFLr4UHNGHsG4uC2Ow" />
+            <outline title="LTA North" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSF_aFGIIIoWY30GVV19TKA" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR3NAgg's Twitch video RSS" type="rss"
@@ -723,8 +729,6 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/MysticSquad_TV" />
             <outline title="Natarsha's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Natarsha" />
-            <outline title="Nadeshot's Twitch video RSS"
-                type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Nadeshot" />
             <outline title="Noko's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Noko" />
             <outline title="NounsEsports's Twitch video RSS"
@@ -919,6 +923,8 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/willneff" />
             <outline title="Nadeshot's Twitch video RSS"
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Nadeshot" />
+            <outline title="Arcus's Twitch video RSS" type="rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/Arcus" />
         </outline>
     </body>
 </opml>
