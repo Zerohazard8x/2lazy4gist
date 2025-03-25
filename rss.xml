@@ -18,22 +18,6 @@
             xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=shr.pn+merge+4&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2Fg29ulT&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2F2OZ3Gs&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FhjeCGK&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2Fwvmdem&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FRv8XU3&amp;feed_6=&amp;feed_7=&amp;feed_8=&amp;feed_9=&amp;feed_10=&amp;limit=&amp;format=Atom" />
         <outline title="shr.pn merge 5" type="rss"
             xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=shr.pn+merge+5&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FJQw2vr&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FI0eBQ7&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FLd5TzZ&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FxqcoM1&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2F89oolm&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2F3DrHC3&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FywcrmD&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2FOWFfLE&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2Flx3aPl&amp;feed_10=&amp;limit=&amp;format=Atom" />
-        <outline title="forums">
-            <outline title="PS4 CFW and Hacks" type="rss"
-                xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
-            <outline title="PS4 News" type="rss"
-                xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
-            <outline title="Nintendo Switch" type="rss"
-                xmlUrl="https://gbatemp.net/forums/nintendo-switch.283/index.rss" />
-            <outline title="Mozilla Hacks – the Web developer blog" type="rss"
-                xmlUrl="https://hacks.mozilla.org/feed/" />
-            <outline title="The Mozilla Blog" type="rss"
-                xmlUrl="https://blog.mozilla.org/en/feed/" />
-            <outline title="Xbox Wire" type="rss"
-                xmlUrl="https://news.xbox.com/en-us/feed/" />
-            <outline title="Bing Blogs" type="rss"
-                xmlUrl="https://blogs.bing.com/Home/feed" />
-        </outline>
         <outline title="video-news">
             <outline title="Adobe" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
