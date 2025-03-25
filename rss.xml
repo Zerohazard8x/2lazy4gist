@@ -350,6 +350,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g" />
             <outline title="Ace Force 2" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC__LG40ZPhto_LP-3AwOJaw" />
+            <outline title="本田技研工業株式会社 (Honda)" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC74rufV9sOK7FbiOuGAUfBA" />
+            <outline title="Toyota Motor Corporation" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-XFpnxDaYpDdXYM57hk-VQ" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"
