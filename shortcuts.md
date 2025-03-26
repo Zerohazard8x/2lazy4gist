@@ -62,4 +62,4 @@
 
 ---
 
-Foreign social: `site:weibo.com | site:weibo.cn | site:hupu.com | site:shirataba.net | site:5ch.net | site:nate.com | site:naver.com`
+<!-- Foreign social: `site:weibo.com | site:weibo.cn | site:hupu.com | site:shitaraba.net | site:5ch.net | site:nate.com | site:naver.com` -->
