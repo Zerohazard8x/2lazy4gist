@@ -923,6 +923,8 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Nadeshot" />
             <outline title="Arcus's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Arcus" />
+            <outline title="AmazonMusic's Twitch video RSS" type="rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/AmazonMusic" />
         </outline>
     </body>
 </opml>
