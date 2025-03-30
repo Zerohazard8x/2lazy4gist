@@ -338,6 +338,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-XFpnxDaYpDdXYM57hk-VQ" />
             <outline title="SILENT HILL (Official)" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3by6cFtKKxSpA5iP9XrNlg" />
+            <outline title="Halo's Twitch video RSS" type="rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/Halo" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"

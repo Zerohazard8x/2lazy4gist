@@ -645,8 +645,6 @@
                 type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ElisaEsports" />
             <outline title="BarbarousKing's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/BarbarousKing" />
-            <outline title="Halo's Twitch video RSS" type="rss"
-                xmlUrl="https://twitchrss.appspot.com/vod/Halo" />
             <outline title="Elly's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/Elly" />
             <outline title="JSmoothHD's Twitch video RSS"
