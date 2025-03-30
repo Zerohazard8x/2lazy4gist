@@ -156,8 +156,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP2NOm_MoASfovXVY4nGvgQ" />
             <outline title="iRacing" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPEcqkRG-kf2Vk6Rn_2WZSQ" />
-            <outline title="Rebellion" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM1xfX_G9oLhyb_TkTYjjaA" />
             <outline title="Street Fighter" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVg9nCmmfIyP4QcGOnZZ9Qg" />
             <outline title="KOJIMA PRODUCTIONS" type="rss"
@@ -338,6 +336,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC74rufV9sOK7FbiOuGAUfBA" />
             <outline title="Toyota Motor Corporation" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-XFpnxDaYpDdXYM57hk-VQ" />
+            <outline title="SILENT HILL (Official)" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3by6cFtKKxSpA5iP9XrNlg" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"

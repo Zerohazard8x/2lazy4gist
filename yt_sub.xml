@@ -95,12 +95,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCckPYr9b_iVucz8ID1Q67sw" />
             <outline title="Sakura Stardust" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe6Kb_fN2ZEC0bMdDye7ZQg" />
-            <outline title="WrestleTalk" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRSW0_U9cdAQU5FEOXs-DJw" />
             <outline title="WrestlinGifs" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcvM7fNSMn9Qm3BZnKTK8oQ" />
-            <outline title="Wrestling Daze" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRfz689NhYtN-byWAWK68oA" />
             <outline title="Gadget Addict" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjmjkvqp279nTv5Tg2KB2aA" />
             <outline title="minnieportable" type="rss"
@@ -464,6 +460,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEg25rdRZXg32iwai6N6l0w" />
             <outline title="WhatCulture Wrestling" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq8jp0E99ELBvmBxjJ-JLgA" />
+            <outline title="WrestleTalk" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRSW0_U9cdAQU5FEOXs-DJw" />
+            <outline title="Wrestling Daze" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRfz689NhYtN-byWAWK68oA" />
             <outline title="WWE" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ5v_MCY6GNUBTO8-D3XoAg" />
             <outline title="Flying Pig United" type="rss"
