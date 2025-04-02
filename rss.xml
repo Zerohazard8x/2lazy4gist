@@ -342,6 +342,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Halo" />
             <outline title="Intel" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk7SjrXVXAj8m8BLgzh6dGA" />
+            <outline title="Tomb Raider" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaAUQeeSpnQmeEhPl1Rru0A" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"
