@@ -33,12 +33,20 @@
 
 <!-- ## news (rss) -->
 
-<!-- [*queryTitle* - Bing News](https://bing.com/news/search?format=rss&q=[query]) -->
-<!-- [*queryTitle* - Bing Search RSS](https://bing.com/search?format=rss&q=[query]) -->
-<!-- [*queryTitle* - Feedle](https://feedle.world/rss/?query=[query]) -->
-<!-- [*queryTitle* - Google News](https://news.google.com/rss/search?q=[query]) -->
-<!-- [*queryTitle* - Reddit Search](http://www.reddit.com/search.rss?t=day&sort=top&q=[query]) -->
-<!-- [*queryTitle* - SearX](https://search.mdosch.de/searxng/search?language=en-US&time_range=day&safesearch=0&format=rss&enabled_engines=all&q=[query]) -->
+<!-- ```xml
+<outline title="*queryTitle* - Bing News" type="rss"
+    xmlUrl="https://bing.com/news/search?format=rss&amp;q=[query]" />
+<outline title="*queryTitle* - Bing Search RSS" type="rss"
+    xmlUrl="https://bing.com/search?format=rss&amp;q=[query]" />
+<outline title="*queryTitle* - Feedle" type="rss"
+    xmlUrl="https://feedle.world/rss/?query=[query]" />
+<outline title="*queryTitle* - Google News" type="rss"
+    xmlUrl="https://news.google.com/rss/search?q=[query]" />
+<outline title="*queryTitle* - Reddit Search" type="rss"
+    xmlUrl="http://www.reddit.com/search.rss?t=day&amp;sort=top&amp;q=[query]" />
+<outline title="*queryTitle* - SearX" type="rss"
+    xmlUrl="https://search.mdosch.de/searxng/search?language=en-US&amp;time_range=day&amp;safesearch=0&amp;format=rss&amp;enabled_engines=all&amp;q=[query]" />
+``` -->
 
 <!-- ## news (not rss) -->
 
