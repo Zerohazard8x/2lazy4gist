@@ -340,6 +340,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk7SjrXVXAj8m8BLgzh6dGA" />
             <outline title="Tomb Raider" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaAUQeeSpnQmeEhPl1Rru0A" />
+            <outline title="Arena Breakout" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCIfbC421a_ABTFAeqqrQMg" />
         </outline>
         <outline title="forums">
             <outline title="PS4 CFW and Hacks" type="rss"
