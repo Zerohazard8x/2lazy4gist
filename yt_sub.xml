@@ -295,6 +295,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRzBf605ucXv8pDMIEnCieg" />
             <outline title="Nadeshot" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs3l6DsCu9ZOXkJkvskEsrQ" />
+            <outline title="AyChristeneGames" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0kRw95ZXrERqDPwQPUvzKQ" />
+            <outline title="Boomstick Gaming" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUEBwthcpWBTQXscn8bpS6Q" />
         </outline>
         <outline title="spoilers">
             <outline title="Gaming Fight Club" type="rss"
@@ -641,6 +645,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Arcus" />
             <outline title="AmazonMusic's Twitch video RSS" type="rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/AmazonMusic" />
+            <outline title="Ezekiel_III's Twitch video RSS" type="rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/Ezekiel_III" />
         </outline>
     </body>
 </opml>
