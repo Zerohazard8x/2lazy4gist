@@ -35,12 +35,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjJe1z4OSKKav9MLVEvXWfA" />
             <outline title="Android" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" />
-            <outline title="Android" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" />
             <outline title="Anthropic" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA" />
-            <outline title="Apex Legends" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZV6M2THA81QT9hrVWJG3A" />
             <outline title="Apex Legends" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZV6M2THA81QT9hrVWJG3A" />
             <outline title="Apple" type="rss"
