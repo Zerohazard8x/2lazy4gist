@@ -295,8 +295,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCt-HTfaCUz8QIoknqyXKYiw" />
             <outline title="WoolieVersus" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyOJzQzyDGihKpTO3-zyhYg" />
-            <outline title="WorldofAI" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2WmuBuFq6gL08QYG-JjXKw" />
             <outline title="WrestlinGifs" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcvM7fNSMn9Qm3BZnKTK8oQ" />
             <outline title="Wrestling With Wregret" type="rss"
@@ -627,6 +625,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiQMYozSSTkJ2twtZM1bG9w" />
             <outline title="감스트GAMST" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbFzvzDu17eDZ3RIeaLRswQ" />
+            <outline title="WorldofAI" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2WmuBuFq6gL08QYG-JjXKw" />
         </outline>
         <outline title="spoilers">
             <outline title="ConCon" type="rss"
