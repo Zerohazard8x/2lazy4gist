@@ -331,6 +331,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9XKrQI5N24RDzZA8fheEjg" />
             <outline title="tarik" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTbtlMEiBfs0zZLQyJzR0Uw" />
+            <outline title="blameitonjorge" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCU3oAyhHDXjgbxazqOEG2UA" />
         </outline>
         <outline title="video-general-news">
             <outline title="ASEAN United FC" type="rss"
