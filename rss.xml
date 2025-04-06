@@ -362,6 +362,7 @@
             <outline title="Windows Experience Blog" type="rss"
                 xmlUrl="https://blogs.windows.com/windowsexperience/feed" />
             <outline title="Xbox Wire" type="rss" xmlUrl="https://news.xbox.com/en-us/feed/" />
+            <outline title="Waterfox | Blog" type="rss" xmlUrl="https://www.waterfox.net/blog/rss.xml" />
         </outline>
     </body>
 </opml>
