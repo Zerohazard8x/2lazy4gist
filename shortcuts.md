@@ -34,7 +34,7 @@
 <!-- ## news (rss) -->
 
 <!-- ```xml
-<outline title="*queryTitle* - Bing News" type="rss"
+<outline title="*queryTitle* - Bing News (looks broken)" type="rss"
     xmlUrl="https://bing.com/news/search?format=rss&amp;q=[query]" />
 <outline title="*queryTitle* - Bing Search RSS" type="rss"
     xmlUrl="https://bing.com/search?format=rss&amp;q=[query]" />
