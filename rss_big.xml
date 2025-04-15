@@ -57,6 +57,26 @@
         xmlUrl="https://shr.pn/OIcpR" /> -->
         <!-- <outline title="reddit.com: search results - Service news" type="rss"
         xmlUrl="https://shr.pn/mg2jf" /> -->
+        <outline title="google alert">
+            <outline title="Google Alert - Fun" type="rss"
+                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
+            <outline title="Google Alert - Games" type="rss"
+                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
+            <outline title="Google Alert - Service news" type="rss"
+                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
+            <outline title="Google Alert - Global" type="rss"
+                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
+            <outline title="Google Alert - Financial" type="rss"
+                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
+            <outline title="Google Alert - New things" type="rss"
+                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
+            <outline title="Google Alert - Local" type="rss"
+                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
+            <outline title="Google Alert - Opinionated" type="rss"
+                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
+            <outline title="Google Alert - Political" type="rss"
+                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12634018877518289307" />
+        </outline>
         <outline title="feedle">
             <outline title="Feedle: Financial" type="rss"
                 xmlUrl="https://zerohazard8x.short.gy/FZwq3N" />
