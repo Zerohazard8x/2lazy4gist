@@ -627,6 +627,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbFzvzDu17eDZ3RIeaLRswQ" />
             <outline title="WorldofAI" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2WmuBuFq6gL08QYG-JjXKw" />
+            <outline title="Project Horizon - VALORANT" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYpy_PUNzdJwlnPp7ySvAnA" />
         </outline>
         <outline title="spoilers">
             <outline title="ConCon" type="rss"
@@ -972,6 +974,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/willneff" />
             <outline title="zentreya's Twitch video rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/zentreya" />
+            <outline title="projhrzn's Twitch video rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/projhrzn" />
         </outline>
     </body>
 </opml>

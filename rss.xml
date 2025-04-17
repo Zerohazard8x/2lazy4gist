@@ -341,6 +341,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsof6qICUcobSUN0tTnR-4g" />
             <outline title="Coachella" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHF66aWLOxBW4l6VkSrS3cQ" />
+            <outline title="MATR1X FIRE" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGdbZiodUNfXUohlffb-b4Q" />
         </outline>
         <outline title="forums">
             <outline title="Apple Newsroom" type="rss"
