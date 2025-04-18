@@ -629,6 +629,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2WmuBuFq6gL08QYG-JjXKw" />
             <outline title="Project Horizon - VALORANT" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYpy_PUNzdJwlnPp7ySvAnA" />
+                <outline title="WWE NXT" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9YHZGzVhgZJRhqYOoBQ_zA" />
         </outline>
         <outline title="spoilers">
             <outline title="ConCon" type="rss"
