@@ -343,6 +343,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHF66aWLOxBW4l6VkSrS3cQ" />
             <outline title="MATR1X FIRE" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGdbZiodUNfXUohlffb-b4Q" />
+            <outline title="Bethesda's Twitch video RSS" type="rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/Bethesda" />
         </outline>
         <outline title="forums">
             <outline title="Apple Newsroom" type="rss"
