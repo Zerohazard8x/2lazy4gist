@@ -81,8 +81,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeVmD7fCjUo5Nqk35zcF6Og" />
             <outline title="EEvisu" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRzBf605ucXv8pDMIEnCieg" />
-            <outline title="Espresso" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnYuPwWC1WB3uasxSXoARXg" />
             <outline title="FightinCowboy" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9N0DmacOi4iWKQyygX89OQ" />
             <outline title="Fire Mountain" type="rss"
@@ -459,8 +457,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0uDpQfU-FwY571UEhgd87Q" />
             <outline title="LTA North" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSF_aFGIIIoWY30GVV19TKA" />
-            <outline title="Lakers Nation" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbNWe0snu7U9H2qioNH2nvg" />
             <outline title="LarryLurr" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTc6QUhdAc-yU99rpDxlWrw" />
             <outline title="LawTWINZ" type="rss"
@@ -629,6 +625,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYpy_PUNzdJwlnPp7ySvAnA" />
             <outline title="WWE NXT" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9YHZGzVhgZJRhqYOoBQ_zA" />
+            <outline title="Espresso" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnYuPwWC1WB3uasxSXoARXg" />
+            <outline title=" MLBB Philippines Official" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3QyDSID3tQBDRxMnfcfFiA" />
         </outline>
         <outline title="spoilers">
             <outline title="ConCon" type="rss"
