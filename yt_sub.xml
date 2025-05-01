@@ -629,6 +629,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnYuPwWC1WB3uasxSXoARXg" />
             <outline title=" MLBB Philippines Official" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3QyDSID3tQBDRxMnfcfFiA" />
+            <outline title="MESA TV" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq3gcGeMyX6YJUQgl2dpx-w" />
+            <outline title="Arozzi NLC" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCi8YIe5wtZs112jswxvKb6A" />
         </outline>
         <outline title="spoilers">
             <outline title="ConCon" type="rss"
@@ -976,6 +980,10 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/zentreya" />
             <outline title="projhrzn's Twitch video rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/projhrzn" />
+            <outline title="nlclol's Twitch video rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/mesa_gg" />
+            <outline title="nlclol's Twitch video rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/nlclol" />
         </outline>
     </body>
 </opml>
