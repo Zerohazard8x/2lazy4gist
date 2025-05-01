@@ -980,10 +980,12 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/zentreya" />
             <outline title="projhrzn's Twitch video rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/projhrzn" />
-            <outline title="nlclol's Twitch video rss"
+            <outline title="mesa_gg's Twitch video rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/mesa_gg" />
             <outline title="nlclol's Twitch video rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/nlclol" />
+            <outline title="ohnepixel's Twitch video rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/ohnepixel" />
         </outline>
     </body>
 </opml>
