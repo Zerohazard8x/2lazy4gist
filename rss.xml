@@ -372,6 +372,8 @@
                 xmlUrl="https://www.waterfox.net/blog/rss.xml" />
             <outline title="Microsoft Copilot Blog" type="rss"
                 xmlUrl="https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/" />
+            <outline title="Microsoft Azure Blog" type="rss"
+                xmlUrl="https://azure.microsoft.com/en-us/blog/feed/" />
         </outline>
     </body>
 </opml>
