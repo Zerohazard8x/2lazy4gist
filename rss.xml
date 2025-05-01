@@ -347,6 +347,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/Bethesda" />
             <outline title="505 Games" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeO7Obz1NdrZYhI4PtstNuA" />
+            <outline title="ARC Raiders" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHvATl70qssFSzclIIhd8xQ" />
         </outline>
         <outline title="forums">
             <outline title="Apple Newsroom" type="rss"
