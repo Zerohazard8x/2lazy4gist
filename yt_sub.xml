@@ -994,6 +994,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/GOFNS" />
             <outline title="ardiis's Twitch video rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/ardiis" />
+            <outline title="ThunderpickTV's Twitch video rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/ThunderpickTV" />
         </outline>
     </body>
 </opml>
