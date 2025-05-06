@@ -535,8 +535,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdnZdQxYXnbN4uWJg96oGxw" />
             <outline title="Red Bull Gaming" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8VddvuHJzIj__Ud0rY2_ww" />
-            <outline title="Reuters" type="rss"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ" />
             <outline title="Sam Witteveen" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC55ODQSvARtgSyc8ThfiepQ" />
             <outline title="Sentinels" type="rss"
