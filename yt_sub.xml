@@ -629,6 +629,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq3gcGeMyX6YJUQgl2dpx-w" />
             <outline title="Arozzi NLC" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCi8YIe5wtZs112jswxvKb6A" />
+            <outline title="Today on Twitch" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC56B-_Psyem2bzeEY_-Cslw" />
+            <outline title="GMA Sports PH" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYv0O-2nQkr0SCmQMv3CcNA" />
         </outline>
         <outline title="spoilers">
             <outline title="ConCon" type="rss"
