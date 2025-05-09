@@ -643,6 +643,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXwCtIjfzbUSES1Yg0_Tznw" />
             <outline title="Trophy Tom" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFXmIUDNofRpYSG7lku0i_Q" />
+            <outline title="Maka91Productions" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZojkqUeuaZyAQc8KaBNrJw" />
         </outline>
         <outline title="Twitch Following">
             <outline title="AR12Gaming's Twitch video rss"
