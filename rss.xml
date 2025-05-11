@@ -349,6 +349,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeO7Obz1NdrZYhI4PtstNuA" />
             <outline title="ARC Raiders" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHvATl70qssFSzclIIhd8xQ" />
+            <outline title="Team NINJA Studio" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCl8iNF8pssHi5sS84XIP8-g" />
+            <outline title="KOEI TECMO AMERICA" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvGWdOpqf44AChMzqV9Ja5Q" />
         </outline>
         <outline title="forums">
             <outline title="Apple Newsroom" type="rss"
