@@ -390,6 +390,14 @@
                 xmlUrl="https://data.rito.news/riotgames/en/news.rss" />
             <outline title="Anthropic Engineering" type="rss"
                 xmlUrl="https://rsshub.app/anthropic/engineering" />
+            <outline title="Gemini" type="rss"
+                xmlUrl="https://blog.google/products/gemini/rss/" />
+            <outline title="Android" type="rss"
+                xmlUrl="https://blog.google/products/android/rss/" />
+            <outline title="Search" type="rss"
+                xmlUrl="https://blog.google/products/search/rss/" />
+            <outline title="Google DeepMind Blog" type="rss"
+                xmlUrl="https://deepmind.google/discover/blog/" />
         </outline>
     </body>
 </opml>
