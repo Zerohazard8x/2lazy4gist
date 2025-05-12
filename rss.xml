@@ -380,6 +380,7 @@
                 xmlUrl="https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/" />
             <outline title="Microsoft Azure Blog" type="rss"
                 xmlUrl="https://azure.microsoft.com/en-us/blog/feed/" />
+            <outline title="AMD GPUOpen" type="rss" xmlUrl="https://gpuopen.com/learn/" />
         </outline>
     </body>
 </opml>
