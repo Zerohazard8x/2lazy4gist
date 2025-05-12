@@ -381,6 +381,7 @@
             <outline title="Microsoft Azure Blog" type="rss"
                 xmlUrl="https://azure.microsoft.com/en-us/blog/feed/" />
             <outline title="AMD GPUOpen" type="rss" xmlUrl="https://gpuopen.com/learn/" />
+            <outline title="Intel Gaming Access" type="rss" xmlUrl="https://game.intel.com/us/feed/" />
         </outline>
     </body>
 </opml>
