@@ -382,6 +382,14 @@
                 xmlUrl="https://azure.microsoft.com/en-us/blog/feed/" />
             <outline title="AMD GPUOpen" type="rss" xmlUrl="https://gpuopen.com/learn/" />
             <outline title="Intel Gaming Access" type="rss" xmlUrl="https://game.intel.com/us/feed/" />
+            <outline title="VALORANT News: Updates, videos, and latest patch notes" type="rss"
+                xmlUrl="https://data.rito.news/val/en-us/news.rss" />
+            <outline title="VALORANT - Esports News" type="rss"
+                xmlUrl="https://data.rito.news/val/en-us/esports.rss" />
+            <outline title="News | Riot Games" type="rss"
+                xmlUrl="https://data.rito.news/riotgames/en/news.rss" />
+            <outline title="Anthropic Engineering" type="rss"
+                xmlUrl="https://rsshub.app/anthropic/engineering" />
         </outline>
     </body>
 </opml>
