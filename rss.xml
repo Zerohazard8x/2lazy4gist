@@ -410,6 +410,7 @@
                 xmlUrl="https://ir.united.com/rss/news-releases.xml" />
             <outline title="Sony Global News Releases" type="rss"
                 xmlUrl="https://www.sony.com/en/SonyInfo/News/Press/data/pressrelease_for_top.xml" />
+            <outline title="The Keyword" type="rss" xmlUrl="https://blog.google/rss/" />
         </outline>
     </body>
 </opml>
