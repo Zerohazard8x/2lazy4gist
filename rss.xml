@@ -398,6 +398,18 @@
                 xmlUrl="https://blog.google/products/search/rss/" />
             <outline title="Google DeepMind Blog" type="rss"
                 xmlUrl="https://deepmind.google/discover/blog/" />
+            <outline title="Toyota Motor Corporation Official Global Website" type="rss"
+                xmlUrl="https://global.toyota/export/en/allnews_rss.xml" />
+            <outline title="IR News" type="rss"
+                xmlUrl="https://honda-ir.swcms.net/en/investors/news.html" />
+            <outline title="Source" type="rss" xmlUrl="https://news.microsoft.com/source/feed/" />
+            <outline title="Newsroom" type="rss" xmlUrl="https://newsroom.intel.com/feed" />
+            <outline title="American Airlines News Releases" type="rss"
+                xmlUrl="https://americanairlines.gcs-web.com/rss/news-releases.xml" />
+            <outline title="United Airlines Holdings, Inc. News Releases" type="rss"
+                xmlUrl="https://ir.united.com/rss/news-releases.xml" />
+            <outline title="Sony Global News Releases" type="rss"
+                xmlUrl="https://www.sony.com/en/SonyInfo/News/Press/data/pressrelease_for_top.xml" />
         </outline>
     </body>
 </opml>
