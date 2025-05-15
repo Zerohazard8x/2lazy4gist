@@ -635,6 +635,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYv0O-2nQkr0SCmQMv3CcNA" />
             <outline title="PlayStation Esports" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQFJhAPACRwPd9Thy-h5gCw" />
+            <outline title="ACL-live1" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0UcS6L65gexhOedsMX2okQ" />
         </outline>
         <outline title="spoilers">
             <outline title="ConCon" type="rss"
@@ -1002,6 +1004,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/ThunderpickTV" />
             <outline title="LarryLurr's Twitch video rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/LarryLurr" />
+            <outline title="acl_val's Twitch video rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/acl_val" />
         </outline>
     </body>
 </opml>
