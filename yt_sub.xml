@@ -1006,6 +1006,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/LarryLurr" />
             <outline title="acl_val's Twitch video rss"
                 xmlUrl="https://twitchrss.appspot.com/vod/acl_val" />
+            <outline title="WillChobra's Twitch video rss"
+                xmlUrl="https://twitchrss.appspot.com/vod/WillChobra" />
         </outline>
     </body>
 </opml>
