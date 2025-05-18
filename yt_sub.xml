@@ -449,10 +449,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCj1J3QuIftjOq9iv_rr7Egw" />
             <outline title="Valorant Mundi"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmbfLS3A3n_XbdvY8Zp-BWA" />
-            <outline title="Xbox On"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCozZmz40Oc6NYD4JtZJgO8A" />
-            <outline title="dkdynamite"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe1yEAEbnDWM7nVi3y2pjYw" />
             <outline title="genesisgg"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7boel3KeF8CfIoe0j1WHqA" />
             <outline title="more tarik"
@@ -599,6 +595,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC60Z18qxfHNBdI-c_dE6z1Q" />
         </outline>
         <outline text="YouTube Misc News">
+            <outline title="Xbox On"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCozZmz40Oc6NYD4JtZJgO8A" />
+            <outline title="dkdynamite"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe1yEAEbnDWM7nVi3y2pjYw" />
             <outline title="Audience Reactions"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrBrbDWc3FYKEZfD7E0PXEQ" />
             <outline title="Espresso"
