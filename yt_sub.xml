@@ -467,6 +467,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3QyDSID3tQBDRxMnfcfFiA" />
             <outline title="LTA North"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSF_aFGIIIoWY30GVV19TKA" />
+            <outline title="WillChobra"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeaQBmZYQdPIOxA1JD4Py9g" />
         </outline>
         <outline text="YouTube Sports">
             <outline title="FAN REACTIONS HUB"
