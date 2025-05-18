@@ -551,6 +551,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRgNL5m0c95hDt-OiJaVM6w" />
             <outline title="Commissioner Dynamo"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7Cr9o-Qvm_Fdlh2R_1UeUA" />
+            <outline title="NTV PH"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe6uZ90NjlLYqU0MppVpbCA" />
         </outline>
         <outline text="YouTube Wrestling">
             <outline title="All Elite Wrestling"
@@ -597,8 +599,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC60Z18qxfHNBdI-c_dE6z1Q" />
         </outline>
         <outline text="YouTube Misc News">
-            <outline title="NTV PH"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe6uZ90NjlLYqU0MppVpbCA" />
             <outline title="Audience Reactions"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrBrbDWc3FYKEZfD7E0PXEQ" />
             <outline title="Espresso"
