@@ -473,6 +473,10 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSF_aFGIIIoWY30GVV19TKA" />
         </outline>
         <outline text="YouTube Sports">
+            <outline title="FAN REACTIONS HUB"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs1M0wmfxAbv7m5TCoQYtGw" />
+            <outline title="감스트GAMST"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbFzvzDu17eDZ3RIeaLRswQ" />
             <outline title="Asiabasket"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpNjnNFLr4UHNGHsG4uC2Ow" />
             <outline title="ASEAN United FC"
@@ -609,8 +613,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbiOAho0h23IMInURiESx1w" />
             <outline title="Drillstar"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyFS2kcSFvOFHOrdTT7Y97w" />
-            <outline title="FAN REACTIONS HUB"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs1M0wmfxAbv7m5TCoQYtGw" />
             <outline title="IGN"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw" />
             <outline title="Julian Goldie SEO"
@@ -643,8 +645,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA" />
             <outline title="zollotech"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiQMYozSSTkJ2twtZM1bG9w" />
-            <outline title="감스트GAMST"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbFzvzDu17eDZ3RIeaLRswQ" />
             <outline title="QUEENZFLIP"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEQoJrBoUl07lj2RAe_8bgg" />
         </outline>
