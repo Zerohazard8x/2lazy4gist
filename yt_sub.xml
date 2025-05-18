@@ -637,6 +637,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQFJhAPACRwPd9Thy-h5gCw" />
             <outline title="ACL-live1" type="rss"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0UcS6L65gexhOedsMX2okQ" />
+            <outline title="Smart Sports" type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRgNL5m0c95hDt-OiJaVM6w" />
         </outline>
         <outline title="spoilers">
             <outline title="ConCon" type="rss"
