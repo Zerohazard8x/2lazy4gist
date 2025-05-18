@@ -427,8 +427,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmeeY9kzNswUpbYyJntb3Aw" />
             <outline title="PUBG MOBILE Philippines"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgn7fCFfIjUx34GMGbSEYaw" />
-            <outline title="QUEENZFLIP"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEQoJrBoUl07lj2RAe_8bgg" />
             <outline title="Rainbow Six Esports"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWKHac5bjhsUtSnMDFCT-7A" />
             <outline title="Rainbow6 Hub"
@@ -647,6 +645,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiQMYozSSTkJ2twtZM1bG9w" />
             <outline title="감스트GAMST"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbFzvzDu17eDZ3RIeaLRswQ" />
+            <outline title="QUEENZFLIP"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEQoJrBoUl07lj2RAe_8bgg" />
         </outline>
         <outline title="spoilers">
             <outline title="ConCon"
