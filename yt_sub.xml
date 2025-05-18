@@ -469,6 +469,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQFJhAPACRwPd9Thy-h5gCw" />
             <outline title=" MLBB Philippines Official"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3QyDSID3tQBDRxMnfcfFiA" />
+            <outline title="LTA North"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSF_aFGIIIoWY30GVV19TKA" />
         </outline>
         <outline text="YouTube Sports">
             <outline title="Asiabasket"
@@ -569,6 +571,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCw-BgB997z8oxJZdSUn2qzA" />
             <outline title="WheezyBlonde"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoe52S7YI72_YzBeBqRWdoQ" />
+            <outline title="The GeekBox"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLkyJLX9b6YF5Jw7vIVF-2Q" />
         </outline>
         <outline text="YouTube News">
             <outline title="C-SPAN"
@@ -615,8 +619,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT6QFE3peNry9PdO5uGj96g" />
             <outline title="LEETOTHEVI"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0FRSQh4P5S-5FwnL8hsQrQ" />
-            <outline title="LTA North"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSF_aFGIIIoWY30GVV19TKA" />
             <outline title="LawTWINZ"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0DMUCkJqSlLg2_WsX8dfA" />
             <outline title="MANIACITV"
@@ -629,8 +631,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp0mxgvv_9NT4akvi2D_uiA" />
             <outline title="Sam Witteveen"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC55ODQSvARtgSyc8ThfiepQ" />
-            <outline title="The GeekBox"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLkyJLX9b6YF5Jw7vIVF-2Q" />
             <outline title="Two Minute Papers"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg" />
             <outline title="WardyNYM"
