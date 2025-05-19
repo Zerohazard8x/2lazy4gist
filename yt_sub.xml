@@ -301,6 +301,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9XKrQI5N24RDzZA8fheEjg" />
             <outline title="blameitonjorge"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCU3oAyhHDXjgbxazqOEG2UA" />
+            <outline title="Super GT"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-sJ8u8eu_ivfzekwkue38g" />
         </outline>
         <outline text="YouTube Esports">
             <outline title="Hungrybox"
@@ -469,6 +471,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSF_aFGIIIoWY30GVV19TKA" />
             <outline title="WillChobra"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeaQBmZYQdPIOxA1JD4Py9g" />
+            <outline title="ACL-live1"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0UcS6L65gexhOedsMX2okQ" />
         </outline>
         <outline text="YouTube Sports">
             <outline title="FAN REACTIONS HUB"
@@ -543,8 +547,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBoX1bqthB6FafsojUMMGdg" />
             <outline title="GMA Sports PH"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYv0O-2nQkr0SCmQMv3CcNA" />
-            <outline title="ACL-live1"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0UcS6L65gexhOedsMX2okQ" />
             <outline title="Smart Sports"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRgNL5m0c95hDt-OiJaVM6w" />
             <outline title="Commissioner Dynamo"
