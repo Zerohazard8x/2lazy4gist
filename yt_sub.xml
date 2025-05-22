@@ -283,8 +283,6 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtr2VqYDR7mx0Q15jOfK1vg" />
             <outline title="emongg"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAtmNvxD7eOs_kwxm-zzoMQ" />
-            <outline title="fl0m"
-                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVXA3FX3fCv-YEuBlxpeFVg" />
             <outline title="jackfrags"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCw7FkXsC00lH2v2yB5LQoYA" />
             <outline title="joshseki"
@@ -305,6 +303,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-sJ8u8eu_ivfzekwkue38g" />
         </outline>
         <outline text="YouTube Esports">
+            <outline title="fl0m"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVXA3FX3fCv-YEuBlxpeFVg" />
             <outline title="Hungrybox"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvBHFNnPXt_re1WSdsennJg" />
             <outline title="Nadeshot"
@@ -1001,6 +1001,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/ow_esports" />
             <outline title="PUBGMOBILEEsports's Twitch video RSS"
                 xmlUrl="https://twitchrss.appspot.com/vod/PUBGMOBILEEsports" />
+            <outline title="LCK's Twitch video RSS"
+                xmlUrl="https://twitchrss.appspot.com/vod/LCK" />
         </outline>
     </body>
 </opml>
