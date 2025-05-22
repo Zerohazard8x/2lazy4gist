@@ -553,6 +553,8 @@
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7Cr9o-Qvm_Fdlh2R_1UeUA" />
             <outline title="NTV PH"
                 xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe6uZ90NjlLYqU0MppVpbCA" />
+            <outline title="Baller League UK"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPt7Obs5XB16IzmcL1bQhbg" />
         </outline>
         <outline text="YouTube Wrestling">
             <outline title="All Elite Wrestling"
@@ -857,6 +859,8 @@
                 xmlUrl="https://twitchrss.appspot.com/vod/RedBull" />
             <outline title="XboxOn's Twitch video RSS"
                 xmlUrl="https://twitchrss.appspot.com/vod/XboxOn" />
+            <outline title="BallerLeagueUK's Twitch video RSS"
+                xmlUrl="https://twitchrss.appspot.com/vod/BallerLeagueUK" />
         </outline>
         <outline title="Twitch Esports">
             <outline title="BLASTDota's Twitch video rss"
