@@ -400,7 +400,7 @@
                 xmlUrl="https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/" />
             <outline title="Microsoft Azure Blog"
                 xmlUrl="https://azure.microsoft.com/en-us/blog/feed/" />
-            <outline title="AMD GPUOpen" xmlUrl="https://gpuopen.com/learn/" />
+            <outline title="AMD GPUOpen" xmlUrl="https://gpuopen.com/feed/" />
             <outline title="Intel Gaming Access" xmlUrl="https://game.intel.com/us/feed/" />
             <outline title="VALORANT News: Updates, videos, and latest patch notes"
                 xmlUrl="https://data.rito.news/val/en-us/news.rss" />
@@ -421,7 +421,7 @@
             <outline title="Toyota Motor Corporation Official Global Website"
                 xmlUrl="https://global.toyota/export/en/allnews_rss.xml" />
             <outline title="IR News"
-                xmlUrl="https://honda-ir.swcms.net/en/investors/news.html" />
+                xmlUrl="https://global.honda/contentFeeds/content/multi3/en/investors/news" />
             <outline title="Source" xmlUrl="https://news.microsoft.com/source/feed/" />
             <outline title="Newsroom" xmlUrl="https://newsroom.intel.com/feed" />
             <outline title="American Airlines News Releases"
