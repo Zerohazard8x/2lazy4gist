@@ -222,8 +222,6 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 ## **_Questionable_**
 
-<https://dprojects.org/> - Windows "Lite" Builds  
-<https://filecr.com/> - Software ("rare" audio VSTs)  
 <https://watchwrestling24.net> - Wrestling VODs  
 
 - <https://softcobra.com> - ROMs
@@ -236,9 +234,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 ---
 
-- <https://libgen.is/> - Textbooks n Academic
-  - <https://libgen.rs/>
-  - <https://libgen.st/>
+<https://github.com/fmhy/FMHY/wiki>
 
 ---
 
