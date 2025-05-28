@@ -302,6 +302,7 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 
 - <https://mattw.io/youtube-metadata/> - Find channel id
 - <https://jabrek.net/dislike-en/> - View youtube dislikes
+- <https://hadzy.com> - Sort youtube comments
 
 ---
 
