@@ -4,236 +4,136 @@
         <title>Fluent Reader Export</title>
     </head>
     <body>
-        <!-- <outline title="Feedle: Financial"  xmlUrl="https://shr.pn/7qEwK" /> -->
-        <!-- <outline title="Feedle: Fun"  xmlUrl="https://shr.pn/u3XbS" /> -->
-        <!-- <outline title="Feedle: Games"  xmlUrl="https://shr.pn/m5brA" /> -->
-        <!-- <outline title="Feedle: Global"  xmlUrl="https://shr.pn/Klbke" /> -->
-        <!-- <outline title="Feedle: Local"  xmlUrl="https://shr.pn/tEkqs" /> -->
-        <!-- <outline title="Feedle: New things"  xmlUrl="https://shr.pn/sAeqF" /> -->
-        <!-- <outline title="Feedle: Opinionated"  xmlUrl="https://shr.pn/6izfX" /> -->
-        <!-- <outline title="Feedle: Political"  xmlUrl="https://shr.pn/6RycW" /> -->
-        <!-- <outline title="Feedle: Service news"  xmlUrl="https://shr.pn/eryQ4" /> -->
-        <!-- <outline title="Financial - BingNews"  xmlUrl="https://shr.pn/AkTLe" /> -->
-        <!-- <outline title="Fun - BingNews"  xmlUrl="https://shr.pn/gpSIR" /> -->
-        <!-- <outline title="Games - BingNews"  xmlUrl="https://shr.pn/WGetk" /> -->
-        <!-- <outline title="Global - BingNews"  xmlUrl="https://shr.pn/3n185" /> -->
-        <!-- <outline title="Google News: Financial"  xmlUrl="https://shr.pn/zmge9" /> -->
-        <!-- <outline title="Google News: Fun"  xmlUrl="https://shr.pn/KCi94" /> -->
-        <!-- <outline title="Google News: Games"  xmlUrl="https://shr.pn/6uigH" /> -->
-        <!-- <outline title="Google News: Global"  xmlUrl="https://shr.pn/ft01p" /> -->
-        <!-- <outline title="Google News: Local"  xmlUrl="https://shr.pn/W2Ui0" /> -->
-        <!-- <outline title="Google News: New things"  xmlUrl="" /> -->
-        <!-- <outline title="Google News: Opinionated"  xmlUrl="https://shr.pn/1FjSC" /> -->
-        <!-- <outline title="Google News: Service news"  xmlUrl="https://shr.pn/t8vk9" /> -->
-        <!-- <outline title="Local - BingNews"  xmlUrl="https://shr.pn/vEQJK" /> -->
-        <!-- <outline title="New things - BingNews"  xmlUrl="https://shr.pn/0ovzQ" /> -->
-        <!-- <outline title="Opinionated - BingNews"  xmlUrl="https://shr.pn/suQ5U" /> -->
-        <!-- <outline title="Political - BingNews"  xmlUrl="https://shr.pn/s9fRL" /> -->
-        <!-- <outline title="SearX - Financial"  xmlUrl="https://shr.pn/qhtVB" /> -->
-        <!-- <outline title="SearX - Fun"  xmlUrl="https://shr.pn/dkjZg" /> -->
-        <!-- <outline title="SearX - Games"  xmlUrl="https://shr.pn/v46jH" /> -->
-        <!-- <outline title="SearX - Global"  xmlUrl="https://shr.pn/uhaqK" /> -->
-        <!-- <outline title="SearX - Local"  xmlUrl="https://shr.pn/IQfbB" /> -->
-        <!-- <outline title="SearX - New things"  xmlUrl="https://shr.pn/lzBhO" /> -->
-        <!-- <outline title="SearX - Opinionated"  xmlUrl="https://shr.pn/53ZfB" /> -->
-        <!-- <outline title="SearX - Political"  xmlUrl="https://shr.pn/x0o4s" /> -->
-        <!-- <outline title="SearX - Service news"  xmlUrl="https://shr.pn/De8R2" /> -->
-        <!-- <outline title="Service news - BingNews"  xmlUrl="https://shr.pn/Ipzjc" /> -->
-        <!-- <outline title="reddit.com: search results - Financial" 
-        xmlUrl="https://shr.pn/RoqmX" /> -->
-        <!-- <outline title="reddit.com: search results - Fun" 
-        xmlUrl="https://shr.pn/G64ul" /> -->
-        <!-- <outline title="reddit.com: search results - Games" 
-        xmlUrl="https://shr.pn/zElRQ" /> -->
-        <!-- <outline title="reddit.com: search results - Global" 
-        xmlUrl="https://shr.pn/dec8n" /> -->
-        <!-- <outline title="reddit.com: search results - Local" 
-        xmlUrl="https://shr.pn/PgBoN" /> -->
-        <!-- <outline title="reddit.com: search results - New things" 
-        xmlUrl="https://shr.pn/cxv9i" /> -->
-        <!-- <outline title="reddit.com: search results - Opinionated" 
-        xmlUrl="https://shr.pn/vYX6p" /> -->
-        <!-- <outline title="reddit.com: search results - Political" 
-        xmlUrl="https://shr.pn/OIcpR" /> -->
-        <!-- <outline title="reddit.com: search results - Service news" 
-        xmlUrl="https://shr.pn/mg2jf" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/u3XbS" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/Klbke" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/sAeqF" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/6RycW" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/AkTLe" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/WGetk" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/zmge9" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/6uigH" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/W2Ui0" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/1FjSC" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/vEQJK" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/suQ5U" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/qhtVB" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/v46jH" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/IQfbB" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/53ZfB" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/De8R2" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/Ipzjc" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/RoqmX" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/G64ul" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/zElRQ" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/dec8n" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/PgBoN" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/cxv9i" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/vYX6p" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/OIcpR" /> -->
+        <!-- <outline xmlUrl="https://shr.pn/mg2jf" /> -->
         <!-- <outline title="talkwalker alert">
-            <outline title="Talkwalker Alert for Financial"
-        xmlUrl="https://alerts.talkwalker.com/alerts/rss/55G2G2VZ3ZHF3BN4TGHHVDZHJB73TJ7SCGEKZTKFB5JL6M55GK27VXHVOXNZLPVJY6ZQFWVWKZ3MNIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
+            <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/55G2G2VZ3ZHF3BN4TGHHVDZHJB73TJ7SCGEKZTKFB5JL6M55GK27VXHVOXNZLPVJY6ZQFWVWKZ3MNIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
-            <outline title="Talkwalker Alert for Service news"
-        xmlUrl="https://alerts.talkwalker.com/alerts/rss/JSMAJRIERWWVSNATM2YU4K5ZKFIBESYW7JZYBE4LQVFXOTWWDGF53BCHLZGK3OGH5CHATJXYFSVSBIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
+            <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/JSMAJRIERWWVSNATM2YU4K5ZKFIBESYW7JZYBE4LQVFXOTWWDGF53BCHLZGK3OGH5CHATJXYFSVSBIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
-            <outline title="Talkwalker Alert for Global"
-        xmlUrl="https://alerts.talkwalker.com/alerts/rss/37W35VZKY7BIEBZI6I7TZ5D45CNQUFBYT4K5WQ52WMSMY2LCOTPFCPPI7ESYHEC5BYECHLSG2KRJZIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
+            <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/37W35VZKY7BIEBZI6I7TZ5D45CNQUFBYT4K5WQ52WMSMY2LCOTPFCPPI7ESYHEC5BYECHLSG2KRJZIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
-            <outline title="Talkwalker Alert for Political"
-        xmlUrl="https://alerts.talkwalker.com/alerts/rss/X4UVJCIW3OKSIIVE2IOT7XSJKSYRVLZIKZXTJMLJ2VVZOHW54JK4MGFILTJNZ24TWIDQ2RA3QDU6NIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
+            <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/X4UVJCIW3OKSIIVE2IOT7XSJKSYRVLZIKZXTJMLJ2VVZOHW54JK4MGFILTJNZ24TWIDQ2RA3QDU6NIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
-            <outline title="Talkwalker Alert for Local"
-        xmlUrl="https://alerts.talkwalker.com/alerts/rss/2JZBCD27257MXCJUWIZF6O3ECKJ27GPOLFXDTRFHLKC3Q4FQ4JOLFWQA75IJ5N65VHPKIGXNIAZXFIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
+            <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/2JZBCD27257MXCJUWIZF6O3ECKJ27GPOLFXDTRFHLKC3Q4FQ4JOLFWQA75IJ5N65VHPKIGXNIAZXFIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
-            <outline title="Talkwalker Alert for Opinionated"
-        xmlUrl="https://alerts.talkwalker.com/alerts/rss/4LH22U5RSMQ64B7S7E4EV43CNXQYUQWKHCRCL6AXXDPTSKMGKEKAXS5VVUYZN5ZGJUSGFQZT77VJ5IQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
+            <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/4LH22U5RSMQ64B7S7E4EV43CNXQYUQWKHCRCL6AXXDPTSKMGKEKAXS5VVUYZN5ZGJUSGFQZT77VJ5IQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
-            <outline title="Talkwalker Alert for New things"
-        xmlUrl="https://alerts.talkwalker.com/alerts/rss/HTZAPAUBBKEQWBJEICLHLFPOCOGNPKNNDEDWMGWWR2U57BJNJVTI64ADWQXNZKVORYUC4BTEGO6RTIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
+            <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/HTZAPAUBBKEQWBJEICLHLFPOCOGNPKNNDEDWMGWWR2U57BJNJVTI64ADWQXNZKVORYUC4BTEGO6RTIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
-            <outline title="Talkwalker Alert for Games"
-        xmlUrl="https://alerts.talkwalker.com/alerts/rss/NHV2T453OXMGY6K6YJ6YRPD6GHTNN5D4EA4IXOZHIYF2RZV4YD6XB3WFXUPTUFCCIEJQW545HJVGVIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
+            <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/NHV2T453OXMGY6K6YJ6YRPD6GHTNN5D4EA4IXOZHIYF2RZV4YD6XB3WFXUPTUFCCIEJQW545HJVGVIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
-            <outline title="Talkwalker Alert for Fun"
-        xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
+            <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
         </outline> -->
         <outline title="google alert">
-            <outline title="Google Alert - Fun"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
-            <outline title="Google Alert - Games"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
-            <outline title="Google Alert - Service news"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
-            <outline title="Google Alert - Global"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
-            <outline title="Google Alert - Financial"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
-            <outline title="Google Alert - New things"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
-            <outline title="Google Alert - Local"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
-            <outline title="Google Alert - Opinionated"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
-            <outline title="Google Alert - Political"
-                xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12634018877518289307" />
+            <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
+            <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
+            <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
+            <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/18332171599350902259" />
+            <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12311220666887081993" />
+            <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11188889829215887024" />
+            <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
+            <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
+            <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12634018877518289307" />
         </outline>
         <outline title="feedle">
-            <outline title="Feedle: Financial"
-                xmlUrl="https://zerohazard8x.short.gy/FZwq3N" />
-            <outline title="Feedle: Fun" xmlUrl="https://zerohazard8x.short.gy/m0kWD2" />
-            <outline title="Feedle: Games" xmlUrl="https://zerohazard8x.short.gy/jGKVut" />
-            <outline title="Feedle: Global" xmlUrl="https://zerohazard8x.short.gy/eYkqrc" />
-            <outline title="Feedle: Local" xmlUrl="https://zerohazard8x.short.gy/nKH30u" />
-            <outline title="Feedle: New things"
-                xmlUrl="https://zerohazard8x.short.gy/F5LsV9" />
-            <outline title="Feedle: Opinionated"
-                xmlUrl="https://zerohazard8x.short.gy/WMVlaC" />
-            <outline title="Feedle: Political"
-                xmlUrl="https://zerohazard8x.short.gy/rr4bmP" />
-            <outline title="Feedle: Service news"
-                xmlUrl="https://zerohazard8x.short.gy/uhjRyc" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/FZwq3N" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/jGKVut" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/nKH30u" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/F5LsV9" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/WMVlaC" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/rr4bmP" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/uhjRyc" />
         </outline>
         <outline title="bing">
-            <outline title="Financial - BingNews"
-                xmlUrl="https://zerohazard8x.short.gy/8mxmaC" />
-            <outline title="Fun - BingNews" xmlUrl="https://zerohazard8x.short.gy/Df6xV8" />
-            <outline title="Games - BingNews"
-                xmlUrl="https://zerohazard8x.short.gy/0nZCbG" />
-            <outline title="Global - BingNews"
-                xmlUrl="https://zerohazard8x.short.gy/zUB6jR" />
-            <outline title="Local - BingNews"
-                xmlUrl="https://zerohazard8x.short.gy/g29ulT" />
-            <outline title="New things - BingNews"
-                xmlUrl="https://zerohazard8x.short.gy/52cyIR" />
-            <outline title="Opinionated - BingNews"
-                xmlUrl="https://zerohazard8x.short.gy/RMzgdS" />
-            <outline title="Political - BingNews"
-                xmlUrl="https://zerohazard8x.short.gy/Rv8XU3" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/8mxmaC" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/Df6xV8" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/0nZCbG" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/zUB6jR" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/g29ulT" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/52cyIR" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/RMzgdS" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/Rv8XU3" />
         </outline>
         <outline title="google news">
-            <outline title="Google News: Financial"
-                xmlUrl="https://zerohazard8x.short.gy/wvmdem" />
-            <outline title="Google News: Fun"
-                xmlUrl="https://zerohazard8x.short.gy/EGlaxZ" />
-            <outline title="Google News: Games"
-                xmlUrl="https://zerohazard8x.short.gy/XwiQBS" />
-            <outline title="Google News: Global"
-                xmlUrl="https://zerohazard8x.short.gy/D7dfMm" />
-            <outline title="Google News: Local"
-                xmlUrl="https://zerohazard8x.short.gy/T1Yh9l" />
-            <outline title="Google News: New things"
-                xmlUrl="https://zerohazard8x.short.gy/HqiLsU" />
-            <outline title="Google News: Opinionated"
-                xmlUrl="https://zerohazard8x.short.gy/JviGQY" />
-            <outline title="Google News: Service news"
-                xmlUrl="https://zerohazard8x.short.gy/TVeIqs" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/wvmdem" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/EGlaxZ" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/XwiQBS" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/D7dfMm" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/T1Yh9l" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/HqiLsU" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/JviGQY" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/TVeIqs" />
         </outline>
         <outline title="searx">
-            <outline title="SearX - Financial"
-                xmlUrl="https://zerohazard8x.short.gy/89oolm" />
-            <outline title="SearX - Fun" xmlUrl="https://zerohazard8x.short.gy/lx3aPl" />
-            <outline title="SearX - Games" xmlUrl="https://zerohazard8x.short.gy/Ld5TzZ" />
-            <outline title="SearX - Global" xmlUrl="https://zerohazard8x.short.gy/OWFfLE" />
-            <outline title="SearX - Local" xmlUrl="https://zerohazard8x.short.gy/ywcrmD" />
-            <outline title="SearX - New things"
-                xmlUrl="https://zerohazard8x.short.gy/I0eBQ7" />
-            <outline title="SearX - Opinionated"
-                xmlUrl="https://zerohazard8x.short.gy/3DrHC3" />
-            <outline title="SearX - Political"
-                xmlUrl="https://zerohazard8x.short.gy/JQw2vr" />
-            <outline title="SearX - Service news"
-                xmlUrl="https://zerohazard8x.short.gy/xqcoM1" />
-            <outline title="Service news - BingNews"
-                xmlUrl="https://zerohazard8x.short.gy/vtJHXF" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/89oolm" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/Ld5TzZ" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/ywcrmD" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/I0eBQ7" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/3DrHC3" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/JQw2vr" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/xqcoM1" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/vtJHXF" />
         </outline>
         <outline title="reddit">
-            <outline title="reddit.com: search results - Financial"
-                xmlUrl="https://zerohazard8x.short.gy/qpm1zx" />
-            <outline title="reddit.com: search results - Fun"
-                xmlUrl="https://zerohazard8x.short.gy/mf4BG5" />
-            <outline title="reddit.com: search results - Games"
-                xmlUrl="https://zerohazard8x.short.gy/hjeCGK" />
-            <outline title="reddit.com: search results - Global"
-                xmlUrl="https://zerohazard8x.short.gy/5Zc7Ae" />
-            <outline title="reddit.com: search results - Local"
-                xmlUrl="https://zerohazard8x.short.gy/S1comx" />
-            <outline title="reddit.com: search results - New things"
-                xmlUrl="https://zerohazard8x.short.gy/d7mqTm" />
-            <outline title="reddit.com: search results - Opinionated"
-                xmlUrl="https://zerohazard8x.short.gy/2OZ3Gs" />
-            <outline title="reddit.com: search results - Political"
-                xmlUrl="https://zerohazard8x.short.gy/ttVtZj" />
-            <outline title="reddit.com: search results - Service news"
-                xmlUrl="https://zerohazard8x.short.gy/aZogZr" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/qpm1zx" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/mf4BG5" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/hjeCGK" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/5Zc7Ae" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/S1comx" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/d7mqTm" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/2OZ3Gs" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/ttVtZj" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/aZogZr" />
         </outline>
         <outline title="hacker news">
-            <outline title="Hacker News - Newest: New things"
-                xmlUrl="https://zerohazard8x.short.gy/NZSCF8" />
-            <outline title="Hacker News - Newest: Finance"
-                xmlUrl="https://zerohazard8x.short.gy/V7GM1X" />
-            <outline title="Hacker News - Newest: Service news"
-                xmlUrl="https://zerohazard8x.short.gy/MfIkaf" />
-            <outline title="Hacker News - Newest: Politics"
-                xmlUrl="https://zerohazard8x.short.gy/3xpWWE" />
-            <outline title="Hacker News - Newest: Opinionated"
-                xmlUrl="https://zerohazard8x.short.gy/FHVvsw" />
-            <outline title="Hacker News - Newest: Fun"
-                xmlUrl="https://zerohazard8x.short.gy/TIrEY1" />
-            <outline title="Hacker News - Newest: Global"
-                xmlUrl="https://zerohazard8x.short.gy/r4xCYz" />
-            <outline title="Hacker News - Newest: Local"
-                xmlUrl="https://zerohazard8x.short.gy/sD2SMg" />
-            <outline title="Hacker News - Newest: Games"
-                xmlUrl="https://zerohazard8x.short.gy/9f4rKD" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/NZSCF8" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/V7GM1X" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/MfIkaf" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/3xpWWE" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/FHVvsw" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/TIrEY1" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/r4xCYz" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/sD2SMg" />
+            <outline xmlUrl="https://zerohazard8x.short.gy/9f4rKD" />
         </outline>
         <!-- <outline title="forums">
-            <outline title="PS4 CFW and Hacks" 
-        xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
-            <outline title="PS4 News" 
-        xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
-            <outline title="Mozilla Hacks – the Web developer blog" 
-        xmlUrl="https://hacks.mozilla.org/feed/" />
+            <outline xmlUrl="https://www.psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
+            <outline xmlUrl="https://www.psx-place.com/forums/ps4-news.14/index.rss" />
+            <outline xmlUrl="https://hacks.mozilla.org/feed/" />
         </outline> -->
         <!-- <outline title="video-news">
-            <outline title="Adobe" 
-        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
-            <outline title="Adobe Creative Cloud" 
-        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL0iAkpqV5YaIVG7xkDtS4Q" />
-            <outline title="Aether Studios" 
-        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjJe1z4OSKKav9MLVEvXWfA" />
-            <outline title="Android" 
-        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" />
-            <outline title="Apex Legends" 
-        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZV6M2THA81QT9hrVWJG3A" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL0iAkpqV5YaIVG7xkDtS4Q" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjJe1z4OSKKav9MLVEvXWfA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZV6M2THA81QT9hrVWJG3A" />
         </outline> -->
     </body>
 </opml>
