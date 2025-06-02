@@ -240,6 +240,7 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSF_aFGIIIoWY30GVV19TKA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeaQBmZYQdPIOxA1JD4Py9g" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0UcS6L65gexhOedsMX2okQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCu6h9j1T0po_95DuXdc-Vyw" />
         </outline>
         <outline text="YouTube Sports">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs1M0wmfxAbv7m5TCoQYtGw" />
@@ -248,7 +249,6 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGyn3Y7NOSCHjFM_eJqydRA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCpzBYi-KM7EzblUEh5IRcg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCx4M7pOU3Yhq9VAxmEbe1Vg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCET00YnetHT7tOpu12v8jxg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChgDp_uE5PVqnpdV05xKOOA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoHkpXvrjtemq69JDcfkU0Q" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFSkxZVj6ki9RrWC8ZcCPrQ" />
@@ -282,6 +282,7 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7Cr9o-Qvm_Fdlh2R_1UeUA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe6uZ90NjlLYqU0MppVpbCA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPt7Obs5XB16IzmcL1bQhbg" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYtNSrfGdXooZYu_hkq18_w" />
         </outline>
         <outline text="YouTube Wrestling">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFN4JkGP_bVhAdBsoV9xftA" />
@@ -515,6 +516,7 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/ow_esports" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/PUBGMOBILEEsports" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/LCK" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/NACL" />
         </outline>
     </body>
 </opml>
