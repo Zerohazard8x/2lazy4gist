@@ -286,6 +286,7 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs1M0wmfxAbv7m5TCoQYtGw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtInrnU3QbWqFGsdKT1GZtg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCx4M7pOU3Yhq9VAxmEbe1Vg" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaX-QGxVlF7QXKzHwWAQcdQ" />
         </outline>
         <outline text="YouTube Wrestling">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9YHZGzVhgZJRhqYOoBQ_zA" />
@@ -300,11 +301,11 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoe52S7YI72_YzBeBqRWdoQ" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq8jp0E99ELBvmBxjJ-JLgA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCw-BgB997z8oxJZdSUn2qzA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC60Z18qxfHNBdI-c_dE6z1Q" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRfz689NhYtN-byWAWK68oA" />
         </outline>
         <outline text="YouTube News">
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC60Z18qxfHNBdI-c_dE6z1Q" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPrPpMSq6db9e92y5Ga9cIA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRfz689NhYtN-byWAWK68oA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCb--64Gl51jIEVE-GLDAVTg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdnZdQxYXnbN4uWJg96oGxw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpyLikj1x70S8UPxVqsPr6g" />
@@ -325,7 +326,6 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOqhTsqySBCBTy571GArcXg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT6QFE3peNry9PdO5uGj96g" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX4-0cyettye55lBm7CYz0Q" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaX-QGxVlF7QXKzHwWAQcdQ" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbLq9tsbo8peV22VxbDAfXA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbiOAho0h23IMInURiESx1w" />
@@ -380,7 +380,6 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/KingGothalion" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/LIRIK" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/LarryLurr" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Level1_TV" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/LiquidWiFi" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/LondonController" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/MOONMOON" />
@@ -447,6 +446,7 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/zentreya" />
         </outline>
         <outline title="Twitch Esports">
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/Level1_TV" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/BLASTDota" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/BLASTPremier" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/CCT_CS" />
