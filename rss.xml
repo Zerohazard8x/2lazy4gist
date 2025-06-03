@@ -12,33 +12,33 @@
         <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=shr.pn+merge+4&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2Fg29ulT&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2F2OZ3Gs&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FhjeCGK&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2Fwvmdem&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FRv8XU3&amp;feed_6=&amp;feed_7=&amp;feed_8=&amp;feed_9=&amp;feed_10=&amp;limit=&amp;format=Atom" />
         <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=shr.pn+merge+5&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FJQw2vr&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FI0eBQ7&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FLd5TzZ&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FxqcoM1&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2F89oolm&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2F3DrHC3&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FywcrmD&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2FOWFfLE&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2Flx3aPl&amp;feed_10=&amp;limit=&amp;format=Atom" />
         <outline title="video-news">
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Bethesda" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/CallofDuty" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/CapcomFighters" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/DeltaForceGameOfficial" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Fortnite" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/GenshinImpactOfficial" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Halo" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/IGN" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/MSFSofficial" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/MarvelRivals" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/MechaBREAKOfficial" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Netherrealm" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Nintendo" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/PlayOverwatch" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/PlayStation" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Pokemon" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Rainbow6" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/RiotGames" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Sonic" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/TEKKEN" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/VALORANT" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Xbox" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/XboxASL" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/iRacing" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/playapex" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/thegameawards" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/wutheringwavesofficial" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FBethesda" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FCallofDuty" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FCapcomFighters" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FDeltaForceGameOfficial" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FFortnite" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FGenshinImpactOfficial" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FHalo" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FIGN" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FMSFSofficial" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FMarvelRivals" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FMechaBREAKOfficial" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FNetherrealm" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FNintendo" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FPlayOverwatch" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FPlayStation" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FPokemon" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FRainbow6" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FRiotGames" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FSonic" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FTEKKEN" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FVALORANT" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FXbox" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FXboxASL" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FiRacing" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2Fplayapex" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2Fthegameawards" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2Fwutheringwavesofficial" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-CBSBRP82j2t5PQ3M33CVw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-XFpnxDaYpDdXYM57hk-VQ" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0Bi5KMcECRVYis5Gb_ZYZQ" />
