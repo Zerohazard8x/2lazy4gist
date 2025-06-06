@@ -1,184 +1,501 @@
-**_PROTIP_**: \'"%"\' allows xargs -I% to be used within single quotes
+## Pro Tips
 
-Regex all -> `^.*$ OR /^.*$/gm`
-all that doesn't match "twitch.tv", "youtube.com", and "youtube-nocookie.com" -> `/^((?!twitch\.tv|youtube\.com|youtube-nocookie\.com).)*$/`
+-   **Using `%` with `xargs`**  
+    When you need to use `xargs -I%` inside single quotes, you can escape the `%` character as follows:
+    ```bash
+    '"%"'
+    ```
 
-`cat file | tr ' ' _ | nl` -> `< file tr ' ' _ | nl`
-
----
-
-# Exiftool
-Copy metadata from 1 image to another<br>
-`exiftool -TagsFromFile src.jpg -all:all dst.jpg`
-
-Make a copy of an image, but without metadata<br>
-`exiftool -all= dst.jpg -o output.jpg`
+This allows you to embed `xargs -I%` commands without breaking out of single quotes.
 
 ---
 
-# Vim
+## Regular Expressions
 
-1. `:w $HOME/_vimrc [Windows]` or `:w $HOME/.vimrc`
-2. then `:e` same file (edit)
-3. then `:w` / `:wq` to finish
-4. `set guifont=*` -> `set guifont?`
-5. press "I" for insert mode
-6. Paste the following
+-   **Match every line**
 
-```
-if has ("gui_running")
-	set guifont=IBM_Plex_Mono:h12
-	colorscheme habamax
-endif
-```
+    ```regex
+    ^.*$
+    ```
 
----
+    or, with multiline mode enabled:
 
-# Neovim - Lazyvim
+    ```regex
+    /^.*$/gm
+    ```
 
-1. `:w` `lua/plugins/colorscheme.lua` in `:echo stdpath ('config')`
-2. then `:e` same file (edit)
-3. then `:w` / `:wq` to finish
-4. Paste the following
+-   **Match lines that do _not_ contain `twitch.tv`, `youtube.com`, or `youtube-nocookie.com`**
 
-```
-return {
-    -- add gruvbox
-    { "ellisonleao/gruvbox.nvim" },
-    -- Configure LazyVim to load gruvbox
-    {
-      "LazyVim/LazyVim",
-      opts = {
-        colorscheme = "gruvbox",
-      },
-    }
-  }
-```
+    ```regex
+    /^((?!twitch\.tv|youtube\.com|youtube-nocookie\.com).)*$/
+    ```
 
 ---
 
-# Linux/Bash
+## Example of `tr`, `nl`, and I/O Redirection
 
-Find differences - `grep -Fxvf file1 file2 > file3`
-</br>Remove all lines containing something - `awk '!/[something]/' file > file2`
-</br>Copy timestamp = `touch -r [source] [target]`
-</br>
+-   Replace spaces with underscores, number each line, and read from standard input:
 
-`paste -d ' ' 1.txt 0.txt` -> merge 2 files line by line
-</br>`awk NF [input txt]` -> remove empty lines
-</br>`sort /tmp/uniques.txt | uniq` -> display 1 of each line
+    ```bash
+    cat file | tr ' ' _ | nl
+    ```
+
+    This can be rewritten (more idiomatically) using input redirection:
+
+    ```bash
+    <file tr ' ' _ | nl
+    ```
 
 ---
 
+## ExifTool
+
+Copy metadata **from one image** to another:
+
+```bash
+exiftool -TagsFromFile src.jpg -all:all dst.jpg
 ```
-realesrgan-ncnn-vulkan.exe -i C:\Users\adria\Downloads\nihui_cat.png -o C:\Users\adria\Downloads\nihui_cat_lollypop.png -n 4x_NMKD-Siax_200k\esrgan-x4
+
+Make a **copy of an image without any metadata**:
+
+```bash
+exiftool -all= dst.jpg -o output.jpg
 ```
 
 ---
 
-**_SSH install_**
-default port -> 8022 (termux only), normally 22
+## Vim
+
+1. Open (or create) your Vim configuration file:
+
+    ```vim
+    :w $HOME/_vimrc       " Windows
+    :w $HOME/.vimrc        " Unix-like systems
+    ```
+
+2. Re-open the same file to edit it:
+
+    ```vim
+    :e $HOME/.vimrc
+    ```
+
+3. Save or save and quit:
+
+    ```vim
+    :w
+    :wq
+    ```
+
+4. To view or set the GUI font:
+
+    ```vim
+    :set guifont=*
+    :set guifont?
+    ```
+
+5. Press `I` (capital i) to enter **Insert Mode**.
+6. Paste the following snippet into your `.vimrc` (this sets a font and colorscheme when running in a GUI):
+
+    ```vim
+    if has("gui_running")
+      set guifont=IBM_Plex_Mono:h12
+      colorscheme habamax
+    endif
+    ```
 
 ---
 
-Extract .pkg - `xar -xvf [file] -C [output directory]`
-<br>Extract .tar.gz - `tar –xvf [file] -C [output directory]`
-<br>Extract .lz4 - `lz4 -d [input] [output]`
+## Neovim – LazyVim
 
-**_Protip: if you dont know the maximum mx value just put -mx100_**
-<br>`7z a -mm=LZMA -mmt=on -mx9 ../grades.7z *`
-<br>`7z a -mm=Lizard -mmt=on ../grades.7z *`
--   Fast compress (More than 3-4x faster??)
--   Lizard == optimized LZ4 (https://github.com/inikep/lizard)
+1. In Neovim, write to the `colorscheme.lua` file inside your config directory. To find that path:
 
-<br>`7z a -mm=Deflate -mmt=on ../archive.zip *`
--   Fastest compress (universal zip)
+    ```vim
+    :echo stdpath('config')
+    ```
 
-<br>`7z a -mmt=on ../archive.tar *`
--   No compress (multiple files -> 1 file)
+    Then:
 
-<br>`7z h -scrcsha256 [input]` - Compute file hash
-<br>`find . -type d -empty` (`-delete` empty folders)
+    ```vim
+    :w <path-to-config>/lua/plugins/colorscheme.lua
+    ```
 
----
+2. Re-open the same file to edit:
 
-`sudo mount [e.g. /dev/sdb1] [target directory e.g. /mnt/media]`
-<br>`sudo mount -o rw,exec,dev,remount [target directory]`
-<br>`sudo mount -o ro,remount [target directory]`
-<br>`sudo umount [target to unmount]`
+    ```vim
+    :e <path-to-config>/lua/plugins/colorscheme.lua
+    ```
 
----
+3. Save or save and quit:
 
-`sudo dd if=[source] of=[target] bs=2048 status=progress`
-`sudo dd if=[source] of=[target] bs=[depends] count=[also depends] status=progress`
+    ```vim
+    :w
+    :wq
+    ```
 
-1. `sudo ddrescue -b 2048 -n -v [source] [target e.g. iso] output.log`
-2. `sudo ddrescue -b 2048 -d -r 3 -v [source] [target e.g. iso] output.log`
-3. `sudo ddrescue -b 2048 -d -R -r 3 -v [source] [target e.g. iso] output.log`
+4. Paste the following Lua snippet to add and configure Gruvbox for LazyVim:
 
-**_Important:_** 1M blocksize x 9 count = 9MB cloned
+    ```lua
+    return {
+      -- Add gruvbox plugin
+      { "ellisonleao/gruvbox.nvim" },
 
--   https://www.calculatorsoup.com/calculators/math/factors.php
-
----
-
-`sfdisk -d [source] > part_table`
-`sfdisk [target] < part_table`
-
--   Clone partitions without cloning data
-
-`pv /dev/sda1 > /dev/sdb1`
-`rm -rfv part_table`
+      -- Configure LazyVim to load gruvbox
+      {
+        "LazyVim/LazyVim",
+        opts = {
+          colorscheme = "gruvbox",
+        },
+      },
+    }
+    ```
 
 ---
 
-`rsync –a --progress [src] [dst]`
+## Linux / Bash
 
--   `--remove-source-files`
--   `--max-size=100M`
+-   **Find lines in `file1` that are _not_ in `file2`**:
+
+    ```bash
+    grep -Fxvf file1 file2 > file3
+    ```
+
+-   **Remove all lines containing a pattern**:
+
+    ```bash
+    awk '!/[something]/' file > file2
+    ```
+
+-   **Copy a file’s timestamp (modify time)**:
+
+    ```bash
+    touch -r [source] [target]
+    ```
+
+-   **Merge two files line by line, separating with a space**:
+
+    ```bash
+    paste -d ' ' 1.txt 0.txt
+    ```
+
+-   **Remove empty lines**:
+
+    ```bash
+    awk 'NF' input.txt
+    ```
+
+-   **Sort lines and remove duplicates**:
+
+    ```bash
+    sort /tmp/uniques.txt | uniq
+    ```
 
 ---
 
-`cat <someinput> | pv -p -s sizeof_someimput | xargs -0 -n 1 -P 5 <somecmd>`
+## Compression & Archives
+
+-   **Extract a `.pkg` file**:
+
+    ```bash
+    xar -xvf [file.pkg] -C [output-directory]
+    ```
+
+-   **Extract a `.tar.gz` file**:
+
+    ```bash
+    tar -xvf [file.tar.gz] -C [output-directory]
+    ```
+
+-   **Decompress an `.lz4` file**:
+
+    ```bash
+    lz4 -d [input.lz4] [output]
+    ```
+
+-   **7-Zip compression tips**
+
+    > _Pro Tip: If you don’t know the maximum `-mx` value, just put `-mx=100`._
+
+    -   **LZMA (Max compression)**:
+
+        ```bash
+        7z a -mm=LZMA -mmt=on -mx=9 ../grades.7z *
+        ```
+
+    -   **Lizard (optimized LZ4; very fast)**:
+
+        ```bash
+        7z a -mm=Lizard -mmt=on ../grades.7z *
+        ```
+
+        -   Lizard is an optimized version of LZ4.
+            GitHub: [https://github.com/inikep/lizard](https://github.com/inikep/lizard)
+
+    -   **Deflate (classic ZIP; fastest and most universal)**:
+
+        ```bash
+        7z a -mm=Deflate -mmt=on ../archive.zip *
+        ```
+
+    -   **Create a tar archive without compression**:
+
+        ```bash
+        7z a -mmt=on ../archive.tar *
+        ```
+
+        -   Packs multiple files/folders into a single `.tar` file but does **not** compress.
+
+    -   **Compute a SHA-256 hash of a file**:
+
+        ```bash
+        7z h -scrcsha256 [input-file]
+        ```
+
+    -   **Find and delete empty directories**:
+
+        ```bash
+        find . -type d -empty -delete
+        ```
 
 ---
 
-```
-sed -n 1,1000000p ./after.reg > after1
-sed -n 1000000,2000000p ./after.reg > after2
-sed -n 2000000,3000000p ./after.reg > after3
-sed -n '3000000,$p' ./after.reg > after4
-```
+## Mounting Filesystems
+
+-   **Mount a device** (e.g., `/dev/sdb1`):
+
+    ```bash
+    sudo mount /dev/sdb1 /mnt/media
+    ```
+
+-   **Remount an already-mounted directory as read-write, with `exec` and `dev` options**:
+
+    ```bash
+    sudo mount -o rw,exec,dev,remount /mnt/media
+    ```
+
+-   **Remount as read-only**:
+
+    ```bash
+    sudo mount -o ro,remount /mnt/media
+    ```
+
+-   **Unmount a target**:
+
+    ```bash
+    sudo umount /mnt/media
+    ```
 
 ---
 
-`find . -type d -print0 >dirs -> xargs -0 mkdir -p <dirs` (copy folder structure)
-`find "$(cd .; pwd)" -type f`
+## Disk Imaging & Cloning
+
+### `dd`
+
+-   **Basic `dd` copy (block size 2048 bytes, show progress)**:
+
+    ```bash
+    sudo dd if=[source] of=[target] bs=2048 status=progress
+    ```
+
+-   **Specify block size and count**:
+
+    ```bash
+    sudo dd if=[source] of=[target] bs=[blocksize] count=[count] status=progress
+    ```
+
+### `ddrescue`
+
+1. **First pass (no retry, sparse copy, block size 2048)**:
+
+    ```bash
+    sudo ddrescue -b 2048 -n -v [source] [target.iso] output.log
+    ```
+
+2. **Second pass (retry 3 times, fill gaps, block size 2048)**:
+
+    ```bash
+    sudo ddrescue -b 2048 -d -r 3 -v [source] [target.iso] output.log
+    ```
+
+3. **Third pass (reverse direction retry 3 times, block size 2048)**:
+
+    ```bash
+    sudo ddrescue -b 2048 -d -R -r 3 -v [source] [target.iso] output.log
+    ```
+
+> **Important:** Using a block size of `1M` and a count of `9` clones the first 9 MB of data:
+>
+> ```bash
+> sudo dd if=[source] of=[target] bs=1M count=9
+> ```
+
+-   **Useful reference for factors/calculators:**
+    [https://www.calculatorsoup.com/calculators/math/factors.php](https://www.calculatorsoup.com/calculators/math/factors.php)
 
 ---
 
-```
-split -b 4000M [input] [outputname].7z.
-cat outputname.7z.a{a..g} > [output file].
-```
+## Partition Table Cloning (`sfdisk`)
+
+-   **Dump partition table of a source disk to a file**:
+
+    ```bash
+    sfdisk -d [source-disk] > part_table
+    ```
+
+-   **Apply that partition table to a target disk**:
+
+    ```bash
+    sfdisk [target-disk] < part_table
+    ```
+
+    -   This clones the partition layout without copying the actual data.
+
+-   **Copy the contents of a partition literally** (using `pv` and a pipe):
+
+    ```bash
+    pv /dev/sda1 > /dev/sdb1
+    ```
+
+-   **Remove the `part_table` file when done**:
+
+    ```bash
+    rm -rfv part_table
+    ```
 
 ---
 
-`e2fsck /dev/sd*` - Chkdsk but for linux partitions
-</br>`fsck_hfs -fy -x /dev/rdisk0s2` - Chkdsk but for mac hfs partitions
+## File Synchronization (`rsync`)
+
+-   **Basic archive sync with progress**:
+
+    ```bash
+    rsync -a --progress [source-dir] [destination-dir]
+    ```
+
+-   **Additional `rsync` flags**:
+
+    -   `--remove-source-files` – Delete source files after transfer
+    -   `--max-size=100M` – Skip files larger than 100 MB
 
 ---
 
-```
-lspci | grep -i network
-ifconfig
-```
+## Command Pipelines & Parallel Processing
 
-Force unmount - `fuser -km /dev/sd*`<br>
-`cp -rvT` [cp files without host folder]<br>
-`apt install fdisk parted gparted pv gcc-libs`<br>
+-   **Use `pv` to show progress (with size), pipe into `xargs` for parallel execution**:
 
-# Windows
+    ```bash
+    cat <someinput> | pv -p -s sizeof_someinput | xargs -0 -n 1 -P 5 <somecmd>
+    ```
 
-`imagex.exe /apply d:\install.wim 1 c:\`<br>
-`mklink /J [new folder on a separate drive] [orig folder]`<br>
+    -   `-p` – Show percentage progress
+    -   `-s` – Total size for progress calculation
+    -   `-0` – Expect NUL-delimited input
+    -   `-n 1` – One argument per command execution
+    -   `-P 5` – Run up to 5 processes in parallel
+
+---
+
+## Text Splitting with `sed`
+
+-   **Split a large file (`after.reg`) into four parts**:
+
+    ```bash
+    sed -n '1,1000000p' ./after.reg   > after1
+    sed -n '1000000,2000000p' ./after.reg > after2
+    sed -n '2000000,3000000p' ./after.reg > after3
+    sed -n '3000000,$p' ./after.reg   > after4
+    ```
+
+---
+
+## Directory & File Structure Operations
+
+-   **Copy folder structure only (create empty directories)**:
+
+    ```bash
+    find . -type d -print0 > dirs
+    xargs -0 mkdir -p < dirs
+    ```
+
+-   **List all files with full paths**:
+
+    ```bash
+    find "$(cd .; pwd)" -type f
+    ```
+
+---
+
+## File Splitting & Reassembly
+
+-   **Split a large file into 4000 MB chunks with a `.7z.` prefix**:
+
+    ```bash
+    split -b 4000M [input-file] [outputname].7z.
+    ```
+
+-   **Reassemble split chunks (for a `.7z` archive)**:
+
+    ```bash
+    cat outputname.7z.a{a..g} > [reconstructed-file].7z
+    ```
+
+---
+
+## Filesystem Checks
+
+-   **Check (and repair) an ext family filesystem**:
+
+    ```bash
+    e2fsck /dev/sd*
+    ```
+
+    -   Similar to Windows’ CHKDSK but for Linux ext partitions.
+
+-   **Check (and repair) an HFS (macOS) filesystem**:
+
+    ```bash
+    fsck_hfs -fy -x /dev/rdisk0s2
+    ```
+
+---
+
+## Networking
+
+-   **List PCI devices, filter for “network”**:
+
+    ```bash
+    lspci | grep -i network
+    ```
+
+-   **Show network interfaces**:
+
+    ```bash
+    ifconfig
+    ```
+
+-   **Force unmount (kill processes using the mount point)**:
+
+    ```bash
+    fuser -km /dev/sd*
+    ```
+
+---
+
+## SSH Installation (Termux)
+
+-   By default, SSH listens on port **8022** for Termux installations (standard SSH uses port 22).
+
+---
+
+## Windows Commands
+
+-   **Apply a Windows image (`.wim`) from `install.wim`**:
+
+    ```powershell
+    imagex.exe /apply d:\install.wim 1 c:\
+    ```
+
+-   **Create a directory junction (symbolic link) to a folder on another drive**:
+
+    ```powershell
+    mklink /J [new-folder] [original-folder]
+    ```

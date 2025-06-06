@@ -8,10 +8,11 @@
 6. [Mirroring and Flipping](#mirroring-and-flipping)
 7. [Concatenation](#concatenation)
 
-   * [Basic Concatenation](#basic-concatenation)
-   * [Concatenate + Scale](#concatenate--scale)
-   * [Concatenate + Scale + Filters](#concatenate--scale--filters)
-   * [Concat via Text File](#concat-via-text-file)
+    - [Basic Concatenation](#basic-concatenation)
+    - [Concatenate + Scale](#concatenate--scale)
+    - [Concatenate + Scale + Filters](#concatenate--scale--filters)
+    - [Concat via Text File](#concat-via-text-file)
+
 8. [Frame Extraction and Counting](#frame-extraction-and-counting)
 9. [High-Framerate → Lower-Framerate with Motion Blur](#high-framerate--lower-framerate-with-motion-blur)
 10. [Stream Copy & Subtitles](#stream-copy--subtitles)
@@ -32,10 +33,10 @@ ffmpeg -i "C:\Users\adria\Downloads\IMG_3239.MOV" \
   "C:\Users\adria\Downloads\IMG_3239.mp4"
 ```
 
-* **CRF (Constant Rate Factor)**:
+-   **CRF (Constant Rate Factor)**:
 
-  * `18` = visually lossless → `24` = more compression (lower quality).
-  * For fully lossless: use `-crf 0` (or set `qmin=0:qmax=0`).
+    -   `18` = visually lossless → `24` = more compression (lower quality).
+    -   For fully lossless: use `-crf 0` (or set `qmin=0:qmax=0`).
 
 ---
 
@@ -50,7 +51,7 @@ ffmpeg -i [stereo-video-input.mp4] \
   [mono-video-output.mp4]
 ```
 
-* Replace `FR` with `FL` if you want the left channel instead.
+-   Replace `FR` with `FL` if you want the left channel instead.
 
 ---
 
@@ -74,7 +75,7 @@ ffmpeg -framerate XX \
   output.mp4
 ```
 
-* Example: `-framerate 24 -i img%03d.png output.mp4`
+-   Example: `-framerate 24 -i img%03d.png output.mp4`
 
 ---
 
@@ -94,8 +95,8 @@ ffmpeg -y \
   output.mp4
 ```
 
-* `-stream_loop -1` loops the audio infinitely.
-* `-shortest` ensures the output stops when the video ends.
+-   `-stream_loop -1` loops the audio infinitely.
+-   `-shortest` ensures the output stops when the video ends.
 
 ### 4.2 Merge Audio with Image Sequence
 
@@ -112,7 +113,7 @@ ffmpeg -y \
   output.mp4
 ```
 
-* Similar logic: audio loops (`-stream_loop -1`) and stops when images run out (`-shortest`).
+-   Similar logic: audio loops (`-stream_loop -1`) and stops when images run out (`-shortest`).
 
 ### 4.3 Extract a Single Frame from a Video
 
@@ -137,8 +138,8 @@ ffmpeg -i largefile.mp4 \
   -ss 00:50:00 -c copy smallfile2.mp4
 ```
 
-* `-t 00:50:00` → first segment is the first 50 minutes.
-* `-ss 00:50:00` → second segment starts at 50 minutes and continues to the end.
+-   `-t 00:50:00` → first segment is the first 50 minutes.
+-   `-ss 00:50:00` → second segment starts at 50 minutes and continues to the end.
 
 ---
 
@@ -146,16 +147,17 @@ ffmpeg -i largefile.mp4 \
 
 Flip a mirrored or rotated video horizontally or vertically:
 
-* **Horizontal Flip** (mirror left/right):
+-   **Horizontal Flip** (mirror left/right):
 
-  ```bash
-  -vf hflip
-  ```
-* **Vertical Flip** (mirror top/bottom):
+    ```bash
+    -vf hflip
+    ```
 
-  ```bash
-  -vf vflip
-  ```
+-   **Vertical Flip** (mirror top/bottom):
+
+    ```bash
+    -vf vflip
+    ```
 
 Example usage inside a full command:
 
@@ -215,8 +217,8 @@ ffmpeg \
   output.mp4
 ```
 
-* `scale=-1:720` preserves aspect ratio, then `pad=1280:720` centers/pads to 1280×720.
-* `setsar=1` ensures square pixels.
+-   `scale=-1:720` preserves aspect ratio, then `pad=1280:720` centers/pads to 1280×720.
+-   `setsar=1` ensures square pixels.
 
 ### 7.3 Concatenate + Scale + Filters (Four Inputs)
 
@@ -243,8 +245,8 @@ ffmpeg \
   output.mp4
 ```
 
-* Uses `lanczos` scaling plus `pp=dr` (denoise/repair) on video.
-* Resamples audio to stereo with `aformat=cl=stereo,extrastereo`.
+-   Uses `lanczos` scaling plus `pp=dr` (denoise/repair) on video.
+-   Resamples audio to stereo with `aformat=cl=stereo,extrastereo`.
 
 ### 7.4 Concat via Text File
 
@@ -266,8 +268,8 @@ ffmpeg -f concat -safe 0 -i ./copy.txt \
   output.mp4
 ```
 
-* `-safe 0` disables path safety checks (allows absolute paths).
-* `-c:s copy` also carries over any subtitle streams.
+-   `-safe 0` disables path safety checks (allows absolute paths).
+-   `-c:s copy` also carries over any subtitle streams.
 
 ---
 
@@ -312,9 +314,9 @@ ffmpeg -i [input_240fps.mp4] \
   [output_60fps.mp4]
 ```
 
-* First `tblend+framestep` halves 240 → 120 with blending.
-* Second `tblend+framestep` halves 120 → 60 with blending.
-* Final `fps=60` ensures the output is precisely 60 fps.
+-   First `tblend+framestep` halves 240 → 120 with blending.
+-   Second `tblend+framestep` halves 120 → 60 with blending.
+-   Final `fps=60` ensures the output is precisely 60 fps.
 
 ---
 
@@ -331,26 +333,27 @@ ffmpeg -i [input] \
   [output.mp4]
 ```
 
-* For Matroska MKV with embedded SRT subtitles:
+-   For Matroska MKV with embedded SRT subtitles:
 
-  ```bash
-  ffmpeg -i [input] \
-    -c:v copy \
-    -c:a copy \
-    -c:s srt \
-    -movflags +faststart \
-    [output.mkv]
-  ```
-* To copy subtitles as-is (no re-muxing):
+    ```bash
+    ffmpeg -i [input] \
+      -c:v copy \
+      -c:a copy \
+      -c:s srt \
+      -movflags +faststart \
+      [output.mkv]
+    ```
 
-  ```bash
-  ffmpeg -i [input] \
-    -c:v copy \
-    -c:a copy \
-    -c:s copy \
-    -movflags +faststart \
-    output.mp4
-  ```
+-   To copy subtitles as-is (no re-muxing):
+
+    ```bash
+    ffmpeg -i [input] \
+      -c:v copy \
+      -c:a copy \
+      -c:s copy \
+      -movflags +faststart \
+      output.mp4
+    ```
 
 ---
 
@@ -398,15 +401,15 @@ Retrieve the direct (M3U8) URL for a YouTube video/stream:
 youtube-dl -f 94 -g https://www.youtube.com/watch?v=21X5lGlDOfg
 ```
 
-* `-f 94` chooses format code 94 (720p MP4, H.264)
-* `-g` prints the final streaming URL to stdout
+-   `-f 94` chooses format code 94 (720p MP4, H.264)
+-   `-g` prints the final streaming URL to stdout
 
 ---
 
 ### Notes & Tips
 
-* Always ensure your FFmpeg build is up-to-date.
-* Escape or quote Windows paths that contain spaces or special characters.
-* When concatenating files with different codecs/resolutions, you must re-encode or use filter graphs to match parameters.
-* Use `-preset veryfast` (or similar) for faster encoding if you don’t need ultrafast.
-* For lossless video editing, use `-crf 0` with `-preset ultrafast` or consider FFV1 if you need a long-term archival format.
+-   Always ensure your FFmpeg build is up-to-date.
+-   Escape or quote Windows paths that contain spaces or special characters.
+-   When concatenating files with different codecs/resolutions, you must re-encode or use filter graphs to match parameters.
+-   Use `-preset veryfast` (or similar) for faster encoding if you don’t need ultrafast.
+-   For lossless video editing, use `-crf 0` with `-preset ultrafast` or consider FFV1 if you need a long-term archival format.
