@@ -248,6 +248,8 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvvsIq9TIfMLPVHRsZaR2Ag" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvvsIq9TIfMLPVHRsZaR2Ag" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCym6NEe3xXlvKicJiOwVVVQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK16a1sUUqribbZfyHAYeyg" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0l4egqFkC7XQvZFW1qajPg" />
         </outline>
         <outline text="YouTube Sports">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3Whnl6MzB0bJKwfbm43JMw" />
@@ -309,9 +311,9 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCw-BgB997z8oxJZdSUn2qzA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC60Z18qxfHNBdI-c_dE6z1Q" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRfz689NhYtN-byWAWK68oA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPrPpMSq6db9e92y5Ga9cIA" />
         </outline>
         <outline text="YouTube News">
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPrPpMSq6db9e92y5Ga9cIA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCb--64Gl51jIEVE-GLDAVTg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdnZdQxYXnbN4uWJg96oGxw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpyLikj1x70S8UPxVqsPr6g" />
@@ -451,6 +453,7 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/tarik" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/willneff" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/zentreya" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/GOFNS" />
         </outline>
         <outline title="Twitch Esports">
             <outline xmlUrl="https://twitchrss.appspot.com/vod/Level1_TV" />
@@ -472,7 +475,6 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/ElisaEsports" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/EvenMatchupGaming" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/Evo" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/GOFNS" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/GalintGaming" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/IntoTheBreachTV" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/KMLTournaments" />
