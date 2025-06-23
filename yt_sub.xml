@@ -157,6 +157,8 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfOrKQtC1tDfGf_fFVb8pYw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA7dY5dsYoUiUvUe2KTsxxg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1D3yD4wlPMico0dss264XA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv766eFS-V6auawYiqXyU1w" />
+
         </outline>
         <outline text="YouTube Esports">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8BAEcWSEs4-KQp1ULVnaQ" />
@@ -534,6 +536,7 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantesports_cn" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_east" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/tpg_cs" />
         </outline>
     </body>
 </opml>
