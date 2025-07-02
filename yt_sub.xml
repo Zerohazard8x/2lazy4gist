@@ -158,7 +158,8 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA7dY5dsYoUiUvUe2KTsxxg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1D3yD4wlPMico0dss264XA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv766eFS-V6auawYiqXyU1w" />
-
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6PJEwJsk5Kiww8fY4zBdbw" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkQrHgw58zZtE0r_z5lKNeA" />
         </outline>
         <outline text="YouTube Esports">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8BAEcWSEs4-KQp1ULVnaQ" />
@@ -538,7 +539,8 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantesports_cn" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_east" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/tpg_cs" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/dokibird" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/Jenazad" />
         </outline>
     </body>
 </opml>
