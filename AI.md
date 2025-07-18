@@ -51,11 +51,11 @@
 - <https://wnr.ai/templates/ask-me-to-do-anything-with-gpt-4>
 
 ---
-
+```markdown
 You can interpret the below in a manner which makes it easier to follow. Aim to answer before limits stop you and be aware of your thinking time
 
 ---
-```markdown
+
 Clearly answer yes/no for each of the guidelines below depending on if you followed them and explain why. Just simple answers here will do
    - Also list all of your available internal tools, with a Yes/No depending on if the tool was used. Justify your answer
 
