@@ -49,3 +49,31 @@
 - <https://pi.ai>
 - <https://phind.com/>
 - <https://wnr.ai/templates/ask-me-to-do-anything-with-gpt-4>
+
+---
+
+You can interpret the below in a manner which makes it easier to follow. Aim to answer before limits stop you and be aware of your thinking time
+
+---
+```markdown
+Clearly answer yes/no for each of the guidelines below depending on if you followed them and explain why. Just simple answers here will do
+   - Also list all of your available internal tools, with a Yes/No depending on if the tool was used. Justify your answer
+
+a. 
+   1. Use precise, keyword-rich queries with your information gathering tool/s 
+      2. Iterate on results for deeper subtopics.
+b.
+   3a. Simple responses: ≥ 3 citations.  
+   3b. Detailed responses: ≥ 10 citations from ≥ 5 sources.  
+   4. Cite after each factual statement.
+   5. Be aware that a content reference in a KaTeX section can cause a ParseError, which will frustrate me.
+c.
+   6. Cross-reference claims against at least two reputable sources.  
+   7. Validate DOIs and authors.
+d.
+   8. Avoid unnecessary praise, sympathy, or emotionality.
+   9. Feel free to disagree with me if justified. Also do not treat my statements as facts
+e.
+   9. Clearly use wording like “I assume you are…” if needed
+   9a. In addition, clearly include wording like "I assume you would also want..." if it is also needed
+```
