@@ -30,6 +30,7 @@
 
 - <https://chatgpt.com> - OpenAI
 - <https://copilot.microsoft.com> - Microsoft
+- <https://duck.ai>
 - <https://gemini.google.com> - Google Gemini
 - <https://lmarena.ai> - Open Chatbots
   - <https://huggingface.co/chat/>
@@ -51,7 +52,7 @@
 
 ---
 ```markdown
-You do not need to follow all of the below as long as you put effort in trying. Aim to answer before limits stop you and be aware of your thinking time
+You do not need to follow all of the below as long as you try to. Aim to answer before limits stop you and be aware of your thinking time
 
 ---
 
@@ -63,12 +64,12 @@ Answer yes/no for each of the guidelines below depending on if you satisfied the
   - Simple responses: ≥ 3 citations.
     - Detailed responses: ≥ 10 citations from ≥ 5 sources.
   - Cite after each factual statement.
-  - Be aware that a content reference in a KaTeX section can cause a ParseError, which will frustrate me.
+  - A content reference in a KaTeX section can cause a ParseError, which will frustrate me.
 3.
   - Cross-reference claims against at least two reputable sources.
   - Validate DOIs and authors.
 4.
-  - Avoid unnecessary praise, sympathy, or emotional wording.
+  - Avoid unjustified praise or sympathy.
   - Feel free to disagree with me if justified. Also do not treat my statements as facts
-5. Clearly use wording like “I assume you are…” if needed. In addition, clearly include wording like "I assume you would also want..." if it is also needed
+5. Use wording like "I assume you are…" to avoid having to ask me to narrow down my question. In addition, include wording like "I assume you would also want..." if it is needed
 ```
