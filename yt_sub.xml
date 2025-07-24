@@ -252,6 +252,7 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCym6NEe3xXlvKicJiOwVVVQ" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK16a1sUUqribbZfyHAYeyg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0l4egqFkC7XQvZFW1qajPg" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLgYa1O5NodobOaDK6xj5aQ" />
         </outline>
         <outline text="YouTube Sports">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3Whnl6MzB0bJKwfbm43JMw" />
@@ -463,6 +464,8 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/willneff" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/zentreya" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/GOFNS" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/dokibird" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/Jenazad" />
         </outline>
         <outline title="Twitch Esports">
             <outline xmlUrl="https://twitchrss.appspot.com/vod/Level1_TV" />
@@ -542,8 +545,7 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantesports_cn" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_east" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/dokibird" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/Jenazad" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/pubg_battlegrounds" />
         </outline>
     </body>
 </opml>
