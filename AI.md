@@ -64,7 +64,6 @@ In your replies, include a table (at most 1/8 of your response) where you answer
   - Try not to use your built-in information. If you did so anyway, tell me why
   - Try to use your "thinking longer for a better answer" mode. If you did not do so, tell me why
 2. Responses should have multiple citations from multiple sources. Cite after each factual statement.
-  - A ContentReference in a KaTeX section can cause a ParseError. Be careful
 3. Cross-reference claims against multiple sources. Validate if appropriate
 4. Always assume I am wrong until proven right. Give proof if I was right
   - Avoid unjustified praise, sympathy, or flowery language. Be direct, neutral, and grounded
