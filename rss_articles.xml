@@ -44,16 +44,17 @@
             <outline xmlUrl="https://rsshub.app/anthropic/engineering" />
             <outline xmlUrl="https://sony.com/en/SonyInfo/News/Press/data/pressrelease_for_top.xml" />
             <outline xmlUrl="https://waterfox.net/blog/rss.xml" />
+            <outline xmlUrl="https://openrouter.ai/api/v1/models?use_rss=true&amp;use_rss_chat_links=true" />
         </outline>
         <outline title="wikis">
             <outline xmlUrl="https://betawiki.net/index.php?title=IOS_26&amp;action=history&amp;feed=atom" />
             <outline xmlUrl="https://betawiki.net/index.php?title=Windows_11_2025_Update&amp;action=history&amp;feed=atom" />
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Beast_of_Reincarnation&amp;action=history&amp;feed=atom" />
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=ChatGPT&amp;action=history&amp;feed=atom" />
-            <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Claude_(language_model)&amp;action=history&amp;feed=atom" />
-            <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Gemini_(language_model)&amp;action=history&amp;feed=atom" />
+            <!-- <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Claude_(language_model)&amp;action=history&amp;feed=atom" /> -->
+            <!-- <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Gemini_(language_model)&amp;action=history&amp;feed=atom" /> -->
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Intel_Arc&amp;action=history&amp;feed=atom" />
-            <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Llama_(language_model)&amp;action=history&amp;feed=atom" />
+            <!-- <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Llama_(language_model)&amp;action=history&amp;feed=atom" /> -->
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Ninja_Gaiden_4&amp;action=history&amp;feed=atom" />
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=The_Outer_Worlds_2&amp;action=history&amp;feed=atom" />
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Xbox&amp;action=history&amp;feed=atom" />
