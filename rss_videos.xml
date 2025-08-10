@@ -552,6 +552,7 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoKA0v_A6fxw-8PaD1SYp6A" />
         </outline>
         <outline title="Twitch Following">
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/Bren" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/AR12Gaming" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/AR3NAgg" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/AmazonMusic" />
