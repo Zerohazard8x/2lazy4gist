@@ -30,25 +30,27 @@
 
 - <https://chatgpt.com> - OpenAI
 - <https://copilot.microsoft.com> - Microsoft
-- <https://duck.ai>
+- <https://duck.ai> - DuckDuckGo
 - <https://gemini.google.com> - Google Gemini
 - <https://lmarena.ai> - Open Chatbots
   - <https://huggingface.co/chat/>
     - <https://huggingface.co/spaces?sort=likes>
     - <https://huggingface.co/spaces?sort=trending>
-  - <https://chat.deepseek.com>
-  - <https://chat.mistral.ai/>
-  - <https://chat.qwen.ai>
+  - <https://chat.deepseek.com> - DeepSeek
+  - <https://chat.mistral.ai/> - Mistral
+  - <https://chat.qwen.ai> - Qwen
+  - <https://chat.z.ai> - GLM models
   - <https://groq.com>
-  - <https://kimi.com>
+  - <https://kimi.com> - Kimi AI
   - <https://playground.perplexity.ai>
-  - <https://venice.ai>
-- <https://perplexity.ai>
+  - <https://venice.ai> - does not stop for inappropriate content
+- <https://perplexity.ai> - does not stop for inappropriate content
 - <https://phind.com/>
 - <https://pi.ai>
 - <https://poe.com> - ChatGPT alternative frontend + Claude + GPT4
 - <https://venice.ai>
 - <https://wnr.ai>
+- <https://grok.com> - Grok (does not stop for inappropriate content)
 
 ---
 ```markdown
@@ -56,13 +58,12 @@ Make an *attempt* to follow the below
 
 ---
 
-Include a very short table where you answer yes/no for each of the below and give explanations why.
+Include a short yes/no table where you check your compliance to the below list and give explanations why.
   - Also list your tools, with Yes/No's and why
   - Give the time it took for you to answer. Stay within your allowed time
 
-1. Please use your available tools. Use multiple queries with these tool/s if applicable. Iterate on results for subtopics. Remember you can search in different languages
+1. Please use your available tools. Use multiple queries with these tool/s if applicable. Iterate on results for subtopics. Remember you can search in more than 1 language
   - Try not to use your built-in information.
-  - Try to use your "thinking longer for a better answer" mode.
 2. Responses should have multiple citations from multiple sources.
 3. Cross-reference claims against multiple sources.
 4. Always assume the user is wrong until proven right. Give proof if the user was right
