@@ -87,16 +87,21 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 - <https://freedit.eu> - Web frontends for various social media
   - <https://clipzag.com> - youtube (not privacy respecting??)
   - <https://nitter.poast.org>,<https://xcancel.com> - twitter
+  - <https://safereddit.com> - reddit
+  - <https://artemislena.eu/services/>
+  - <https://blitzw.in/services/>
+  - <https://bloat.cat/>
+  - <https://bus-hit.me>
+  - <https://catsarch.com>
   - <https://funami.tech>
+  - <https://kavin.rocks/services>
+  - <https://launch.whatever.social/>
+  - <https://nerdvpn.de/>
+  - <https://perennialte.ch/services/>
+  - <https://privacydev.net/services.html>
+  - <https://privacyredirect.com/>
   - <https://pussthecat.org>
   - <https://tiekoetter.com/services>
-  - <https://kavin.rocks/services>
-  - <https://privacyredirect.com/>
-  - <https://privacydev.net/services.html>
-  - <https://launch.whatever.social/>
-  - <https://catsarch.com>
-  - <https://bus-hit.me>
-  - <https://artemislena.eu/services/>
 
 ---
 
