@@ -174,8 +174,9 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 ---
 
-- <https://deepl.com/> - AI translator
-  - <https://papago.naver.com/> - Alternative AI translator (supports Korean unlike DeepL)
+- <https://translate.kagi.org> - AI translator
+  - <https://papago.naver.com/>
+  - <https://deepl.com/>
   - <https://quillbot.com/translate>
   - <https://reverso.net>
 
