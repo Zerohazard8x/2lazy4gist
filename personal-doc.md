@@ -229,13 +229,11 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 <https://watchwrestling24.net> - Wrestling VODs  
 
-- <https://softcobra.com> - ROMs
-  - <https://nin10news.com/decode/>
+- <https://ziperto.com> - ROMs
   - <https://dlpsgame.com>
-  - <https://nsw2u.com>
-  - <https://nxbrew.net>
   - <https://romsfun.com>
-  - <https://ziperto.com>
+  - <https://softcobra.com>
+    - <https://nin10news.com/decode/>
 
 ---
 
@@ -245,7 +243,6 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 
 - <https://discogc.com> - FLAC Direct download
   - <https://flacfile.blogspot.com>
-  - <https://hikarinoakari.com>
   - <https://jpopsingles.eu>
   - <https://sukidesuost.info>
 
@@ -275,9 +272,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
 - <https://therarbg.com>
 - <https://thepiratebay.org>
   - <https://forum.suprbay.org/status>
-- <https://torrentgalaxy.to>  
 
-- <https://solidtorrents.to>
 - <https://bitsearch.to>
 
 - <https://scnlog.me>
@@ -417,14 +412,13 @@ https://youtube-nocookie.com/embed/GCVJIVeoAeM?start=0&cc_load_policy=1&rel=0&en
 **_Anime & non-live-action_**  
 <https://allmanga.to/>  
 <https://animepahe.ru/>  
-<https://animesuge.to/>  
-<https://aniwave.to/>  
 <https://anitaku.pe/>
 
 ---
 
-- <https://kimcartoon.li/>
+- <https://kimcartoon.to/>
   - <https://reddit.com/r/KissAnime/wiki/kisscommunitylinks>
+- <https://wcoflix.tv>
 
 ---
 
