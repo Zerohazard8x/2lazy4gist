@@ -45,7 +45,7 @@ for profile in *"Firefox profile"*/ ; do
   fi
 
   # 2) Move extension metadata JSONs + prefs.js
-  for f in extensions.json extension-preferences.json extension-settings.json cookies.sqlite user.js; do
+  for f in extensions.json extension-preferences.json extension-settings.json cookies.sqlite places.sqlite addonStartup.json.lz4 user.js; do
     if [[ -f "$profile/$f" ]]; then
       mv -fv "$profile/$f" "$dest/"
     fi
