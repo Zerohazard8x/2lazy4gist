@@ -91,17 +91,16 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
   - <https://artemislena.eu/services/>
   - <https://blitzw.in/services/>
   - <https://bloat.cat/>
-  - <https://bus-hit.me>
   - <https://catsarch.com>
   - <https://funami.tech>
   - <https://kavin.rocks/services>
-  - <https://launch.whatever.social/>
   - <https://nerdvpn.de/>
   - <https://perennialte.ch/services/>
   - <https://privacydev.net/services.html>
   - <https://privacyredirect.com/>
   - <https://pussthecat.org>
   - <https://tiekoetter.com/services>
+  - <https://status.rtrace.io/>
 
 ---
 
@@ -118,6 +117,7 @@ Google/Bing/DuckDuckGo "[barcode number w/o letters]"> - Lookup barcode no.'s
   - <https://send.vis.ee/>
     - <https://github.com/timvisee/send-instances>
 - <https://zenmarket.jp/> - Import from Japan
+- <https://superbuy.com/> - Import from China
 
 ---
 

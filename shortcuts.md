@@ -21,7 +21,6 @@
 - [LMArena](https://lmarena.ai)
 - [MS Copilot](https://copilot.microsoft.com)
 - [Mistral](https://chat.mistral.ai)
-- [Perplexity Labs](https://labs.perplexity.ai)
 - [Pi](https://pi.ai)
 - [Hugging Chat](https://huggingface.com/chat)
 - [OpenRouter](https://openrouter.ai)
