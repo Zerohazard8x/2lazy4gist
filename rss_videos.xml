@@ -478,7 +478,7 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvvsIq9TIfMLPVHRsZaR2Ag" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCym6NEe3xXlvKicJiOwVVVQ" />
         </outline>
-        <outline title="YouTube Misc News">
+        <outline title="YouTube Specific News">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0FRSQh4P5S-5FwnL8hsQrQ" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2WmuBuFq6gL08QYG-JjXKw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC55ODQSvARtgSyc8ThfiepQ" />
@@ -490,7 +490,6 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOqhTsqySBCBTy571GArcXg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPJWi44tskVVMNyKzYrPoGg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT6QFE3peNry9PdO5uGj96g" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXmhsQWdUnzhiogZ4czHMUA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbLq9tsbo8peV22VxbDAfXA" />
@@ -507,12 +506,13 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwKTAvM2mY5-A4dFY4xCgqw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyFS2kcSFvOFHOrdTT7Y97w" />
         </outline>
-        <outline title="YouTube News">
+        <outline title="YouTube Traditional News">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCb--64Gl51jIEVE-GLDAVTg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdnZdQxYXnbN4uWJg96oGxw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpyLikj1x70S8UPxVqsPr6g" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtGmCfZ4O1zrl9c8BEhGvRg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvRAX-ujvZ0eTMLGG2vki9w" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPJWi44tskVVMNyKzYrPoGg" />
         </outline>
         <outline title="YouTube Sports">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX4-0cyettye55lBm7CYz0Q" />
