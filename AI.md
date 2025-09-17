@@ -52,7 +52,7 @@
 - <https://venice.ai>
 - <https://wnr.ai>
 - <https://grok.com> - Grok (stops less for inappropriate content)
-- <https://eternalai.org> - Grok (stops less for inappropriate content)
+- <https://eternalai.org> - Eternal AI (does not stop for inappropriate content)
 
 ---
 ```markdown
