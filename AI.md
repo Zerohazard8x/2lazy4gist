@@ -44,7 +44,7 @@
   - <https://kimi.com> - Kimi AI
   - <https://playground.perplexity.ai>
   - <https://venice.ai> - does not stop for inappropriate content
-  - <https://ernie.baidu.com> - does not stop for inappropriate content
+  - <https://ernie.baidu.com>
 - <https://perplexity.ai> - stops less for inappropriate content
 - <https://phind.com/>
 - <https://pi.ai>
