@@ -199,6 +199,7 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoKA0v_A6fxw-8PaD1SYp6A" />
         </outline>
         <outline title="Twitch Esports">
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/ltasouth" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/BLASTDota" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/BLASTPremier" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/CCT_CS" />
