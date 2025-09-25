@@ -182,6 +182,7 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantesports_cn" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_east" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/CapcomFighters" />
         </outline>
         <outline title="Twitch Following">
             <outline xmlUrl="https://twitchrss.appspot.com/vod/AR12Gaming" />
@@ -291,7 +292,6 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/Netherrealm" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/MechaBREAKOfficial" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/MSFSofficial" />
-            <outline xmlUrl="https://twitchrss.appspot.com/vod/CapcomFighters" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/DeltaForceGameOfficial" />
         </outline>
         <outline title="YouTube Esports">
