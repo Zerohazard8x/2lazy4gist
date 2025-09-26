@@ -39,12 +39,14 @@
             <outline xmlUrl="https://news.xbox.com/en-us/feed/" />
             <outline xmlUrl="https://newsroom.intel.com/feed" />
             <outline xmlUrl="https://openai.com/blog/rss.xml" />
+            <outline xmlUrl="https://openrouter.ai/api/v1/models?use_rss=true&amp;use_rss_chat_links=true" />
             <outline xmlUrl="https://psx-place.com/forums/ps4-news.14/index.rss" />
             <outline xmlUrl="https://psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
             <outline xmlUrl="https://rsshub.app/anthropic/engineering" />
+            <outline xmlUrl="https://rsshub.app/deepseek/news" />
+            <outline xmlUrl="https://rsshub.app/google/developers/en" />
             <outline xmlUrl="https://sony.com/en/SonyInfo/News/Press/data/pressrelease_for_top.xml" />
             <outline xmlUrl="https://waterfox.net/blog/rss.xml" />
-            <outline xmlUrl="https://openrouter.ai/api/v1/models?use_rss=true&amp;use_rss_chat_links=true" />
         </outline>
         <outline title="wikis">
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Beast_of_Reincarnation&amp;action=history&amp;feed=atom" />
