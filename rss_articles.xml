@@ -11,22 +11,22 @@
         <!-- <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Merge+3&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2Frr4bmP&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FttVtZj&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FHqiLsU&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FjGKVut&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FaZogZr&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2Fm0kWD2&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FF5LsV9&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2FRMzgdS&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2FTVeIqs&amp;feed_10=https%3A%2F%2Fzerohazard8x.short.gy%2FnKH30u&amp;limit=&amp;format=Atom" /> -->
         <!-- <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Merge+4&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2Fg29ulT&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2F2OZ3Gs&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FhjeCGK&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2Fwvmdem&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FRv8XU3&amp;feed_6=&amp;feed_7=&amp;feed_8=&amp;feed_9=&amp;feed_10=&amp;limit=&amp;format=Atom" /> -->
         <!-- <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Merge+5&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FJQw2vr&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FI0eBQ7&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FLd5TzZ&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FxqcoM1&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2F89oolm&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2F3DrHC3&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FywcrmD&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2FOWFfLE&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2Flx3aPl&amp;feed_10=&amp;limit=&amp;format=Atom" /> -->
-        <outline title="forums">
+        <outline title="traditional">
             <outline xmlUrl="https://americanairlines.gcs-web.com/rss/news-releases.xml" />
-            <outline xmlUrl="https://apple.com/newsroom/rss-feed.rss" />
-            <outline xmlUrl="https://azure.microsoft.com/en-us/blog/feed/" />
-            <outline xmlUrl="https://blog.chromium.org/feeds/posts/default?alt=rss" />
+            <outline xmlUrl="https://azure.microsoft.com/blog/feed/" />
+            <outline xmlUrl="https://blog.chromium.org/feeds/posts/default" />
             <outline xmlUrl="https://blog.google/products/android/rss/" />
             <outline xmlUrl="https://blog.google/products/gemini/rss/" />
             <outline xmlUrl="https://blog.google/products/search/rss/" />
             <outline xmlUrl="https://blog.google/rss/" />
-            <outline xmlUrl="https://blog.mozilla.org/en/feed/" />
-            <outline xmlUrl="https://blogs.bing.com/Home/feed" />
-            <outline xmlUrl="https://blogs.windows.com/windowsexperience/feed" />
+            <outline xmlUrl="https://blog.mozilla.com/feed/" />
+            <outline xmlUrl="https://blogs.bing.com/feed" />
+            <outline xmlUrl="https://blogs.windows.com/windowsexperience/feed/" />
             <outline xmlUrl="https://data.rito.news/riotgames/en/news.rss" />
             <outline xmlUrl="https://data.rito.news/val/en-us/esports.rss" />
             <outline xmlUrl="https://data.rito.news/val/en-us/news.rss" />
             <outline xmlUrl="https://deepmind.google/discover/blog/" />
+            <outline xmlUrl="https://developers.googleblog.com/feeds/posts/default" />
             <outline xmlUrl="https://discord.com/blog/rss.xml" />
             <outline xmlUrl="https://feeds.feedburner.com/psblog" />
             <outline xmlUrl="https://game.intel.com/us/feed/" />
@@ -34,19 +34,21 @@
             <outline xmlUrl="https://global.toyota/export/en/allnews_rss.xml" />
             <outline xmlUrl="https://hacks.mozilla.org/feed/" />
             <outline xmlUrl="https://ir.united.com/rss/news-releases.xml" />
-            <outline xmlUrl="https://microsoft.com/en-us/microsoft-copilot/blog/feed/" />
+            <outline xmlUrl="https://news.gallup.com/topic/All+Gallup+Headlines.rss" />
             <outline xmlUrl="https://news.microsoft.com/source/feed/" />
             <outline xmlUrl="https://news.xbox.com/en-us/feed/" />
             <outline xmlUrl="https://newsroom.intel.com/feed" />
-            <outline xmlUrl="https://openai.com/blog/rss.xml" />
+            <outline xmlUrl="https://openai.com/blog/rss/" />
             <outline xmlUrl="https://openrouter.ai/api/v1/models?use_rss=true&amp;use_rss_chat_links=true" />
-            <outline xmlUrl="https://psx-place.com/forums/ps4-news.14/index.rss" />
-            <outline xmlUrl="https://psxhax.com/forums/ps4-cfw-and-hacks.39/index.rss" />
-            <outline xmlUrl="https://rsshub.app/anthropic/engineering" />
+            <outline xmlUrl="https://pewresearch.org/feed/" />
+            <outline xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml" />
             <outline xmlUrl="https://rsshub.app/deepseek/news" />
-            <outline xmlUrl="https://rsshub.app/google/developers/en" />
             <outline xmlUrl="https://sony.com/en/SonyInfo/News/Press/data/pressrelease_for_top.xml" />
-            <outline xmlUrl="https://waterfox.net/blog/rss.xml" />
+            <outline xmlUrl="https://www.apple.com/pr/feeds/pr.rss" />
+            <outline xmlUrl="https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/" />
+            <outline xmlUrl="https://www.psx-place.com/articles/index.rss" />
+            <outline xmlUrl="https://www.psxhax.com/forums/-/index.rss" />
+            <outline xmlUrl="https://www.waterfox.net/blog/rss.xml" />
         </outline>
         <outline title="wikis">
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Beast_of_Reincarnation&amp;action=history&amp;feed=atom" />
