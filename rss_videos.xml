@@ -286,6 +286,8 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/MechaBREAKOfficial" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/MSFSofficial" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/DeltaForceGameOfficial" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/AnneMunition" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/DisbeArex" />
         </outline>
         <outline title="YouTube Esports">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwI0hG-Ql-jhOQuM2f7lFMw" />
