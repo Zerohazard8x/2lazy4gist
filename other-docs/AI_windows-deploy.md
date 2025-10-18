@@ -146,6 +146,8 @@ dism /Apply-Image /ImageFile:D:\sources\install.wim /Index:6 /ApplyDir:W:\
 
 > If your ISO has `install.esd`, DISM can still apply it. Same syntax, different file extension. (From DISM image mgmt.) ([Microsoft Learn][9])
 
+> Please make sure that the target drive does not have a complete Users folder, or WindowsApps folder. This will cause reparse point errors in setup.etl. To see reparse points, do `DIR /AL /S` in the root of the target drive.
+
 ---
 
 # Part 5 — Make it bootable with **BCDBoot**
@@ -218,6 +220,7 @@ reagentc /info
 ```
 
 * Use `Deploy Windows RE` when you build a custom WinRE; use `reagentc` to set and enable it. ([Microsoft Learn][14])
+> Windows appears to usually throw an error in installation if you do not do `reagentc /enable`
 
 ---
 
