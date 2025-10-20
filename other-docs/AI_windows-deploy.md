@@ -270,7 +270,7 @@ reagentc /info
 
 ---
 
-## Troubleshooting (real-world snags & the exact issues we hit)
+## Troubleshooting
 
 ### 1) **Reparse-point failures & “Windows could not finish configuring the system”**
 
@@ -447,10 +447,6 @@ Dismount-WindowsImage -Path C:\Mount -Save
 ([Microsoft Learn][23])
 
 -   Create WinPE working files and media (PowerShell-friendly contexts also in docs). ([Microsoft Learn][24])
-
----
-
-If you want, I can also output a single **annotated .cmd** that performs the UEFI flow end-to-end (with prompts and guardrails).
 
 ---
 
