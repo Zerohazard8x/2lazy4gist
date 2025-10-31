@@ -4,91 +4,67 @@
         <title>Fluent Reader Export</title>
     </head>
     <body>
-        <outline title="Official Video Channels">
+        <outline title="Official Gaming Channels">
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZV6M2THA81QT9hrVWJG3A" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_ntXHv-XdKCD7CPynVvnQw" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvNBXWGykQrWb7kPAn5eLUQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9YydG57epLqxA9cTzZXSeQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCj9bJX9hh3pXjktcsOLJdgw" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW7h-1mymnJ96akzjrmiIgA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyuEAZQzRqhcaLZvQd9ZUNA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIHBybdoneVVpaQK7xMz1ww" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClG8odDC8TS6Zpqk9CGVQiQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX2dNdYesTrOC7tjiQs9jHA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3E8iPQGBdAnOQR_cmkEbsw" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiS882YPwZt1NfaM0gR0D9Q" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7NCg0venpKJg3kuJojKlbQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6lUqvh42Oc3XL19Edgd9QA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwkUBN7foWU9GcY5cFmso-Q" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWSPqhLRvqjC-vLYA5_n4LQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2t5bjwHdUX4vM2g8TRDq5g" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWzmOSSiSPbVnVu3ZAyDx2w" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqmld-BIYME2i_ooRTo1EOg" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClOf1XXinvZsy4wKPAkro2A" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS2iGSouOopNHXFBcWtBQiA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVkqs_Q88BDmyaWwjYJ8_Ig" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWfXR0-F7MI-TbqikgEdJcQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgbXqhXm7FfiABeM9UASdog" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCOSYITWQHRSUxvlQ4_PSCg" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ruWDlk7P8AOPR84CFReQA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP2NOm_MoASfovXVY4nGvgQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNkVMGSwRmEUahBjuxFOAKw" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFctpiB_Hnlk3ejWfHqSm6Q" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCszIOrsb8PSapcRdsnGn1FA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0Bi5KMcECRVYis5Gb_ZYZQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M8GGVwPqc9ubNruArCNPg" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJxxoli_XbupD8SK_TtytAQ" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsof6qICUcobSUN0tTnR-4g" />
+        </outline>
+        <outline title="Official Twitch VOD Feeds">
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FBethesda" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FCallofDuty" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FFortnite" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FGenshinImpactOfficial" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FHalo" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FMarvelRivals" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2Fplayapex" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FPlayOverwatch" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FPokemon" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FRainbow6" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FRiotGames" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FSonic" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FVALORANT" />
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2Fwutheringwavesofficial" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FXbox" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FXboxASL" />
-            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2Fplayapex" />
-            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2Fwutheringwavesofficial" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0Bi5KMcECRVYis5Gb_ZYZQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZV6M2THA81QT9hrVWJG3A" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ruWDlk7P8AOPR84CFReQA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1ET-1gMajGNKzOvm2e_D7Q" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2SIWgqcys7Gcb6JxsFTm1Q" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2t5bjwHdUX4vM2g8TRDq5g" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3E8iPQGBdAnOQR_cmkEbsw" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC541jp3JO5e09cPtTcOImiQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_SBQbLA9Kg7Jh5GpXoP3g" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5qxlwEKM7-5YZudb24l0bg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6lUqvh42Oc3XL19Edgd9QA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7NCg0venpKJg3kuJojKlbQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7zygr3uEiMSkxv-6nbFUGQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M8GGVwPqc9ubNruArCNPg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9YydG57epLqxA9cTzZXSeQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCNyeUr-yOwdoVzmb_CDITg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCOSYITWQHRSUxvlQ4_PSCg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCspJ6mFfCwOV4qFjZWi2wg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFctpiB_Hnlk3ejWfHqSm6Q" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw" />
+        </outline>
+        <outline title="Independent Creators &amp; Miscellaneous Events">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHF66aWLOxBW4l6VkSrS3cQ" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCI9d6eQjf__r5gyH4GHRssg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIG1k8umaCIIrujZPzZPIMA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIHBybdoneVVpaQK7xMz1ww" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJxxoli_XbupD8SK_TtytAQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL8ZULXASCc1I_oaOT0NaOQ" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLUS3_Yz32XJMGWjDCzVv4A" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLqyjOsn6zS-j5adSd7g-Qg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNkVMGSwRmEUahBjuxFOAKw" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOsLfEqAwim8MFOhPddwwFw" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP2NOm_MoASfovXVY4nGvgQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS2iGSouOopNHXFBcWtBQiA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVkqs_Q88BDmyaWwjYJ8_Ig" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW7h-1mymnJ96akzjrmiIgA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWSPqhLRvqjC-vLYA5_n4LQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWfXR0-F7MI-TbqikgEdJcQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWzmOSSiSPbVnVu3ZAyDx2w" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX2dNdYesTrOC7tjiQs9jHA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_ntXHv-XdKCD7CPynVvnQw" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgbXqhXm7FfiABeM9UASdog" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiS882YPwZt1NfaM0gR0D9Q" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCj9bJX9hh3pXjktcsOLJdgw" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk7SjrXVXAj8m8BLgzh6dGA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClG8odDC8TS6Zpqk9CGVQiQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClOf1XXinvZsy4wKPAkro2A" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqmld-BIYME2i_ooRTo1EOg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrhJmfAGQ5K81XQ8_od1iTg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs5Y5_7XK8HLDX0SLNwkd3w" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsof6qICUcobSUN0tTnR-4g" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCszIOrsb8PSapcRdsnGn1FA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuVQmkiETvqmLviDcBtQw4A" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvNBXWGykQrWb7kPAn5eLUQ" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwkUBN7foWU9GcY5cFmso-Q" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyuEAZQzRqhcaLZvQd9ZUNA" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzxe67PvGhR79WOUl1AFhmw" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP_lo1MFyx5IXDeD9s_6nUw" />
         </outline>
         <outline title="Twitch Esports">
             <outline xmlUrl="https://twitchrss.appspot.com/vod/ltasouth" />
