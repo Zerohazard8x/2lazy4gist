@@ -51,7 +51,7 @@
             <outline xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
             />
         </outline> -->
-        <outline title="google alert">
+        <!-- <outline title="google alert">
             <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
             <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
             <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
@@ -61,7 +61,7 @@
             <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204018859" />
             <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
             <outline xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12634018877518289307" />
-        </outline>
+        </outline> -->
         <outline title="feedle">
             <outline xmlUrl="https://zerohazard8x.short.gy/F5LsV9" />
             <outline xmlUrl="https://zerohazard8x.short.gy/FZwq3N" />
@@ -84,7 +84,7 @@
             <outline xmlUrl="https://zerohazard8x.short.gy/vtJHXF" />
             <outline xmlUrl="https://zerohazard8x.short.gy/zUB6jR" />
         </outline>
-        <outline title="google news">
+        <!-- <outline title="google news">
             <outline xmlUrl="https://zerohazard8x.short.gy/D7dfMm" />
             <outline xmlUrl="https://zerohazard8x.short.gy/EGlaxZ" />
             <outline xmlUrl="https://zerohazard8x.short.gy/HqiLsU" />
@@ -94,8 +94,8 @@
             <outline xmlUrl="https://zerohazard8x.short.gy/TVeIqs" />
             <outline xmlUrl="https://zerohazard8x.short.gy/XwiQBS" />
             <outline xmlUrl="https://zerohazard8x.short.gy/wvmdem" />
-        </outline>
-        <outline title="searx">
+        </outline> -->
+        <!-- <outline title="searx">
             <outline xmlUrl="https://zerohazard8x.short.gy/I0eBQ7" />
             <outline xmlUrl="https://zerohazard8x.short.gy/3DrHC3" />
             <outline xmlUrl="https://zerohazard8x.short.gy/xqcoM1" />
@@ -105,7 +105,7 @@
             <outline xmlUrl="https://zerohazard8x.short.gy/89oolm" />
             <outline xmlUrl="https://zerohazard8x.short.gy/OWFfLE" />
             <outline xmlUrl="https://zerohazard8x.short.gy/Ld5TzZ" />
-        </outline>
+        </outline> -->
         <outline title="reddit">
             <outline xmlUrl="https://zerohazard8x.short.gy/2OZ3Gs" />
             <outline xmlUrl="https://zerohazard8x.short.gy/5Zc7Ae" />
