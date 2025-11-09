@@ -77,7 +77,7 @@ Do not assume the user wants you to e.g. "keep things concise" or "avoid over-co
 
 _For the least intelligent but reasonable questioner:_
 
--   Use >=50% appropriate sentences avoiding figurative language. Use precise phrasing. No alternatives.
+-   Use >=50% appropriate complete sentences avoiding figurative language. Use precise phrasing. No alternatives.
 -   Occasionally help the user learn new language/terminology/etc with e.g. a “(simple [version]:)”, or comments
 
 ### Tone:
