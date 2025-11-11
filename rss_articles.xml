@@ -29,7 +29,7 @@
             <outline xmlUrl="https://deepmind.google/discover/blog/" />
             <outline xmlUrl="https://developers.googleblog.com/feeds/posts/default" />
             <outline xmlUrl="https://discord.com/blog/rss.xml" />
-            <outline xmlUrl="https://feeds.feedburner.com/psblog" />
+            <outline xmlUrl="https://blog.playstation.com/feed/" />
             <outline xmlUrl="https://game.intel.com/us/feed/" />
             <outline xmlUrl="https://global.honda/contentFeeds/content/multi3/en/investors/news" />
             <outline xmlUrl="https://global.toyota/export/en/allnews_rss.xml" />
@@ -50,6 +50,12 @@
             <outline xmlUrl="https://www.psx-place.com/articles/index.rss" />
             <outline xmlUrl="https://www.psxhax.com/forums/-/index.rss" />
             <outline xmlUrl="https://www.waterfox.net/blog/rss.xml" />
+            <outline xmlUrl="https://rsshub.app/blizzard/news" />
+            <outline xmlUrl="https://rsshub.app/mihoyo/ys/en" />
+            <outline xmlUrl="https://sonicthehedgehog.com/feed" />
+            <outline xmlUrl="https://rsshub.app/kurogames/wutheringwaves/news" />
+            <outline xmlUrl="https://ir.ea.com/rss/PressRelease.aspx" />
+            <outline xmlUrl="https://investor.activision.com/rss/news-releases.xml" />
         </outline>
         <outline title="wikis">
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Beast_of_Reincarnation&amp;action=history&amp;feed=atom" />
