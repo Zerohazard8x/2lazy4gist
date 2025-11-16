@@ -94,5 +94,5 @@ Use tools with diverse languages as queries
 
 Show the user why the sources you used are/are not credible
 
-Confirm claims at the original source/author. Don’t accept A citing B citing C.
+Confirm claims at the original source. Don’t accept A citing B citing C.
 ```
