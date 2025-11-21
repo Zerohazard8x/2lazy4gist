@@ -21,6 +21,7 @@
             <outline xmlUrl="https://blog.google/products/search/rss/" />
             <outline xmlUrl="https://blog.google/rss/" />
             <outline xmlUrl="https://blog.mozilla.com/feed/" />
+            <outline xmlUrl="https://blog.playstation.com/feed/" />
             <outline xmlUrl="https://blogs.bing.com/feed" />
             <outline xmlUrl="https://blogs.windows.com/windowsexperience/feed/" />
             <outline xmlUrl="https://data.rito.news/riotgames/en/news.rss" />
@@ -29,11 +30,12 @@
             <outline xmlUrl="https://deepmind.google/discover/blog/" />
             <outline xmlUrl="https://developers.googleblog.com/feeds/posts/default" />
             <outline xmlUrl="https://discord.com/blog/rss.xml" />
-            <outline xmlUrl="https://blog.playstation.com/feed/" />
             <outline xmlUrl="https://game.intel.com/us/feed/" />
             <outline xmlUrl="https://global.honda/contentFeeds/content/multi3/en/investors/news" />
             <outline xmlUrl="https://global.toyota/export/en/allnews_rss.xml" />
             <outline xmlUrl="https://hacks.mozilla.org/feed/" />
+            <outline xmlUrl="https://investor.activision.com/rss/news-releases.xml" />
+            <outline xmlUrl="https://ir.ea.com/rss/PressRelease.aspx" />
             <outline xmlUrl="https://ir.united.com/rss/news-releases.xml" />
             <outline xmlUrl="https://news.gallup.com/topic/All+Gallup+Headlines.rss" />
             <outline xmlUrl="https://news.microsoft.com/source/feed/" />
@@ -43,19 +45,18 @@
             <outline xmlUrl="https://openrouter.ai/api/v1/models?use_rss=true&amp;use_rss_chat_links=true" />
             <outline xmlUrl="https://pewresearch.org/feed/" />
             <outline xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml" />
+            <outline xmlUrl="https://rsshub.app/blizzard/news" />
             <outline xmlUrl="https://rsshub.app/deepseek/news" />
+            <outline xmlUrl="https://rsshub.app/kurogames/wutheringwaves/news" />
+            <outline xmlUrl="https://rsshub.app/meta/ai/blog" />
+            <outline xmlUrl="https://rsshub.app/mihoyo/ys/en" />
+            <outline xmlUrl="https://sonicthehedgehog.com/feed" />
             <outline xmlUrl="https://sony.com/en/SonyInfo/News/Press/data/pressrelease_for_top.xml" />
             <outline xmlUrl="https://www.apple.com/pr/feeds/pr.rss" />
             <outline xmlUrl="https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/" />
             <outline xmlUrl="https://www.psx-place.com/articles/index.rss" />
             <outline xmlUrl="https://www.psxhax.com/forums/-/index.rss" />
             <outline xmlUrl="https://www.waterfox.net/blog/rss.xml" />
-            <outline xmlUrl="https://rsshub.app/blizzard/news" />
-            <outline xmlUrl="https://rsshub.app/mihoyo/ys/en" />
-            <outline xmlUrl="https://sonicthehedgehog.com/feed" />
-            <outline xmlUrl="https://rsshub.app/kurogames/wutheringwaves/news" />
-            <outline xmlUrl="https://ir.ea.com/rss/PressRelease.aspx" />
-            <outline xmlUrl="https://investor.activision.com/rss/news-releases.xml" />
         </outline>
         <outline title="wikis">
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Beast_of_Reincarnation&amp;action=history&amp;feed=atom" />
