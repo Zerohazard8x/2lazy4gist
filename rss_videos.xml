@@ -115,6 +115,7 @@
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantesports_cn" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_east" />
             <outline xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
+            <outline xmlUrl="https://twitchrss.appspot.com/vod/StarLadder_cs_en" />
         </outline>
         <outline title="Twitch Following">
             <outline xmlUrl="https://twitchrss.appspot.com/vod/LarryLurr" />
@@ -261,6 +262,7 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvvsIq9TIfMLPVHRsZaR2Ag" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3ti8PjJczdDKHSwk7TESkw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRRfSRlDq2ma7xp_8HYvYeA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBJOSr4xCgCGiSndaVymBuA" />
         </outline>
         <outline title="YouTube Sports">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX4-0cyettye55lBm7CYz0Q" />
@@ -397,6 +399,7 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXKNiazqmuUi9CeX_kyDpjw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe8D5lo_zrqS8xtsNspeCgg" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCa6do4XROkGYo4J--a8bRA" />
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1D3yD4wlPMico0dss264XA" />
         </outline>
         <outline title="YouTube Wrestling">
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5YhP-H5snGgi6dOE8vj-aA" />
