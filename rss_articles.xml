@@ -44,7 +44,7 @@
             <outline xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" />
             <outline xmlUrl="https://rsshub.app/blizzard/news" />
             <outline xmlUrl="https://rsshub.app/deepseek/news" />
-            <outline xmlUrl="https://rsshub.app/kurogames/wutheringwaves/news" />
+            <outline xmlUrl="https://rsshub.app/kurogames/wutheringwaves/news/en" />
             <outline xmlUrl="https://rsshub.app/meta/ai/blog" />
             <outline xmlUrl="https://rsshub.app/mihoyo/ys/en" />
             <outline xmlUrl="https://sonicthehedgehog.com/feed" />
