@@ -13,12 +13,10 @@
         <!-- <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Reddit%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2F2OZ3Gs&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2F5Zc7Ae&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FS1comx&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FaZogZr&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2Fd7mqTm&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FhjeCGK&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2Fmf4BG5&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2Fqpm1zx&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2FttVtZj&amp;limit=&amp;format=Atom" /> -->
         <!-- <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Hacker%20News%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FNZSCF8&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FFHVvsw&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FMfIkaf&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2F3xpWWE&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FsD2SMg&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FTIrEY1&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FV7GM1X&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2Fr4xCYz&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2F9f4rKD&amp;limit=&amp;format=Atom" /> -->
         <outline title="traditional">
-            <outline xmlUrl="https://americanairlines.gcs-web.com/rss/news-releases.xml" />
             <outline xmlUrl="https://azure.microsoft.com/blog/feed/" />
             <outline xmlUrl="https://blog.chromium.org/feeds/posts/default" />
             <outline xmlUrl="https://blog.google/products/android/rss/" />
             <outline xmlUrl="https://blog.google/products/gemini/rss/" />
-            <outline xmlUrl="https://blog.google/products/search/rss/" />
             <outline xmlUrl="https://blog.google/rss/" />
             <outline xmlUrl="https://blog.mozilla.com/feed/" />
             <outline xmlUrl="https://blog.playstation.com/feed/" />
@@ -36,7 +34,6 @@
             <outline xmlUrl="https://hacks.mozilla.org/feed/" />
             <outline xmlUrl="https://investor.activision.com/rss/news-releases.xml" />
             <outline xmlUrl="https://ir.ea.com/rss/PressRelease.aspx" />
-            <outline xmlUrl="https://ir.united.com/rss/news-releases.xml" />
             <outline xmlUrl="https://news.gallup.com/topic/All+Gallup+Headlines.rss" />
             <outline xmlUrl="https://news.microsoft.com/source/feed/" />
             <outline xmlUrl="https://news.xbox.com/en-us/feed/" />
@@ -51,12 +48,9 @@
             <outline xmlUrl="https://rsshub.app/meta/ai/blog" />
             <outline xmlUrl="https://rsshub.app/mihoyo/ys/en" />
             <outline xmlUrl="https://sonicthehedgehog.com/feed" />
-            <outline xmlUrl="https://sony.com/en/SonyInfo/News/Press/data/pressrelease_for_top.xml" />
             <outline xmlUrl="https://www.apple.com/pr/feeds/pr.rss" />
             <outline xmlUrl="https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/" />
-            <outline xmlUrl="https://www.psx-place.com/articles/index.rss" />
             <outline xmlUrl="https://www.psxhax.com/forums/-/index.rss" />
-            <outline xmlUrl="https://www.waterfox.net/blog/rss.xml" />
         </outline>
         <outline title="wikis">
             <outline xmlUrl="https://en.wikipedia.org/w/index.php?title=Beast_of_Reincarnation&amp;action=history&amp;feed=atom" />
