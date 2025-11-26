@@ -44,7 +44,7 @@
             <outline xmlUrl="https://openai.com/blog/rss/" />
             <outline xmlUrl="https://openrouter.ai/api/v1/models?use_rss=true&amp;use_rss_chat_links=true" />
             <outline xmlUrl="https://pewresearch.org/feed/" />
-            <outline xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml" />
+            <outline xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" />
             <outline xmlUrl="https://rsshub.app/blizzard/news" />
             <outline xmlUrl="https://rsshub.app/deepseek/news" />
             <outline xmlUrl="https://rsshub.app/kurogames/wutheringwaves/news" />
