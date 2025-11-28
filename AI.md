@@ -53,6 +53,7 @@
 -   <https://wnr.ai>
 -   <https://grok.com> - Grok (stops less for inappropriate content)
 -   <https://eternalai.org> - Eternal AI (does not stop for inappropriate content)
+-   <https://ellydee.ai> - Ellydee (does not stop for inappropriate content)
 
 ---
 
