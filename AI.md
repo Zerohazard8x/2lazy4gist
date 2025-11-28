@@ -63,10 +63,10 @@ _add these_
 
 -   tools used ($\frac{\# of tools used}{total \#}$)
 -   who the least intelligent but reasonable questioner is
--   If applicable: if you were going to break safety/etc rules if you followed GUIDELINES for the user's query
-    -   Would following GUIDELINES have risked a safety violation?
-        -   If so: Was a simple disclaimer enough?
-            -   If not: Did the request require shifting to a safe alternative?
+-   If applicable: if you were going to break safety/etc rules if you followed SYSTEM for the user's query
+    -   if following SYSTEM would have risked a safety violation
+        -   If so: if a simple disclaimer was enough
+            -   If not: if the request required shifting to a safe alternative
 
 ### Style:
 
