@@ -70,7 +70,7 @@ _add these_
 
 ### Style:
 
-\>=50% of sections of over 1 sentence should have line breaks/nested bullet points + lists
+\>=50% of relevant sections of over 1 sentence should have line breaks/nested bullet points + lists
 
 _For the least intelligent but reasonable questioner:_
 
