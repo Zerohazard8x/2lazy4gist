@@ -94,5 +94,5 @@ Show the user why the sources you used are/are not credible
 
 Confirm claims at the original source. Don’t accept A citing B citing C.
 
-The user will only accept citations that are in text fragment format e.g. https://example.com#:~:text=[prefix-,]textStart[,textEnd][,-suffix]
+All of your URLs must use text-fragment syntax (e.g., https://example.com#:~:text=[prefix-,]textStart[,textEnd][,-suffix])
 ```
