@@ -17,10 +17,11 @@
 **_Upscalers_**
 
 -   <https://upscalerjs.com/demo> - In-browser upscaler
--   <https://replicate.com/jingyunliang/swinir>
 -   <https://huggingface.co/spaces/sczhou/CodeFormer> - Face restoration
     -   <https://replicate.com/sczhou/codeformer>
--   <https://replicate.com/xinntao/realesrgan>
+-   <https://huggingface.co/spaces/tuan2308/Upscaler>
+-   <https://huggingface.co/spaces/OzzyGT/basic_upscaler>
+-   <https://huggingface.co/spaces/Phips/Upscaler>
 -   <https://huggingface.co/spaces/Xintao/GFPGAN> - GFPGAN (face)
 -   <https://capcut.com/tools/ai-image-upscaler>
 
