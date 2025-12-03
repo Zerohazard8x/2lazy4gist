@@ -22,6 +22,7 @@
 -   <https://huggingface.co/spaces/tuan2308/Upscaler>
 -   <https://huggingface.co/spaces/OzzyGT/basic_upscaler>
 -   <https://huggingface.co/spaces/Phips/Upscaler>
+-   <https://huggingface.co/spaces/ByteDance-Seed/SeedVR2-3B>
 -   <https://huggingface.co/spaces/Xintao/GFPGAN> - GFPGAN (face)
 -   <https://capcut.com/tools/ai-image-upscaler>
 
