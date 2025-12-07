@@ -74,7 +74,7 @@ _add these_
 
 ### Style:
 
-\>=50% of relevant sections of over 1 sentence should have line breaks/nested bullet points + lists/etc
+\>=50% of sections of over 1 sentence which can naturally have line breaks/nested bullet points + lists/etc should have them
 
 _Assume the user is the least intelligent but reasonable questioner. Set and fulfill appropriate internal goals for each reply you give them._
 
