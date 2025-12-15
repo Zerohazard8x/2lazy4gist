@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <title>My Shortcuts</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                    Roboto, Oxygen, Ubuntu, sans-serif;
+                background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+                min-height: 100vh;
+                padding: 20px;
+            }
+
+            .container {
+                max-width: 800px;
+                margin: 0 auto;
+            }
+
+            h1 {
+                color: #ffffff;
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: clamp(1.5rem, 5vw, 2.5rem);
+                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+            }
+
+            .links-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+                gap: 20px;
+            }
+
+            .link-card {
+                background: linear-gradient(145deg, #2d2d44 0%, #1f1f35 100%);
+                border-radius: 15px;
+                padding: 25px;
+                text-decoration: none;
+                color: #ffffff;
+                transition: all 0.3s ease;
+                border: 1px solid rgba(255, 255, 255, 0.1);
+                display: flex;
+                align-items: center;
+                gap: 15px;
+            }
+
+            .link-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+                border-color: rgba(255, 255, 255, 0.3);
+            }
+
+            .link-card:active {
+                transform: translateY(-2px);
+            }
+
+            .icon {
+                font-size: 2rem;
+                min-width: 50px;
+                height: 50px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background: rgba(255, 255, 255, 0.1);
+                border-radius: 12px;
+            }
+
+            .link-info {
+                flex: 1;
+            }
+
+            .link-title {
+                font-size: 1.2rem;
+                font-weight: 600;
+                margin-bottom: 5px;
+            }
+
+            .link-description {
+                font-size: 0.85rem;
+                color: rgba(255, 255, 255, 0.6);
+                word-break: break-word;
+            }
+
+            .arrow {
+                font-size: 1.5rem;
+                color: rgba(255, 255, 255, 0.4);
+                transition: all 0.3s ease;
+            }
+
+            .link-card:hover .arrow {
+                color: #4ade80;
+                transform: translateX(5px);
+            }
+
+            /* Category dividers */
+            .category {
+                color: rgba(255, 255, 255, 0.5);
+                font-size: 0.9rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                margin: 30px 0 15px 0;
+                padding-bottom: 10px;
+                border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            }
+
+            .category:first-of-type {
+                margin-top: 0;
+            }
+
+            footer {
+                text-align: center;
+                margin-top: 40px;
+                color: rgba(255, 255, 255, 0.3);
+                font-size: 0.8rem;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>⭐ Favorite Shortcuts</h1>
+
+            <!-- ============================================
+             HOW TO ADD MORE LINKS:
+
+             1. Copy a <a class="link-card"> block below
+             2. Paste it where you want the new link
+             3. Change the href="..." to your new URL
+             4. Update the emoji in the <span class="icon">
+             5. Update the title in <div class="link-title">
+             6. Update the description in <div class="link-description">
+
+             OPTIONAL: Add category dividers using:
+             <h2 class="category">Category Name</h2>
+
+            ============================================ -->
+
+            <h2 class="category">Music</h2>
+            <div class="links-grid">
+                <a
+                    href="https://music.youtube.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎵</span>
+                    <div class="link-info">
+                        <div class="link-title">YT Music</div>
+                        <div class="link-description">music.youtube.com</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a
+                    href="https://music.apple.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🍎</span>
+                    <div class="link-info">
+                        <div class="link-title">Apple Music</div>
+                        <div class="link-description">music.apple.com</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a
+                    href="https://open.spotify.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎧</span>
+                    <div class="link-info">
+                        <div class="link-title">Spotify</div>
+                        <div class="link-description">open.spotify.com</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">Weather</h2>
+            <div class="links-grid">
+                <a
+                    href="https://msn.com/weather"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">☁️</span>
+                    <div class="link-info">
+                        <div class="link-title">MSN Weather</div>
+                        <div class="link-description">msn.com/weather</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a
+                    href="https://weather.tomorrow.io"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">⛈️</span>
+                    <div class="link-info">
+                        <div class="link-title">Tomorrow Weather</div>
+                        <div class="link-description">weather.tomorrow.io</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a
+                    href="https://meteum.ai/weather/search"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🌤️</span>
+                    <div class="link-info">
+                        <div class="link-title">Meteum</div>
+                        <div class="link-description">meteum.ai/weather/search</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a
+                    href="https://google.com/search?q=weather&udm=0&safe=off"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🔍</span>
+                    <div class="link-info">
+                        <div class="link-title">Google Weather</div>
+                        <div class="link-description">
+                            google.com/search?q=weather&udm=0&safe=off
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">AI Tools</h2>
+            <div class="links-grid">
+                <a href="https://chatgpt.com" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">🤖</span>
+                    <div class="link-info">
+                        <div class="link-title">ChatGPT</div>
+                        <div class="link-description">chatgpt.com</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://claude.ai" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">💬</span>
+                    <div class="link-info">
+                        <div class="link-title">Claude</div>
+                        <div class="link-description">claude.ai</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://aistudio.google.com" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">🧠</span>
+                    <div class="link-info">
+                        <div class="link-title">Google AI Studio</div>
+                        <div class="link-description">aistudio.google.com</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://grok.com" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">🚀</span>
+                    <div class="link-info">
+                        <div class="link-title">Grok</div>
+                        <div class="link-description">grok.com</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://groq.com" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">⚡</span>
+                    <div class="link-info">
+                        <div class="link-title">Groq</div>
+                        <div class="link-description">groq.com</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://lmarena.ai" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">🧮</span>
+                    <div class="link-info">
+                        <div class="link-title">LMArena</div>
+                        <div class="link-description">lmarena.ai</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://copilot.microsoft.com" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">🪁</span>
+                    <div class="link-info">
+                        <div class="link-title">MS Copilot</div>
+                        <div class="link-description">copilot.microsoft.com</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://chat.mistral.ai" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">🌬️</span>
+                    <div class="link-info">
+                        <div class="link-title">Mistral</div>
+                        <div class="link-description">chat.mistral.ai</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://pi.ai" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">🧊</span>
+                    <div class="link-info">
+                        <div class="link-title">Pi</div>
+                        <div class="link-description">pi.ai</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://huggingface.com/chat" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">🤗</span>
+                    <div class="link-info">
+                        <div class="link-title">Hugging Chat</div>
+                        <div class="link-description">huggingface.com/chat</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://openrouter.ai" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">🌐</span>
+                    <div class="link-info">
+                        <div class="link-title">OpenRouter</div>
+                        <div class="link-description">openrouter.ai</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">Utilities</h2>
+            <div class="links-grid">
+                <a href="https://time.is/?c=d3l1_3F_3j1_3Y1_3WXth2i2s.TAXfmrXc1Xo480Xz1Xa1Xb51ea29.4e4185.28571f.2d99db.abbd8.1bb85e.1c3b23Xw1Xv20240528Xh0Xi1XZ1XmXuXB1Xs0)" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">⏱️</span>
+                    <div class="link-info">
+                        <div class="link-title">Time</div>
+                        <div class="link-description">
+                            time.is/?c=d3l1_3F_3j1_3Y1_3WXth2i2s.TAXfmrXc1Xo480Xz1Xa1Xb51ea29.4e4185.28571f.2d99db.abbd8.1bb85e.1c3b23Xw1Xv20240528Xh0Xi1XZ1XmXuXB1Xs0)
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+
+                <a href="https://redlib.freedit.eu/settings/restore/?theme=system&front_page=default&layout=card&wide=off&post_sort=top&comment_sort=top&show_nsfw=on&use_hls=off&hide_hls_notification=off&hide_awards=off&fixed_navbar=on&subscriptions=&filters=)" class="link-card" target="_blank" rel="noopener">
+                    <span class="icon">⚙️</span>
+                    <div class="link-info">
+                        <div class="link-title">Redlib settings</div>
+                        <div class="link-description">
+                            redlib.freedit.eu/settings/restore/?theme=system&front_page=default&layout=card&wide=off&post_sort=top&comment_sort=top&show_nsfw=on&use_hls=off&hide_hls_notification=off&hide_awards=off&fixed_navbar=on&subscriptions=&filters=)
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <footer>
+                <p>Tap any card to open in a new tab</p>
+            </footer>
+        </div>
+    </body>
+</html>
