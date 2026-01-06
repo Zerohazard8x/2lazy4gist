@@ -32,7 +32,7 @@
             <outline xmlUrl="https://news.gallup.com/topic/All+Gallup+Headlines.rss" />
             <outline xmlUrl="https://news.microsoft.com/source/feed/" />
             <outline xmlUrl="https://news.xbox.com/en-us/feed/" />
-            <outline xmlUrl="https://newsroom.intel.com/feed" />
+            <outline xmlUrl="https://www.intc.com/news-events/press-releases/rss" />
             <outline xmlUrl="https://openai.com/blog/rss/" />
             <outline xmlUrl="https://openrouter.ai/api/v1/models?use_rss=true&amp;use_rss_chat_links=true" />
             <outline xmlUrl="https://pewresearch.org/feed/" />
