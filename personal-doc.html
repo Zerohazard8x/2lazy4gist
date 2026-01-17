@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
@@ -13,11 +13,13 @@
             }
 
             body {
-                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-                    Roboto, Oxygen, Ubuntu, sans-serif;
+                font-family:
+                    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                    Oxygen, Ubuntu, sans-serif;
                 background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
                 min-height: 100vh;
                 padding: 20px;
+                color: #ffffff;
             }
 
             .container {
@@ -60,6 +62,27 @@
 
             .link-card:active {
                 transform: translateY(-2px);
+            }
+
+            .note-card {
+                background: rgba(45, 45, 68, 0.6);
+                border-radius: 15px;
+                padding: 20px;
+                border: 1px dashed rgba(255, 255, 255, 0.2);
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                font-family: monospace;
+                font-size: 0.85rem;
+                color: #ccc;
+            }
+
+            .note-card code {
+                background: rgba(0, 0, 0, 0.3);
+                padding: 2px 4px;
+                border-radius: 4px;
+                color: #4ade80;
+                word-break: break-all;
             }
 
             .icon {
@@ -154,8 +177,8 @@
                     <div class="link-info">
                         <div class="link-title">Barcode lookup</div>
                         <div class="link-description">
-                            Search a barcode number (digits only) on Google, Bing, or
-                            DuckDuckGo to identify the product.
+                            Search a barcode number (digits only) on Google,
+                            Bing, or DuckDuckGo to identify the product.
                         </div>
                     </div>
                     <span class="arrow">→</span>
@@ -171,8 +194,8 @@
                     <div class="link-info">
                         <div class="link-title">Bing AI (US English)</div>
                         <div class="link-description">
-                            Launches Bing with US region and language settings already
-                            applied.
+                            Launches Bing with US region and language settings
+                            already applied.
                         </div>
                     </div>
                     <span class="arrow">→</span>
@@ -181,15 +204,27 @@
 
             <h2 class="category">General tools</h2>
             <div class="links-grid">
-                <a href="https://3daimtrainer.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://3daimtrainer.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎯</span>
                     <div class="link-info">
                         <div class="link-title">FPS Aim trainer</div>
-                        <div class="link-description">Browser-based aim practice.</div>
+                        <div class="link-description">
+                            Browser-based aim practice.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://app.standardnotes.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://app.standardnotes.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🗒️</span>
                     <div class="link-info">
                         <div class="link-title">Standard Notes</div>
@@ -197,31 +232,57 @@
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://audiomass.co" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://audiomass.co"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎧</span>
                     <div class="link-info">
                         <div class="link-title">AudioMass</div>
-                        <div class="link-description">In-browser audio editor.</div>
+                        <div class="link-description">
+                            In-browser audio editor.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://bypass.city" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://bypass.city"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🚧</span>
                     <div class="link-info">
                         <div class="link-title">Bypass City</div>
-                        <div class="link-description">Skip link shorteners.</div>
+                        <div class="link-description">
+                            Skip link shorteners.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://changetower.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://changetower.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔔</span>
                     <div class="link-info">
                         <div class="link-title">ChangeTower</div>
-                        <div class="link-description">Website change detection.</div>
+                        <div class="link-description">
+                            Website change detection.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://clipchamp.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://clipchamp.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎬</span>
                     <div class="link-info">
                         <div class="link-title">Clipchamp</div>
@@ -229,179 +290,333 @@
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://cyberchef.org" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://cyberchef.org"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧪</span>
                     <div class="link-info">
                         <div class="link-title">CyberChef</div>
-                        <div class="link-description">Encode, decode, and transform data.</div>
+                        <div class="link-description">
+                            Encode, decode, and transform data.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://digitaltallycounter.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://digitaltallycounter.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔢</span>
                     <div class="link-info">
                         <div class="link-title">Digital Tally Counter</div>
-                        <div class="link-description">Simple counter in the browser.</div>
+                        <div class="link-description">
+                            Simple counter in the browser.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://fontgauntlet.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://fontgauntlet.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔤</span>
                     <div class="link-info">
                         <div class="link-title">Font Gauntlet</div>
-                        <div class="link-description">Explore TTF and OTF fonts.</div>
+                        <div class="link-description">
+                            Explore TTF and OTF fonts.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://guitar-tuner.org" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://guitar-tuner.org"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎸</span>
                     <div class="link-info">
                         <div class="link-title">Guitar tuner</div>
-                        <div class="link-description">Quick tuning reference.</div>
+                        <div class="link-description">
+                            Quick tuning reference.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://imgbb.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://imgbb.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🖼️</span>
                     <div class="link-info">
                         <div class="link-title">ImgBB</div>
-                        <div class="link-description">Upload images to share URLs.</div>
+                        <div class="link-description">
+                            Upload images to share URLs.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://iwharris.github.io/wifi-qr-web" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://iwharris.github.io/wifi-qr-web"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📶</span>
                     <div class="link-info">
                         <div class="link-title">WiFi QR generator</div>
-                        <div class="link-description">Create QR codes for Wi‑Fi logins.</div>
+                        <div class="link-description">
+                            Create QR codes for Wi‑Fi logins.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://liaison.reuters.com/tools/sports-team-codes" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://liaison.reuters.com/tools/sports-team-codes"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🏷️</span>
                     <div class="link-info">
                         <div class="link-title">Sports team tricodes</div>
-                        <div class="link-description">Reference list for team abbreviations.</div>
+                        <div class="link-description">
+                            Reference list for team abbreviations.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://musicca.com/metronome" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://musicca.com/metronome"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">⏱️</span>
                     <div class="link-info">
                         <div class="link-title">Metronome</div>
-                        <div class="link-description">Browser-based beat keeping.</div>
+                        <div class="link-description">
+                            Browser-based beat keeping.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://naturalreaders.com/online/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://naturalreaders.com/online/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🗣️</span>
                     <div class="link-info">
                         <div class="link-title">Natural Readers</div>
-                        <div class="link-description">Online text-to-speech.</div>
+                        <div class="link-description">
+                            Online text-to-speech.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://otter.ai/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://otter.ai/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">✍️</span>
                     <div class="link-info">
                         <div class="link-title">Otter.ai</div>
-                        <div class="link-description">Free speech-to-text transcriptions.</div>
+                        <div class="link-description">
+                            Free speech-to-text transcriptions.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://parcelsapp.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://parcelsapp.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📦</span>
                     <div class="link-info">
                         <div class="link-title">Parcels</div>
-                        <div class="link-description">Track packages across carriers.</div>
+                        <div class="link-description">
+                            Track packages across carriers.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://photoroom.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://photoroom.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🖌️</span>
                     <div class="link-info">
                         <div class="link-title">PhotoRoom</div>
-                        <div class="link-description">Remove backgrounds from images.</div>
+                        <div class="link-description">
+                            Remove backgrounds from images.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://promptr.co/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://promptr.co/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🗨️</span>
                     <div class="link-info">
                         <div class="link-title">Promptr</div>
-                        <div class="link-description">Teleprompter in the browser.</div>
+                        <div class="link-description">
+                            Teleprompter in the browser.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://qrcodescan.in/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://qrcodescan.in/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔍</span>
                     <div class="link-info">
                         <div class="link-title">QR Code Scan</div>
-                        <div class="link-description">Scan QR codes using your camera.</div>
+                        <div class="link-description">
+                            Scan QR codes using your camera.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://simpletouchsoftware.com/timers/tabatapro/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://simpletouchsoftware.com/timers/tabatapro/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">⏳</span>
                     <div class="link-info">
                         <div class="link-title">Tabata timer</div>
-                        <div class="link-description">Interval timer for workouts.</div>
+                        <div class="link-description">
+                            Interval timer for workouts.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://simplevideoplayer.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://simplevideoplayer.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📺</span>
                     <div class="link-info">
                         <div class="link-title">Simple Video Player</div>
-                        <div class="link-description">Play local media in-browser.</div>
+                        <div class="link-description">
+                            Play local media in-browser.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://sites.google.com/site/tyroneunblockedgame/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://sites.google.com/site/tyroneunblockedgame/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎮</span>
                     <div class="link-info">
                         <div class="link-title">Online games collection</div>
-                        <div class="link-description">Portal of playable browser games.</div>
+                        <div class="link-description">
+                            Portal of playable browser games.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://szynalski.com/tone-generator/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://szynalski.com/tone-generator/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎵</span>
                     <div class="link-info">
                         <div class="link-title">Tone generator</div>
-                        <div class="link-description">Generate and play frequencies.</div>
+                        <div class="link-description">
+                            Generate and play frequencies.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://textplus.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://textplus.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📱</span>
                     <div class="link-info">
                         <div class="link-title">TextPlus</div>
-                        <div class="link-description">VoIP calling and texting.</div>
+                        <div class="link-description">
+                            VoIP calling and texting.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://vclock.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://vclock.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">⏰</span>
                     <div class="link-info">
                         <div class="link-title">vClock</div>
-                        <div class="link-description">Online alarms and timers.</div>
+                        <div class="link-description">
+                            Online alarms and timers.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://vocalremover.org" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://vocalremover.org"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎙️</span>
                     <div class="link-info">
                         <div class="link-title">Vocal Remover</div>
-                        <div class="link-description">Separate vocals from tracks.</div>
+                        <div class="link-description">
+                            Separate vocals from tracks.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://webwhiteboard.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://webwhiteboard.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧊</span>
                     <div class="link-info">
                         <div class="link-title">Web Whiteboard</div>
-                        <div class="link-description">Shareable collaborative canvas.</div>
+                        <div class="link-description">
+                            Shareable collaborative canvas.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -409,35 +624,50 @@
 
             <h2 class="category">Utilities</h2>
             <div class="links-grid">
-                <a href="https://cachedview.nl/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://cachedview.nl/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📰</span>
                     <div class="link-info">
                         <div class="link-title">Bypass paywalls</div>
                         <div class="link-description">
-                            cachedview.nl, archive.ph, and archive.is for cached copies
-                            of articles.
+                            cachedview.nl, archive.ph, and archive.is for cached
+                            copies of articles.
                         </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://itilog.com/en/where-am-i" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://itilog.com/en/where-am-i"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📍</span>
                     <div class="link-info">
                         <div class="link-title">GPS coordinates</div>
                         <div class="link-description">
-                            itilog.com and topographic-map.com for quick location
-                            lookups.
+                            itilog.com and topographic-map.com for quick
+                            location lookups.
                         </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://newocr.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://newocr.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔠</span>
                     <div class="link-info">
                         <div class="link-title">OCR tools</div>
                         <div class="link-description">
-                            newocr.com plus tesseract.projectnaptha.com for extracting
-                            text from images.
+                            newocr.com plus tesseract.projectnaptha.com for
+                            extracting text from images.
                         </div>
                     </div>
                     <span class="arrow">→</span>
@@ -446,46 +676,79 @@
 
             <h2 class="category">Math & conversion</h2>
             <div class="links-grid">
-                <a href="https://arachnoid.com/latex/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://arachnoid.com/latex/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📐</span>
                     <div class="link-info">
                         <div class="link-title">LaTeX editor</div>
-                        <div class="link-description">Lightweight LaTeX scratchpad.</div>
-                    </div>
-                    <span class="arrow">→</span>
-                </a>
-                <a href="https://derivative-calculator.net" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">📈</span>
-                    <div class="link-info">
-                        <div class="link-title">Derivative calculator</div>
-                        <div class="link-description">Symbolic differentiation.</div>
-                    </div>
-                    <span class="arrow">→</span>
-                </a>
-                <a href="https://integral-calculator.com" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">∫</span>
-                    <div class="link-info">
-                        <div class="link-title">Integral calculator</div>
-                        <div class="link-description">Compute integrals step by step.</div>
-                    </div>
-                    <span class="arrow">→</span>
-                </a>
-                <a href="https://www.adobe.com/acrobat/online" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">📄</span>
-                    <div class="link-info">
-                        <div class="link-title">Adobe Acrobat converters</div>
                         <div class="link-description">
-                            Requires an Adobe account after the first PDF per IP—use
-                            sparingly.
+                            Lightweight LaTeX scratchpad.
                         </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://convertio.co/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://derivative-calculator.net"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📈</span>
+                    <div class="link-info">
+                        <div class="link-title">Derivative calculator</div>
+                        <div class="link-description">
+                            Symbolic differentiation.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://integral-calculator.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">∫</span>
+                    <div class="link-info">
+                        <div class="link-title">Integral calculator</div>
+                        <div class="link-description">
+                            Compute integrals step by step.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://www.adobe.com/acrobat/online"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📄</span>
+                    <div class="link-info">
+                        <div class="link-title">Adobe Acrobat converters</div>
+                        <div class="link-description">
+                            Requires an Adobe account after the first PDF per
+                            IP—use sparingly.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://convertio.co/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔄</span>
                     <div class="link-info">
                         <div class="link-title">Convertio</div>
-                        <div class="link-description">File format conversions online.</div>
+                        <div class="link-description">
+                            File format conversions online.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -493,27 +756,48 @@
 
             <h2 class="category">Typing & input</h2>
             <div class="links-grid">
-                <a href="https://keybr.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://keybr.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">⌨️</span>
                     <div class="link-info">
                         <div class="link-title">Keybr</div>
-                        <div class="link-description">Touch typing practice.</div>
+                        <div class="link-description">
+                            Touch typing practice.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://monkeytype.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://monkeytype.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🙊</span>
                     <div class="link-info">
                         <div class="link-title">Monkeytype</div>
-                        <div class="link-description">Customizable typing tests.</div>
+                        <div class="link-description">
+                            Customizable typing tests.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://cps-check.com/polling-rate-check" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://cps-check.com/polling-rate-check"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🖱️</span>
                     <div class="link-info">
                         <div class="link-title">Mouse polling rate test</div>
-                        <div class="link-description">Measure mouse Hz quickly.</div>
+                        <div class="link-description">
+                            Measure mouse Hz quickly.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -521,19 +805,33 @@
 
             <h2 class="category">Health</h2>
             <div class="links-grid">
-                <a href="https://nhs.uk/live-well/healthy-weight/bmi-calculator/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://nhs.uk/live-well/healthy-weight/bmi-calculator/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧮</span>
                     <div class="link-info">
                         <div class="link-title">BMI calculator (age-aware)</div>
-                        <div class="link-description">NHS calculator with age input.</div>
+                        <div class="link-description">
+                            NHS calculator with age input.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://people.maths.ox.ac.uk/trefethen/bmi_calc.html" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://people.maths.ox.ac.uk/trefethen/bmi_calc.html"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧠</span>
                     <div class="link-info">
                         <div class="link-title">"New" BMI calculator</div>
-                        <div class="link-description">Alternate BMI formula reference.</div>
+                        <div class="link-description">
+                            Alternate BMI formula reference.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -541,27 +839,50 @@
 
             <h2 class="category">Media tools</h2>
             <div class="links-grid">
-                <a href="https://polsy.org.uk/stuff/ytrestrict.cgi" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://polsy.org.uk/stuff/ytrestrict.cgi"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🚫</span>
                     <div class="link-info">
-                        <div class="link-title">YouTube restrictions checker</div>
-                        <div class="link-description">Test availability by region.</div>
+                        <div class="link-title">
+                            YouTube restrictions checker
+                        </div>
+                        <div class="link-description">
+                            Test availability by region.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://croxyproxy.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://croxyproxy.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🪞</span>
                     <div class="link-info">
                         <div class="link-title">CroxyProxy</div>
-                        <div class="link-description">~9% of normal speed; masks URLs and routes traffic.</div>
+                        <div class="link-description">
+                            ~9% of normal speed; masks URLs and routes traffic.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://kproxy.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://kproxy.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🛰️</span>
                     <div class="link-info">
                         <div class="link-title">KProxy</div>
-                        <div class="link-description">~85% of normal speed; masks URLs only.</div>
+                        <div class="link-description">
+                            ~85% of normal speed; masks URLs only.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -569,147 +890,273 @@
 
             <h2 class="category">Privacy frontends & services</h2>
             <div class="links-grid">
-                <a href="https://freedit.eu" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://freedit.eu"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🛡️</span>
                     <div class="link-info">
                         <div class="link-title">Freedit</div>
-                        <div class="link-description">Privacy-friendly frontend for Reddit.</div>
+                        <div class="link-description">
+                            Privacy-friendly frontend for Reddit.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://clipzag.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://clipzag.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎥</span>
                     <div class="link-info">
                         <div class="link-title">Clipzag</div>
-                        <div class="link-description">YouTube alternative frontend.</div>
+                        <div class="link-description">
+                            YouTube alternative frontend.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://nitter.poast.org" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://nitter.poast.org"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🐦</span>
                     <div class="link-info">
                         <div class="link-title">Nitter (poast)</div>
-                        <div class="link-description">Unofficial Twitter frontend.</div>
+                        <div class="link-description">
+                            Unofficial Twitter frontend.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://xcancel.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://xcancel.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">❌</span>
                     <div class="link-info">
                         <div class="link-title">XCancel</div>
-                        <div class="link-description">Another Twitter/X alternative view.</div>
+                        <div class="link-description">
+                            Another Twitter/X alternative view.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://safereddit.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://safereddit.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧭</span>
                     <div class="link-info">
                         <div class="link-title">Safereddit</div>
-                        <div class="link-description">Alternate Reddit browsing.</div>
+                        <div class="link-description">
+                            Alternate Reddit browsing.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://artemislena.eu/services/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://artemislena.eu/services/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🛰️</span>
                     <div class="link-info">
                         <div class="link-title">artemislena services</div>
-                        <div class="link-description">Hub of privacy-friendly instances.</div>
+                        <div class="link-description">
+                            Hub of privacy-friendly instances.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://blitzw.in/services/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://blitzw.in/services/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">⚡</span>
                     <div class="link-info">
                         <div class="link-title">blitzw services</div>
-                        <div class="link-description">Collection of alternative frontends.</div>
+                        <div class="link-description">
+                            Collection of alternative frontends.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://bloat.cat/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://bloat.cat/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🐱</span>
                     <div class="link-info">
                         <div class="link-title">bloat.cat</div>
-                        <div class="link-description">Privacy tools and service list.</div>
+                        <div class="link-description">
+                            Privacy tools and service list.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://catsarch.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://catsarch.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📚</span>
                     <div class="link-info">
                         <div class="link-title">catsarch</div>
-                        <div class="link-description">Directory of alternative services.</div>
+                        <div class="link-description">
+                            Directory of alternative services.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://funami.tech" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://funami.tech"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧰</span>
                     <div class="link-info">
                         <div class="link-title">funami.tech</div>
-                        <div class="link-description">Privacy-preserving tools hub.</div>
+                        <div class="link-description">
+                            Privacy-preserving tools hub.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://kavin.rocks/services" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://kavin.rocks/services"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🪨</span>
                     <div class="link-info">
                         <div class="link-title">kavin.rocks</div>
-                        <div class="link-description">List of self-hosted service instances.</div>
+                        <div class="link-description">
+                            List of self-hosted service instances.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://nerdvpn.de/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://nerdvpn.de/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🕶️</span>
                     <div class="link-info">
                         <div class="link-title">nerdvpn</div>
-                        <div class="link-description">Alternative frontend directory.</div>
+                        <div class="link-description">
+                            Alternative frontend directory.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://perennialte.ch/services/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://perennialte.ch/services/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🌱</span>
                     <div class="link-info">
                         <div class="link-title">perennialte.ch</div>
-                        <div class="link-description">Frontend services and status.</div>
+                        <div class="link-description">
+                            Frontend services and status.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://privacydev.net/services.html" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://privacydev.net/services.html"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔐</span>
                     <div class="link-info">
                         <div class="link-title">privacydev services</div>
-                        <div class="link-description">Privacy-respecting service index.</div>
+                        <div class="link-description">
+                            Privacy-respecting service index.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://privacyredirect.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://privacyredirect.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔁</span>
                     <div class="link-info">
                         <div class="link-title">Privacy Redirect</div>
-                        <div class="link-description">Redirects mainstream sites to private frontends.</div>
+                        <div class="link-description">
+                            Redirects mainstream sites to private frontends.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://pussthecat.org" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://pussthecat.org"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🐈</span>
                     <div class="link-info">
                         <div class="link-title">pussthecat</div>
-                        <div class="link-description">Instance list for alternative services.</div>
+                        <div class="link-description">
+                            Instance list for alternative services.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://tiekoetter.com/services" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://tiekoetter.com/services"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧭</span>
                     <div class="link-info">
                         <div class="link-title">tiekoetter services</div>
-                        <div class="link-description">Collection of privacy-friendly tools.</div>
+                        <div class="link-description">
+                            Collection of privacy-friendly tools.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://status.rtrace.io/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://status.rtrace.io/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📊</span>
                     <div class="link-info">
                         <div class="link-title">rtrace status</div>
-                        <div class="link-description">Status page for privacy service instances.</div>
+                        <div class="link-description">
+                            Status page for privacy service instances.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -717,91 +1164,172 @@
 
             <h2 class="category">Accounts, travel, and file sharing</h2>
             <div class="links-grid">
-                <a href="https://temp-mail.org/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://temp-mail.org/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">✉️</span>
                     <div class="link-info">
                         <div class="link-title">Temp Mail</div>
-                        <div class="link-description">Disposable email (new favorite). Also temp-mail.io and tempail.com.</div>
+                        <div class="link-description">
+                            Disposable email (new favorite). Also temp-mail.io
+                            and tempail.com.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://booking.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://booking.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🏨</span>
                     <div class="link-info">
                         <div class="link-title">Booking.com</div>
-                        <div class="link-description">Hotels and travel; compare with trip.com then book direct.</div>
+                        <div class="link-description">
+                            Hotels and travel; compare with trip.com then book
+                            direct.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://trip.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://trip.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧳</span>
                     <div class="link-info">
                         <div class="link-title">Trip.com</div>
-                        <div class="link-description">Use results as a benchmark before booking directly.</div>
+                        <div class="link-description">
+                            Use results as a benchmark before booking directly.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://wetransfer.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://wetransfer.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📤</span>
                     <div class="link-info">
                         <div class="link-title">WeTransfer</div>
-                        <div class="link-description">Simple file sharing; also encl.io and send.vis.ee instances.</div>
+                        <div class="link-description">
+                            Simple file sharing; also encl.io and send.vis.ee
+                            instances.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://encl.io/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://encl.io/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🛡️</span>
                     <div class="link-info">
                         <div class="link-title">Encl.io</div>
-                        <div class="link-description">Secure file transfer alternative.</div>
+                        <div class="link-description">
+                            Secure file transfer alternative.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://github.com/SpatiumPortae/portal" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://github.com/SpatiumPortae/portal"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🌀</span>
                     <div class="link-info">
                         <div class="link-title">Portal</div>
-                        <div class="link-description">Self-hosted file transfer (SpatiumPortae).</div>
+                        <div class="link-description">
+                            Self-hosted file transfer (SpatiumPortae).
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://syncthing.net/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://syncthing.net/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔗</span>
                     <div class="link-info">
                         <div class="link-title">Syncthing</div>
-                        <div class="link-description">Peer-to-peer file sync across devices.</div>
+                        <div class="link-description">
+                            Peer-to-peer file sync across devices.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://send.vis.ee/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://send.vis.ee/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📨</span>
                     <div class="link-info">
                         <div class="link-title">send.vis.ee</div>
-                        <div class="link-description">Encrypted Firefox Send fork; see timvisee/send-instances list.</div>
+                        <div class="link-description">
+                            Encrypted Firefox Send fork; see
+                            timvisee/send-instances list.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://github.com/timvisee/send-instances" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://github.com/timvisee/send-instances"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🗂️</span>
                     <div class="link-info">
                         <div class="link-title">Send instance list</div>
-                        <div class="link-description">Curated Firefox Send-compatible servers.</div>
+                        <div class="link-description">
+                            Curated Firefox Send-compatible servers.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://zenmarket.jp/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://zenmarket.jp/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🗾</span>
                     <div class="link-info">
                         <div class="link-title">ZenMarket</div>
-                        <div class="link-description">Proxy buying service for Japan imports.</div>
+                        <div class="link-description">
+                            Proxy buying service for Japan imports.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://superbuy.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://superbuy.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🐉</span>
                     <div class="link-info">
                         <div class="link-title">Superbuy</div>
-                        <div class="link-description">Shopping and forwarding from China.</div>
+                        <div class="link-description">
+                            Shopping and forwarding from China.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -809,131 +1337,245 @@
 
             <h2 class="category">Network tests & benchmarks</h2>
             <div class="links-grid">
-                <a href="https://d3ward.github.io/toolz/adblock.html" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://d3ward.github.io/toolz/adblock.html"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🛑</span>
                     <div class="link-info">
                         <div class="link-title">Adblock test</div>
-                        <div class="link-description">Check if adblockers are working; also detectadblock.com.</div>
+                        <div class="link-description">
+                            Check if adblockers are working; also
+                            detectadblock.com.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://browserbench.org" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://browserbench.org"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧪</span>
                     <div class="link-info">
                         <div class="link-title">BrowserBench</div>
-                        <div class="link-description">Includes Kraken, Google Web Tooling, and Basemark suites.</div>
+                        <div class="link-description">
+                            Includes Kraken, Google Web Tooling, and Basemark
+                            suites.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://mozilla.github.io/krakenbenchmark.mozilla.org/index.html" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://mozilla.github.io/krakenbenchmark.mozilla.org/index.html"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🦊</span>
                     <div class="link-info">
                         <div class="link-title">Kraken benchmark</div>
-                        <div class="link-description">Mozilla JavaScript performance test.</div>
+                        <div class="link-description">
+                            Mozilla JavaScript performance test.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://v8.github.io/web-tooling-benchmark/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://v8.github.io/web-tooling-benchmark/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧭</span>
                     <div class="link-info">
                         <div class="link-title">Web Tooling benchmark</div>
-                        <div class="link-description">Google V8-focused JS benchmark suite.</div>
+                        <div class="link-description">
+                            Google V8-focused JS benchmark suite.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://web.basemark.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://web.basemark.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📈</span>
                     <div class="link-info">
                         <div class="link-title">Basemark Web</div>
-                        <div class="link-description">General browser performance test.</div>
+                        <div class="link-description">
+                            General browser performance test.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://canyoublockit.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://canyoublockit.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧱</span>
                     <div class="link-info">
                         <div class="link-title">Can You Block It</div>
-                        <div class="link-description">Adblock detection stress test.</div>
+                        <div class="link-description">
+                            Adblock detection stress test.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://coveryourtracks.eff.org/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://coveryourtracks.eff.org/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🕵️‍♂️</span>
                     <div class="link-info">
                         <div class="link-title">Cover Your Tracks</div>
-                        <div class="link-description">EFF tracking protection audit.</div>
+                        <div class="link-description">
+                            EFF tracking protection audit.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://detectadblock.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://detectadblock.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">👀</span>
                     <div class="link-info">
                         <div class="link-title">Detect Adblock</div>
-                        <div class="link-description">Confirms blocker detection behavior.</div>
+                        <div class="link-description">
+                            Confirms blocker detection behavior.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://librespeed.org/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://librespeed.org/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🚀</span>
                     <div class="link-info">
                         <div class="link-title">LibreSpeed</div>
-                        <div class="link-description">Open-source network speed test.</div>
+                        <div class="link-description">
+                            Open-source network speed test.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://fast.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://fast.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎞️</span>
                     <div class="link-info">
                         <div class="link-title">Fast.com</div>
-                        <div class="link-description">Netflix-backed speed testing.</div>
+                        <div class="link-description">
+                            Netflix-backed speed testing.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://speed.cloudflare.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://speed.cloudflare.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">☁️</span>
                     <div class="link-info">
                         <div class="link-title">Cloudflare speed test</div>
-                        <div class="link-description">Measure latency and throughput.</div>
+                        <div class="link-description">
+                            Measure latency and throughput.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://speed.measurementlab.net/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://speed.measurementlab.net/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧪</span>
                     <div class="link-info">
                         <div class="link-title">Measurement Lab</div>
-                        <div class="link-description">M-Lab speed tests (used by Google).</div>
+                        <div class="link-description">
+                            M-Lab speed tests (used by Google).
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://speedsmart.net/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://speedsmart.net/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">⚡</span>
                     <div class="link-info">
                         <div class="link-title">SpeedSmart</div>
-                        <div class="link-description">Browser-based speed checks.</div>
+                        <div class="link-description">
+                            Browser-based speed checks.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://nperf.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://nperf.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🧭</span>
                     <div class="link-info">
                         <div class="link-title">nPerf</div>
-                        <div class="link-description">Network throughput and coverage tests.</div>
+                        <div class="link-description">
+                            Network throughput and coverage tests.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://openspeedtest.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://openspeedtest.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📡</span>
                     <div class="link-info">
                         <div class="link-title">OpenSpeedTest</div>
-                        <div class="link-description">HTML5-based speed testing.</div>
+                        <div class="link-description">
+                            HTML5-based speed testing.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://wifiman.com/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://wifiman.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📶</span>
                     <div class="link-info">
                         <div class="link-title">Wifiman</div>
-                        <div class="link-description">Wi‑Fi scanning and throughput tests.</div>
+                        <div class="link-description">
+                            Wi‑Fi scanning and throughput tests.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -941,115 +1583,183 @@
 
             <h2 class="category">Entertainment & streaming</h2>
             <div class="links-grid">
-                <a href="https://southparkstudios.com/seasons/south-park" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://southparkstudios.com/seasons/south-park"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">😂</span>
                     <div class="link-info">
                         <div class="link-title">South Park</div>
-                        <div class="link-description">Full episodes on South Park Studios.</div>
+                        <div class="link-description">
+                            Full episodes on South Park Studios.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://www.youtube.com/@AnimeonTMSOfficialChannel" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://www.youtube.com/@AnimeonTMSOfficialChannel"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🎌</span>
                     <div class="link-info">
                         <div class="link-title">TMS Anime Channel</div>
-                        <div class="link-description">Assorted anime like Sonic X. Includes playlist links in channel videos.</div>
+                        <div class="link-description">
+                            Assorted anime like Sonic X. Includes playlist links
+                            in channel videos.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://www.youtube.com/watch?v=-INdp_kaWAc&list=ULcxqQ59vzyTk" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://www.youtube.com/watch?v=-INdp_kaWAc&list=ULcxqQ59vzyTk"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📺</span>
                     <div class="link-info">
                         <div class="link-title">TMS playlist example</div>
-                        <div class="link-description">Sample Sonic X playlist entry.</div>
+                        <div class="link-description">
+                            Sample Sonic X playlist entry.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://youtube.com/c/MuseAsia" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://youtube.com/c/MuseAsia"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🌏</span>
                     <div class="link-info">
                         <div class="link-title">Muse Asia</div>
-                        <div class="link-description">Anime episodes (JoJo, Spy x Family).</div>
+                        <div class="link-description">
+                            Anime episodes (JoJo, Spy x Family).
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://youtube.com/c/Pok%C3%A9monAsiaENG" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🧢</span>
+                <a
+                    href="https://youtube.com/c/Pok%C3%A9monAsiaENG"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">⚡</span>
                     <div class="link-info">
-                        <div class="link-title">Pokémon Asia ENG</div>
-                        <div class="link-description">Pokémon episodes and more.</div>
+                        <div class="link-title">Pokemon Asia ENG</div>
+                        <div class="link-description">
+                            Pokemon Anime Full Episodes n More.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://youtube.com/playlist?list=PLQOJdrIdqhW3hB8EuTofununVfX0pBDPa" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://youtube.com/playlist?list=PLQOJdrIdqhW3hB8EuTofununVfX0pBDPa"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🤼</span>
                     <div class="link-info">
-                        <div class="link-title">WWE full matches</div>
-                        <div class="link-description">Curated playlist of WWE content.</div>
+                        <div class="link-title">WWE Full Matches</div>
+                        <div class="link-description">
+                            Playlist of full wrestling matches.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://www.youtube.com/watch?v=ilSyLJ72pMY&list=ULcxqQ59vzyTk" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🏆</span>
+                <a
+                    href="https://www.youtube.com/watch?v=ilSyLJ72pMY&list=ULcxqQ59vzyTk"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📼</span>
                     <div class="link-info">
-                        <div class="link-title">WWE playlist example</div>
-                        <div class="link-description">Sample full match playlist entry.</div>
+                        <div class="link-title">WWE Playlist Link</div>
+                        <div class="link-description">
+                            Alternate WWE playlist entry.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://youtube.com/playlist?list=PLWmD0FKyW_ozrMGGtHaW2bJtZk4euj__p" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🍩</span>
+                <a
+                    href="https://youtube.com/playlist?list=PLWmD0FKyW_ozrMGGtHaW2bJtZk4euj__p"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🟡</span>
                     <div class="link-info">
                         <div class="link-title">[Cut] Simpsons</div>
-                        <div class="link-description">Playlist of Simpsons clips.</div>
+                        <div class="link-description">Simpsons playlist.</div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://youtube.com/playlist?list=PLylTItjXRUVdHImLFyb2DfOagPFYNbqW1" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🕵️</span>
+                <a
+                    href="https://youtube.com/playlist?list=PLylTItjXRUVdHImLFyb2DfOagPFYNbqW1"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🔍</span>
                     <div class="link-info">
                         <div class="link-title">Forensic Files</div>
-                        <div class="link-description">Full episode playlist.</div>
+                        <div class="link-description">
+                            Complete episodes playlist.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://youtube.com/@Sonic.Boom_Official" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🌀</span>
+                <a
+                    href="https://youtube.com/@Sonic.Boom_Official"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🦔</span>
                     <div class="link-info">
                         <div class="link-title">Sonic Boom</div>
-                        <div class="link-description">Official Sonic Boom channel playlist.</div>
+                        <div class="link-description">
+                            Sonic Boom official channel.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://youtube.com/watch?v=bmAprGzLqqg&list=ULcxqQ59vzyTk" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">💫</span>
-                    <div class="link-info">
-                        <div class="link-title">Sonic Boom playlist example</div>
-                        <div class="link-description">Sample episode playlist entry.</div>
-                    </div>
-                    <span class="arrow">→</span>
-                </a>
-                <a href="https://www.youtube.com/@WildBrainSuperheroes" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://www.youtube.com/@WildBrainSuperheroes"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🦸</span>
                     <div class="link-info">
                         <div class="link-title">WildBrain Superheroes</div>
-                        <div class="link-description">90s cartoons like Mario Super Show and Adventures of Sonic.</div>
+                        <div class="link-description">
+                            DiC 90s cartoons e.g. Mario Super Show, Adventures
+                            of Sonic.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://www.youtube.com/watch?v=WmLzql3PpKo&list=ULcxqQ59vzyTk" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🎞️</span>
+                <a
+                    href="https://youtube.com/playlist?list=PL39_ud5aKSvnYDhKdB7wTDUZRiE8RaJat"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📺</span>
                     <div class="link-info">
-                        <div class="link-title">WildBrain playlist example</div>
-                        <div class="link-description">Sample playlist link from the channel.</div>
-                    </div>
-                    <span class="arrow">→</span>
-                </a>
-                <a href="https://youtube.com/playlist?list=PL39_ud5aKSvnYDhKdB7wTDUZRiE8RaJat" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">📜</span>
-                    <div class="link-info">
-                        <div class="link-title">Playlist collection</div>
-                        <div class="link-description">Assorted entertainment playlist links.</div>
+                        <div class="link-title">Misc Playlist</div>
+                        <div class="link-description">
+                            Unspecified content playlist.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -1057,19 +1767,33 @@
 
             <h2 class="category">Sample media</h2>
             <div class="links-grid">
-                <a href="https://developer.apple.com/streaming/examples/" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🍏</span>
+                <a
+                    href="https://developer.apple.com/streaming/examples/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🍎</span>
                     <div class="link-info">
-                        <div class="link-title">Apple HLS samples</div>
-                        <div class="link-description">Sample media streams from Apple.</div>
+                        <div class="link-title">Apple Streaming</div>
+                        <div class="link-description">
+                            Sample media for testing streams.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://developer.dolby.com/tools-media/sample-media/video-streams/dolby-vision-streams/" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🎞️</span>
+                <a
+                    href="https://developer.dolby.com/tools-media/sample-media/video-streams/dolby-vision-streams/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎬</span>
                     <div class="link-info">
-                        <div class="link-title">Dolby Vision streams</div>
-                        <div class="link-description">Dolby-provided test media.</div>
+                        <div class="link-title">Dolby Vision Streams</div>
+                        <div class="link-description">
+                            Dolby sample media tools.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
@@ -1077,147 +1801,1809 @@
 
             <h2 class="category">Dev</h2>
             <div class="links-grid">
-                <a href="https://paiza.io/" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://paiza.io/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">💻</span>
                     <div class="link-info">
-                        <div class="link-title">paiza.io</div>
-                        <div class="link-description">Online coding playground.</div>
+                        <div class="link-title">Paiza</div>
+                        <div class="link-description">
+                            Online web dev environment.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://replit.com/" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🌀</span>
+                <a
+                    href="https://replit.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">⚡</span>
                     <div class="link-info">
                         <div class="link-title">Replit</div>
-                        <div class="link-description">Cloud IDE for quick projects.</div>
+                        <div class="link-description">Online coding IDE.</div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://vscode.dev" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://vscode.dev"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">📝</span>
                     <div class="link-info">
                         <div class="link-title">VS Code Web</div>
-                        <div class="link-description">Browser-based VS Code instance.</div>
+                        <div class="link-description">
+                            Visual Studio Code for the Web.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://github.dev" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://github.dev"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🐙</span>
                     <div class="link-info">
                         <div class="link-title">GitHub.dev</div>
-                        <div class="link-description">Quick editor for GitHub repos.</div>
+                        <div class="link-description">
+                            Lightweight code editor in browser.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
             </div>
 
-            <h2 class="category">Software - Legal</h2>
+            <h2 class="category">Software</h2>
             <div class="links-grid">
-                <a href="https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🔑</span>
                     <div class="link-info">
-                        <div class="link-title">MakeMKV beta key</div>
-                        <div class="link-description">Official forum post for current beta key.</div>
+                        <div class="link-title">MakeMKV Beta Key</div>
+                        <div class="link-description">
+                            Get the beta key for MakeMKV.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://translate.kagi.org" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🌐</span>
+                <a
+                    href="https://translate.kagi.org"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🤖</span>
                     <div class="link-info">
                         <div class="link-title">Kagi Translate</div>
-                        <div class="link-description">AI-assisted translator.</div>
+                        <div class="link-description">AI translator tool.</div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://papago.naver.com/" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🦜</span>
+                <a
+                    href="https://papago.naver.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🗣️</span>
                     <div class="link-info">
                         <div class="link-title">Papago</div>
-                        <div class="link-description">Naver's translation service.</div>
+                        <div class="link-description">Translation service.</div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://deepl.com/" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🧠</span>
+                <a
+                    href="https://deepl.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🌐</span>
                     <div class="link-info">
                         <div class="link-title">DeepL</div>
-                        <div class="link-description">High quality machine translation.</div>
+                        <div class="link-description">
+                            AI-powered translation.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://quillbot.com/translate" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://quillbot.com/translate"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">✒️</span>
                     <div class="link-info">
-                        <div class="link-title">QuillBot Translate</div>
-                        <div class="link-description">Translation with paraphrasing options.</div>
+                        <div class="link-title">Quillbot Translate</div>
+                        <div class="link-description">
+                            Paraphrasing and translation.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://reverso.net" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🔁</span>
+                <a
+                    href="https://reverso.net"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🔄</span>
                     <div class="link-info">
                         <div class="link-title">Reverso</div>
-                        <div class="link-description">Context-aware translations.</div>
+                        <div class="link-description">
+                            Translation and context search.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://protonvpn.com" class="link-card" target="_blank" rel="noopener">
+                <a
+                    href="https://protonvpn.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
                     <span class="icon">🛡️</span>
                     <div class="link-info">
-                        <div class="link-title">Proton VPN</div>
-                        <div class="link-description">EFF/Mozilla-approved VPN (free tier ~1 Mbps).</div>
+                        <div class="link-title">ProtonVPN</div>
+                        <div class="link-description">
+                            Good VPN approved by EFF. Free tier capped at 1Mbps.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://mullvad.net" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🧲</span>
+                <a
+                    href="https://mullvad.net"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🦔</span>
                     <div class="link-info">
                         <div class="link-title">Mullvad</div>
-                        <div class="link-description">Flat-rate privacy-focused VPN.</div>
+                        <div class="link-description">Fair pricing VPN.</div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://spacedesk.net" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🖥️</span>
+                <a
+                    href="https://spacedesk.net"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📱</span>
                     <div class="link-info">
-                        <div class="link-title">spacedesk</div>
-                        <div class="link-description">Use mobile devices as PC displays; set quality low then cast with Parsec.</div>
+                        <div class="link-title">Spacedesk</div>
+                        <div class="link-description">
+                            Connect Android/iOS as PC displays. Tip: Use Parsec
+                            with spacedesk virtual monitor.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
             </div>
 
-            <h2 class="category">Trusted / Official downloads</h2>
+            <h2 class="category">Trusted DLs</h2>
             <div class="links-grid">
-                <a href="https://download.cnet.com/" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🌐</span>
+                <a
+                    href="https://download.cnet.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">💾</span>
                     <div class="link-info">
-                        <div class="link-title">CNET Download.com</div>
-                        <div class="link-description">Aggregated software downloads.</div>
+                        <div class="link-title">CNET Download</div>
+                        <div class="link-description">Cnet Download.com.</div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://fosshub.com/" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🛠️</span>
+                <a
+                    href="https://fosshub.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🛡️</span>
                     <div class="link-info">
-                        <div class="link-title">FossHub</div>
-                        <div class="link-description">Open-source software hub.</div>
+                        <div class="link-title">Fosshub</div>
+                        <div class="link-description">
+                            Free open source software hub.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://guru3d.com/" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🧙</span>
+                <a
+                    href="https://guru3d.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎮</span>
                     <div class="link-info">
                         <div class="link-title">Guru3D</div>
-                        <div class="link-description">Drivers and hardware utilities.</div>
+                        <div class="link-description">
+                            Drivers and downloads.
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
-                <a href="https://majorgeeks.com/" class="link-card" target="_blank" rel="noopener">
-                    <span class="icon">🧰</span>
+                <a
+                    href="https://majorgeeks.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🔧</span>
                     <div class="link-info">
                         <div class="link-title">MajorGeeks</div>
-                        <div class="link-description">Trusted software download archive.</div>
+                        <div class="link-description">Software downloads.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://ipsw.me/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🍎</span>
+                    <div class="link-info">
+                        <div class="link-title">IPSW.me</div>
+                        <div class="link-description">
+                            Download Apple .ipsw files.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://appledb.dev"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🍏</span>
+                    <div class="link-info">
+                        <div class="link-title">AppleDB</div>
+                        <div class="link-description">Flash .ipsw files.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://3u.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📲</span>
+                    <div class="link-info">
+                        <div class="link-title">3uTools</div>
+                        <div class="link-description">Flash .ipsw files.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://github.com/martinetd/samloader"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🤖</span>
+                    <div class="link-info">
+                        <div class="link-title">Samloader</div>
+                        <div class="link-description">
+                            Download Samsung firmware packages.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://uupdump.net"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🪟</span>
+                    <div class="link-info">
+                        <div class="link-title">UUP Dump</div>
+                        <div class="link-description">
+                            Build Windows ISOs from Windows Update files.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://xiaomifirmwareupdater.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📱</span>
+                    <div class="link-info">
+                        <div class="link-title">Xiaomi Firmware Updater</div>
+                        <div class="link-description">
+                            Download Xiaomi firmware packages.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://massgrave.dev/genuine-installation-media"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🪟</span>
+                    <div class="link-info">
+                        <div class="link-title">Massgrave ISOs</div>
+                        <div class="link-description">
+                            Download Microsoft ISOs.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://github.com/gravesoft/msdl"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🛠️</span>
+                    <div class="link-info">
+                        <div class="link-title">MSDL</div>
+                        <div class="link-description">
+                            Microsoft Software Download Library.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://developer.microsoft.com/en-us/windows/downloads/virtual-machines"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">💻</span>
+                    <div class="link-info">
+                        <div class="link-title">Windows VMs</div>
+                        <div class="link-description">
+                            Windows virtual machine hard drive files.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://microsoft.com/en-us/software-download/windowsinsiderpreviewiso"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🚀</span>
+                    <div class="link-info">
+                        <div class="link-title">Windows Insider ISOs</div>
+                        <div class="link-description">
+                            Download Windows Insider ISOs.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://store.rg-adguard.net/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🛒</span>
+                    <div class="link-info">
+                        <div class="link-title">RG Adguard</div>
+                        <div class="link-description">
+                            Download Windows store .appx files.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://github.com/massgravel/Microsoft-Activation-Scripts"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📜</span>
+                    <div class="link-info">
+                        <div class="link-title">MAS</div>
+                        <div class="link-description">
+                            Windows activation scripts.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://github.com/Endermanch/XPKeygen"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">💿</span>
+                    <div class="link-info">
+                        <div class="link-title">XP Keygen</div>
+                        <div class="link-description">Windows XP Keygen.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://sourceforge.net/projects/andyyan-gsi/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🤖</span>
+                    <div class="link-info">
+                        <div class="link-title">LineageOS GSI</div>
+                        <div class="link-description">
+                            LineageOS Treble GSI.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://opengapps.org/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🔓</span>
+                    <div class="link-info">
+                        <div class="link-title">Open GApps</div>
+                        <div class="link-description">
+                            Gapps package (recommend "nano").
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://liteapks.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📦</span>
+                    <div class="link-info">
+                        <div class="link-title">Lite APKs</div>
+                        <div class="link-description">
+                            Lite versions of Android apps.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://9xbud.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎬</span>
+                    <div class="link-info">
+                        <div class="link-title">9xBud</div>
+                        <div class="link-description">
+                            Universal downloader for YT, Reddit, Twitter.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://cobalt.tools"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🛠️</span>
+                    <div class="link-info">
+                        <div class="link-title">Cobalt</div>
+                        <div class="link-description">
+                            Media downloader tool.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://en.savefrom.net"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">⬇️</span>
+                    <div class="link-info">
+                        <div class="link-title">SaveFrom</div>
+                        <div class="link-description">Video downloader.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://fdown.net/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📘</span>
+                    <div class="link-info">
+                        <div class="link-title">FDown</div>
+                        <div class="link-description">Facebook downloader.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://spotify-downloader.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎵</span>
+                    <div class="link-info">
+                        <div class="link-title">Spotify Downloader</div>
+                        <div class="link-description">
+                            Download Spotify tracks.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://twsaver.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🐦</span>
+                    <div class="link-info">
+                        <div class="link-title">TwSaver</div>
+                        <div class="link-description">Twitter downloader.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://twitsave.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🐤</span>
+                    <div class="link-info">
+                        <div class="link-title">TwitSave</div>
+                        <div class="link-description">Twitter downloader.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://clipconverter.cc"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎞️</span>
+                    <div class="link-info">
+                        <div class="link-title">ClipConverter</div>
+                        <div class="link-description">
+                            YouTube downloader/converter.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">Questionable</h2>
+            <div class="links-grid">
+                <a
+                    href="https://watchwrestling24.net"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🤼</span>
+                    <div class="link-info">
+                        <div class="link-title">Watch Wrestling</div>
+                        <div class="link-description">Wrestling VODs.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://ziperto.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎮</span>
+                    <div class="link-info">
+                        <div class="link-title">Ziperto</div>
+                        <div class="link-description">ROMs and games.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://dlpsgame.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🕹️</span>
+                    <div class="link-info">
+                        <div class="link-title">DLPS Games</div>
+                        <div class="link-description">Game downloads.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://romsfun.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📼</span>
+                    <div class="link-info">
+                        <div class="link-title">RomsFun</div>
+                        <div class="link-description">ROMs site.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://softcobra.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🐍</span>
+                    <div class="link-info">
+                        <div class="link-title">SoftCobra</div>
+                        <div class="link-description">Software and games.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://nin10news.com/decode/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🧩</span>
+                    <div class="link-info">
+                        <div class="link-title">Nin10News Decode</div>
+                        <div class="link-description">Decoding tools.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://github.com/fmhy/FMHY/wiki"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📚</span>
+                    <div class="link-info">
+                        <div class="link-title">FMHY Wiki</div>
+                        <div class="link-description">Free My Hobby Wiki.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://discogc.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">💿</span>
+                    <div class="link-info">
+                        <div class="link-title">Discogc</div>
+                        <div class="link-description">
+                            FLAC Direct download.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://flacfile.blogspot.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎶</span>
+                    <div class="link-info">
+                        <div class="link-title">FLAC File</div>
+                        <div class="link-description">FLAC music blog.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://jpopsingles.eu"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇯🇵</span>
+                    <div class="link-info">
+                        <div class="link-title">JPop Singles</div>
+                        <div class="link-description">Japanese pop music.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://sukidesuost.info"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎧</span>
+                    <div class="link-info">
+                        <div class="link-title">SukiDesu OST</div>
+                        <div class="link-description">Anime OST downloads.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">Torrenting</h2>
+            <div class="links-grid">
+                <a
+                    href="https://ultra.cc"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">☁️</span>
+                    <div class="link-info">
+                        <div class="link-title">Ultra.cc</div>
+                        <div class="link-description">
+                            Good seedbox provider.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://bytesized-hosting.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">💾</span>
+                    <div class="link-info">
+                        <div class="link-title">Bytesized Hosting</div>
+                        <div class="link-description">Seedbox hosting.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📋</span>
+                    <div class="link-info">
+                        <div class="link-title">Trackers List 1</div>
+                        <div class="link-description">
+                            Add to client for faster speeds.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📋</span>
+                    <div class="link-info">
+                        <div class="link-title">Trackers List 2</div>
+                        <div class="link-description">
+                            IP-based tracker list.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://subscene.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📝</span>
+                    <div class="link-info">
+                        <div class="link-title">Subscene</div>
+                        <div class="link-description">
+                            Get subtitles for downloads.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://thewiki.moe/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎌</span>
+                    <div class="link-info">
+                        <div class="link-title">The Wiki Moe</div>
+                        <div class="link-description">
+                            Anime torrenting guide.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://limetorrents.lol"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🍋</span>
+                    <div class="link-info">
+                        <div class="link-title">LimeTorrents</div>
+                        <div class="link-description">Torrent index.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://rutracker.net/forum/index.php"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇷🇺</span>
+                    <div class="link-info">
+                        <div class="link-title">RuTracker</div>
+                        <div class="link-description">
+                            Russian torrent forum.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://therarbg.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🌐</span>
+                    <div class="link-info">
+                        <div class="link-title">TheRARBG</div>
+                        <div class="link-description">
+                            RARBG replacement/mirror.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://thepiratebay.org"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">⚓</span>
+                    <div class="link-info">
+                        <div class="link-title">The Pirate Bay</div>
+                        <div class="link-description">
+                            The Bay. See forum.suprbay.org for status.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://forum.suprbay.org/status"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">💬</span>
+                    <div class="link-info">
+                        <div class="link-title">SuprBay Status</div>
+                        <div class="link-description">
+                            TPB community status.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://bitsearch.to"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🔍</span>
+                    <div class="link-info">
+                        <div class="link-title">BitSearch</div>
+                        <div class="link-description">
+                            Torrent search engine.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://scnlog.me"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎵</span>
+                    <div class="link-info">
+                        <div class="link-title">SCNLog</div>
+                        <div class="link-description">
+                            Scene music releases.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">Usenetting</h2>
+            <div class="links-grid">
+                <a
+                    href="https://newsdemon.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📰</span>
+                    <div class="link-info">
+                        <div class="link-title">Newsdemon</div>
+                        <div class="link-description">Usenet provider.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://tweaknews.eu"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">⚙️</span>
+                    <div class="link-info">
+                        <div class="link-title">Tweaknews</div>
+                        <div class="link-description">Usenet provider.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://nzbgeek.info"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📂</span>
+                    <div class="link-info">
+                        <div class="link-title">NZBGeek</div>
+                        <div class="link-description">NZB index.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">Live - Legal</h2>
+            <div class="links-grid">
+                <div class="note-card">
+                    <div><strong>YT Popout Chat:</strong></div>
+                    <code
+                        >https://youtube.com/live_chat?is_popout=1&v=[VIDEO_ID]</code
+                    >
+                </div>
+                <div class="note-card">
+                    <div><strong>YT Embed Template:</strong></div>
+                    <code
+                        >https://youtube-nocookie.com/embed/[VIDEO_ID]?start=0&cc_load_policy=1&rel=0&enablejsapi=1&fs=1</code
+                    >
+                </div>
+                <div class="note-card">
+                    <div><strong>YT Live Embed:</strong></div>
+                    <code
+                        >https://www.youtube.com/embed/live_stream?channel=[CHANNEL_ID]</code
+                    >
+                </div>
+                <div class="note-card">
+                    <div><strong>YT List Embed:</strong></div>
+                    <code
+                        >https://www.youtube.com/embed/[VIDEO_ID]?list=[LIST_ID]</code
+                    >
+                </div>
+                <div class="note-card">
+                    <div><strong>Twitch Popout Chat:</strong></div>
+                    <code>https://twitch.tv/popout/[CHANNEL]/chat?popout=</code>
+                </div>
+                <div class="note-card">
+                    <div><strong>Twitch Player:</strong></div>
+                    <code
+                        >https://player.twitch.tv/?channel=[CHANNEL]&parent=[DOMAIN]</code
+                    >
+                </div>
+                <a
+                    href="https://mattw.io/youtube-metadata/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🔍</span>
+                    <div class="link-info">
+                        <div class="link-title">YouTube Metadata</div>
+                        <div class="link-description">
+                            Find channel ID and metadata.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://jabrek.net/dislike-en/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">👎</span>
+                    <div class="link-info">
+                        <div class="link-title">Return YouTube Dislike</div>
+                        <div class="link-description">
+                            View YouTube dislikes.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://hadzy.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">💬</span>
+                    <div class="link-info">
+                        <div class="link-title">Hadzy</div>
+                        <div class="link-description">
+                            Sort YouTube comments.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://twitch.tv/directory/all?sort=VIEWER_COUNT"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📊</span>
+                    <div class="link-info">
+                        <div class="link-title">Top Twitch Streams</div>
+                        <div class="link-description">
+                            Browse by viewer count.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/results?search_query=&sp=CAMSAkAB"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📺</span>
+                    <div class="link-info">
+                        <div class="link-title">Top YouTube Streams</div>
+                        <div class="link-description">
+                            Current live streams.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@KitchenNightmares/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">👨‍🍳</span>
+                    <div class="link-info">
+                        <div class="link-title">Kitchen Nightmares</div>
+                        <div class="link-description">Pseudo 24/7 stream.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@abscbnnews/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇵🇭</span>
+                    <div class="link-info">
+                        <div class="link-title">ABS CBN News</div>
+                        <div class="link-description">
+                            Philippines News 24/7.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@abscbnentertainment/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎭</span>
+                    <div class="link-info">
+                        <div class="link-title">ABS CBN Kapamilya</div>
+                        <div class="link-description">Entertainment Live.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@TV5Philippines/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">5️⃣</span>
+                    <div class="link-info">
+                        <div class="link-title">TV5 Philippines</div>
+                        <div class="link-description">Not 24/7.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@channelnewsasia/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇸🇬</span>
+                    <div class="link-info">
+                        <div class="link-title">CNA</div>
+                        <div class="link-description">Channel News Asia.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@France24_en/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇫🇷</span>
+                    <div class="link-info">
+                        <div class="link-title">France 24</div>
+                        <div class="link-description">International News.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@NHKWORLDJAPAN/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇯🇵</span>
+                    <div class="link-info">
+                        <div class="link-title">NHK World</div>
+                        <div class="link-description">
+                            Japan News. Pseudo 24/7.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@NBCNews/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇺🇸</span>
+                    <div class="link-info">
+                        <div class="link-title">NBC News</div>
+                        <div class="link-description">USA News.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@SkyNews/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇬🇧</span>
+                    <div class="link-info">
+                        <div class="link-title">Sky News</div>
+                        <div class="link-description">UK News.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@skysports/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">⚽</span>
+                    <div class="link-info">
+                        <div class="link-title">Sky Sports</div>
+                        <div class="link-description">Sports Live.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://player.twitch.tv/?channel=genshinimpactofficial&parent=no"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">⚔️</span>
+                    <div class="link-info">
+                        <div class="link-title">Genshin Impact Official</div>
+                        <div class="link-description">Twitch stream.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@AEW/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🤼</span>
+                    <div class="link-info">
+                        <div class="link-title">AEW</div>
+                        <div class="link-description">
+                            All Elite Wrestling Dark / Elevation.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@WWE/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🤼</span>
+                    <div class="link-info">
+                        <div class="link-title">WWE</div>
+                        <div class="link-description">WWE Talk Shows.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@IGN/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎮</span>
+                    <div class="link-info">
+                        <div class="link-title">IGN</div>
+                        <div class="link-description">
+                            Gaming Events. Pseudo 24/7.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@thegameawards/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🏆</span>
+                    <div class="link-info">
+                        <div class="link-title">The Game Awards</div>
+                        <div class="link-description">
+                            Summer Game Fest / Game Awards.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@CNET/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📱</span>
+                    <div class="link-info">
+                        <div class="link-title">CNET</div>
+                        <div class="link-description">
+                            Tech Events. Pseudo 24/7.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@CNETHighlights/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📺</span>
+                    <div class="link-info">
+                        <div class="link-title">CNET Highlights</div>
+                        <div class="link-description">
+                            CNET highlights stream.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@Apple/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🍎</span>
+                    <div class="link-info">
+                        <div class="link-title">Apple</div>
+                        <div class="link-description">Apple Events stream.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/channel/UCA1d3HFGFUmkKr2JIUA5Vlw"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🔫</span>
+                    <div class="link-info">
+                        <div class="link-title">VALORANT Esports</div>
+                        <div class="link-description">
+                            Official Esports Channel.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://twitch.tv/valorant_pacific"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🌏</span>
+                    <div class="link-info">
+                        <div class="link-title">VALORANT Pacific</div>
+                        <div class="link-description">Pacific League.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/channel/UCp6n8d8Y8r3MwKNw_MMaouQ"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🌍</span>
+                    <div class="link-info">
+                        <div class="link-title">VALORANT EMEA</div>
+                        <div class="link-description">EMEA League.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://twitch.tv/valorant_ph"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇵🇭</span>
+                    <div class="link-info">
+                        <div class="link-title">VALORANT PH</div>
+                        <div class="link-description">Philippines League.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://twitch.tv/valorantesports_cn"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇨🇳</span>
+                    <div class="link-info">
+                        <div class="link-title">VALORANT CN</div>
+                        <div class="link-description">China League.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/channel/UCzVgCrOcBAWYEHTtVOMPAtw"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇯🇵</span>
+                    <div class="link-info">
+                        <div class="link-title">VALORANT JP</div>
+                        <div class="link-description">Japan League.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@CMZGG/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇯🇵</span>
+                    <div class="link-info">
+                        <div class="link-title">CMZGG</div>
+                        <div class="link-description">
+                            Popular JPN esports organizer.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@CrazyRaccoonOfficial/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🦝</span>
+                    <div class="link-info">
+                        <div class="link-title">Crazy Raccoon</div>
+                        <div class="link-description">JPN esports team.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@RacingStatistics/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🏎️</span>
+                    <div class="link-info">
+                        <div class="link-title">Racing Statistics</div>
+                        <div class="link-description">F1 Chat.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@artofminimaltechno/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎹</span>
+                    <div class="link-info">
+                        <div class="link-title">Art of Minimal Techno</div>
+                        <div class="link-description">
+                            Dance / EDM / House 24/7.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://youtube.com/@cafemusicbgmchannel/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">☕</span>
+                    <div class="link-info">
+                        <div class="link-title">Cafe Music BGM</div>
+                        <div class="link-description">Cafe Music 24/7.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://www.youtube.com/@LofiGirl/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎧</span>
+                    <div class="link-info">
+                        <div class="link-title">Lofi Girl</div>
+                        <div class="link-description">LoFi Music 24/7.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://player.twitch.tv/?channel=retroweatherchannel&parent=no"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🌦️</span>
+                    <div class="link-info">
+                        <div class="link-title">Retro Weather</div>
+                        <div class="link-description">
+                            Vaporwave weather channel.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://www.youtube.com/@Krelez/streams"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">👾</span>
+                    <div class="link-info">
+                        <div class="link-title">Krelez</div>
+                        <div class="link-description">
+                            Vaporwave aesthetic stream.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">Live - Questionable</h2>
+            <div class="links-grid">
+                <a
+                    href="https://aqstream.com/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📺</span>
+                    <div class="link-info">
+                        <div class="link-title">AQStream</div>
+                        <div class="link-description">Asian TV n K-Pop.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://baked.live"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🥧</span>
+                    <div class="link-info">
+                        <div class="link-title">Baked.live</div>
+                        <div class="link-description">
+                            Live Wrestling and/or sports. Create account first.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">Kodi</h2>
+            <div class="links-grid">
+                <a
+                    href="https://www.firesticktricks.com/asgard-kodi-addon.html"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🛡️</span>
+                    <div class="link-info">
+                        <div class="link-title">Asgard Kodi Addon</div>
+                        <div class="link-description">Installation guide.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://www.kodi-guide.com/the-crew-kodi-addon"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">👥</span>
+                    <div class="link-info">
+                        <div class="link-title">The Crew Kodi Addon</div>
+                        <div class="link-description">Installation guide.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://www.kodi-guide.com/mad-titan-sports-kodi-addon"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🏈</span>
+                    <div class="link-info">
+                        <div class="link-title">
+                            Mad Titan Sports Kodi Addon
+                        </div>
+                        <div class="link-description">Installation guide.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://linksnappy.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🔗</span>
+                    <div class="link-info">
+                        <div class="link-title">LinkSnappy</div>
+                        <div class="link-description">
+                            Multi-hoster downloader.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://real-debrid.com"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🚀</span>
+                    <div class="link-info">
+                        <div class="link-title">Real-Debrid</div>
+                        <div class="link-description">
+                            Unrestricted downloader.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+            </div>
+
+            <h2 class="category">VOD - Questionable</h2>
+            <div class="links-grid">
+                <a
+                    href="https://drive.google.com/drive/u/0/folders/14-nFq_FcoX0IK_A_GRJy9Uwz3NipcEzG"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🚗</span>
+                    <div class="link-info">
+                        <div class="link-title">Top Gear GDrive</div>
+                        <div class="link-description">
+                            Top Gear episodes collection.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://mega.nz/folder/BCxyABpB#38gLb2zhBrFrWxJ9D81Ysg"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🇯🇵</span>
+                    <div class="link-info">
+                        <div class="link-title">Japanese Millionaire</div>
+                        <div class="link-description">
+                            Who wants to be a millionaire JP.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://www.youtube.com/channel/UCLirVdQ66YvXLvI5dH2pveA"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📺</span>
+                    <div class="link-info">
+                        <div class="link-title">
+                            Japanese Millionaire Channel
+                        </div>
+                        <div class="link-description">
+                            YouTube channel for the above.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://allmanga.to/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📖</span>
+                    <div class="link-info">
+                        <div class="link-title">AllManga</div>
+                        <div class="link-description">Manga reading site.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://animepahe.ru/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎌</span>
+                    <div class="link-info">
+                        <div class="link-title">AnimePahe</div>
+                        <div class="link-description">Anime streaming.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://anitaku.pe/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🍥</span>
+                    <div class="link-info">
+                        <div class="link-title">Anitaku</div>
+                        <div class="link-description">Anime streaming.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://kimcartoon.to/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🦆</span>
+                    <div class="link-info">
+                        <div class="link-title">KimCartoon</div>
+                        <div class="link-description">Cartoons and anime.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://wcoflix.tv"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">📺</span>
+                    <div class="link-info">
+                        <div class="link-title">Wcoflix</div>
+                        <div class="link-description">
+                            Watch cartoons online.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://lookmovie.ag"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎬</span>
+                    <div class="link-info">
+                        <div class="link-title">LookMovie</div>
+                        <div class="link-description">Movie streaming.</div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://movieffm.net/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🎥</span>
+                    <div class="link-info">
+                        <div class="link-title">MovieFFM</div>
+                        <div class="link-description">
+                            Chinese movie streaming.
+                        </div>
+                    </div>
+                    <span class="arrow">→</span>
+                </a>
+                <a
+                    href="https://myflixer.is/"
+                    class="link-card"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    <span class="icon">🍿</span>
+                    <div class="link-info">
+                        <div class="link-title">MyFlixer</div>
+                        <div class="link-description">
+                            Movie streaming (Has day1 camrips).
+                        </div>
                     </div>
                     <span class="arrow">→</span>
                 </a>
