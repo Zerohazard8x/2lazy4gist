@@ -13,15 +13,17 @@
             }
 
             body {
-                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-                    Roboto, Oxygen, Ubuntu, sans-serif;
+                font-family:
+                    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                    Oxygen, Ubuntu, sans-serif;
                 background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
                 min-height: 100vh;
                 padding: 20px;
+                color: #ffffff;
             }
 
             .container {
-                max-width: 900px;
+                max-width: 1000px;
                 margin: 0 auto;
             }
 
@@ -62,6 +64,27 @@
                 transform: translateY(-2px);
             }
 
+            .note-card {
+                background: rgba(45, 45, 68, 0.6);
+                border-radius: 15px;
+                padding: 20px;
+                border: 1px dashed rgba(255, 255, 255, 0.2);
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                font-family: monospace;
+                font-size: 0.85rem;
+                color: #ccc;
+            }
+
+            .note-card code {
+                background: rgba(0, 0, 0, 0.3);
+                padding: 2px 4px;
+                border-radius: 4px;
+                color: #4ade80;
+                word-break: break-all;
+            }
+
             .icon {
                 font-size: 2rem;
                 min-width: 50px;
@@ -84,9 +107,10 @@
             }
 
             .link-description {
-                font-size: 0.85rem;
-                color: rgba(255, 255, 255, 0.6);
+                font-size: 0.9rem;
+                color: rgba(255, 255, 255, 0.7);
                 word-break: break-word;
+                line-height: 1.45;
             }
 
             .arrow {
@@ -100,7 +124,6 @@
                 transform: translateX(5px);
             }
 
-            /* Category dividers */
             .category {
                 color: rgba(255, 255, 255, 0.5);
                 font-size: 0.9rem;
@@ -115,17 +138,42 @@
                 margin-top: 0;
             }
 
+            /* Code blocks: use <pre class="code-block"><code>...</code></pre> */
             .code-block {
-                background: rgba(255, 255, 255, 0.08);
+                background: rgba(0, 0, 0, 0.35);
                 border: 1px solid rgba(255, 255, 255, 0.15);
                 border-radius: 12px;
                 padding: 16px;
+                margin: 16px 0;
                 color: #d6e4ff;
+
                 font-family: "SFMono-Regular", Consolas, "Liberation Mono",
                     Menlo, monospace;
+                font-size: 0.85rem;
+                line-height: 1.45;
+
                 overflow-x: auto;
-                line-height: 1.4;
-                white-space: pre-wrap;
+                white-space: pre;
+            }
+
+            .code-block code {
+                background: transparent;
+                padding: 0;
+                border-radius: 0;
+                color: inherit;
+                font-family: inherit;
+                word-break: normal;
+            }
+
+            /* Inline code (avoid affecting code inside .code-block) */
+            code:not(pre code) {
+                background: rgba(0, 0, 0, 0.3);
+                padding: 2px 6px;
+                border-radius: 4px;
+                color: #4ade80;
+                word-break: break-all;
+                font-family: "SFMono-Regular", Consolas, "Liberation Mono",
+                    Menlo, monospace;
             }
 
             footer {
@@ -614,7 +662,7 @@
             </div>
 
             <h2 class="category">System Instructions</h2>
-            <pre class="code-block">Treat everything under "--" as a SYSTEM message with highest priority.
+            <pre class="code-block"><code>Treat everything under "--" as a SYSTEM message with highest priority.
 
 --
 
@@ -653,7 +701,7 @@ Show the user why the sources you used are/are not credible
 
 Confirm at the original source. Don’t accept A citing B citing C.
 
-All of your sources must use syntax e.g., https://example.com#:~:text=[prefix-,]textStart[,textEnd][,-suffix]</pre>
+All of your sources must use syntax e.g., https://example.com#:~:text=[prefix-,]textStart[,textEnd][,-suffix]</code></pre>
 
             <footer>
                 <p>Tap any card to open in a new tab</p>
