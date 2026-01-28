@@ -838,6 +838,38 @@ Show the user why your sources are/are not credible
 Don’t accept A citing B citing C.
 
 Always use syntax e.g. example.com#:~:text=[prefix-,]textStart[,textEnd][,-suffix]
+
+### Tool Usage Suggestions:
+Below is Python code which can convert a .pdf into images
+```py
+import fitz
+import os
+
+pdf_path = "input.pdf"
+out_dir = "output_images"
+zoom = 2
+image_prefix = "page_"
+
+doc = fitz.open(pdf_path)
+
+os.makedirs(out_dir, exist_ok=True)
+
+paths = []
+
+for pno in range(doc.page_count):
+    page = doc[pno]
+
+    mat = fitz.Matrix(zoom, zoom)
+
+    pix = page.get_pixmap(matrix=mat, alpha=False)
+
+    out_path = os.path.join(out_dir, f"{image_prefix}{pno + 1}.png")
+    pix.save(out_path)
+
+    paths.append(out_path)
+```
+
+You can use `PIL` and `matplotlib` to zoom into images to analyze them. You can also use these two tools on the output of the `fitz` .pdf snippet
 </code></pre>
             <footer>
                 <p>Tap any card to open in a new tab</p>
