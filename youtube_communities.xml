@@ -141,13 +141,8 @@
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCvRAX-ujvZ0eTMLGG2vki9w" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCPJWi44tskVVMNyKzYrPoGg" />
         </outline>
-        <outline title="[Communities] Official Gaming Hardware &amp; Peripherals Channels">
-            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCzxe67PvGhR79WOUl1AFhmw" />
-            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCCNyeUr-yOwdoVzmb_CDITg" />
-            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCOsLfEqAwim8MFOhPddwwFw" />
-            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC541jp3JO5e09cPtTcOImiQ" />
-        </outline>
         <outline title="[Communities] Official Consumer Electronics Channels">
+            <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCzxe67PvGhR79WOUl1AFhmw" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCk7SjrXVXAj8m8BLgzh6dGA" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC2SIWgqcys7Gcb6JxsFTm1Q" />
             <outline xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCuVQmkiETvqmLviDcBtQw4A" />

@@ -282,13 +282,8 @@
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvRAX-ujvZ0eTMLGG2vki9w" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPJWi44tskVVMNyKzYrPoGg" />
         </outline>
-        <outline title="Official Gaming Hardware &amp; Peripherals Channels">
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzxe67PvGhR79WOUl1AFhmw" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCNyeUr-yOwdoVzmb_CDITg" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOsLfEqAwim8MFOhPddwwFw" />
-            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC541jp3JO5e09cPtTcOImiQ" />
-        </outline>
         <outline title="Official Consumer Electronics Channels">
+            <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzxe67PvGhR79WOUl1AFhmw" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk7SjrXVXAj8m8BLgzh6dGA" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2SIWgqcys7Gcb6JxsFTm1Q" />
             <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuVQmkiETvqmLviDcBtQw4A" />
