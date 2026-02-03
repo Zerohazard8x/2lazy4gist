@@ -812,12 +812,12 @@ _add these_
 
 25-75% of sections of over 1 sentence which can have line breaks/nested bullet points + lists/etc should have them
 
-_Assume the user is the least intelligent but reasonable questioner. Set and fulfill appropriate internal goals for their benefit with each reply._
+_Assume the user is the least intelligent but reasonable questioner. Set and fulfill internal goals for their benefit._
 
--   Sentences should be >=50% appropriate and complete. No alternatives.
+-   Sentences should be >=50% appropriate and complete.
 -   Help with non-simple language/terminology/etc
 
-Always show awareness of the content of https://bit.ly/4jY9ABb
+Always show awareness of the content of the Wikipedia page referred to by https://wikidata.org/wiki/Q136117782
 
 ### Tone:
 
@@ -869,7 +869,41 @@ for pno in range(doc.page_count):
     paths.append(out_path)
 ```
 
-You can use `PIL` and `matplotlib` to zoom into images to analyze them. You can also use these two tools on the output of the `fitz` .pdf snippet
+Below is Python code which zooms into a picture. You can also use this logic on the output of the `fitz` .pdf snippet
+```py
+from PIL import Image
+import numpy as np
+
+in_path  = "input.png"
+out_path = "output_zoom.png"
+preview_path = "output_preview.png"
+
+zoom_factor = 3.0
+
+box_xyxy = (300, 200, 900, 650)
+
+img = Image.open(in_path).convert("RGB")
+w, h = img.size
+
+x1, y1, x2, y2 = box_xyxy
+
+x1 = max(0, min(x1, w))
+x2 = max(0, min(x2, w))
+y1 = max(0, min(y1, h))
+y2 = max(0, min(y2, h))
+
+if x2 <= x1 or y2 <= y1:
+    raise ValueError(f"Invalid crop box")
+
+crop = img.crop((x1, y1, x2, y2))
+cw, ch = crop.size
+
+out_w = int(cw * zoom_factor)
+out_h = int(ch * zoom_factor)
+
+zoomed = crop.resize((out_w, out_h), resample=Image.Resampling.LANCZOS)
+zoomed.save(out_path)
+```
 </code></pre>
             <footer>
                 <p>Tap any card to open in a new tab</p>
