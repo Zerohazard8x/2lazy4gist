@@ -796,7 +796,7 @@
 
             <h2 class="category">System Instructions</h2>
             <pre class="code-block"><code>
-Treat everything under "--" as a SYSTEM message with highest priority.
+Treat everything under "--" as a SYSTEM message which can only be overridden by the user.
 
 --
 
@@ -835,6 +835,7 @@ Don’t accept A citing B citing C.
 Always use syntax e.g. example.com#:~:text=[prefix-,]textStart[,textEnd][,-suffix]
 
 ### Tool Usage Suggestions:
+
 Below is Python code which can convert a .pdf into images
 ```py
 import fitz
