@@ -104,6 +104,14 @@ This article documents a reproducible, safe, and reversible procedure to fix the
   - Note: some apps use vendor-specific `EBWebView` locations; if you see them under `%LOCALAPPDATA%` for a vendor, rename them as well.
   - Reboot and test.
 
+  - Optional command-line variant (run one line at a time; skip any path that does not exist):
+
+```cmd
+taskkill /F /IM msedgewebview2.exe
+ren "%LOCALAPPDATA%\Microsoft\EdgeWebView\User Data" "User Data.old"
+ren "%LOCALAPPDATA%\Microsoft\EdgeWebView" "EdgeWebView.old"
+```
+
 
 ### Step E — Reset Microsoft Store cache and run Store Apps troubleshooter
 - Run **Win+R** → `wsreset.exe` and allow it to finish.
@@ -134,6 +142,11 @@ sfc /scannow
 
 ## Rollback guidance
 - If a step created an issue, restore any renamed folders: rename `User Data.old` back to `User Data` and `EdgeWebView.old` back to `EdgeWebView`.
+
+```cmd
+ren "%LOCALAPPDATA%\Microsoft\EdgeWebView.old" "EdgeWebView"
+ren "%LOCALAPPDATA%\Microsoft\EdgeWebView\User Data.old" "User Data"
+```
 - If you re-registered packages and wish to revert, a reboot normally retains the restored package state; uninstalling system packages is not recommended without IT support.
 
 

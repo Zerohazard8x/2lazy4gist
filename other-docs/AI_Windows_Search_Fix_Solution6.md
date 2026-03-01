@@ -15,6 +15,16 @@ This guide documents the steps that resolved app detection issues in Windows Sea
 - **Back up first** (restore point and registry export). Microsoft warns registry edits can cause problems if done incorrectly. See the “Important” box on the official page.  
   Source: [Microsoft Learn — Fix problems in Windows Search](https://learn.microsoft.com/en-us/troubleshoot/windows-client/shell-experience/fix-problems-in-windows-search).
 
+Suggested backup commands (run before registry edits):
+
+```powershell
+# Create a restore point (if System Protection is enabled)
+Checkpoint-Computer -Description "Before Windows Search Solution 6" -RestorePointType "MODIFY_SETTINGS"
+
+# Export the per-user Search key (if it exists)
+reg export "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" "$env:USERPROFILE\Desktop\Search-key-backup.reg" /y
+```
+
 ---
 
 ## Step‑by‑step fix (Solution 6)
@@ -22,6 +32,12 @@ This guide documents the steps that resolved app detection issues in Windows Sea
 1) **(Optional) Sanity check with a new user profile**  
    Create a new Windows user and confirm Search works there.  
    Source: [Microsoft Learn — “Make sure that Windows Search works for a newly created Windows account.”](https://learn.microsoft.com/en-us/troubleshoot/windows-client/shell-experience/fix-problems-in-windows-search)
+
+   ```powershell
+   # Example (optional): create a temporary local admin test account
+   net user SearchTestTemp "Temp-Pass-ChangeMe!" /add
+   net localgroup Administrators SearchTestTemp /add
+   ```
 
 2) **Delete the Search package folder (per OS)**  
    - **Windows 10:** Delete `%USERPROFILE%\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy`  
@@ -32,11 +48,27 @@ This guide documents the steps that resolved app detection issues in Windows Sea
    > Tip: If the folder is locked, do it from **Windows Recovery Environment (WinRE)** or from another admin account.  
    > Source: [Microsoft Learn — “Use the Windows Recovery Environment, or sign out and then sign in to another user account.”](https://learn.microsoft.com/en-us/troubleshoot/windows-client/shell-experience/fix-problems-in-windows-search)
 
+   **Example commands (run from another admin account or WinRE command prompt):**
+
+   ```cmd
+   :: Windows 10
+   rmdir /s /q "%USERPROFILE%\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy"
+
+   :: Windows 11
+   rmdir /s /q "%USERPROFILE%\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy"
+   ```
+
 3) **Delete the per‑user Search registry key** (affects only the current user)  
    Path: `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search` → **Delete** the **Search** key  
    Sources:  
    - [Microsoft Learn — registry path](https://learn.microsoft.com/en-us/troubleshoot/windows-client/shell-experience/fix-problems-in-windows-search)  
    - [Microsoft Learn — delete the key](https://learn.microsoft.com/en-us/troubleshoot/windows-client/shell-experience/fix-problems-in-windows-search)
+
+   ```powershell
+   # Optional: backup then delete the HKCU Search key
+   reg export "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" "$env:TEMP\Search-key.reg" /y
+   reg delete "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" /f
+   ```
 
 4) **Re‑register the package** (run as Administrator)  
    - **Windows 10:**  
@@ -54,6 +86,11 @@ This guide documents the steps that resolved app detection issues in Windows Sea
    This restarts indexing and regenerates the deleted items.  
    Source: [Microsoft Learn — “Restart the computer… This action restarts search indexing and regenerates the registry key and the AppData folder.”](https://learn.microsoft.com/en-us/troubleshoot/windows-client/shell-experience/fix-problems-in-windows-search)
 
+   ```powershell
+   # Restart immediately after re-registration
+   shutdown /r /t 0
+   ```
+
 ---
 
 ## Why this works
@@ -66,6 +103,13 @@ Source: [Microsoft Learn — Fix problems in Windows Search](https://learn.micro
 ## Verification checklist
 - Searching **Notepad** shows **Notepad — App** (not “Run command”)  
 - Previously missing apps now appear in search results
+
+```text
+Quick validation sequence
+1. Press Win and type: notepad
+2. Confirm result type shows: App
+3. Repeat with 2-3 other built-in apps (Calculator, Paint, Snipping Tool)
+```
 
 ---
 
