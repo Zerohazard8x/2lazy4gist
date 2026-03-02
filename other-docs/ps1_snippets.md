@@ -2,7 +2,7 @@
 
 ### Google DNS
 
-``` powershell
+```powershell
 2001:4860:4860::8888 -DohTemplate https://dns.google/dns-query
 2001:4860:4860::8844 -DohTemplate https://dns.google/dns-query
 8.8.8.8 -DohTemplate https://dns.google/dns-query
@@ -11,7 +11,7 @@
 
 ### ControlD Free DNS
 
-``` powershell
+```powershell
 2606:1a40::2 -DohTemplate https://freedns.controld.com/p2
 2606:1a40:1::2 -DohTemplate https://freedns.controld.com/p2
 76.76.2.2 -DohTemplate https://freedns.controld.com/p2
@@ -20,20 +20,20 @@
 
 ### Quad9 DNS
 
-``` powershell
+```powershell
 9.9.9.11 -DohTemplate https://dns11.quad9.net/dns-query
 149.112.112.11 -DohTemplate https://dns11.quad9.net/dns-query
 2620:fe::11 -DohTemplate https://dns11.quad9.net/dns-query
 2620:fe::fe:11 -DohTemplate https://dns11.quad9.net/dns-query
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 2. Set DNS Servers for All Network Adapters
 
 Sets Cloudflare Family DNS (malware filtering).
 
-``` powershell
+```powershell
 $adapters = Get-NetAdapter
 foreach ($adapter in $adapters) {
     $alias = $adapter.InterfaceAlias
@@ -43,14 +43,14 @@ foreach ($adapter in $adapters) {
 }
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 3. Remove All Scheduled Task Triggers
 
 Re-registers every scheduled task without triggers (manual execution
 only).
 
-``` powershell
+```powershell
 $scheduledTasks = Get-ScheduledTask
 foreach ($task in $scheduledTasks) {
     try {
@@ -70,19 +70,19 @@ foreach ($task in $scheduledTasks) {
 }
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 4. Disk Optimization & Conversion
 
 ### Optimize Drives
 
-``` powershell
+```powershell
 defrag /o /c /m
 ```
 
 ### Convert MBR to GPT (All Disks)
 
-``` powershell
+```powershell
 $drives = Get-Disk | Select-Object -ExpandProperty Number
 foreach ($drive in $drives) {
     try {
@@ -94,11 +94,11 @@ foreach ($drive in $drives) {
 }
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 5. Volume Repair, Cleanup, and App Re-registration
 
-``` powershell
+```powershell
 $drives = Get-Volume | Select-Object -ExpandProperty DriveLetter
 foreach ($drive in $drives) {
     try {
@@ -124,11 +124,11 @@ foreach ($drive in $drives) {
 }
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 6. Re-register All Windows UWP Apps
 
-``` powershell
+```powershell
 $appxManifestPaths = @(
     "$Env:ProgramFiles\WindowsApps",
     "$Env:WINDIR\SystemApps"
@@ -145,20 +145,20 @@ foreach ($path in $appxManifestPaths) {
 }
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 7. System Image & File Repair
 
-``` powershell
+```powershell
 dism /online /cleanup-image /restorehealth /startcomponentcleanup
 sfc /scannow
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 8. Optional: Install Chocolatey
 
-``` powershell
+```powershell
 if (-not(Get-Command choco -ErrorAction SilentlyContinue)) {
     powershell.exe -c Set-ExecutionPolicy Bypass -Scope Process -Force; `
     [System.Net.ServicePointManager]::SecurityProtocol = `
@@ -166,4 +166,50 @@ if (-not(Get-Command choco -ErrorAction SilentlyContinue)) {
     Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
     refreshenv
 }
+```
+
+---
+
+## fix windows search
+
+```powershell
+:: Windows 10
+rmdir /s /q "%USERPROFILE%\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy"
+
+:: Windows 11
+rmdir /s /q "%USERPROFILE%\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy"
+
+reg delete "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" /f
+
+:: Windows 10
+Add-AppxPackage -Path "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Appxmanifest.xml" -DisableDevelopmentMode -Register
+
+:: Windows 11
+Add-AppxPackage -Path "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Appxmanifest.xml" -DisableDevelopmentMode -Register
+```
+
+---
+
+## fix ms account signin
+
+```powershell
+if (-not (Get-AppxPackage Microsoft.AAD.BrokerPlugin)) {
+  Add-AppxPackage -Register "$env:windir\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Appxmanifest.xml" -DisableDevelopmentMode -ForceApplicationShutdown
+}
+Get-AppxPackage Microsoft.AAD.BrokerPlugin
+
+if (-not (Get-AppxPackage Microsoft.Windows.CloudExperienceHost)) {
+  Add-AppxPackage -Register "$env:windir\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\Appxmanifest.xml" -DisableDevelopmentMode -ForceApplicationShutdown
+}
+Get-AppxPackage Microsoft.Windows.CloudExperienceHost
+
+rmdir /s /q "%LOCALAPPDATA%\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\AC\TokenBroker\Accounts"
+rmdir /s /q "%LOCALAPPDATA%\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\AC\TokenBroker\Accounts"
+rmdir /s /q "%LOCALAPPDATA%\Microsoft\TokenBroker\Cache"
+
+taskkill /F /IM msedgewebview2.exe
+rmdir /s /q "%LOCALAPPDATA%\Microsoft\EdgeWebView\User Data"
+rmdir /s /q "%LOCALAPPDATA%\Microsoft\EdgeWebView\EdgeWebView"
+
+start "" wsreset.exe
 ```
