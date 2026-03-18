@@ -389,5 +389,18 @@
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo2mjqMT_qFENjAbfHExXow" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNSnSemXKDc9UEZ7m31wY9Q" />
 		</outline>
+		<outline title="Official Software Companies Channels">
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5qxlwEKM7-5YZudb24l0bg" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrDwWp7EBBv4NwvScIpBDOA" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP_lo1MFyx5IXDeD9s_6nUw" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrhJmfAGQ5K81XQ8_od1iTg" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs5Y5_7XK8HLDX0SLNwkd3w" />
+		</outline>
 	</body>
 </opml>
