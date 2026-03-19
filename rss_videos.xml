@@ -104,7 +104,6 @@
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/dota2ti" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/genesisgg" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/lplenglish" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ltasouth" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/nlclol" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/nodwingamingsouthasia" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/osulive" />
@@ -253,6 +252,7 @@
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3ti8PjJczdDKHSwk7TESkw" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRRfSRlDq2ma7xp_8HYvYeA" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBJOSr4xCgCGiSndaVymBuA" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjIScqP_aoRIs5XqhW9vlMQ" />
 		</outline>
 		<outline title="spoilers">
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7hBgc1dZM9naa-jyOh2jMw" />
