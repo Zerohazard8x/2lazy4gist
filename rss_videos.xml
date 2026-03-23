@@ -113,6 +113,7 @@
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_east" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/StarLadder_cs_en" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BCGameMasters" />
 		</outline>
 		<outline title="Twitch Following">
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LarryLurr" />
