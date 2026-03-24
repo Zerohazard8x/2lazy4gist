@@ -3,6 +3,10 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link rel="manifest" href="site.webmanifest" />
+        <meta name="theme-color" content="#1a1a2e" />
+        <link rel="apple-touch-icon" href="assets/icons/app-icon.svg" />
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<title>AI Resources</title>
 		<style>
@@ -968,5 +972,13 @@ zoomed.save(out_path)
 				<p>Tap any card to open in a new tab</p>
 			</footer>
 		</div>
-	</body>
+	
+        <script>
+            if ("serviceWorker" in navigator) {
+                window.addEventListener("load", () => {
+                    navigator.serviceWorker.register("/sw.js");
+                });
+            }
+        </script>
+    </body>
 </html>
