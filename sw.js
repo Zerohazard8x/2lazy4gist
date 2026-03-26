@@ -1,13 +1,13 @@
 const CACHE_NAME = 'zerohazard8x-shortcuts-v1';
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/shortcuts.html',
-  '/sports-scores.html',
-  '/ai.html',
-  '/personal-doc.html',
-  '/site.webmanifest',
-  '/assets/icons/app-icon.svg'
+  './',
+  './index.html',
+  './shortcuts.html',
+  './sports-scores.html',
+  './ai.html',
+  './personal-doc.html',
+  './site.webmanifest',
+  './assets/icons/app-icon.svg'
 ];
 
 self.addEventListener('install', (event) => {
@@ -47,7 +47,7 @@ self.addEventListener('fetch', (event) => {
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
           return response;
         })
-        .catch(() => caches.match('/index.html'));
+        .catch(() => caches.match('./index.html'));
     })
   );
 });

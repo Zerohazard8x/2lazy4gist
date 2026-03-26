@@ -1,8 +1,8 @@
 {
   "name": "Zerohazard8x's Shortcuts",
   "short_name": "Shortcuts",
-  "start_url": "/index.html",
-  "scope": "/",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#1a1a2e",
