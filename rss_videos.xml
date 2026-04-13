@@ -118,11 +118,15 @@
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/StarLadder_cs_en" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BCGameMasters" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ewc_qiddiyaarena_en" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/kaysan" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/lolpacificen" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/rlg_cs_b" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/tpg_cs" />
 		</outline>
 		<outline title="Twitch Following">
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LarryLurr" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/AmazonMusic" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/AnneMunition" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Arcus" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BallerLeagueUK" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BarbarousKing" />
@@ -133,7 +137,6 @@
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CodySchwab" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Criken" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Dabuz" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/DisbeArex" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/EEvisu" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Ezekiel_III" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Flight23white" />
@@ -191,6 +194,9 @@
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/s0mcs" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ardiis" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Jankos" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/aspen" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/cohhcarnage" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/leopard" />
 		</outline>
 		<outline title="YouTube Esports">
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwI0hG-Ql-jhOQuM2f7lFMw" />
