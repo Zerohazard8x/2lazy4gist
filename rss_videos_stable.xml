@@ -4,7 +4,7 @@
 		<title>Fluent Reader Export</title>
 	</head>
 	<body>
-		<outline title="Video Fans">
+		<outline text="Video Fans">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2FIGN" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FilterBridge&amp;filter=-+LIVE&amp;target_title=on&amp;format=Atom&amp;url=https%3A%2F%2Ftwitchrss.appspot.com%2Fvod%2Fthegameawards" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0FRSQh4P5S-5FwnL8hsQrQ" />
@@ -66,7 +66,7 @@
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4A_zebHGktoABI1ioAGgfw" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_9W6Z5Y3lDpLk47Y_y5ITQ" />
 		</outline>
-		<outline title="YouTube Sports">
+		<outline text="YouTube Sports">
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-yHapH6mW1ceZ_5PDUf1_g" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3Whnl6MzB0bJKwfbm43JMw" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC58em84jwiyM20qR-iqBDZw" />

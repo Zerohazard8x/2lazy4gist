@@ -4,7 +4,7 @@
 		<title>Fluent Reader Export</title>
 	</head>
 	<body>
-		<outline title="[Communities] Official Gaming Channels">
+		<outline text="[Communities] Official Gaming Channels">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC0Bi5KMcECRVYis5Gb_ZYZQ" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC0ZV6M2THA81QT9hrVWJG3A" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC2t5bjwHdUX4vM2g8TRDq5g" />
@@ -47,12 +47,12 @@
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCHpA9gCEvfcn6o0N-a5Jfug" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCTQKT5QqO3h7y32G8VzuySQ" />
 		</outline>
-		<outline title="[Communities] Independent Creators &amp; Miscellaneous Events">
+		<outline text="[Communities] Independent Creators &amp; Miscellaneous Events">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCHF66aWLOxBW4l6VkSrS3cQ" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCI9d6eQjf__r5gyH4GHRssg" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCLUS3_Yz32XJMGWjDCzVv4A" />
 		</outline>
-		<outline title="[Communities] YouTube Esports">
+		<outline text="[Communities] YouTube Esports">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCwI0hG-Ql-jhOQuM2f7lFMw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC0UcS6L65gexhOedsMX2okQ" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC0uDpQfU-FwY571UEhgd87Q" />
@@ -121,14 +121,14 @@
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCi8YIe5wtZs112jswxvKb6A" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCUys--Q6s-Ze5TP2858eilg" />
 		</outline>
-		<outline title="[Communities] spoilers">
+		<outline text="[Communities] spoilers">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC7hBgc1dZM9naa-jyOh2jMw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCFXmIUDNofRpYSG7lku0i_Q" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCXwCtIjfzbUSES1Yg0_Tznw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCZojkqUeuaZyAQc8KaBNrJw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCoKA0v_A6fxw-8PaD1SYp6A" />
 		</outline>
-		<outline title="[Communities] YouTube Traditional News">
+		<outline text="[Communities] YouTube Traditional News">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCb--64Gl51jIEVE-GLDAVTg" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCdnZdQxYXnbN4uWJg96oGxw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCpyLikj1x70S8UPxVqsPr6g" />
@@ -137,7 +137,7 @@
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCPJWi44tskVVMNyKzYrPoGg" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCE2606prvXQc_noEqKxVJXA" />
 		</outline>
-		<outline title="[Communities] Official Consumer Electronics Channels">
+		<outline text="[Communities] Official Consumer Electronics Channels">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCzxe67PvGhR79WOUl1AFhmw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC_9tBCeHdBG13If451X7FRw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC2SIWgqcys7Gcb6JxsFTm1Q" />
@@ -150,7 +150,7 @@
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCeM7fTLWxyxIMw9WfMSX8ww" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCIG1k8umaCIIrujZPzZPIMA" />
 		</outline>
-		<outline title="[Communities] YouTube Subscriptions">
+		<outline text="[Communities] YouTube Subscriptions">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC-YlkP3c1zKUPfyMMurARAQ" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC0JJtK3m8pwy6rVgnBz47Rw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC2O6HDtMOZf9FkUAepz9Atg" />
@@ -238,7 +238,7 @@
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCnaDRH6T3lz4a5ar-8uRWKw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCoo9gyvICqKeaOr6fjhP4Gg" />
 		</outline>
-		<outline title="[Communities] YouTube Wrestling">
+		<outline text="[Communities] YouTube Wrestling">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC5YhP-H5snGgi6dOE8vj-aA" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC60Z18qxfHNBdI-c_dE6z1Q" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC9YHZGzVhgZJRhqYOoBQ_zA" />
@@ -260,7 +260,7 @@
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCo2mjqMT_qFENjAbfHExXow" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCNSnSemXKDc9UEZ7m31wY9Q" />
 		</outline>
-		<outline title="[Communities] Video Fans">
+		<outline text="[Communities] Video Fans">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC0FRSQh4P5S-5FwnL8hsQrQ" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC0LrZO9wORIqn_aRJtKdgfA" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC2WmuBuFq6gL08QYG-JjXKw" />
@@ -319,7 +319,7 @@
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UChnN9MPURwKV2PbEoT2vhTQ" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCvfUcuSDNOoFsAPsiGdaGPg" />
 		</outline>
-		<outline title="[Communities] Official Software Companies Channels">
+		<outline text="[Communities] Official Software Companies Channels">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC5qxlwEKM7-5YZudb24l0bg" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC9M7-jzdU8CVrQo1JwmIdWA" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCrDwWp7EBBv4NwvScIpBDOA" />
@@ -333,7 +333,7 @@
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCs5Y5_7XK8HLDX0SLNwkd3w" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC_x5XG1OV2P6uZZ5FSM9Ttw" />
 		</outline>
-		<outline title="[Communities] YouTube Sports">
+		<outline text="[Communities] YouTube Sports">
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC-yHapH6mW1ceZ_5PDUf1_g" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC3Whnl6MzB0bJKwfbm43JMw" />
 			<outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC58em84jwiyM20qR-iqBDZw" />

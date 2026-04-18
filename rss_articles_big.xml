@@ -31,7 +31,7 @@
 		<!-- <outline type="rss" xmlUrl="https://shr.pn/vYX6p" /> -->
 		<!-- <outline type="rss" xmlUrl="https://shr.pn/OIcpR" /> -->
 		<!-- <outline type="rss" xmlUrl="https://shr.pn/mg2jf" /> -->
-		<!-- <outline title="talkwalker alert">
+		<!-- <outline text="talkwalker alert">
 			<outline type="rss" xmlUrl="https://alerts.talkwalker.com/alerts/rss/55G2G2VZ3ZHF3BN4TGHHVDZHJB73TJ7SCGEKZTKFB5JL6M55GK27VXHVOXNZLPVJY6ZQFWVWKZ3MNIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
 			/>
 			<outline type="rss" xmlUrl="https://alerts.talkwalker.com/alerts/rss/JSMAJRIERWWVSNATM2YU4K5ZKFIBESYW7JZYBE4LQVFXOTWWDGF53BCHLZGK3OGH5CHATJXYFSVSBIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
@@ -51,7 +51,7 @@
 			<outline type="rss" xmlUrl="https://alerts.talkwalker.com/alerts/rss/JYNZCYK2NVC7KJ2IPBJAXXDEZZRFZWNLOVX2TD3QF4QL7SEWEC5E2JH2GBFV52LEDHONVKZO3J7IXIQS7ZDT7LTNR63K7D2YJARFPGGUNIAPZ6SJEJUCVCLWWAX6KDAB"
 			/>
 		</outline> -->
-		<outline title="google alert">
+		<outline text="google alert">
 			<outline type="rss" xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/11223524754146930889" />
 			<outline type="rss" xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/983325349820171186" />
 			<outline type="rss" xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/7272503243204021608" />
@@ -62,7 +62,7 @@
 			<outline type="rss" xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/9595343124215145899" />
 			<outline type="rss" xmlUrl="https://www.google.com/alerts/feeds/18328284995867372572/12634018877518289307" />
 		</outline>
-		<outline title="feedle">
+		<outline text="feedle">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/F5LsV9" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/FZwq3N" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/WMVlaC" />
@@ -73,7 +73,7 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/rr4bmP" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/uhjRyc" />
 		</outline>
-		<!-- <outline title="bing">
+		<!-- <outline text="bing">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/0nZCbG" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/8mxmaC" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/Df6xV8" />
@@ -84,7 +84,7 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/vtJHXF" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/zUB6jR" />
 		</outline> -->
-		<!-- <outline title="google news">
+		<!-- <outline text="google news">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/D7dfMm" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/EGlaxZ" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/HqiLsU" />
@@ -95,7 +95,7 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/XwiQBS" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/wvmdem" />
 		</outline> -->
-		<!-- <outline title="searx">
+		<!-- <outline text="searx">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/I0eBQ7" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/3DrHC3" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/xqcoM1" />
@@ -106,7 +106,7 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/OWFfLE" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/Ld5TzZ" />
 		</outline> -->
-		<outline title="reddit">
+		<outline text="reddit">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/2OZ3Gs" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/5Zc7Ae" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/S1comx" />
@@ -117,7 +117,7 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/qpm1zx" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/ttVtZj" />
 		</outline>
-		<outline title="hacker news">
+		<outline text="hacker news">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/NZSCF8" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/FHVvsw" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/MfIkaf" />
