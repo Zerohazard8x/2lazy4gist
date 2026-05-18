@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+
+  <link rel="manifest" href="site.webmanifest" />
+  <meta name="theme-color" content="#1a1a2e" />
+  <link rel="apple-touch-icon" href="assets/icons/app-icon.svg" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+
+  <title>YouTube Embed Tool</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      min-height: 100vh;
+      padding: 20px;
+      color: #ffffff;
+    }
+
+    .container { max-width: 1000px; margin: 0 auto; }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 24px;
+      font-size: clamp(1.5rem, 5vw, 2.5rem);
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    .card {
+      background: linear-gradient(145deg, #2d2d44 0%, #1f1f35 100%);
+      border-radius: 15px;
+      padding: 20px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      margin-bottom: 20px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 10px;
+      color: rgba(255, 255, 255, 0.85);
+      font-weight: 600;
+    }
+
+    .input-row {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    input[type="url"] {
+      flex: 1;
+      min-width: 260px;
+      background: rgba(0, 0, 0, 0.35);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      color: #ffffff;
+      border-radius: 10px;
+      padding: 12px;
+      font-size: 1rem;
+    }
+
+    button {
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      background: rgba(74, 222, 128, 0.15);
+      color: #ffffff;
+      border-radius: 10px;
+      padding: 12px 16px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    button:hover {
+      background: rgba(74, 222, 128, 0.3);
+      border-color: rgba(74, 222, 128, 0.6);
+    }
+
+    .hint {
+      margin-top: 10px;
+      font-size: 0.9rem;
+      color: rgba(255, 255, 255, 0.65);
+    }
+
+    #error {
+      margin-top: 12px;
+      color: #fda4af;
+      min-height: 1.25rem;
+      font-size: 0.95rem;
+    }
+
+    .embed-wrap {
+      aspect-ratio: 16 / 9;
+      width: 100%;
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      background: rgba(0, 0, 0, 0.35);
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 20px;
+      color: rgba(255, 255, 255, 0.35);
+      font-size: 0.8rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>▶️ YouTube Embed Tool</h1>
+
+    <div class="card">
+      <label for="youtube-url">Paste a YouTube URL</label>
+      <div class="input-row">
+        <input id="youtube-url" type="url" placeholder="https://www.youtube.com/watch?v=..." />
+        <button id="embed-btn" type="button">Embed video</button>
+      </div>
+      <p class="hint">Supports youtube.com/watch, youtu.be, and youtube.com/embed links.</p>
+      <p id="error" aria-live="polite"></p>
+    </div>
+
+    <div class="card">
+      <div class="embed-wrap">
+        <iframe
+          id="youtube-frame"
+          src="https://www.youtube.com/embed/eNZTvuIWcps"
+          title="YouTube video player"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+
+    <footer>
+      <p>Paste a link, then tap “Embed video”.</p>
+    </footer>
+  </div>
+
+  <script>
+    const input = document.getElementById("youtube-url");
+    const button = document.getElementById("embed-btn");
+    const frame = document.getElementById("youtube-frame");
+    const errorEl = document.getElementById("error");
+
+    function extractYouTubeVideoId(raw) {
+      let parsed;
+      try {
+        parsed = new URL(raw.trim());
+      } catch {
+        return null;
+      }
+
+      const host = parsed.hostname.replace(/^www\./, "").toLowerCase();
+
+      if (host === "youtu.be") {
+        return parsed.pathname.split("/").filter(Boolean)[0] || null;
+      }
+
+      if (host === "youtube.com" || host === "m.youtube.com") {
+        if (parsed.pathname === "/watch") {
+          return parsed.searchParams.get("v");
+        }
+
+        if (parsed.pathname.startsWith("/embed/")) {
+          return parsed.pathname.split("/")[2] || null;
+        }
+
+        if (parsed.pathname.startsWith("/shorts/")) {
+          return parsed.pathname.split("/")[2] || null;
+        }
+      }
+
+      return null;
+    }
+
+    function embedFromInput() {
+      errorEl.textContent = "";
+      const id = extractYouTubeVideoId(input.value);
+
+      if (!id) {
+        errorEl.textContent = "Please enter a valid YouTube URL.";
+        return;
+      }
+
+      frame.src = `https://www.youtube.com/embed/${encodeURIComponent(id)}`;
+    }
+
+    button.addEventListener("click", embedFromInput);
+    input.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") {
+        embedFromInput();
+      }
+    });
+  </script>
+</body>
+</html>
