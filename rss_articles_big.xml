@@ -4,6 +4,13 @@
 		<title>Fluent Reader Export</title>
 	</head>
 	<body>
+		<outline text="traditional2">
+			<outline type="rss" xmlUrl="https://blog.chromium.org/feeds/posts/default" />
+			<outline type="rss" xmlUrl="https://game.intel.com/us/feed/" />
+			<outline type="rss" xmlUrl="https://hacks.mozilla.org/feed/" />
+			<outline type="rss" xmlUrl="https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/" />
+			<outline type="rss" xmlUrl="https://www.psxhax.com/forums/-/index.rss" />
+		</outline>
 		<!-- <outline type="rss" xmlUrl="https://shr.pn/u3XbS" /> -->
 		<!-- <outline type="rss" xmlUrl="https://shr.pn/Klbke" /> -->
 		<!-- <outline type="rss" xmlUrl="https://shr.pn/sAeqF" /> -->

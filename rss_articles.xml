@@ -30,17 +30,9 @@
 			<outline type="rss" xmlUrl="https://www.apple.com/pr/feeds/pr.rss" />
 			<outline type="rss" xmlUrl="https://www.intc.com/news-events/press-releases/rss" />
 		</outline>
-		<outline text="traditional2">
-			<outline type="rss" xmlUrl="https://blog.chromium.org/feeds/posts/default" />
-			<outline type="rss" xmlUrl="https://game.intel.com/us/feed/" />
-			<outline type="rss" xmlUrl="https://hacks.mozilla.org/feed/" />
-			<outline type="rss" xmlUrl="https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/" />
-			<outline type="rss" xmlUrl="https://www.psxhax.com/forums/-/index.rss" />
-		</outline>
 		<outline text="wikis">
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Beast_of_Reincarnation&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Fable_(2026_video_game)&amp;action=history&amp;feed=atom" />
-			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Forza_Horizon_6&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Halo:_Campaign_Evolved&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Intel_Arc&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=iOS&amp;action=history&amp;feed=atom" />
@@ -54,7 +46,6 @@
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Xbox&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://expanse.fandom.com/wiki/The_Expanse:_Osiris_Reborn?action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://fable.fandom.com/wiki/Fable_(Playground_Games)?action=history&amp;feed=atom" />
-			<outline type="rss" xmlUrl="https://forza.fandom.com/wiki/Forza_Horizon_6?action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://genshin-impact.fandom.com/wiki/Archon_Quest?action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://wutheringwaves.fandom.com/wiki/Main_Quest?action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://www.halopedia.org/Halo:_Campaign_Evolved?action=history&amp;feed=atom" />
