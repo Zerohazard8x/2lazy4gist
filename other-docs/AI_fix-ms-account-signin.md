@@ -56,6 +56,75 @@ This article documents a reproducible, safe, and reversible procedure to fix the
   - If missing or Repair fails: download the **Evergreen WebView2 Runtime** from Microsoft and run the installer, then reboot.
 
 
+
+
+### Step A.1 — If WebView2 installer says “already installed” but the runtime is broken
+- Symptom:
+  - Running the WebView2 installer fails with:
+    - `Installation failed. The Microsoft Edge WebView2 Runtime is already installed for the system`
+  - Apps still show blank sign-in dialogs, white windows, or immediately closing authentication popups.
+- Why:
+  - The runtime registration may still exist even when files are corrupted or partially deleted.
+  - A running `msedgewebview2.exe` or Edge Update process can also prevent repair or uninstall actions.
+- How:
+  - Open an elevated Command Prompt and terminate WebView2 and Edge updater processes:
+
+```cmd
+taskkill /f /t /im msedgewebview2.exe
+taskkill /f /t /im msedge.exe
+taskkill /f /t /im MicrosoftEdgeUpdate.exe
+taskkill /f /t /im msedgeupdate.exe
+```
+
+  - Navigate to the installed WebView2 version’s `Installer` directory. Example:
+
+```cmd
+cd "C:\Program Files (x86)\Microsoft\EdgeWebView\Application"
+dir
+cd "<version>\Installer"
+```
+
+  - Run the forced uninstall command:
+
+```cmd
+setup.exe --uninstall --msedgewebview --system-level --verbose-logging --force-uninstall
+```
+
+  - Reboot the system.
+
+- If the uninstall command appears to do nothing:
+  - The runtime folder may still be locked by another application.
+  - Use Microsoft Sysinternals Process Explorer:
+    - Run Process Explorer as Administrator.
+    - Press `Ctrl+F`.
+    - Search for:
+      - `EdgeWebView`
+      - or `msedgewebview2.exe`
+    - Kill the process tree holding the handle.
+
+- If the `EdgeWebView` folder still cannot be modified:
+  - Boot into Safe Mode.
+  - Rename (do not delete) the folder:
+
+```text
+C:\Program Files (x86)\Microsoft\EdgeWebView
+```
+
+  - Example safe rename:
+
+```text
+EdgeWebView.old
+```
+
+- After rebooting normally, force Edge Update to reinstall the runtime:
+
+```cmd
+"C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /install appguid={F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}
+```
+
+- Then reinstall the Evergreen WebView2 Runtime from Microsoft.
+
+
 ### Step B — Re-register WAM host packages (safe, official)
 - Why: Windows provides broker package(s) that host the WAM flows; re-registering fixes package registration corruption.
 - How (PowerShell as Administrator — paste each block appropriate to your account type):
