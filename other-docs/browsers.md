@@ -1,15 +1,5 @@
-# Flags - Edge
-
-```
-(The following for 2023 Edge revamp)
-edge-rounded-containers
-edge-visual-rejuv-rounded-tabs
-edge-overlay-scrollbars-win-style
-edge-minimal-toolbar
-```
-
----
 # Clean files - Chromium
+
 ```
 for chromeFiles in $(find *chrome://version profile*/ -maxdepth 1)
 do
@@ -25,27 +15,29 @@ done
 ```
 
 ---
+
 # Clean files - Firefox
+
 ```
 #!/usr/bin/env bash
 set -euo pipefail
+
+# Start terminal in Firefox profile folder
 
 dest="../destFolder"
 mkdir -p "$dest"
 
 # Loop over Firefox profile directories (handles spaces)
 shopt -s nullglob
-for profile in *"Firefox profile"*/ ; do
+for profile in ./ ; do
   [[ -d "$profile" ]] || continue
-  echo "Processing profile: $profile"
-
   # 1) Move the entire 'extensions/' directory
   if [[ -d "$profile/extensions" ]]; then
     mv -fv "$profile/extensions" "$dest/"
   fi
 
   # 2) Move files
-  for f in extensions.json extension-preferences.json extension-settings.json cookies.sqlite places.sqlite addonStartup.json.lz4 containers.json storage.sqlite user.js; do
+  for f in extensions.json extension-preferences.json extension-settings.json cookies.sqlite places.sqlite addonStartup.json.lz4 containers.json storage.sqlite user.js prefs.js; do
     if [[ -f "$profile/$f" ]]; then
       mv -fv "$profile/$f" "$dest/"
     fi
@@ -58,7 +50,8 @@ for profile in *"Firefox profile"*/ ; do
 
   # 4) Move storage/default
   if [[ -d "$profile/storage/default" ]]; then
-    mv -fv "$profile/storage/default" "$dest/"
+    mkdir -p "$dest/storage"
+    mv -fv "$profile/storage/default" "$dest/storage/"
   fi
 done
 
