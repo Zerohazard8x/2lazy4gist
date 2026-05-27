@@ -68,10 +68,8 @@
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLUS3_Yz32XJMGWjDCzVv4A" />
 		</outline>
 		<outline text="Twitch Esports">
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ESLCS_GG" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/GalintGaming" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/KMLTournaments" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/NounsEsports" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BLASTDota" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BLASTPremier" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/CCT_CS" />
@@ -90,10 +88,6 @@
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PGL" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PGL_CS2" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PGL_Dota2" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PUBGMOBILEEsports" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PredatorGaming" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/PredatorGaming_PH" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/R6EsportsNA" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/SmashFactorGaming" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ThunderpickTV" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/VALORANT_Americas" />
@@ -102,26 +96,21 @@
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/VALORANT_Pacific" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/VGBootCamp" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/VGBootCamp2" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/acl_val" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/btssmash" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/dota2ti" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/genesisgg" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/lplenglish" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/nlclol" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/nodwingamingsouthasia" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/osulive" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ow_esports" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/projhrzn" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/valorantesports_cn" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_east" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/valorantleague_ne" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/StarLadder_cs_en" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/BCGameMasters" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ewc_qiddiyaarena_en" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/kaysan" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/lolpacificen" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/rlg_cs_b" />
-			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/tpg_cs" />
 		</outline>
 		<outline text="Twitch Following">
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LarryLurr" />
@@ -199,11 +188,9 @@
 		</outline>
 		<outline text="YouTube Esports">
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwI0hG-Ql-jhOQuM2f7lFMw" />
-			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0UcS6L65gexhOedsMX2okQ" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0uDpQfU-FwY571UEhgd87Q" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2WMdmYS1dclOCiJjyyW7_w" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3QyDSID3tQBDRxMnfcfFiA" />
-			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3wGgfxWJiIquQtSWlYfZcQ" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3y-TwdfrUfm7Iindvvxsjg" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5ASeit2rM3taMSUChv9tNA" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5jpxDZx4yoBo324pMQ91Ww" />
@@ -231,7 +218,6 @@
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWWZjhmokTbezUQr1kbbEYQ" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYpy_PUNzdJwlnPp7ySvAnA" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_l3b2l822SSWaoA7DLXTiQ" />
-			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_uzrw4isdO2pIwO0Y1tIPQ" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaYLBJfw6d8XqmNlL204lNg" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbLIqv9Puhyp9_ZjVtfOy7w" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbWA4nLSXvfWnOS2Q4yP48A" />
