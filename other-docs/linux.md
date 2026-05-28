@@ -499,3 +499,143 @@ exiftool -all= dst.jpg -o output.jpg
     ```powershell
     mklink /J [new-folder] [original-folder]
     ```
+
+---
+
+## Batch Copy and Sync Scripts
+
+### Parallel rsync command generator
+
+Source: `copy_nowork_windows.sh.md`
+
+```bash
+#!/bin/sh
+
+copyDest () {
+findCMD=$(find . -type f -print0)
+echo ${findCMD} | xargs -P16 -0 -I% echo /bin/sh -c \'"mkdir -p \"$1$(dirname %)\" && touch \"$1%\" && rsync --inplace --compress --progress --max-size=100M \"%\" \"$1%\""\'
+echo ${findCMD} | xargs -P8 -0 -I% echo /bin/sh -c \'"mkdir -p \"$1$(dirname %)\" && touch \"$1%\" && rsync --inplace --compress --progress --max-size=400M \"%\" \"$1%\""\'
+echo ${findCMD} | xargs -P4 -0 -I% echo /bin/sh -c \'"mkdir -p \"$1$(dirname %)\" && touch \"$1%\" && rsync --inplace --compress --progress --max-size=1600M \"%\" \"$1%\""\'
+echo ${findCMD} | xargs -P2 -0 -I% echo /bin/sh -c \'"mkdir -p \"$1$(dirname %)\" && touch \"$1%\" && rsync --inplace --compress --progress \"%\" \"$1%\""\'
+}
+
+copyDest "/c/Users/adria/Downloads/two/"
+
+exit 0
+```
+
+### Unison sync template
+
+Source: `unison-template.sh.md`
+
+```bash
+#!/bin/sh
+
+uniSync() {
+    # Use the latest version of unison available
+    unison=$(command -v unison | sort -r | head -n 1)
+    if [ -n "$unison" ]; then
+        # Use double quotes to avoid word splitting and globbing
+        # Use -prefer to resolve conflicts in favor of the first path
+        # Use -force to force deletion of files in second folder not present in first folder
+        "$unison" "$1" "$2" -batch -prefer "$1" -force "$1"
+    else
+        echo "Unison not found"
+    fi
+}
+
+uniSync "C:\one" "C:\two"
+```
+
+---
+
+## Audio Utility Scripts
+
+### PyMusicLooper
+
+Source: `pymusiclooper.sh.md`
+
+```bash
+#!/bin/sh
+# Make sure ffmpeg is in path
+# python -m pip install -U git+https://github.com/arkrow/PyMusicLooper.git
+# can only extend, not decrease
+
+mkdir -p output
+pymusiclooper [input.mp3] -v -o output/output.mp3
+
+exit 0
+```
+
+### ByteSep
+
+Source: `music-separation\bytesep.sh.md`
+
+```bash
+#!/bin/sh
+# python3 -m pip install -U git+https://github.com/bytedance/music_source_separation.git
+
+python3 -m bytesep download_checkpoints
+python3 -m bytesep separate \
+    --source_type="vocals" \
+    --audio_path="./resources/vocals_accompaniment_10s.mp3" \
+    --output_path="separated_results/output.mp3"
+
+exit 0
+```
+
+### Demucs
+
+Source: `music-separation\demucs.sh.md`
+
+```bash
+#!/bin/sh
+# python3 -m pip install -U git+https://github.com/facebookresearch/demucs.git
+# Apparently on windows the output path is C:\Users\YOUR_USERNAME\demucs\separated\demucs\
+# On linux maybe try the folder demucs was ran in??
+
+demucs -n mdx [input.mp3]
+
+exit 0
+```
+
+### Spleeter
+
+Source: `music-separation\spleeter.sh.md`
+
+```bash
+#!/bin/sh
+# Make sure ffmpeg is in path
+# python3 -m pip install -U spleeter
+
+mkdir -p output
+spleeter separate [input.mp3] -o output/
+
+exit 0
+```
+
+---
+
+## Samsung Firmware Download
+
+### Samloader
+
+Source: `samloader.sh.md`
+
+```bash
+#!/bin/sh
+
+samDown () {
+    samloaderConst=$(command -v samloader | sort | tail -n 1)
+    samCheck=$(${samloaderConst} -m $1 -r $2 checkupdate)
+    ${samloaderConst} -m $1 -r $2 download -v ${samCheck} -o $1.zip.enc
+    ${samloaderConst} -m $1 -r $2 decrypt -v ${samCheck} -i $1.zip.enc -o $1.zip
+}
+
+samDown "SM-G975F" "SWC"
+# https://doc.samsungmobile.com/SM-N975F/SWC/doc.html (exynos)
+# https://doc.samsungmobile.com/SM-G975N/KTC/doc.html (snapdragon)
+
+exit
+```
+
