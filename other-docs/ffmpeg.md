@@ -413,3 +413,146 @@ youtube-dl -f 94 -g https://www.youtube.com/watch?v=21X5lGlDOfg
 -   When concatenating files with different codecs/resolutions, you must re-encode or use filter graphs to match parameters.
 -   Use `-preset veryfast` (or similar) for faster encoding if you don’t need ultrafast.
 -   For lossless video editing, use `-crf 0` with `-preset ultrafast` or consider FFV1 if you need a long-term archival format.
+
+---
+
+## Batch Merge and Re-encode Scripts
+
+### Simple concat copy
+
+Source: `ffmpeg-merge.sh.md`
+
+```bash
+#!/bin/sh
+
+touch ./copy.txt
+printf "file '%s'\n" *.mp4 > ./copy.txt
+
+ffmpeg -f concat -safe 0 -i ./copy.txt -c copy -movflags +faststart output.mkv
+```
+
+### Re-encode before concat
+
+Source: `ffmpeg-merge-reencode.sh.txt`
+
+```bash
+#!/bin/bash
+
+mkdir -p new 
+echo -n "" > ./new/copy.txt
+
+render () {
+    echo "file '$1'" >> ./new/copy.txt
+
+    ffmpeg -y -vsync vfr -i "$1" -vf "idet,bwdif,fps=30,mpdecimate,scale=640:640:eval=init:force_original_aspect_ratio=1:force_divisible_by=2,setsar=1" -c:v hevc_nvenc -b:v 850K -c:a libopus -b:a 192K -c:s copy "./new/$(basename "$1")"
+
+    # hw scaling - ffmpeg -hwaccel cuda -hwaccel_output_format cuda -i input.mp4 -vf scale_cuda=1280:720 -c:v h264_nvenc -b:v 3400K output.mp4
+    # scale in a gamma-correct way - lutrgb=r=gammaval(2.2):g=gammaval(2.2):b=gammaval(2.2),scale=640:640:eval=init:force_original_aspect_ratio=1:force_divisible_by=2,setsar=1,lutrgb=r=gammaval(0.454545):g=gammaval(0.454545):b=gammaval(0.454545)
+    # tonemap - -vf zscale=transfer=linear,tonemap=hable:peak=5,zscale=transfer=bt709,format=yuv420p,colorspace=all=bt709
+    # -vf zscale=transfer=linear,tonemap=mobius:peak=5,zscale=transfer=bt709,format=yuv420p,colorspace=all=bt709 video.mkv
+
+    # 960:960 -b:v 1275K -b:a 192K
+    # 1280:1280 -b:v 1700K -b:a 192K
+    # 1920:1920 -b:v 2550K -b:a 192K
+    # -b:v 1000K h264 == -b:v 500K vp9/av1/h265
+    # minterpolate=fps=30:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1
+}
+   
+render 'vid1.mp4'
+render 'vid2.mp4'
+
+ffmpeg -f concat -safe 0 -i ./new/copy.txt -c copy -movflags +faststart ./new/output.mkv
+```
+
+---
+
+## Subtitling and Chapters
+
+### Chapter metadata batch script
+
+Source: `subtitling\batch.sh`
+
+```bash
+#!/bin/bash
+
+# whisper INPUT.mp4 --device cuda --task translate --output_format srt
+
+# echo "
+# 0:23:20 Start
+# 0:40:30 First Performance
+# 0:40:56 Break
+# 1:04:44 Second Performance
+# 1:24:45 Crowd Shots
+# 1:27:45 Credits
+# " > chapters.txt
+
+ffmpeg -i INPUT.mp4 -f ffmetadata FFMETADATAFILE
+
+python helper.py # https://ikyle.me/blog/2020/add-mp4-chapters-ffmpeg
+
+ffmpeg -i INPUT.mp4 -i FFMETADATAFILE -map_metadata 1 -codec copy OUTPUT.mkv
+
+exit
+```
+
+### Chapter metadata helper
+
+Source: `subtitling\helper.py`
+
+```python
+import re
+
+chapters = list()
+
+with open('chapters.txt', 'r') as f:
+   for line in f:
+      x = re.match(r"(\d):(\d{2}):(\d{2}) (.*)", line)
+      hrs = int(x.group(1))
+      mins = int(x.group(2))
+      secs = int(x.group(3))
+      title = x.group(4)
+
+      minutes = (hrs * 60) + mins
+      seconds = secs + (minutes * 60)
+      timestamp = (seconds * 1000)
+      chap = {
+         "title": title,
+         "startTime": timestamp
+      }
+      chapters.append(chap)
+
+text = ""
+
+for i in range(len(chapters)-1):
+   chap = chapters[i]
+   title = chap['title']
+   start = chap['startTime']
+   end = chapters[i+1]['startTime']-1
+   text += f"""
+[CHAPTER]
+TIMEBASE=1/1000
+START={start}
+END={end}
+title={title}
+"""
+
+
+with open("FFMETADATAFILE", "a") as myfile:
+    myfile.write(text)
+```
+
+### Chapter prompt
+
+Source: `subtitling\prompt.txt`
+
+```text
+Please create a comprehensive chapters.txt file, with 1 chapter per line starting with 0:00:00 style time stamps and followed by the title of the chapter, regarding this .srt file
+
+---Example chapters.txt---
+0:23:20 Start
+0:40:30 First Performance
+0:40:56 Break
+1:04:44 Second Performance
+1:27:45 Credits
+```
+
