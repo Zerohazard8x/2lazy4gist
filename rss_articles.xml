@@ -15,24 +15,19 @@
 			<!-- <outline type="rss" xmlUrl="https://rss-bridge.org/bridge01/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Hacker%20News%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FNZSCF8&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FFHVvsw&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FMfIkaf&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2F3xpWWE&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FsD2SMg&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FTIrEY1&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FV7GM1X&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2Fr4xCYz&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2F9f4rKD&amp;limit=&amp;format=Atom" /> -->
 		</outline>
 		<outline text="traditional">
-			<outline type="rss" xmlUrl="https://blog.google/products/gemini/rss/" />
 			<outline type="rss" xmlUrl="https://blog.google/rss/" />
 			<outline type="rss" xmlUrl="https://blog.playstation.com/feed/" />
-			<outline type="rss" xmlUrl="https://blogs.windows.com/windowsexperience/feed/" />
-			<outline type="rss" xmlUrl="https://data.rito.news/val/en-us/esports.rss" />
 			<outline type="rss" xmlUrl="https://data.rito.news/val/en-us/news.rss" />
 			<outline type="rss" xmlUrl="https://news.microsoft.com/source/feed/" />
 			<outline type="rss" xmlUrl="https://news.xbox.com/en-us/feed/" />
-			<outline type="rss" xmlUrl="https://openai.com/blog/rss/" />
 			<outline type="rss" xmlUrl="https://openrouter.ai/api/v1/models?use_rss=true&amp;use_rss_chat_links=true" />
 			<outline type="rss" xmlUrl="https://pewresearch.org/feed/" />
 			<outline type="rss" xmlUrl="https://rsshub.app/blizzard/news" />
 			<outline type="rss" xmlUrl="https://www.apple.com/pr/feeds/pr.rss" />
-			<outline type="rss" xmlUrl="https://www.intc.com/news-events/press-releases/rss" />
 		</outline>
 		<outline text="wikis">
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Beast_of_Reincarnation&amp;action=history&amp;feed=atom" />
-			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Fable_(2026_video_game)&amp;action=history&amp;feed=atom" />
+			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Fable_(2027_video_game)&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Halo:_Campaign_Evolved&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Intel_Arc&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=iOS&amp;action=history&amp;feed=atom" />
@@ -49,7 +44,6 @@
 			<outline type="rss" xmlUrl="https://genshin-impact.fandom.com/wiki/Archon_Quest?action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://wutheringwaves.fandom.com/wiki/Main_Quest?action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://www.halopedia.org/Halo:_Campaign_Evolved?action=history&amp;feed=atom" />
-			<outline type="rss" xmlUrl="https://www.wikidata.org/w/index.php?title=Q131436081&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://yakuza.fandom.com/wiki/Stranger_Than_Heaven?action=history&amp;feed=atom" />
 		</outline>
 	</body>

@@ -10,6 +10,11 @@
 			<outline type="rss" xmlUrl="https://hacks.mozilla.org/feed/" />
 			<outline type="rss" xmlUrl="https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/" />
 			<outline type="rss" xmlUrl="https://www.psxhax.com/forums/-/index.rss" />
+			<outline type="rss" xmlUrl="https://blog.google/products/gemini/rss/" />
+			<outline type="rss" xmlUrl="https://www.intc.com/news-events/press-releases/rss" />
+			<outline type="rss" xmlUrl="https://openai.com/blog/rss/" />
+			<outline type="rss" xmlUrl="https://data.rito.news/val/en-us/esports.rss" />
+			<outline type="rss" xmlUrl="https://blogs.windows.com/windowsexperience/feed/" />
 		</outline>
 		<!-- <outline type="rss" xmlUrl="https://shr.pn/u3XbS" /> -->
 		<!-- <outline type="rss" xmlUrl="https://shr.pn/Klbke" /> -->
