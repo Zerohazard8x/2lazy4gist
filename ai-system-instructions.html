@@ -244,12 +244,9 @@ zoomed.save(&quot;out.png&quot;)
 
             function buildCombinedPrompt() {
                 const prompt = userPrompt.value.trim();
-                const wrapper = `Please note:
+                const wrappedInstructions = `Please note:
 \`\`\` md
 ${systemInstructions}
-\`\`\``;
-                const wrappedInstructions = `\`\`\` md
-${wrapper}
 \`\`\``;
                 return prompt ? `${prompt}
 
