@@ -85,8 +85,8 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/rr4bmP" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/uhjRyc" />
 		</outline>
-		<!-- <outline text="bing">
-			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/0nZCbG" />
+		<outline text="bing">
+			<!-- <outline type="rss" xmlUrl="https://zerohazard8x.short.gy/0nZCbG" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/8mxmaC" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/Df6xV8" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/JggQ7D" />
@@ -94,10 +94,11 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/Rv8XU3" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/g29ulT" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/vtJHXF" />
-			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/zUB6jR" />
-		</outline> -->
-		<!-- <outline text="google news">
-			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/D7dfMm" />
+			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/zUB6jR" /> -->
+			<outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Bing%20Week%20Merge&amp;feed_1=https://zerohazard8x.short.gy/UMKIPq&amp;feed_2=https://zerohazard8x.short.gy/jhTuu7&amp;feed_3=https://zerohazard8x.short.gy/DaaWPr&amp;feed_4=https://zerohazard8x.short.gy/XOQI3n&amp;feed_5=https://zerohazard8x.short.gy/HHWEnN&amp;feed_6=https://zerohazard8x.short.gy/W4z1tn&amp;feed_7=https://zerohazard8x.short.gy/GldV7X&amp;feed_8=https://zerohazard8x.short.gy/yAxYfE&amp;feed_9=https://zerohazard8x.short.gy/w36PKF&amp;format=Atom" />
+		</outline>
+		<outline text="google news">
+			<!-- <outline type="rss" xmlUrl="https://zerohazard8x.short.gy/D7dfMm" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/EGlaxZ" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/HqiLsU" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/JviGQY" />
@@ -105,8 +106,9 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/T1Yh9l" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/TVeIqs" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/XwiQBS" />
-			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/wvmdem" />
-		</outline> -->
+			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/wvmdem" /> -->
+			<outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Google%20News%20Week%20Merge&amp;feed_1=https://zerohazard8x.short.gy/uUXRi7&amp;feed_2=https://zerohazard8x.short.gy/v9412k&amp;feed_3=https://zerohazard8x.short.gy/R9YBPJ&amp;feed_4=https://zerohazard8x.short.gy/clOiUB&amp;feed_5=https://zerohazard8x.short.gy/vb982Q&amp;feed_6=https://zerohazard8x.short.gy/Q1FU34&amp;feed_7=https://zerohazard8x.short.gy/v9vqg2&amp;feed_8=https://zerohazard8x.short.gy/P7Yk6f&amp;feed_9=https://zerohazard8x.short.gy/ZMiUF6&amp;format=Atom" />
+		</outline>
 		<!-- <outline text="searx">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/I0eBQ7" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/3DrHC3" />
@@ -128,6 +130,7 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/mf4BG5" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/qpm1zx" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/ttVtZj" />
+			<outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Reddit%20Week%20Merge&amp;feed_1=https://zerohazard8x.short.gy/OI08WW&amp;feed_2=https://zerohazard8x.short.gy/DadsZZ&amp;feed_3=https://zerohazard8x.short.gy/0pxPjZ&amp;feed_4=https://zerohazard8x.short.gy/Um0rnc&amp;feed_5=https://zerohazard8x.short.gy/j4PHDX&amp;feed_6=https://zerohazard8x.short.gy/jYQvWP&amp;feed_7=https://zerohazard8x.short.gy/L5kYoY&amp;feed_8=https://zerohazard8x.short.gy/OhZukw&amp;feed_9=https://zerohazard8x.short.gy/c5qvP8&amp;format=Atom" />
 		</outline>
 		<outline text="hacker news">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/NZSCF8" />
