@@ -95,7 +95,12 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/g29ulT" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/vtJHXF" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/zUB6jR" /> -->
+
+			<!-- ################################################# -->
+			<!-- MERGE OF QUERIES WITH MAXIMUM AGE = WEEK -->
+			<!-- ################################################# -->
 			<outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Bing%20Week%20Merge&amp;feed_1=https://zerohazard8x.short.gy/UMKIPq&amp;feed_2=https://zerohazard8x.short.gy/jhTuu7&amp;feed_3=https://zerohazard8x.short.gy/DaaWPr&amp;feed_4=https://zerohazard8x.short.gy/XOQI3n&amp;feed_5=https://zerohazard8x.short.gy/HHWEnN&amp;feed_6=https://zerohazard8x.short.gy/W4z1tn&amp;feed_7=https://zerohazard8x.short.gy/GldV7X&amp;feed_8=https://zerohazard8x.short.gy/yAxYfE&amp;feed_9=https://zerohazard8x.short.gy/w36PKF&amp;format=Atom" />
+			<outline type="rss" xmlUrl="https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QFUBZAaQEkAFARxAAacFDhJUmHPkKlK1WvWaIAVmAAqAV00B2YaJgJk6bHgLFyVGnUYsAIrlwB1Xhn2RDEk9PNyri20QADQB5AEVuAGYAO3cxI0lTGQt5ayUWAAkMpwBRaIA5OM9jKTNZSwUbZScAFhQARghYkQ9xEqTfCrTAgHEAGyIANR0gorbEn3LUgOUmAEEyAE0AMxyxhO8ylP8qlgB3SIA2Xk4AMRAAXSA" />
 		</outline>
 		<outline text="google news">
 			<!-- <outline type="rss" xmlUrl="https://zerohazard8x.short.gy/D7dfMm" />
@@ -107,7 +112,12 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/TVeIqs" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/XwiQBS" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/wvmdem" /> -->
-			<outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Google%20News%20Week%20Merge&amp;feed_1=https://zerohazard8x.short.gy/uUXRi7&amp;feed_2=https://zerohazard8x.short.gy/v9412k&amp;feed_3=https://zerohazard8x.short.gy/R9YBPJ&amp;feed_4=https://zerohazard8x.short.gy/clOiUB&amp;feed_5=https://zerohazard8x.short.gy/vb982Q&amp;feed_6=https://zerohazard8x.short.gy/Q1FU34&amp;feed_7=https://zerohazard8x.short.gy/v9vqg2&amp;feed_8=https://zerohazard8x.short.gy/P7Yk6f&amp;feed_9=https://zerohazard8x.short.gy/ZMiUF6&amp;format=Atom" />
+
+			<!-- ################################################# -->
+			<!-- MERGE OF QUERIES WITH when:7d -->
+			<!-- ################################################# -->
+			<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Google%20News%20Week%20Merge&amp;feed_1=https://zerohazard8x.short.gy/uUXRi7&amp;feed_2=https://zerohazard8x.short.gy/v9412k&amp;feed_3=https://zerohazard8x.short.gy/R9YBPJ&amp;feed_4=https://zerohazard8x.short.gy/clOiUB&amp;feed_5=https://zerohazard8x.short.gy/vb982Q&amp;feed_6=https://zerohazard8x.short.gy/Q1FU34&amp;feed_7=https://zerohazard8x.short.gy/v9vqg2&amp;feed_8=https://zerohazard8x.short.gy/P7Yk6f&amp;feed_9=https://zerohazard8x.short.gy/ZMiUF6&amp;format=Atom" /> -->
+			<outline type="rss" xmlUrl="https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QFcBVADQCUBLAdhAAacFDhJUmHPkKlK1WvWaIAbgE4ALAEYATAGthomAmTpseAsXJUadRi25qAmgCEACgClDkYxLPTLORtFe0QAYwAbAHledhdvMRNJcxkreVslFhUAIzUSHQBFBN9TKQtZawU7ZQKtADF2AGYNYvFSlMDKjND1FQBHBh1WpP9ytODqljd+Jz0ANgAzYb8y1KCqzMQALQBZWLq5kABdIA" />
 		</outline>
 		<!-- <outline text="searx">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/I0eBQ7" />
@@ -130,7 +140,12 @@
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/mf4BG5" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/qpm1zx" />
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/ttVtZj" />
-			<outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Reddit%20Week%20Merge&amp;feed_1=https://zerohazard8x.short.gy/OI08WW&amp;feed_2=https://zerohazard8x.short.gy/DadsZZ&amp;feed_3=https://zerohazard8x.short.gy/0pxPjZ&amp;feed_4=https://zerohazard8x.short.gy/Um0rnc&amp;feed_5=https://zerohazard8x.short.gy/j4PHDX&amp;feed_6=https://zerohazard8x.short.gy/jYQvWP&amp;feed_7=https://zerohazard8x.short.gy/L5kYoY&amp;feed_8=https://zerohazard8x.short.gy/OhZukw&amp;feed_9=https://zerohazard8x.short.gy/c5qvP8&amp;format=Atom" />
+
+			<!-- ################################################# -->
+			<!-- MERGE OF QUERIES WITH &sort=top&t=week -->
+			<!-- ################################################# -->
+			<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Reddit%20Week%20Merge&amp;feed_1=https://zerohazard8x.short.gy/OI08WW&amp;feed_2=https://zerohazard8x.short.gy/DadsZZ&amp;feed_3=https://zerohazard8x.short.gy/0pxPjZ&amp;feed_4=https://zerohazard8x.short.gy/Um0rnc&amp;feed_5=https://zerohazard8x.short.gy/j4PHDX&amp;feed_6=https://zerohazard8x.short.gy/jYQvWP&amp;feed_7=https://zerohazard8x.short.gy/L5kYoY&amp;feed_8=https://zerohazard8x.short.gy/OhZukw&amp;feed_9=https://zerohazard8x.short.gy/c5qvP8&amp;format=Atom" /> -->
+			<outline type="rss" xmlUrl="https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QHkBJABhIHUeQANOChwkqTDnyFSlarXrNEAEVxFYALXWDhMBMnTY8BYuSo06jFp2hkACgCstQyLrEHJxmWfmXEAVQBbTgwAOwBjbRdRfQkjaVM5C0V7ABZbAAklAA1IkT1xQykTWXMFFnsATQBFADceW1zXGMLPBNLfABkAVgBrCqwKxuiCj3iSn0VWMHUAVx6AdyH89zji7ySWMK6ARxrbEhAAXSA" />
 		</outline>
 		<outline text="hacker news">
 			<outline type="rss" xmlUrl="https://zerohazard8x.short.gy/NZSCF8" />
