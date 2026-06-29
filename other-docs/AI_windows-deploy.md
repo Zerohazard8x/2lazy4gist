@@ -1,5 +1,7 @@
 # Manual or Semi-Automated **Offline** Windows Deployment & Repair (WinPE + DISM + BCDBoot + SFC)
 
+**NOTE: This guide was created using AI (LLM / ChatGPT) assistance**
+
 You are about to do low-level system work.
 Assume **drive letters in WinPE are not what you expect**, and that an incorrect `diskpart`/`dism` target can wipe data.
 Make backups and validate targets before every destructive command.

@@ -1,5 +1,7 @@
 # Fix: Windows Search doesn’t detect apps (Windows 10/11)
 
+**NOTE: This guide was created using AI (LLM / ChatGPT) assistance**
+
 This guide documents the steps that resolved app detection issues in Windows Search (e.g., typing **Notepad** shows **Run command** instead of the **Notepad** app). The procedure follows **Solution 6** from Microsoft’s official troubleshooting page and includes direct citations with text fragments.
 
 ---

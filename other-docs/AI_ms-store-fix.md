@@ -1,5 +1,7 @@
 ## repair duplicate/broken Appx volumes
 
+**NOTE: This guide was created using AI (LLM / ChatGPT) assistance**
+
 > Goal: end up with exactly one valid entry per real volume, a correct `SisPath`, and the right **default** volume.
 
 1. **Inspect what Windows thinks is registered**

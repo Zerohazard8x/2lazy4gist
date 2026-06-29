@@ -1,5 +1,7 @@
 # Goal — short (simple version)
 
+**NOTE: This guide was created using AI (LLM / ChatGPT) assistance**
+
 Create an **EFI System Partition (ESP)** and a **Microsoft Reserved Partition (MSR)** on an existing disk using a Linux USB (GParted + small CLI helpers), then boot WinPE and point Windows tools (DiskPart / BCDBoot) at those partitions so you can continue with an offline image deploy/repair workflow.
 
 * Jargon (simple version):

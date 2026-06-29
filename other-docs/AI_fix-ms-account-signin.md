@@ -1,6 +1,9 @@
 # Fix — Blank white "Manage" sign-in dialog (WebView2 / WAM)
 
 ## Summary
+
+**NOTE: This guide was created using AI (LLM / ChatGPT) assistance**
+
 This article documents a reproducible, safe, and reversible procedure to fix the blank white sign-in popup that appears when you click **Settings → Accounts → Email & accounts → Accounts used by other apps → Manage** (or when OneDrive / Xbox / Office show a "Sign in cancelled" or blank dialog).
 
 - Symptom: a white window appears and then immediately closes when attempting to manage or add a Microsoft account in Windows 10/11.
