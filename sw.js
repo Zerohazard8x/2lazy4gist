@@ -1,18 +1,12 @@
-const CACHE_NAME = 'zerohazard8x-shortcuts-v1';
+const CACHE_NAME = 'zerohazard8x-shortcuts-v2';
 const ASSETS_TO_CACHE = [
-  './',
-  './index.html',
-  './shortcuts.html',
-  './sports-scores.html',
-  './ai.html',
-  './personal-doc.html',
-  './site.webmanifest',
   './assets/icons/app-icon.svg'
 ];
+const OFFLINE_FALLBACK = './index.html';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS_TO_CACHE))
+    caches.open(CACHE_NAME).then((cache) => cache.addAll([...ASSETS_TO_CACHE, OFFLINE_FALLBACK]))
   );
   self.skipWaiting();
 });
@@ -31,23 +25,30 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) {
-        return cached;
-      }
-
-      return fetch(event.request)
+  if (event.request.mode === 'navigate') {
+    event.respondWith(
+      fetch(event.request)
         .then((response) => {
-          if (!response || response.status !== 200 || response.type !== 'basic') {
-            return response;
-          }
-
           const copy = response.clone();
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
           return response;
         })
-        .catch(() => caches.match('./index.html'));
-    })
+        .catch(() => caches.match(event.request).then((cached) => cached || caches.match(OFFLINE_FALLBACK)))
+    );
+    return;
+  }
+
+  event.respondWith(
+    fetch(event.request)
+      .then((response) => {
+        if (!response || response.status !== 200 || response.type !== 'basic') {
+          return response;
+        }
+
+        const copy = response.clone();
+        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+        return response;
+      })
+      .catch(() => caches.match(event.request))
   );
 });
