@@ -118,6 +118,34 @@
                 margin-top: 0;
             }
 
+
+            .page-nav {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 12px;
+                margin-bottom: 24px;
+            }
+
+            .nav-button {
+                display: inline-flex;
+                align-items: center;
+                gap: 8px;
+                border: 1px solid rgba(255, 255, 255, 0.16);
+                border-radius: 12px;
+                padding: 10px 14px;
+                color: #ffffff;
+                background: rgba(74, 222, 128, 0.14);
+                text-decoration: none;
+                font-weight: 700;
+                transition: all 0.2s ease;
+            }
+
+            .nav-button:hover {
+                background: rgba(74, 222, 128, 0.25);
+                border-color: rgba(74, 222, 128, 0.55);
+                transform: translateY(-2px);
+            }
+
             footer {
                 text-align: center;
                 margin-top: 40px;
@@ -128,6 +156,10 @@
     </head>
     <body>
         <div class="container">
+            <nav class="page-nav" aria-label="Page navigation">
+                <a class="nav-button" href="javascript:history.back()">← Back</a>
+                <a class="nav-button" href="index.html">⌂ Home</a>
+            </nav>
             <h1>🏆 My Sports Links</h1>
 
             <!-- ============================================
