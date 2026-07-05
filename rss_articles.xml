@@ -20,18 +20,6 @@
 			<!-- MERGE OF FEEDLE QUERIES -->
 			<!-- ################################################# -->
 			<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Feedle%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FF5LsV9&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FFZwq3N&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FWMVlaC&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FeYkqrc&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FjGKVut&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2Fm0kWD2&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FnKH30u&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2Frr4bmP&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2FuhjRyc&amp;format=Atom" /> -->
-			
-			<!-- ################################################# -->
-			<!-- MERGE OF BING QUERIES -->
-			<!-- ################################################# -->
-			<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Bing%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2F0nZCbG&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2F8mxmaC&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FDf6xV8&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FJggQ7D&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FRMzgdS&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FRv8XU3&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2Fg29ulT&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2FvtJHXF&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2FzUB6jR&amp;format=Atom" /> -->
-			<outline type="rss" xmlUrl="https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QAYA7ALQGEAjAcRAAacFDhJUmHPkKlK1WvWaISAWzKrc3YaJgJk6bHgLFyVGnUYsAIgDMAbGQBqJHZD0TD0k3POKriABSDAwAigDs1m5i+pJGMqbyFkosAEoAsigMRADK0R4GUsayZgqWyqkAbiQAGgCqAMz54oXxPqXJAQwATACcAK4ANgAqzbFexYl+5SyVEIEAEjUAYmOeRQm+ZSmodQBC9gBWqSAAukA" />
-
-			<!-- ################################################# -->
-			<!-- MERGE OF GOOGLE NEWS QUERIES -->
-			<!-- ################################################# -->
-			<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Google%20News%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FD7dfMm&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FEGlaxZ&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FHqiLsU&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FJviGQY&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FRHGfer&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FT1Yh9l&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FTVeIqs&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2FXwiQBS&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2Fwvmdem&amp;format=Atom" /> -->
-			<outline type="rss" xmlUrl="https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QBEB2IgMwFkBbEABpwUOElSYc+QqUrVa9ZogCiAcQA2uMgC0hImAmTpseAsXJUadRiwASARwCWAGVgBVPZAPjjUs7MsFG0QAKQA3R1UARQBNT1FDCRNpczkrRRYAJVtVLkx47yNJUxkLeWslABUARhiwAE51ArEi5P8y9ODKgDU0AEl7WGbE3xLUwIqWAA0Ad0cogCEAZWGfYpSA8ozEGbC+IjQBAF0gA" />
 
 			<!-- ################################################# -->
 			<!-- MERGE OF SEARX QUERIES -->
@@ -40,15 +28,34 @@
 			<outline type="rss" xmlUrl="https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QEkAGNAIQEUB2EABpwUOElSYc+QqUrVa9ZogDMAEQwAJAMLKhImAmTpseAsXJUadRizIBHAMZYAsgEY9kA+ONSzsywo2iABSPADuAEwAbhgeooYSJtLmclaKLExhDhgAtqpxXkaSpjIW8tZKADZkyrgACpUFYkVJfmVpQSQAnFhYlTlNCT4lKQEVLADyAOoAYgBmADIAooPexcn+5emIC0QArAAqKABaIAC6QA" />
 
 			<!-- ################################################# -->
-			<!-- MERGE OF REDDIT QUERIES -->
-			<!-- ################################################# -->
-			<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Reddit%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2F2OZ3Gs&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2F5Zc7Ae&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FS1comx&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FaZogZr&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2Fd7mqTm&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FhjeCGK&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2Fmf4BG5&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2Fqpm1zx&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2FttVtZj&amp;format=Atom" /> -->
-
-			<!-- ################################################# -->
 			<!-- MERGE OF HACKER NEWS QUERIES -->
 			<!-- ################################################# -->
 			<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Hacker%20News%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FNZSCF8&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FFHVvsw&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FMfIkaf&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2F3xpWWE&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FsD2SMg&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FTIrEY1&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FV7GM1X&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2Fr4xCYz&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2F9f4rKD&amp;format=Atom" /> -->
 		</outline>
+
+		<!-- ################################################# -->
+		<!-- MERGE OF GOOGLE NEWS QUERIES -->
+		<!-- ################################################# -->
+		<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Google%20News%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FD7dfMm&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2FEGlaxZ&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FHqiLsU&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FJviGQY&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FRHGfer&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FT1Yh9l&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2FTVeIqs&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2FXwiQBS&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2Fwvmdem&amp;format=Atom" /> -->
+		<outline text="google news">
+			<outline type="rss" xmlUrl="https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QBEB2IgMwFkBbEABpwUOElSYc+QqUrVa9ZogCiAcQA2uMgC0hImAmTpseAsXJUadRiwASARwCWAGVgBVPZAPjjUs7MsFG0QAKQA3R1UARQBNT1FDCRNpczkrRRYAJVtVLkx47yNJUxkLeWslABUARhiwAE51ArEi5P8y9ODKgDU0AEl7WGbE3xLUwIqWAA0Ad0cogCEAZWGfYpSA8ozEGbC+IjQBAF0gA" />
+		</outline>
+
+		<!-- ################################################# -->
+		<!-- MERGE OF REDDIT QUERIES -->
+		<!-- ################################################# -->
+		<!-- <outline text="reddit">
+			<outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Reddit%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2F2OZ3Gs&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2F5Zc7Ae&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FS1comx&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FaZogZr&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2Fd7mqTm&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FhjeCGK&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2Fmf4BG5&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2Fqpm1zx&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2FttVtZj&amp;format=Atom" />
+		</outline> -->
+
+		<!-- ################################################# -->
+		<!-- MERGE OF BING QUERIES -->
+		<!-- ################################################# -->
+		<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Bing%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2F0nZCbG&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2F8mxmaC&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FDf6xV8&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FJggQ7D&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FRMzgdS&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2FRv8XU3&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2Fg29ulT&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2FvtJHXF&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2FzUB6jR&amp;format=Atom" /> -->
+		<outline text="bing">
+			<outline type="rss" xmlUrl="https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QAYA7ALQGEAjAcRAAacFDhJUmHPkKlK1WvWaISAWzKrc3YaJgJk6bHgLFyVGnUYsAIgDMAbGQBqJHZD0TD0k3POKriABSDAwAigDs1m5i+pJGMqbyFkosAEoAsigMRADK0R4GUsayZgqWyqkAbiQAGgCqAMz54oXxPqXJAQwATACcAK4ANgAqzbFexYl+5SyVEIEAEjUAYmOeRQm+ZSmodQBC9gBWqSAAukA" />
+		</outline>
+
 		<outline text="traditional">
 			<outline type="rss" xmlUrl="https://blog.google/rss/" />
 			<outline type="rss" xmlUrl="https://blog.playstation.com/feed/" />
