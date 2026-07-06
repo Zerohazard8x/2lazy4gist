@@ -189,6 +189,7 @@
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/aspen" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/cohhcarnage" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/leopard" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Doublelift" />
 		</outline>
 		<outline text="YouTube Esports">
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwI0hG-Ql-jhOQuM2f7lFMw" />
