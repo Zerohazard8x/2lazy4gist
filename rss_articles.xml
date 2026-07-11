@@ -70,7 +70,6 @@
 			<outline type="rss" xmlUrl="https://news.xbox.com/en-us/feed/" />
 			<outline type="rss" xmlUrl="https://openrouter.ai/api/v1/models?use_rss=true&amp;use_rss_chat_links=true" />
 			<outline type="rss" xmlUrl="https://pewresearch.org/feed/" />
-			<outline type="rss" xmlUrl="https://rsshub.app/blizzard/news" />
 			<outline type="rss" xmlUrl="https://www.apple.com/pr/feeds/pr.rss" />
 		</outline>
 		<outline text="wikis">
