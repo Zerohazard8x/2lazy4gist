@@ -75,3 +75,77 @@ user_pref("privacy.clearOnShutdown_v2.cookiesAndStorage", false);
 user_pref("privacy.clearOnShutdown_v2.formdata", false);
 user_pref("privacy.clearOnShutdown_v2.siteSettings", false);
 ```
+
+# Disable history - Firefox user.js
+
+```js
+// Permanent Private Browsing
+user_pref("browser.privatebrowsing.autostart", true);
+
+// Browsing history
+user_pref("places.history.enabled", false);
+
+// Form history
+user_pref("browser.formfill.enable", false);
+
+// Password saving
+user_pref("signon.rememberSignons", false);
+
+// URL bar
+user_pref("browser.urlbar.suggest.history", false);
+user_pref("browser.urlbar.suggest.bookmark", true);
+user_pref("browser.urlbar.suggest.openpage", false);
+
+// New Tab page
+user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
+user_pref("browser.newtabpage.activity-stream.feeds.section.highlights", false);
+
+// Windows "Recent Documents"
+user_pref("browser.download.manager.addToRecentDocs", false);
+```
+
+# "Stateless" browser - Firefox user.js
+
+```js
+/*** History ***/
+user_pref("browser.privatebrowsing.autostart", true);
+user_pref("places.history.enabled", false);
+user_pref("browser.formfill.enable", false);
+user_pref("signon.rememberSignons", false);
+
+/*** URL bar ***/
+user_pref("browser.urlbar.suggest.history", false);
+user_pref("browser.urlbar.suggest.bookmark", true);
+user_pref("browser.urlbar.suggest.openpage", false);
+
+/*** New Tab page ***/
+user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
+user_pref("browser.newtabpage.activity-stream.feeds.section.highlights", false);
+
+/*** Download history ***/
+user_pref("browser.download.manager.addToRecentDocs", false);
+user_pref("browser.download.lastDir.savePerSite", false);
+
+/*** Cache ***/
+user_pref("browser.cache.disk.enable", false);
+user_pref("browser.cache.disk_cache_ssl", false);
+user_pref("browser.cache.offline.enable", false);
+user_pref("browser.cache.memory.enable", false);
+
+/*** Session restore ***/
+user_pref("browser.sessionstore.resume_from_crash", false);
+user_pref("browser.sessionstore.max_resumed_crashes", 0);
+user_pref("browser.sessionstore.max_tabs_undo", 0);
+user_pref("browser.sessionstore.max_windows_undo", 0);
+user_pref("browser.sessionstore.privacy_level", 2);
+user_pref("browser.startup.page", 1);
+
+/*** Per-site state ***/
+user_pref("browser.zoom.siteSpecific", false);
+
+/*** Background network activity ***/
+user_pref("network.prefetch-next", false);
+
+/*** Service Workers ***/
+user_pref("dom.serviceWorkers.enabled", false);
+```
