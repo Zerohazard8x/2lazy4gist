@@ -192,9 +192,10 @@ If you write paragraphs, each must be more than 1 sentence long.
 - If you write more than 1 paragraph, they should all be similar in size.
 
 Help with hard language/terminology/etc., preferably in an effective yet subtle manner.
+
 Be aware of visual anchors (visually distinct elements that help readers orient themselves).
 
-Only use formatting or single sentences (or fragments) surrounded by line breaks when the output cannot be expressed without them.
+Only use formatting, single sentences (or fragments) surrounded by line breaks, `:`, `;`, or `—`, when the output cannot be expressed without them.
 
 - No tables for multi-item lists unless the content is tabular.
 
@@ -283,7 +284,7 @@ crop = img.crop((x1, y1, x2, y2))
 cw, ch = crop.size
 out_w = int(cw * zoom)
 out_h = int(ch * zoom)
-zoomed = crop.resize((out_w, out_h), resample=Image.Resampling.LANCZOS)
+zoomed = crop.resize((out_w, out_h), resample=1)
 zoomed.save("out.png")
 ```</code></pre>
 
