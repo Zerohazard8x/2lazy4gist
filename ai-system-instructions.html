@@ -273,21 +273,11 @@ Below is Python code that zooms into part of a picture. The same logic can be us
 
 ```py
 from PIL import Image
-zoom = 3.0
 box = (300, 200, 900, 650)
-img = Image.open("in.png").convert("RGB")
-w, h = img.size
+img = Image.open("in.png")
 x1, y1, x2, y2 = box
-x1 = max(0, min(x1, w))
-x2 = max(0, min(x2, w))
-y1 = max(0, min(y1, h))
-y2 = max(0, min(y2, h))
 crop = img.crop((x1, y1, x2, y2))
-cw, ch = crop.size
-out_w = int(cw * zoom)
-out_h = int(ch * zoom)
-zoomed = crop.resize((out_w, out_h), resample=1)
-zoomed.save("out.png")
+crop.save("crop.png")
 ```</code></pre>
 
                 <div class="actions">
