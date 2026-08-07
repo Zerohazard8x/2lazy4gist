@@ -5,7 +5,7 @@
 ## 1. Step-by-Step Workflow & Chat Trigger Rules
 
 1. PRE-PROCESSING
-- Speed up audio recordings >1 hr (1.25x - 1.5x)
+- Speed up audio recordings >1 hr (1.25x - 1.5x) with `ffmpeg -itsscale 0.5 -i input.mp4 -c:v copy -af "atempo=2.0" -c:a aac -c:s copy -movflags +faststart output_2x.mp4`
 - Calculate card targets (~10 cards/PDF, min 5 cards/PDF)
 
 2. CHAT 1 BASE SETUP
@@ -134,7 +134,7 @@ Please create a revised version of ___.pdf which you believe would have gotten a
 ```text
 Well done. Now, please create an Anki .tsv / .csv for ____, with everything which we did here. The .tsv / .csv should have at least 1 card per item from ___, should have standalone fronts for use in "Random" mode, and should be usable with only Anki without any other programs or files. If relevant, split the ______ questions and answers into smaller, more Anki-ready entries which would still be graded 100%. 
 
-In addition, if you think the item cannot be answered without understanding certain things, and the things are in the below Anki file, add entries for those things to the .tsv / .csv . If those things cannot be understood without understanding some other things, add entries for those too if they are in the below Anki file. Do not add new data in the entries if they are not in the below Anki file. 
+In addition, if you think the item cannot be answered without understanding certain things, and the things are in the below Anki file, respond with a separate code block / code file containing entries for those things. If those things cannot be understood without understanding some other things, add entries for those too if they are in the below Anki file. Do not add new data in the entries if they are not in the below Anki file.
 
 Lastly, take note of how the grader creates questions for a later task. Be assisted by taking note of how effectively the Anki file, which I used to review for ____, corresponded to the actual content of ____.
 
@@ -170,9 +170,9 @@ Well done. Now, please distill that theoretical ____ into half length.
 > *Use to convert predicted exams (full or half-length) into Anki format with prerequisite links.*
 
 ```text
-Well done. Now, please create an Anki .tsv / .csv for this theoretical half-length _____, with everything which we did here. If relevant, split the theoretical ______'s questions and answers into smaller, more Anki-ready entries which would still be graded 100%. The .tsv / .csv should have full informational parity for all items in the theoretical DSIGPRO_q3 and standalone fronts for use in "Random" mode, and should be usable with only Anki without any other programs or files. 
+Well done. Now, please create an Anki .tsv / .csv for this theoretical half-length _____, with everything which we did here. If relevant, split the theoretical ______'s questions and answers into smaller, more Anki-ready entries which would still be graded 100%. The .tsv / .csv should have full informational parity for all items in the theoretical _____, standalone fronts for use in "Random" mode, and should be usable with only Anki without any other programs or files. 
 
-In addition, if you think the item cannot be answered without understanding certain things, and the things are in the below Anki file, add entries for those things to the .tsv / .csv . If those things cannot be understood without understanding some other things, add entries for those too if they are in the below Anki file. Do not add new data in the entries if they are not in the below Anki file.
+In addition, if you think the item cannot be answered without understanding certain things, and the things are in the below Anki file, respond with a separate code block / code file containing entries for those things. If those things cannot be understood without understanding some other things, add entries for those too if they are in the below Anki file. Do not add new data in the entries if they are not in the below Anki file.
 
 ```
 
