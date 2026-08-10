@@ -66,10 +66,9 @@
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaLdl0827np4QVPESo794og" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7hgDFSPvJVIUx_b8i1cILA" />
 		</outline>
-		<outline text="Independent Creators &amp; Miscellaneous Events">
+		<outline text="Misc Events">
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHF66aWLOxBW4l6VkSrS3cQ" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCI9d6eQjf__r5gyH4GHRssg" />
-			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLUS3_Yz32XJMGWjDCzVv4A" />
 		</outline>
 		<outline text="Twitch Esports">
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/GalintGaming" />
