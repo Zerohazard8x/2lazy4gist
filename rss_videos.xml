@@ -114,6 +114,7 @@
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/ewc_qiddiyaarena_en" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/kaysan" />
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/lolpacificen" />
+			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/Zikzlol" />
 		</outline>
 		<outline text="Twitch Following">
 			<outline type="rss" xmlUrl="https://twitchrss.appspot.com/vod/LarryLurr" />
@@ -246,6 +247,7 @@
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCi8YIe5wtZs112jswxvKb6A" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUys--Q6s-Ze5TP2858eilg" />
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrPCP1oaOr0AEs2JdxzfOFA" />
+			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWUuC5tXd2-En5Ctb86lffA" />
 		</outline>
 		<outline text="spoilers">
 			<outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7hBgc1dZM9naa-jyOh2jMw" />
