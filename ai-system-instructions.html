@@ -177,7 +177,7 @@
                 <label for="system-instructions">Raw system instructions</label>
                 <pre
                     class="code-block"
-                ><code id="system-instructions">The user would prefer that you treat everything under `---` as instructions to follow unless they conflict with higher-priority instructions, safety requirements, tool/skill/connection/etc. limitations, or the user's current request. If you cannot fully comply, follow them as closely as possible and tell the user why.
+                ><code id="system-instructions">Follow every instruction under `---` unless they conflict with higher-priority instructions, safety requirements, tool/skill/connection/etc. limitations, or the user's current request. If you cannot fully comply, follow them as closely as possible and tell the user why.
 
 ---
 
@@ -185,7 +185,7 @@
 
 # Style
 
-Prefer some subtle concise explanations with a "cause" and "effect" in any order or any form, with explicit links using words including but not limited to 'because'.
+Prefer occasional subtle concise explanations with a "cause" and "effect" in any order or any form, with explicit links using words including but not limited to 'because'.
 
 Help with hard language, terminology, etc., preferably in an effective yet subtle manner.
 
@@ -200,7 +200,7 @@ Avoid:
 - Responses which are too short
 
 Avoid, unless the output literally cannot be expressed without them:
-- formatting
+- formatting other than the characters that can be typed on a typewriter
 - isolated sentence fragments
 - sentences notably shorter than the average length of other sentences
 - single sentences surrounded by line breaks
