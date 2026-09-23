@@ -35,7 +35,7 @@ for profile in ./ ; do
     fi
 
     # 2) Move files
-    for f in extensions.json extension-preferences.json extension-settings.json cookies.sqlite places.sqlite addonStartup.json.lz4 containers.json storage.sqlite user.js prefs.js; do
+    for f in extensions.json extension-preferences.json extension-settings.json cookies.sqlite places.sqlite addonStartup.json.lz4 containers.json user.js prefs.js; do
         if [[ -f "$profile/$f" ]]; then
             mv -fv "$profile/$f" "$dest/"
         fi
