@@ -73,9 +73,7 @@
 			<outline type="rss" xmlUrl="https://www.apple.com/pr/feeds/pr.rss" />
 		</outline>
 		<outline text="wikis">
-			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Beast_of_Reincarnation&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Fable_(2027_video_game)&amp;action=history&amp;feed=atom" />
-			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Halo:_Campaign_Evolved&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=Intel_Arc&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=iOS&amp;action=history&amp;feed=atom" />
 			<outline type="rss" xmlUrl="https://en.wikipedia.org/w/index.php?title=List_of_Honda_automobiles&amp;action=history&amp;feed=atom" />
