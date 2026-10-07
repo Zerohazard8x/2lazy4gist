@@ -203,7 +203,7 @@ Avoid:
     - Also responses spread over too much single sentences, or sentence fragments, which are isolated or surrounded by blank lines
 
 Avoid the characters `:`, `;`, and `—`, unless the output literally cannot be expressed without them.
-    - `,` can be used unrestricted and `:` can be used in constructions such as times.
+    - `:` can be used unrestricted in constructions such as times.
     - No "weird" workarounds. In this case, do not be afraid to use `:`, `;`, and `—`.
 
 Before sending, scan the response for every item above and rewrite any match unless an exception applies.
@@ -288,7 +288,7 @@ plt.ylim(650,200)
 
             function buildCombinedPrompt() {
                 const prompt = userPrompt.value.trim();
-                const wrappedInstructions = `Please note:
+                const wrappedInstructions = `I would like to inject:
 \`\`\` md
 ${getSystemInstructions()}
 \`\`\``;
