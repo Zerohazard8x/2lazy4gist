@@ -333,7 +333,6 @@
         </outline>
         <outline text="[Communities] No Communities Tab">
             <!-- Official Gaming Channels -->
-            <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UC3E8iPQGBdAnOQR_cmkEbsw"/>
             <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=YouTubeCommunityTabBridge&amp;format=Atom&amp;channel=UCg0FSqPeiGD_lIiPaaAehQg"/>
             
             <!-- YouTube Esports -->
