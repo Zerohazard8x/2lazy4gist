@@ -4,7 +4,7 @@
 
 Source: `convert_pdf_to_img.py.txt`
 
-```python
+``` py
 import fitz
 import os
 
@@ -54,26 +54,76 @@ for p in paths:
 
 ### Compare text files with sets
 
-Source: `python_set_operations.py.txt`
+``` py
+# Compare two text files using Python set operations
+# and write the results to separate text files.
 
-```python
-# open the first text file and read its lines into a set
-with open("file1.txt", "r") as f1:
+with open("file1.txt", "r", encoding="utf-8") as f1:
     set1 = set(f1.readlines())
 
-# open the second text file and read its lines into a set
-with open("file2.txt", "r") as f2:
+with open("file2.txt", "r", encoding="utf-8") as f2:
     set2 = set(f2.readlines())
 
-# subtract the second set from the first set
-set3 = set1 - set2
+# Set operations
+only_file1 = set1 - set2
+only_file2 = set2 - set1
+common = set1 & set2
+differences = set1 ^ set2
 
-# intersection
-# set3 = set1 & set2
+# Write lines found only in file1
+with open("only_file1.txt", "w", encoding="utf-8") as f:
+    f.writelines(sorted(only_file1))
 
-# open a new text file and write the lines of the new set into it
-with open("out.txt", "w") as out:
-    for line in set3:
-        out.write(line)
+# Write lines found only in file2
+with open("only_file2.txt", "w", encoding="utf-8") as f:
+    f.writelines(sorted(only_file2))
+
+# Write lines common to both files
+with open("common.txt", "w", encoding="utf-8") as f:
+    f.writelines(sorted(common))
+
+# Write all differing lines
+with open("differences.txt", "w", encoding="utf-8") as f:
+    f.writelines(sorted(differences))
 ```
 
+## Section comparer
+
+### Compare text files with sets
+
+``` py
+from pathlib import Path
+from sys import argv
+
+# Read a text file and detect its encoding from its byte-order mark (BOM).
+# Files without a recognized BOM are assumed to be UTF-8.
+def read(path):
+    data = Path(path).read_bytes()
+
+    # UTF-16 may use either little-endian or big-endian byte order.
+    # UTF-8 files may optionally begin with a BOM.
+    encoding = 'utf-16' if data.startswith((b'\xff\xfe', b'\xfe\xff')) else 'utf-8-sig' if data.startswith(b'\xef\xbb\xbf') else 'utf-8'
+
+    return Path(path).read_text(encoding=encoding), encoding
+
+# argv[1] = original file
+# argv[2] = file containing sections to subtract
+# argv[3] = output file
+first, encoding = read(argv[1])
+second, _ = read(argv[2])
+
+# Split the second file into sections separated by blank lines.
+# A set allows fast lookups and automatically removes duplicates.
+remove = set(second.strip('\n').split('\n\n'))
+
+# Keep sections from the first file only if they have no exact match
+# in the second file. Original section order is preserved.
+result = '\n\n'.join(
+    section
+    for section in first.strip('\n').split('\n\n')
+    if section not in remove
+)
+
+# Write the result
+Path(argv[3]).write_text(result, encoding=encoding, newline='\r\n')
+```
