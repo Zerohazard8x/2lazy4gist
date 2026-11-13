@@ -17,10 +17,15 @@
 			<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Google%20Alert%20Merge&amp;feed_1=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F18328284995867372572%2F11223524754146930889&amp;feed_2=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F18328284995867372572%2F983325349820171186&amp;feed_3=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F18328284995867372572%2F7272503243204021608&amp;feed_4=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F18328284995867372572%2F18332171599350902259&amp;feed_5=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F18328284995867372572%2F12311220666887081993&amp;feed_6=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F18328284995867372572%2F11188889829215887024&amp;feed_7=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F18328284995867372572%2F7272503243204018859&amp;feed_8=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F18328284995867372572%2F9595343124215145899&amp;feed_9=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F18328284995867372572%2F12634018877518289307&amp;format=Atom" /> -->
 
 			<!-- ################################################# -->
-			<!-- MERGE OF SEARX QUERIES -->
+			<!-- MERGE OF YOUTUBE QUERIES -->
 			<!-- ################################################# -->
 			<!-- <outline type="rss" xmlUrl="https://wtf.roflcopter.fr/rss-bridge/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Searx%20Merge&amp;feed_1=https%3A%2F%2Fzerohazard8x.short.gy%2FI0eBQ7&amp;feed_2=https%3A%2F%2Fzerohazard8x.short.gy%2F3DrHC3&amp;feed_3=https%3A%2F%2Fzerohazard8x.short.gy%2FxqcoM1&amp;feed_4=https%3A%2F%2Fzerohazard8x.short.gy%2FJQw2vr&amp;feed_5=https%3A%2F%2Fzerohazard8x.short.gy%2FywcrmD&amp;feed_6=https%3A%2F%2Fzerohazard8x.short.gy%2Flx3aPl&amp;feed_7=https%3A%2F%2Fzerohazard8x.short.gy%2F89oolm&amp;feed_8=https%3A%2F%2Fzerohazard8x.short.gy%2FOWFfLE&amp;feed_9=https%3A%2F%2Fzerohazard8x.short.gy%2FLd5TzZ&amp;format=Atom" /> -->
 			<outline type="rss" xmlUrl="https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QEkAGNAIQEUB2EABpwUOElSYc+QqUrVa9ZogDMAEQwAJAMLKhImAmTpseAsXJUadRizIBHAMZYAsgEY9kA+ONSzsywo2iABSPADuAEwAbhgeooYSJtLmclaKLExhDhgAtqpxXkaSpjIW8tZKADZkyrgACpUFYkVJfmVpQSQAnFhYlTlNCT4lKQEVLADyAOoAYgBmADIAooPexcn+5emIC0QArAAqKABaIAC6QA" />
+
+			<!-- ################################################# -->
+			<!-- MERGE OF NITTER QUERIES -->
+			<!-- ################################################# -->
+			<outline type="rss" xmlUrl="https://rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6RAvApgJwPZgIYtwwBMAOADwDpYwsMIKBzAT0QE4BWAVROgxABpwUOElSYc+QqUrVa9ZqgDWADQAsAOwBmAoTATJ02PAWLkqNOoxZEAigAYA7JwByOyHtGGJJ6eblXEACtAgBkAZgwAITdhfTEjSVMZC3kWAGkUAEkAeQA2ABEYjwNxYykzWUsFAFkAJmyiAFsyIpEShJ8KlICANRCyAEYAYQdWuK8ypL8qlgBLADcACUDYELHPUsTfStTEAFEmWZ7VPgBdIA" />
 		</outline>
 
 		<!-- ################################################# -->
